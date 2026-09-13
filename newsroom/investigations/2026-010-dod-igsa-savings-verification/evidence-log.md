@@ -63,3 +63,19 @@
 - Locator: “Purpose,” “Applicability,” “Format and Content,” and “Procedures” sections, PDF pages 1–2.
 - Excerpt: The policy makes the Garrison Commander the signature authority for MOAs and MOUs involving garrison organizations. It requires the Support Agreements Manager to coordinate development, legal and budget review, fiscal-viability determination, and final signatures; the signed agreement is returned for execution and retained in a central repository.
 - Boundary: The policy governs MOAs and MOUs generally and does not disclose the nine Fort Leonard Wood IGSA agreements, their cost-benefit analyses, approval letters, payment records, or statutory recapture amounts.
+
+## E9 — Army DCS, G-9 IGSA FAQ
+
+- URL: https://dcsg9.army.mil/FAQs
+- Retrieved: 2026-09-13
+- Locator: IGSA approval-authority and approval-letter sections.
+- Excerpt: The Army says proposals with annual execution value up to $1 million route to the originating command's headquarters, proposals from $1 million to $3 million go to the Deputy Assistant Secretary for Installations, Housing and Partnerships, and proposals above $3 million go to the Assistant Secretary for Installations, Energy and Environment. If approved, the originating command receives a signed approval letter. The Partnership Office assesses cost savings, cost avoidance, operational efficiencies, and related factors.
+- Boundary: The FAQ describes the approval path but does not identify Fort Leonard Wood's nine agreements, their execution values, or their approval letters.
+
+## E10 — Fort Leonard Wood Directorate of Resource Management
+
+- URL: https://home.army.mil/wood/Garrison/drm
+- Retrieved: 2026-09-13
+- Locator: “Manpower and Agreements” section.
+- Excerpt: The Directorate says its Manpower and Agreements function negotiates, develops, and concludes agreements involving reimbursable relationships and conducts regular reviews of existing agreements, updating or terminating them as necessary.
+- Boundary: The page describes organizational responsibility, not the underlying Fort Leonard Wood IGSA files, actual costs, realized savings, or statutory recapture.

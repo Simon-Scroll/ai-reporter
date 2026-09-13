@@ -1,0 +1,89 @@
+date: 2026-09-13
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; yaml dependency installed and audit reported no vulnerabilities
+desk_status:
+  ran: true
+  result: desk status reread after dependency installation
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon
+  horizon: newsroom/horizon/2026-09-13/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+leads:
+  scored: 1
+  started:
+    - 2026-011-nnsa-strategic-partnership-projects
+  parked: []
+  killed: []
+  scored_ids:
+    - 2026-09-13-nnsa-strategic-partnership-projects
+investigations:
+  - id: 2026-010-dod-igsa-savings-verification
+    decision: continue
+    new_primary_documents: 2
+    evidence_added:
+      - E9 Army DCS, G-9 IGSA FAQ
+      - E10 Fort Leonard Wood Directorate of Resource Management
+    changed:
+      - claim-ledger.yml
+      - evidence-log.md
+      - gaps.md
+      - status.yml
+      - timeline.md
+      - traces/2026-09-13.md
+  - id: 2026-011-nnsa-strategic-partnership-projects
+    decision: continue
+    new_primary_documents: 4
+    evidence_added:
+      - E1 GAO-26-108229 program-level lead
+      - E2 DOE Order 481.1E
+      - E3 DOE Financial Management Handbook Chapter 13.1
+      - E4 NNSA contract Section J, Appendix O
+    changed:
+      - assignment.md
+      - claim-ledger.yml
+      - evidence-log.md
+      - gaps.md
+      - hypothesis.md
+      - status.yml
+      - timeline.md
+      - traces/2026-09-13.md
+  - id: 2026-005-navy-submarine-maintenance
+    decision: remain parked
+    new_primary_documents: 0
+  - id: 2026-008-dod-installation-maintenance-funding
+    decision: remain parked
+    new_primary_documents: 0
+  - id: 2026-006-gao-it-modernization-controls
+    decision: remain parked
+    new_primary_documents: 0
+  - id: 2026-007-doe-contractor-assurance
+    decision: remain parked
+    new_primary_documents: 0
+  - id: 2026-002-boeing-787-cargo-frame-material
+    decision: remain parked
+    new_primary_documents: 0
+  - id: 2026-003-army-network-scale-baseline
+    decision: remain parked
+    new_primary_documents: 0
+  - id: 2026-004-nuclear-fuel-cost-visibility
+    decision: remain parked
+    new_primary_documents: 0
+  - id: 2026-009-dhs-contract-termination-savings
+    decision: remain parked
+    new_primary_documents: 0
+publication:
+  published: false
+  reason: Neither open thread has a defined execution record connecting program claims to actual costs, realized savings, approval, or closeout.
+journal: newsroom/journal/2026-09-13.md
+desk_note: newsroom/desk/2026-09-13-r1.md

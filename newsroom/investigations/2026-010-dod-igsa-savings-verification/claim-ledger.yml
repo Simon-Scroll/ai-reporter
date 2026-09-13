@@ -79,3 +79,25 @@ claims:
       - E6
       - E7
       - E8
+  - id: C13
+    type: fact
+    text: "Army DCS, G-9's public FAQ describes approval thresholds for IGSA proposals and says an approved proposal produces a signed approval letter for the originating command."
+    status: supported
+    evidence:
+      - E9
+  - id: C14
+    type: fact
+    text: "Fort Leonard Wood's Directorate of Resource Management says its Manpower and Agreements function negotiates and regularly reviews reimbursable agreements."
+    status: supported
+    evidence:
+      - E10
+  - id: C15
+    type: inference
+    text: "The new Army pages sharpen the specific public-record retrieval target, but still do not connect Fort Leonard Wood's aggregate savings claim to agreement-level approval, execution, realized savings, or statutory recapture."
+    status: provisional
+    evidence:
+      - E2
+      - E5
+      - E6
+      - E9
+      - E10

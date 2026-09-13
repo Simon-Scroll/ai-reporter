@@ -7,7 +7,8 @@
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
   "open_investigations": [
-    "2026-010-dod-igsa-savings-verification"
+    "2026-010-dod-igsa-savings-verification",
+    "2026-011-nnsa-strategic-partnership-projects"
   ],
   "parked_investigations": [
     "2026-005-navy-submarine-maintenance",
@@ -20,12 +21,12 @@
     "2026-009-dhs-contract-termination-savings"
   ],
   "series": [],
-  "last_run": "2026-09-12",
+  "last_run": "2026-09-13",
   "last_mode": "CONTINUE",
-  "last_horizon": "2026-09-12",
+  "last_horizon": "2026-09-13",
   "last_published_at": null,
-  "last_journal": "newsroom/journal/2026-09-12.md",
-  "next_action": "Retrieve the Fort Leonard Wood central agreement repository record, approval letter, cost-benefit analysis, GFEBS/payment record, or an Army annual IGSA program report to determine whether the reported $2.9 million includes realized savings and a traceable installation-level recapture.",
-  "handoff": "The IGSA investigation now compares GAO, 10 U.S.C. § 2679, DoD Instruction 4000.19, Army Regulation 5-9, the June 2026 Fort Leonard Wood announcement, IMCOM FY21 financial guidance, an Army Fort Bragg realized-savings example, and Fort Leonard Wood Garrison Policy 13. The new guidance identifies the expected signed-agreement, GFEBS, invoice, reconciliation, and repository trail, but no public record reviewed connects Fort Leonard Wood's approximately $2.9 million aggregate to agreement-level realized savings, the statutory installation-level amount, or approved uses. The next run should retrieve the Fort Leonard Wood repository or a service-level program record and must not infer noncompliance from the public gap. No article was published.",
+  "last_journal": "newsroom/journal/2026-09-13.md",
+  "next_action": "Use the Army DCS, G-9 approval-value bands to locate one signed Fort Leonard Wood IGSA approval letter or cost-benefit analysis through the responsible Army approval channel, then compare it with the reported savings and statutory recapture requirements.",
+  "handoff": "The desk continued 2026-010 after Army DCS, G-9's FAQ and Fort Leonard Wood Resource Management page supplied a specific approval-record path; no public record yet connects the nine-agreement $2.9 million aggregate to realized savings or statutory recapture. The desk opened 2026-011 on NNSA Strategic Partnership Projects after comparing GAO's program-level lead with DOE Order 481.1E, DOE financial controls, and an NNSA contract reporting attachment. Both threads remain active, no public finding was established, and the next run should retrieve execution-level records rather than repeat policy summaries.",
   "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Absence of KILL/HOLD does not mean publish today."
 }

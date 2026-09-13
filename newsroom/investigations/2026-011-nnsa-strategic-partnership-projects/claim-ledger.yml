@@ -1,0 +1,40 @@
+claims:
+  - id: C1
+    type: fact
+    text: "GAO describes NNSA's eight contractor-managed and contractor-operated sites as conducting Strategic Partnership Projects for other federal agencies and nonfederal entities."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "DOE Order 481.1E requires written pre-acceptance determinations and certification that proposed SPP work is mission-consistent and does not place DOE/NNSA in direct competition with the domestic private sector."
+    status: supported
+    evidence:
+      - E2
+  - id: C3
+    type: fact
+    text: "DOE Order 481.1E requires field elements to establish performance measures, maintain a summary of each active SPP agreement, and retain information documenting policy compliance."
+    status: supported
+    evidence:
+      - E2
+  - id: C4
+    type: fact
+    text: "DOE financial policy requires agreement-specific controls, advance authority, and customer funding for reimbursable work, with final-cost determination at closeout."
+    status: supported
+    evidence:
+      - E3
+  - id: C5
+    type: fact
+    text: "An NNSA contract reporting attachment requires monthly reporting of actual versus budgeted costs, schedule performance, estimated cost at completion, and annual spend, schedule, and work-scope plans."
+    status: supported
+    evidence:
+      - E4
+  - id: C6
+    type: inference
+    text: "The public record currently establishes a testable control-to-execution gap, but does not yet show whether any defined SPP project failed to follow the required approval, funding, cost, or closeout path."
+    status: provisional
+    evidence:
+      - E1
+      - E2
+      - E3
+      - E4

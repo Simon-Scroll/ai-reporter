@@ -9,7 +9,11 @@
 - The June 2026 Army announcement reports approximately $2.9 million in combined cost savings and cost avoidances across nine Fort Leonard Wood IGSAs, but does not separate projected, avoided, and realized amounts or identify the statutory installation-level recapture and approved uses.
 - Army IMCOM guidance identifies the GFEBS fields and reconciliation trail that should exist for IGSA obligations, invoices, and disbursements, and Fort Leonard Wood policy identifies a central agreement repository; neither source exposes the relevant Fort Leonard Wood records.
 - The Army's older Fort Bragg example publicly describes validated invoices and $486,000 in realized savings, but it does not establish that the same reporting path was used for the nine Fort Leonard Wood agreements or that either example was included in the statutory annual certification.
+- Army DCS, G-9's public FAQ identifies approval-value bands and says an approved proposal produces a signed approval letter, but it does not identify the approval authority or execution value for any of Fort Leonard Wood's nine agreements.
+- Fort Leonard Wood's Directorate of Resource Management describes a recurring review function, but its public page does not expose the agreement files or review results.
 
 ## Decision required
+
+- For the next run, use the Army DCS, G-9 approval-value bands to target one signed Fort Leonard Wood approval letter or cost-benefit analysis through the responsible approval channel; do not repeat the general policy-page search.
 
 Continue while a public certification, agreement file, task-order record, or service-level guidance can connect realized savings to the installation-level recapture required by § 2679(e). The next retrieval should target the Fort Leonard Wood central agreement repository, approval letter, cost-benefit analysis, GFEBS/payment record, or Army annual program report—not repeat the policy-page search. Park after two days with the same retrieval action or three consecutive continue decisions without a new primary excerpt. Kill if the only available material is GAO's own summary and no public record can test the certification or recapture mechanism.
