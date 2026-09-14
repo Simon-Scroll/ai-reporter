@@ -6,6 +6,11 @@
 - DOE Financial Management Handbook Chapter 13.1 requires advance authority, agreement-specific funding controls, advance payments for most nonfederal work, and final-cost determination, but it does not establish that individual NNSA projects followed those controls.
 - A current NNSA contract modification may show estimated cost and fixed fee for an SPP line of effort, but it may not identify sponsor-level actual costs or project closeout.
 
+## 2026-09-14 research update
+
+- The current Pantex M&O contract publicly identifies a dedicated SPP CLIN and a five-year base period, but its displayed SPP fee-table entries are marked “$TBD”; the annual fee is to be established by NNSA before each applicable contract period.
+- The Pantex statement of work supplies a site-level control baseline—Contracting Officer approval, full cost recovery, cost transparency, and task-level reporting—but no individual sponsor, agreement amount, funding record, actual cost report, or closeout was located.
+
 ## Decision required
 
-Continue while a public NNSA contract, agreement, funding, cost-report, or closeout record can connect a defined project to the written controls. Park after two days with the same retrieval action or three consecutive continue decisions without a new primary excerpt. Kill if the only possible output is a restatement of GAO's report or the program's own promotional summary.
+Continue while a public NNSA contract modification, agreement, funding, cost-report, or closeout record can connect a defined project to the written controls. The next retrieval should target a Pantex SPP annual-fee modification or sponsor-level agreement/funding record, not repeat the conformed contract or statement-of-work fetch. Park after two days with the same retrieval action or three consecutive continue decisions without a new primary excerpt. Kill if the only possible output is a restatement of GAO's report or the program's own promotional summary.

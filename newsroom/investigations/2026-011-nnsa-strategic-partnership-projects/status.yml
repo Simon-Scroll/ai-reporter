@@ -1,9 +1,9 @@
 id: 2026-011-nnsa-strategic-partnership-projects
 opened: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-14
 status: active
 mode: CONTINUE
-next_action: Retrieve a current NNSA site-level Strategic Partnership Project agreement, contract modification, sponsor funding record, cost report, or closeout record and compare it with DOE Order 481.1E's approval and cost-recovery controls.
+next_action: Retrieve a Pantex SPP annual-fee contract modification or sponsor-level agreement/funding record and compare it with the Pantex statement of work and DOE Order 481.1E's approval and cost-recovery controls; do not repeat the conformed contract or statement-of-work fetch.
 hypothesis: "NNSA's Strategic Partnership Projects may have expanded faster than the public records needed to show that sponsor-funded work was approved, fully cost-recovered, and separated from DOE's appropriated mission work."
 series: null
 part: null

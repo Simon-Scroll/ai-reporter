@@ -38,3 +38,17 @@ claims:
       - E2
       - E3
       - E4
+      - E5
+      - E6
+  - id: C7
+    type: fact
+    text: "The current Pantex management-and-operation contract contains a dedicated Strategic Partnership Projects CLIN with a five-year base period, an NNSA-established annual fixed-fee formula, and displayed SPP fee-table amounts marked TBD."
+    status: supported
+    evidence:
+      - E5
+  - id: C8
+    type: fact
+    text: "The Pantex statement of work requires Contracting Officer approval, full cost recovery, cost transparency, and task-level reporting for non-DOE SPP work."
+    status: supported
+    evidence:
+      - E6

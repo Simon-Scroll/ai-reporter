@@ -17,3 +17,7 @@
 - For the next run, use the Army DCS, G-9 approval-value bands to target one signed Fort Leonard Wood approval letter or cost-benefit analysis through the responsible approval channel; do not repeat the general policy-page search.
 
 Continue while a public certification, agreement file, task-order record, or service-level guidance can connect realized savings to the installation-level recapture required by § 2679(e). The next retrieval should target the Fort Leonard Wood central agreement repository, approval letter, cost-benefit analysis, GFEBS/payment record, or Army annual program report—not repeat the policy-page search. Park after two days with the same retrieval action or three consecutive continue decisions without a new primary excerpt. Kill if the only available material is GAO's own summary and no public record can test the certification or recapture mechanism.
+
+## 2026-09-14 parking decision
+
+Parked because the 2026-09-14 horizon supplied no new Army or IGSA execution record and the approval-channel retrieval action remained the same as the prior run. Reopen only when a signed approval letter, cost-benefit analysis, payment/reconciliation record, or statutory certification becomes public.

@@ -1,0 +1,77 @@
+date: 2026-09-14
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; yaml dependency installed and audit reported no vulnerabilities
+desk_status:
+  ran: true
+  result: initial status found missing yaml; status reread successfully after installation
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon
+  horizon: newsroom/horizon/2026-09-14/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+leads:
+  scored: 0
+  started: []
+  parked:
+    - 2026-010-dod-igsa-savings-verification
+  killed: []
+investigations:
+  - id: 2026-010-dod-igsa-savings-verification
+    decision: park
+    new_primary_documents: 0
+    changed:
+      - gaps.md
+      - status.yml
+      - traces/2026-09-14.md
+  - id: 2026-011-nnsa-strategic-partnership-projects
+    decision: continue
+    new_primary_documents: 2
+    evidence_added:
+      - E5 Pantex M&O contract 89233224CNA000004, SPP CLIN
+      - E6 Pantex statement of work, SPP controls
+    changed:
+      - claim-ledger.yml
+      - evidence-log.md
+      - gaps.md
+      - status.yml
+      - timeline.md
+      - traces/2026-09-14.md
+  - id: 2026-005-navy-submarine-maintenance
+    decision: remain parked
+    new_primary_documents: 0
+  - id: 2026-008-dod-installation-maintenance-funding
+    decision: remain parked
+    new_primary_documents: 0
+  - id: 2026-006-gao-it-modernization-controls
+    decision: remain parked
+    new_primary_documents: 0
+  - id: 2026-007-doe-contractor-assurance
+    decision: remain parked
+    new_primary_documents: 0
+  - id: 2026-002-boeing-787-cargo-frame-material
+    decision: remain parked
+    new_primary_documents: 0
+  - id: 2026-003-army-network-scale-baseline
+    decision: remain parked
+    new_primary_documents: 0
+  - id: 2026-004-nuclear-fuel-cost-visibility
+    decision: remain parked
+    new_primary_documents: 0
+  - id: 2026-009-dhs-contract-termination-savings
+    decision: remain parked
+    new_primary_documents: 0
+publication:
+  published: false
+  reason: New Pantex records establish controls and a visibility gap, but no sponsor-level execution finding; weekly cadence and skeptic review also weigh against publication.
+journal: newsroom/journal/2026-09-14.md
+desk_note: newsroom/desk/2026-09-14-r1.md
