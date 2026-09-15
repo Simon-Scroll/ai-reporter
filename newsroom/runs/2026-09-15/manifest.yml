@@ -1,0 +1,58 @@
+date: 2026-09-15
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; yaml dependency installed and audit reported no vulnerabilities
+desk_status:
+  ran: true
+  result: initial status found missing yaml; status reread successfully after installation
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon
+  horizon: newsroom/horizon/2026-09-15/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+leads:
+  scored: 1
+  started:
+    - 2026-09-15-faa-bnatcs-cost-schedule
+  parked: []
+  killed: []
+investigations:
+  - id: 2026-011-nnsa-strategic-partnership-projects
+    decision: park
+    new_primary_documents: 0
+    changed:
+      - gaps.md
+      - status.yml
+      - traces/2026-09-15.md
+  - id: 2026-012-faa-bnatcs-cost-schedule
+    decision: continue
+    new_primary_documents: 5
+    evidence_added:
+      - E1 GAO-26-107992
+      - E2 FAA BNATCS fact sheet
+      - E3 FAA FY 2025-2029 CIP
+      - E4 USAspending Peraton BNATCS integrator IDV
+      - E5 USAspending BNATCS enterprise needs-package order
+    changed:
+      - assignment.md
+      - claim-ledger.yml
+      - evidence-log.md
+      - gaps.md
+      - hypothesis.md
+      - status.yml
+      - timeline.md
+      - traces/2026-09-15.md
+publication:
+  published: false
+  reason: The new FAA records establish a contract-to-plan question, not a verified finding; underlying needs-package scope and a skeptic review are still required.
+journal: newsroom/journal/2026-09-15.md
+desk_note: newsroom/desk/2026-09-15-r1.md

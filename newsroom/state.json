@@ -7,9 +7,10 @@
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
   "open_investigations": [
-    "2026-011-nnsa-strategic-partnership-projects"
+    "2026-012-faa-bnatcs-cost-schedule"
   ],
   "parked_investigations": [
+    "2026-011-nnsa-strategic-partnership-projects",
     "2026-010-dod-igsa-savings-verification",
     "2026-005-navy-submarine-maintenance",
     "2026-008-dod-installation-maintenance-funding",
@@ -21,12 +22,12 @@
     "2026-009-dhs-contract-termination-savings"
   ],
   "series": [],
-  "last_run": "2026-09-14",
+  "last_run": "2026-09-15",
   "last_mode": "CONTINUE",
-  "last_horizon": "2026-09-14",
+  "last_horizon": "2026-09-15",
   "last_published_at": null,
-  "last_journal": "newsroom/journal/2026-09-14.md",
-  "next_action": "Retrieve a Pantex SPP annual-fee contract modification or sponsor-level agreement/funding record and compare it with the Pantex statement of work and DOE Order 481.1E's approval and cost-recovery controls; do not repeat the conformed contract or statement-of-work fetch.",
-  "handoff": "The desk parked 2026-010 because its Army approval-channel retrieval action was unchanged and today's horizon added no Army execution record. It continued 2026-011 with two official Pantex records: a site-level SPP CLIN whose displayed fee table is TBD, and a statement of work requiring approval, full cost recovery, and task-level transparency. No sponsor-level agreement, funding, actual cost, or closeout record was found; the next run should target a Pantex fee-setting modification or sponsor-level record, and no article is ready.",
+  "last_journal": "newsroom/journal/2026-09-15.md",
+  "next_action": "Retrieve the BNATCS integrator contract and needs-package statements of work or official contract-action records, then reconcile the $876 million negotiated-price statement with USAspending's current and potential totals and GAO's phase-cost baseline.",
+  "handoff": "The desk parked 2026-011 because its Pantex retrieval action was unchanged and today's horizon added no NNSA/Pantex execution record. It opened 2026-012 after comparing GAO-26-107992 with FAA's BNATCS fact sheet, the FY 2025–2029 capital plan, and current USAspending award pages. GAO's approximately $876 million negotiated integrator price is not yet comparable to USAspending's aggregated $317.2 million obligations and $1.752 billion potential values; the underlying needs-package scope and contract records remain the next target, and no article is ready.",
   "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Absence of KILL/HOLD does not mean publish today."
 }

@@ -1,0 +1,55 @@
+claims:
+  - id: C1
+    type: fact
+    text: "GAO reports a December 2028 target for BNATCS phase 1, a $10.6 billion high-level estimate for phase-1 systems modernization, and approximately $10.2 billion for phase 2 systems modernization excluding facilities."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "GAO reports that FAA's phase-1 estimate omitted government costs, most operations and maintenance costs, and all phase-2 costs, and that FAA could not provide supporting analysis for its high-level figures."
+    status: supported
+    evidence:
+      - E1
+  - id: C3
+    type: fact
+    text: "GAO reports that FAA had 11,389 individual project schedules that were not integrated as of May 2026 and lacked a time frame for resolving the issue."
+    status: supported
+    evidence:
+      - E1
+  - id: C4
+    type: fact
+    text: "FAA's fact sheet says BNATCS is targeted for delivery by the end of 2028 and describes a $12.5 billion congressional investment plus an additional $20 billion needed to complete the program."
+    status: supported
+    evidence:
+      - E2
+  - id: C5
+    type: fact
+    text: "FAA's FY 2025–2029 CIP says proposed capital investments require lifecycle cost and schedule estimates and disclosure of interdependencies before Joint Resources Council review, while its roadmaps list legacy programs across a 2021–2035 horizon."
+    status: supported
+    evidence:
+      - E3
+  - id: C6
+    type: fact
+    text: "USAspending reports $317,185,966.58 in combined obligations and $1,752,456,094.08 in combined potential award amounts across 18 child awards under the Peraton BNATCS integrator IDV."
+    status: supported
+    evidence:
+      - E4
+  - id: C7
+    type: inference
+    text: "The current public award totals cannot yet be compared directly with GAO's approximately $876 million negotiated integrator price because the IDV page aggregates child awards and potential values, and the underlying needs-package scope is not yet visible."
+    status: provisional
+    evidence:
+      - E1
+      - E4
+      - E5
+  - id: C8
+    type: inference
+    text: "The first document comparison establishes a tractable contract-to-plan audit question, but not evidence of waste, fraud, delay, or noncompliance."
+    status: provisional
+    evidence:
+      - E1
+      - E2
+      - E3
+      - E4
+      - E5

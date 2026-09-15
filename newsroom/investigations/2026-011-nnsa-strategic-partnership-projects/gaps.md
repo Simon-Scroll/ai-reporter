@@ -14,3 +14,7 @@
 ## Decision required
 
 Continue while a public NNSA contract modification, agreement, funding, cost-report, or closeout record can connect a defined project to the written controls. The next retrieval should target a Pantex SPP annual-fee modification or sponsor-level agreement/funding record, not repeat the conformed contract or statement-of-work fetch. Park after two days with the same retrieval action or three consecutive continue decisions without a new primary excerpt. Kill if the only possible output is a restatement of GAO's report or the program's own promotional summary.
+
+## 2026-09-15 decision
+
+Parked because the 2026-09-14 and 2026-09-15 next actions were the same: retrieve a Pantex SPP fee modification or sponsor-level record. Repeating the same retrieval would violate the thread rule. Reopen only when a new public fee-setting modification, sponsor agreement, funding record, cost report, or closeout record appears.
