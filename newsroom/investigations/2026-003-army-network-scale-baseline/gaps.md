@@ -6,6 +6,10 @@
 - E3 describes a 4th Infantry Division prototype and planned 25th Infantry Division/III Corps prototyping; it does not establish completed fielding or the full service-wide scale.
 - The relationship between C2 Fix transport baselines, NGC2 layers, and the Army's broader fielding objective remains unjoined by a single public schedule.
 
+## 2026-09-16 decision
+
+**Killed.** The parked list was full and this thread had the weakest remaining public path: the full GAO report and detailed schedule/cost tables were never retrievable, while the available Army records could not join budget lines to named-unit milestones. No publishable finding remains without a new hypothesis and a new primary record.
+
 ## Decision required
 
 2026-08-25: park. The recorded next action would repeat yesterday's GAO PDF retrieval, and no new public primary path appeared in today's horizon. Reopen only when a new GAO record or another public Army primary connects budget lines to named unit milestones; do not publish from E1–E3 alone.

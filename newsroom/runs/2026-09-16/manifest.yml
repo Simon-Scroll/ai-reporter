@@ -1,0 +1,47 @@
+date: 2026-09-16
+mode: REST
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; yaml dependency installed and audit reported no vulnerabilities
+desk_status:
+  ran: true
+  result: initial status found missing yaml; status reread successfully after installation
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon
+  horizon: newsroom/horizon/2026-09-16/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+leads:
+  scored: 1
+  started: []
+  parked:
+    - 2026-012-faa-bnatcs-cost-schedule
+  killed:
+    - 2026-003-army-network-scale-baseline
+investigations:
+  - id: 2026-012-faa-bnatcs-cost-schedule
+    decision: park
+    new_primary_documents: 0
+    changed:
+      - gaps.md
+      - status.yml
+      - traces/2026-09-16.md
+  - id: 2026-003-army-network-scale-baseline
+    decision: kill
+    new_primary_documents: 0
+    changed:
+      - gaps.md
+      - status.yml
+publication:
+  published: false
+  reason: No thread has a verified original finding; the available BNATCS values remain non-comparable and the financial-controls scan would risk restating GAO's summary.
+journal: newsroom/journal/2026-09-16.md
+desk_note: newsroom/desk/2026-09-16-r1.md

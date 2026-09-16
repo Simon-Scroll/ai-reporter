@@ -1,10 +1,10 @@
 id: 2026-003-army-network-scale-baseline
 opened: 2026-08-25
-updated: 2026-08-25
-status: parked
+updated: 2026-09-16
+status: killed
 mode: REST
 next_action: Reopen only when a new GAO-26-108019 record or another public Army primary connects budget lines to named unit milestones; do not repeat the unchanged PDF retrieval.
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
-last_decision: park
+last_decision: kill

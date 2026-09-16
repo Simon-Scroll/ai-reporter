@@ -1,11 +1,11 @@
 id: 2026-012-faa-bnatcs-cost-schedule
 opened: 2026-09-15
-updated: 2026-09-15
-status: active
-mode: CONTINUE
-next_action: Retrieve the FAA BNATCS integrator contract and delivery-order transaction records, then reconcile the $876 million negotiated-price statement with USAspending's current and potential award amounts and the GAO phase-cost baseline.
+updated: 2026-09-16
+status: parked
+mode: REST
+next_action: Reopen only when a new FAA BNATCS contract modification, delivery-order transaction record, needs-package statement of work, budget record, or milestone baseline is publicly retrievable; do not repeat the 2026-09-15 contract-record retrieval.
 hypothesis: "FAA's accelerated BNATCS schedule and funding narrative may not yet be reconciled with the agency's contract-level commitments and cost baselines."
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
-last_decision: continue
+last_decision: park
