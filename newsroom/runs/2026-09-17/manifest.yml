@@ -1,0 +1,47 @@
+date: 2026-09-17
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; yaml dependency installed and audit reported no vulnerabilities
+desk_status:
+  ran: true
+  result: status reread successfully after dependency installation
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon
+  horizon: newsroom/horizon/2026-09-17/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+leads:
+  scored: 4
+  started:
+    - 2026-09-17-opm-workforce-data-completeness
+  parked: []
+  killed: []
+investigations:
+  - id: 2026-013-opm-workforce-data-completeness
+    decision: continue
+    new_primary_documents: 4
+    changed:
+      - assignment.md
+      - status.yml
+      - hypothesis.md
+      - claim-ledger.yml
+      - evidence-log.md
+      - evidence/2026-09-17-gao-26-108477.md
+      - evidence/2026-09-17-opm-release-notes.md
+      - evidence/2026-09-17-opm-public-scope.md
+      - gaps.md
+      - traces/2026-09-17.md
+publication:
+  published: false
+  reason: The OPM completeness hypothesis needs a reproducible metric-to-denominator comparison; publishing now would restate GAO or OPM's own records.
+journal: newsroom/journal/2026-09-17.md
+desk_note: newsroom/desk/2026-09-17-r1.md

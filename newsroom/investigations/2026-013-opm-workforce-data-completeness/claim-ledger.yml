@@ -1,0 +1,17 @@
+claims:
+  - id: C1
+    text: "GAO estimated $9.5 billion in 2025 salary costs for paid administrative leave in its 76-agency dataset and attributed about $6.7 billion to the deferred resignation program."
+    status: supported
+    source: evidence/2026-09-17-gao-26-108477.md
+  - id: C2
+    text: "OPM's September 2, 2026 release notes said June and July 2026 EHRI releases remained incomplete for identified Department of War components, including approximately 6,211 missing June Status records and missing July Dynamics files from provider DD07."
+    status: supported
+    source: evidence/2026-09-17-opm-release-notes.md
+  - id: C3
+    text: "OPM's public data site describes the July 2026 release as the current release and describes administrative-leave data as an EHRI-based public metric."
+    status: supported
+    source: evidence/2026-09-17-opm-public-scope.md
+  - id: C4
+    text: "A specific effect of the documented missing files or historical leave-coding issues on a named public metric has not yet been established."
+    status: open
+    source: null
