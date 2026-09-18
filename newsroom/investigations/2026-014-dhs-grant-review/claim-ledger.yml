@@ -29,3 +29,29 @@ claims:
     text: "FEMA's January 2026 rolling-termination process may lack a public, auditable lessons-learned control comparable to the process GAO recommended."
     status: untested
     evidence: []
+  - id: C6
+    type: fact
+    text: "On September 18, 2026, the official USAspending award-search endpoint returned 12 Citizenship and Integration keyword matches for a DHS grant query covering January 1, 2024 through September 18, 2026; six were returned when the start date was October 1, 2024."
+    status: supported
+    evidence:
+      - E3
+  - id: C7
+    type: fact
+    text: "The same USAspending query returned zero matches when the start date was January 1, 2025, both with an end date of March 31, 2026 and with an end date of September 18, 2026."
+    status: supported
+    evidence:
+      - E3
+  - id: C8
+    type: inference
+    text: "The public USAspending record has a reproducible boundary at the beginning of 2025 for this keyword and agency filter: older Citizenship and Integration records are discoverable, but no matching record is returned for the 2025-start windows tested."
+    status: supported
+    evidence:
+      - E3
+  - id: C9
+    type: inference
+    text: "The boundary does not by itself identify whether the cause is an award-status, reporting-date, keyword-indexing, or other interface mismatch, so it cannot establish that the 111 terminated awards were absent or that the reported deobligations did not occur."
+    status: supported
+    evidence:
+      - E1
+      - E2
+      - E3

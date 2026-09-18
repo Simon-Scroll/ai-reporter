@@ -1,5 +1,5 @@
 date: 2026-09-18
-mode: CONTINUE
+mode: PUBLISH
 preflight:
   exit_code: 0
   action: AUTONOMOUS
@@ -11,7 +11,7 @@ desk_status:
   result: status initially failed before install because yaml was unavailable, then completed successfully after install
 ingest:
   ran: true
-  result: refreshed today's primary-document horizon
+  result: no-op because today's primary-document horizon already existed
   horizon: newsroom/horizon/2026-09-18/BRIEF.md
   sources:
     - sec-edgar
@@ -20,50 +20,37 @@ ingest:
     - courtlistener
     - uk-legislation
 leads:
-  scored: 1
-  started:
-    - 2026-09-18-dhs-grant-review
+  scored: 0
+  continued:
+    - 2026-014-dhs-grant-review
   parked:
     - 2026-013-opm-workforce-data-completeness
-  killed:
-    - 2026-002-boeing-787-cargo-frame-material
+  killed: []
 investigations:
-  - id: 2026-013-opm-workforce-data-completeness
-    decision: continue_then_park
-    new_primary_documents: 5
-    changed:
-      - status.yml
-      - hypothesis.md
-      - timeline.md
-      - claim-ledger.yml
-      - evidence-log.md
-      - evidence/2026-09-18-opm-payroll-access-boundary.md
-      - gaps.md
-      - traces/2026-09-18.md
-  - id: 2026-002-boeing-787-cargo-frame-material
-    decision: kill
-    changed:
-      - status.yml
-      - gaps.md
   - id: 2026-014-dhs-grant-review
-    decision: continue
+    decision: continue_then_publish
     new_primary_documents: 2
     changed:
-      - assignment.md
       - status.yml
-      - hypothesis.md
       - timeline.md
       - claim-ledger.yml
       - evidence-log.md
+      - evidence/2026-09-18-usaspending-window-comparison.md
+      - evidence/2026-09-18-fema-afg-federal-register.md
       - gaps.md
       - traces/2026-09-18.md
+      - factcheck/adversarial-review.md
 publication:
-  published: false
-  reason: The OPM result documents a public Payroll-access boundary, not an accuracy finding; no article is ready and no draft was created.
+  published: true
+  article: newsroom/published/dhs-uscis-grants-public-data-boundary.md
+  validation: npm run validate -- newsroom/published/dhs-uscis-grants-public-data-boundary.md
+  factcheck: newsroom/investigations/2026-014-dhs-grant-review/factcheck/adversarial-review.md
+  reason: A labeled traceability-gap finding survived the adversarial review; no draft copy was created.
 journal:
   - newsroom/journal/2026-09-18.md
-  - run_entries: 3
+  - run_entries: 4
 desk_notes:
   - newsroom/desk/2026-09-18-r1.md
   - newsroom/desk/2026-09-18-r2.md
   - newsroom/desk/2026-09-18-r3.md
+  - newsroom/desk/2026-09-18-r4.md
