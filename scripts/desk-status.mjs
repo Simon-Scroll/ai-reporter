@@ -14,6 +14,31 @@ function print(title, body) {
   console.log(body.trimEnd());
 }
 
+function oneLine(text, max = 160) {
+  const compact = String(text || "").replace(/\s+/g, " ").trim();
+  if (!compact) return "";
+  if (compact.length <= max) return compact;
+  return `${compact.slice(0, max - 1).trimEnd()}…`;
+}
+
+async function parkedBoard(ids) {
+  if (!ids.length) return "(none)";
+  const lines = [];
+  for (const id of ids) {
+    const statusPath = path.join(root, "newsroom/investigations", id, "status.yml");
+    if (!existsSync(statusPath)) {
+      lines.push(`- ${id} — status.yml missing`);
+      continue;
+    }
+    const status = parseYaml(await readFile(statusPath, "utf8")) ?? {};
+    const updated = status.updated || status.opened || "?";
+    const decision = status.last_decision || status.status || "parked";
+    const gist = oneLine(status.hypothesis || status.next_action);
+    lines.push(`- ${id} (${updated}, ${decision})${gist ? ` — ${gist}` : ""}`);
+  }
+  return lines.join("\n");
+}
+
 async function main() {
   const statePath = path.join(root, "newsroom/state.json");
   const state = JSON.parse(await readFile(statePath, "utf8"));
@@ -33,6 +58,10 @@ async function main() {
   console.log(`max_active_workstreams_per_run: ${state.max_active_workstreams_per_run ?? 2}`);
   console.log(`next_action: ${state.next_action ?? "(none)"}`);
   if (state.handoff) print("Handoff", state.handoff);
+  print(
+    "Parked board",
+    `${await parkedBoard(state.parked_investigations || [])}\n\nLook back before choosing work (about three days of journal; further if the plot is unclear).`,
+  );
 
   const violations = slotViolations(state);
   if (violations.length) {
@@ -84,7 +113,7 @@ async function main() {
     console.log("For each open investigation: continue, park, or kill in writing before repeating yesterday's fetch. Work at most two threads. Do not treat an open id as a life sentence.");
   } else if (canStartInvestigation(state)) {
     console.log("\n## Capacity\n");
-    console.log("No active investigations. Parked files do not occupy the three active slots. A strong inbox lead may be opened. If parked is at cap, kill the weakest parked before parking another.");
+    console.log("No active investigations. Parked files do not occupy the three active slots. Read the parked board before opening a new lead: a parked thread may already be closer to a labeled piece. If parked is at cap, kill the weakest parked before parking another.");
   }
 
   if (violations.length) {

@@ -19,6 +19,7 @@ Read only: the draft or claim ledger, the evidence files, and the cited URLs. Ig
 - Does any sentence allege intent, crime, or fraud? If yes, demand two primaries or rewrite to the documented fact.
 - What would a communications office say that is consistent with the documents?
 - Could a careful reader write this finding from the source document’s own summary or first pages? If yes, recommend **kill** or **continue**, never publish.
+- If the finding is a labeled gap between two official primaries whose reconciling record is not public after a real retrieval, that is not an automatic kill. Attack whether the incompatibility is real (same population, same period, same definition) and whether either source’s own summary already states it.
 - Is analysis labeled as inference or view, or smuggled in as fact?
 
 ## Output

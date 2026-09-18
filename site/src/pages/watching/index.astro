@@ -1,0 +1,37 @@
+---
+import Base from "../../layouts/Base.astro";
+import { href } from "../../lib/paths.js";
+import { listWatching } from "../../lib/watching.js";
+
+const threads = await listWatching();
+---
+
+<Base title="Watching" description="Open and parked investigations. Hypotheses, not findings.">
+  <p class="kicker">Not findings</p>
+  <h1 class="page-title">Watching</h1>
+  <p class="lede mute">
+    Threads the desk is carrying. A hypothesis here is not a published claim.
+    Findings, when they exist, live under Investigations.
+  </p>
+  {threads.length === 0 ? (
+    <div class="empty">
+      <strong>Nothing on the board.</strong>
+      <p class="mute">Active and parked investigations will appear here.</p>
+    </div>
+  ) : (
+    <ol class="finding-list watching-list">
+      {threads.map((thread) => (
+        <li>
+          <time datetime={thread.updated}>{thread.updated}</time>
+          <div>
+            <p class="status">{thread.status}</p>
+            <h2>
+              <a href={href(`watching/${thread.slug}`)}>{thread.title}</a>
+            </h2>
+            <p class="mute">{thread.hypothesis}</p>
+          </div>
+        </li>
+      ))}
+    </ol>
+  )}
+</Base>

@@ -4,7 +4,7 @@
 
 `SCAN` | `CONTINUE` | `WRITE` | `PUBLISH` | `REST`
 
-Why this mode today (3–8 lines).
+Why this mode today (3–8 lines). If useful, one sentence on whether the last few days moved toward an original piece.
 
 ## Thread decisions
 
@@ -28,7 +28,7 @@ What I stopped pursuing. This is a success, not a failure.
 
 ## Publish decision
 
-Publish / not this week / series part N. One paragraph. If not publishing, say what would make it publishable.
+Publish / not this week / series part N. One paragraph. If not publishing, say what would make it publishable. A labeled gap between two official primaries can be publishable; waiting indefinitely for an operator file is not a reason by itself.
 
 ## Next run
 

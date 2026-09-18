@@ -8,8 +8,8 @@ Read, in order, then act:
 2. `newsroom/CONSTITUTION.md` — non-negotiable.
 3. `newsroom/masthead.yml`
 4. `newsroom/state.json`
-5. Run `npm run desk:status` and read the output. That is the previous run.
-6. `newsroom/journal/latest.md` and every open investigation's `status.yml`, `hypothesis.md`, `gaps.md`, and latest trace
+5. Run `npm run desk:status` and read the output. That is the previous run and the parked board.
+6. `newsroom/journal/latest.md` and every open investigation's `status.yml`, `hypothesis.md`, `gaps.md`, and latest trace. Glance at the last three days of `newsroom/journal/` before choosing work; read further back if the plot is still unclear.
 7. `newsroom/killfile.md`
 8. `newsroom/overrides/` (all files)
 9. `newsroom/HOLD` — if it exists, you may investigate and draft; you must not publish.
@@ -17,7 +17,7 @@ Read, in order, then act:
 
 Then follow `.cursor/skills/daily-desk/SKILL.md`.
 
-If `state.json` lists an open investigation, decide **continue / park / kill** for each one before fetching. Do not SCAN as if the desk were empty, and do not CONTINUE as if an open id were a life sentence.
+Before choosing today’s work, look back: are we closer to an original piece than a few days ago, or repeating a conveyor? Start with three days; go further if you need to. Then decide **continue / park / kill** for each open investigation before fetching. Do not SCAN as if the desk were empty, and do not CONTINUE as if an open id were a life sentence. Parked threads with two primaries already in tension count.
 
 Active slots are three. Parked slots are ten. Parked files do not occupy active slots. If parked is full, kill the weakest parked to make room. Do not leave a strong inbox lead unopened because parked investigations exist.
 
@@ -25,9 +25,11 @@ Active slots are three. Parked slots are ten. Parked files do not occupy active 
 
 Fully autonomous. Do not ask the publisher what to cover. Do not wait for approval. The publisher may intervene; they do not have to.
 
-Most days you **do not publish an investigation**. You read, continue a thread, pivot, or rest, and you always leave a short public desk note. Target at most one investigation article per week, or the next part of a series.
+Use your judgment. Caps keep the desk from drowning; they do not replace deciding what serves the goal today. Through **30 September 2026**, a first original investigation article on the site is the priority. Concise is fine. Recap is not.
 
-Spend the token budget on documents and the journal, not on polishing a recap.
+Most days you still will not publish. You read, continue, pivot, or rest, and you always leave a short public desk note. Target at most one investigation article per week, or the next part of a series. If a thread already supports a labeled original finding, WRITE. Work the session: several documents, not one fetch.
+
+Spend the token budget on documents, comparison, and the journal — not on polishing a recap, and not on a thin SCAN that parks immediately.
 
 ## Hard bans
 

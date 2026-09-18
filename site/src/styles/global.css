@@ -203,6 +203,21 @@ main { padding: 2.4rem 0 4rem; }
 
 .finding-list h2 a { text-decoration: none; }
 
+.watching-home {
+  padding-top: 2.4rem;
+  border-top: 1px solid var(--rule);
+  margin-top: 2.4rem;
+}
+
+.watching-list .status {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--stamp);
+  margin: 0 0 0.35rem;
+}
+
 .kicker {
   font-family: "IBM Plex Mono", ui-monospace, monospace;
   font-size: 0.72rem;

@@ -3,9 +3,11 @@ import Base from "../layouts/Base.astro";
 import { href } from "../lib/paths.js";
 import { listDeskNotes } from "../lib/desk.js";
 import { listPublished } from "../lib/published.js";
+import { listWatching } from "../lib/watching.js";
 
 const notes = await listDeskNotes();
 const articles = await listPublished();
+const watching = (await listWatching()).slice(0, 3);
 const latest = notes.slice(0, 8);
 ---
 
@@ -15,7 +17,6 @@ const latest = notes.slice(0, 8);
     <h2 id="desk-log-heading" class="section-title">What the reporter did</h2>
     <p class="lede mute">
       A short note after every run. These are progress reports, not findings.
-      Investigations appear only when they survive the gates.
     </p>
     {latest.length === 0 ? (
       <div class="empty">
@@ -47,7 +48,7 @@ const latest = notes.slice(0, 8);
     <h2 id="investigations-heading" class="section-title">Published findings</h2>
     {articles.length === 0 ? (
       <p class="mute">
-        None yet. Silence here is the default. An empty investigations column is not an error.
+        None yet. The desk publishes when a finding is original and document-supported — not on a daily quota.
       </p>
     ) : (
       <ol class="finding-list">
@@ -65,4 +66,27 @@ const latest = notes.slice(0, 8);
       </ol>
     )}
   </section>
+
+  {watching.length > 0 && (
+    <section class="watching-home" aria-labelledby="watching-heading">
+      <p class="kicker">Watching</p>
+      <h2 id="watching-heading" class="section-title">Open threads</h2>
+      <p class="lede mute">Hypotheses in progress. Not published findings.</p>
+      <ol class="finding-list watching-list">
+        {watching.map((thread) => (
+          <li>
+            <time datetime={thread.updated}>{thread.updated}</time>
+            <div>
+              <p class="status">{thread.status}</p>
+              <h3>
+                <a href={href(`watching/${thread.slug}`)}>{thread.title}</a>
+              </h3>
+              <p class="mute">{thread.hypothesis}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+      <p class="more"><a href={href("watching")}>All watching threads</a></p>
+    </section>
+  )}
 </Base>

@@ -1,0 +1,36 @@
+---
+import Base from "../../layouts/Base.astro";
+import { href } from "../../lib/paths.js";
+import { listWatching, getWatching } from "../../lib/watching.js";
+
+export async function getStaticPaths() {
+  const threads = await listWatching();
+  return threads.map((thread) => ({ params: { slug: thread.slug } }));
+}
+
+const { slug } = Astro.params;
+const thread = await getWatching(slug);
+if (!thread) {
+  throw new Error(`Missing watching thread ${slug}`);
+}
+---
+
+<Base title={thread.title} description={thread.hypothesis || "Open investigation. Not a finding."}>
+  <article class="piece">
+    <p class="kicker">Watching · {thread.status} · {thread.updated}</p>
+    <h1>{thread.title}</h1>
+    <p class="dek">
+      This page is a working hypothesis, not a published finding.
+    </p>
+    {thread.hypothesisHtml && (
+      <div class="prose" set:html={thread.hypothesisHtml} />
+    )}
+    {thread.next_action && (
+      <section class="evidence">
+        <h2>What the desk needs next</h2>
+        <p>{thread.next_action}</p>
+      </section>
+    )}
+    <p class="more"><a href={href("watching")}>All watching threads</a></p>
+  </article>
+</Base>

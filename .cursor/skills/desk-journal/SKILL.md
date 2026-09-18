@@ -32,7 +32,8 @@ Everything the agent actually did:
 - hypotheses that changed
 - dead ends (record them; they are useful)
 - why today’s mode was chosen
-- why nothing is published, or why a series part is
+- whether the last few days moved toward an original piece, if that is not obvious from the mode
+- why nothing is published, or why a labeled comparison is the piece
 - the first action for the next run
 
 ## What does not belong here

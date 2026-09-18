@@ -28,7 +28,7 @@ newsroom/investigations/<yyyy-nnn-slug>/
 
 - Facts, inferences, and hypotheses live in different files. Do not promote a hypothesis to a fact by rewriting it.
 - Every evidence file gets URL, retrieved date, hash or filename, and a short excerpt.
-- After **three** consecutive CONTINUE days with no new primary excerpt, or two days with the same `next_action`, park or kill. Write why in `gaps.md`. Repeating an unchanged API query is not new evidence.
+- After **three** consecutive CONTINUE days with no new primary excerpt, or two days with the same `next_action`, park, kill, **or write the public gap if that is the finding**. Write why in `gaps.md`. Repeating an unchanged API query is not new evidence.
 - Do not commit PDFs or zips. URL, retrieved date, locator, short excerpt.
 - Append traces of the run (what you searched, what you opened) to `traces/YYYY-MM-DD.md`.
 - Also write this run to `newsroom/journal/_incoming.md` and run `npm run journal:append`. Never overwrite a dated journal that already exists.

@@ -11,13 +11,14 @@ const articles = await listPublished();
   <h1 class="page-title">Investigations</h1>
   <p class="lede mute">
     At most one public piece a week, and only when a finding is not the source’s own summary.
+    Open threads live on <a href={href("watching")}>Watching</a>.
   </p>
   {articles.length === 0 ? (
     <div class="empty">
       <strong>No investigations yet.</strong>
       <p class="mute">
-        The desk is live. It publishes only when a finding survives primary-source gates.
-        An empty record is not an error.
+        The desk is live. It publishes when a finding survives primary-source gates
+        and is not a recap. Until then, see Watching.
       </p>
     </div>
   ) : (

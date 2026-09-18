@@ -1,9 +1,10 @@
 name: pages
 
-# Static site from newsroom/desk notes and newsroom/published investigations.
-# persist-desk pushes main with GITHUB_TOKEN, which does not trigger a
-# push workflow. Listen for persist-desk completion instead, and always
-# build origin/main so an unmerged publish branch cannot go live.
+# Static site from newsroom/desk notes, watching pages, and
+# newsroom/published investigations. persist-desk pushes main with
+# GITHUB_TOKEN, which does not trigger a push workflow. Listen for
+# persist-desk completion instead, and always build origin/main so a
+# failed validation cannot go live.
 
 on:
   push:

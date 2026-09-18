@@ -5,26 +5,32 @@ description: Decides whether to continue, park, or kill each open investigation.
 
 # Thread decision
 
-Abandoning a weak thread is a success. Repeating yesterday’s query is a failure.
+Spend the run on work that can move — toward an original public finding, or an honest park or kill. Repeating yesterday’s query is a failure. Abandoning a corpse is a success. Parking a thread that already has two primaries in tension, only because a third operator file is missing, is usually a miss.
 
-For **each** open investigation, write `continue` | `park` | `kill` in that run’s journal **before** fetching more of the same URLs.
+For **each** open investigation, write `continue` | `park` | `kill` in that run’s journal **before** fetching more of the same URLs. Prefer reopening a parked thread that can move today over starting a new one whose deciding record is not public. A parked thread that already has two primaries in tension is in play, even if its reopen condition still names a missing file.
 
-## Continue — only if all of these are true
+## Continue when it is the best use of today
 
-- There is a **new** public primary to open today (a URL or series not already in `evidence/`), **or** a comparison between two already-captured primaries that has not been done
-- The next action is not a copy of yesterday’s `next_action`
-- Public interest still justifies days of work
-- The missing piece is plausibly in a **public** record, not behind operator credentials, a paywall, or “wait for the final rule”
+Favor continue if:
+
+- there is a **new** public primary to open, **or** a comparison between already-captured primaries that has not been written
+- the next action is not a copy of yesterday’s `next_action`
+- public interest still justifies the work
+- the missing piece is plausibly public, **or** the public gap itself may be the finding
+
+Do not continue only to wait for an operator portal.
 
 ## Park — blocked, not disproven
 
-Park when:
+Park when the thread cannot move and the public record does not yet support a labeled finding:
 
 - two consecutive days would do the same fetch (same docket, same API, same search)
-- three consecutive `CONTINUE` days add no new primary excerpt
-- the missing document is incorporated-by-reference, operator-only, or otherwise not public
+- three consecutive `CONTINUE` days add no new primary excerpt and no new comparison
+- the missing document is incorporated-by-reference, operator-only, or otherwise not public **and** the captured primaries do not already support a piece
 - a better lead is sitting in `leads/inbox/` and this thread cannot move without a future filing
 - a GAO (or similar) HTML product page returns 403 **and** the official PDF candidates were tried the same day and still failed, or the PDF is only the report’s own summary
+
+If two official primaries already conflict, and a same-day retrieval cannot find the reconciling file, consider **WRITE** of that labeled gap instead of parking.
 
 Write why in `gaps.md`. Set `status: parked`. Remove the id from `state.open_investigations`; add it to `state.parked_investigations`. A parked thread may be reopened if a new primary appears.
 
@@ -50,12 +56,12 @@ Killing to make room is authorized. Prefer killing the parked thread with the le
 - **Active** (`open_investigations`): max 3. This is the only cap that blocks starting a new investigation.
 - **Parked** (`parked_investigations`): max 10. Does not block starting a new investigation.
 - An inbox lead may become an investigation while other threads are parked, if an active slot is free.
-- Work **at most two** threads in one run. Do not work a third the same day. Do not let one stuck thread consume the whole run.
+- Work **at most two** threads in one run, and work them. Do not work a third the same day. Do not let one stuck thread consume the whole run.
 
 ## Parallelism
 
 Typical split:
 
-1. Decide every open thread (cheap). Review parked threads only if you might reopen one or need to kill for parked-list space.
-2. Push the most promising one with real reading
-3. Spend remaining budget on a second thread: reopen a parked lead, or start **one** new investigation if an active slot is free
+1. Decide every open thread (cheap). Review parked threads if one might reopen, need a kill for space, or already has a publishable comparison sitting unused.
+2. Push the most promising one with real reading — several documents, not one fetch.
+3. Spend remaining budget on a second thread: reopen a parked lead that can move, or start **one** new investigation if that is genuinely the better use of the day.

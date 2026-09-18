@@ -26,4 +26,4 @@ If the piece could have been written from Google News **or from the source repor
 
 ## The test
 
-Write: “The reader did not know ___ , and the proof is ___ .” If either blank is a news outlet **or** the first page of a single official report, kill the piece.
+Write: “The reader did not know ___ , and the proof is ___ .” If either blank is a news outlet **or** the first page of a single official report, kill the piece. A labeled comparison of two primaries can pass.
