@@ -1,25 +1,23 @@
-## Run 2 — 2026-09-18T08:31:00Z
+## Run 3 — 2026-09-18T18:13:47.523Z
 
 ## Mode
 
 `CONTINUE`
 
-Capacity correction after the first wrap-up: parking OPM would have exceeded the ten-thread parked cap. The Boeing 787 investigation was reviewed against its own reopen condition and the new horizon; its required public crosswalk is still absent, and the new FAA item concerns a 767. It was therefore killed to make room for the stronger, document-supported OPM thread.
-
 ## Thread decisions
 
-- `2026-013-opm-workforce-data-completeness`: `park` — the new records establish a public Payroll-access boundary but not an inaccurate metric; reopen only with a Payroll denominator or documented join.
-- `2026-002-boeing-787-cargo-frame-material`: `kill` — no current public primary path supplies the required line-number-to-serial crosswalk, and the new FAA record is outside the 787 scope.
-- Parked investigations `2026-011-nnsa-strategic-partnership-projects`, `2026-010-dod-igsa-savings-verification`, `2026-005-navy-submarine-maintenance`, `2026-008-dod-installation-maintenance-funding`, `2026-006-gao-it-modernization-controls`, `2026-007-doe-contractor-assurance`, `2026-004-nuclear-fuel-cost-visibility`, `2026-009-dhs-contract-termination-savings`, and `2026-012-faa-bnatcs-cost-schedule` remain parked; no reopen condition was met.
+No open investigations were listed at the start of this run, so no active thread required a continue / park / kill decision. All ten parked investigations remain parked because today's horizon did not provide a new document matching an existing reopen condition.
 
-## Investigation work
+## Assignment and investigation work
 
-Set `2026-002-boeing-787-cargo-frame-material` to `killed` and recorded the capacity decision in its gaps file. The OPM thread is now parked and the state lists will be reconciled; no article was created.
+Scored and opened `2026-09-18-dhs-grant-review` / `2026-014-dhs-grant-review` from GAO-26-109097, a new primary document in the 2026-09-18 horizon. The GAO report records 362 terminated DHS grant awards and a specific USCIS accounting discrepancy: GAO's USAspending review showed $0 in deobligations while DHS officials reported $2,342,498. A targeted query against the official USAspending award-search API for “Citizenship and Integration” returned no records for the selected DHS grant filters; this is a data-interface observation, not proof that the awards are absent.
+
+The GAO product HTML returned sparse content, and the primary GAO asset returned 403. The alternate official `files.gao.gov` PDF was retrieved the same day. The DHS grants page also returned 403 and was not retried without a new official path, consistent with the desk rule.
 
 ## Publish decision
 
-No publication. This correction preserves the parked cap and does not change the evidence standard or the OPM no-public-denominator conclusion.
+No publication and no draft. The only result so far is a tractable audit question, not an original finding. The originality score remains capped at 2 until award-level records and FEMA's 2026 process documents are independently compared.
 
 ## Next run
 
-Scan the next primary-document horizon. Do not reopen the Boeing investigation without a new primary crosswalk and do not retry OPM endpoints without a newly published Payroll denominator or documented join.
+Retrieve FEMA's official January 2026 rolling-termination memorandum and current 2026 grant notices or standard terms. Search USAspending by award identifiers, recipients, component, and alternate date windows before drawing any conclusion about the USCIS discrepancy.

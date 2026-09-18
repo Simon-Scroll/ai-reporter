@@ -1,0 +1,11 @@
+id: 2026-014-dhs-grant-review
+opened: 2026-09-18
+updated: 2026-09-18
+status: active
+mode: CONTINUE
+next_action: Retrieve FEMA's official January 2026 rolling-termination memorandum and current 2026 grant notices or standard terms, then query USAspending by selected award or recipient to test whether the GAO table's USCIS discrepancy is reproducible.
+hypothesis: "DHS's 2025 grant review left a reproducible gap between component-level termination accounting and the public award records used to audit it, while FEMA's 2026 rolling-termination process may repeat the same weakness without a documented lessons-learned control."
+series: null
+part: null
+consecutive_continue_without_new_primary: 0
+last_decision: continue

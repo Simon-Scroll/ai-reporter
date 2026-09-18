@@ -1,0 +1,31 @@
+claims:
+  - id: C1
+    type: fact
+    text: "GAO reports that DHS terminated 362 grant awards and reported $1,001,776,785 in total deobligations after termination for the period January 20, 2025 through September 30, 2025."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "GAO reports that its USAspending review showed USCIS deobligated $0 for 111 terminated Citizenship and Integration Grant Program awards, while DHS officials told GAO that USCIS deobligated $2,342,498."
+    status: supported
+    evidence:
+      - E1
+  - id: C3
+    type: fact
+    text: "The USAspending award-search API returned no records for the query matching Citizenship and Integration, DHS awarding agency, grant award types, and the 2025-01-01 through 2026-03-31 period."
+    status: supported
+    evidence:
+      - E2
+  - id: C4
+    type: inference
+    text: "The public API result does not yet establish that the USCIS awards are absent or that GAO's discrepancy persists, because the program name, component, award identifiers, and reporting dates may not align with the search filters."
+    status: provisional
+    evidence:
+      - E1
+      - E2
+  - id: C5
+    type: hypothesis
+    text: "FEMA's January 2026 rolling-termination process may lack a public, auditable lessons-learned control comparable to the process GAO recommended."
+    status: untested
+    evidence: []
