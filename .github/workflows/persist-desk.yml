@@ -2,6 +2,8 @@ name: persist-desk
 
 # Cloud runs land on cursor/* branches. Main is the next run's memory.
 # Auto-merge newsroom work. Never auto-merge a publish.
+# GITHUB_TOKEN pushes do not trigger other workflows; pages.yml listens
+# via workflow_run after this job succeeds.
 
 on:
   push:

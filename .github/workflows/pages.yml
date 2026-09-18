@@ -1,11 +1,17 @@
 name: pages
 
 # Static site from newsroom/desk notes and newsroom/published investigations.
+# persist-desk pushes main with GITHUB_TOKEN, which does not trigger a
+# push workflow. Listen for persist-desk completion instead, and always
+# build origin/main so an unmerged publish branch cannot go live.
 
 on:
   push:
     branches: [main]
   workflow_dispatch:
+  workflow_run:
+    workflows: ["persist-desk"]
+    types: [completed]
 
 permissions:
   contents: read
@@ -18,9 +24,12 @@ concurrency:
 
 jobs:
   build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: 22
@@ -34,6 +43,7 @@ jobs:
           path: site/dist
 
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     needs: build
     runs-on: ubuntu-latest
     environment:

@@ -37,7 +37,7 @@ npm run ingest
 npm run site:dev
 ```
 
-Le site lit `newsroom/desk/` (notes quotidiennes) et `newsroom/published/` (enquêtes). Déploiement autonome : GitHub Pages depuis `main`.
+Le site lit `newsroom/desk/` (notes quotidiennes) et `newsroom/published/` (enquêtes). Déploiement autonome : GitHub Pages depuis `main`, y compris après un merge `persist-desk`.
 
 En local : `npm run site:dev` → http://localhost:4321
 
