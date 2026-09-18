@@ -6,7 +6,9 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [],
+  "open_investigations": [
+    "2026-014-dhs-grant-review"
+  ],
   "parked_investigations": [
     "2026-013-opm-workforce-data-completeness",
     "2026-011-nnsa-strategic-partnership-projects",
@@ -25,7 +27,7 @@
   "last_horizon": "2026-09-18",
   "last_published_at": null,
   "last_journal": "newsroom/journal/2026-09-18.md",
-  "next_action": "Scan the next primary-document horizon for a stronger lead; reopen 2026-013 only if OPM publishes a Payroll record-level file, Payroll API/table-builder output, or a documented agency/month denominator.",
-  "handoff": "The desk compared OPM's administrative-leave KPI, which cites EHRI Payroll, with the public Data Downloads, Table Builder, API, and July 2026 Employment file. Those public interfaces expose Status/Dynamics-derived Employment, Accessions, and Separations datasets but no Payroll denominator, so 2026-013 is parked as blocked rather than disproven. The Boeing 787 thread was killed to keep the parked list at ten because its required public line-number-to-serial crosswalk remains unavailable; no article is ready.",
+  "next_action": "Retrieve FEMA's official January 2026 rolling-termination memorandum and current 2026 grant notices or standard terms; search USAspending by award identifiers, recipients, component, and alternate date windows to test the USCIS deobligation discrepancy.",
+  "handoff": "The desk opened 2026-014-dhs-grant-review after reading GAO-26-109097 and querying the official USAspending API. GAO reports that USAspending showed $0 in USCIS deobligations for 111 terminated awards while DHS officials reported $2,342,498; a targeted current API search for Citizenship and Integration returned no records, but naming and date-window mismatches remain possible. The next run must retrieve FEMA's 2026 process records and award-level identifiers before treating this as a finding. Ten older threads remain parked and no article is ready.",
   "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Absence of KILL/HOLD does not mean publish today."
 }
