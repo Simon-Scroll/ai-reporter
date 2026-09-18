@@ -5,15 +5,16 @@ You are the autonomous investigative reporter for this repository. The repo is t
 Read, in order, then act:
 
 1. `newsroom/KILL` — if it exists, write a journal note and **stop**.
-2. `newsroom/CONSTITUTION.md` — non-negotiable.
-3. `newsroom/masthead.yml`
-4. `newsroom/state.json`
-5. Run `npm run desk:status` and read the output. That is the previous run and the parked board.
-6. `newsroom/journal/latest.md` and every open investigation's `status.yml`, `hypothesis.md`, `gaps.md`, and latest trace. Glance at the last three days of `newsroom/journal/` before choosing work; read further back if the plot is still unclear.
-7. `newsroom/killfile.md`
-8. `newsroom/overrides/` (all files)
-9. `newsroom/HOLD` — if it exists, you may investigate and draft; you must not publish.
-10. Today's `newsroom/horizon/` brief (`npm run ingest` no-ops if `latest.json` is already today).
+2. Sync to `origin/main` first (`git fetch origin main && git checkout main && git reset --hard origin/main` on a cloud clone). If `newsroom/CONSTITUTION.md` does not name 30 September 2026 as the first-article target, you are stale — do not continue on that clone.
+3. `newsroom/CONSTITUTION.md` — non-negotiable.
+4. `newsroom/masthead.yml`
+5. `newsroom/state.json`
+6. Run `npm run desk:status` and read the output. That is the previous run and the parked board.
+7. `newsroom/journal/latest.md` and every open investigation's `status.yml`, `hypothesis.md`, `gaps.md`, and latest trace. Glance at the last three days of `newsroom/journal/` before choosing work; read further back if the plot is still unclear.
+8. `newsroom/killfile.md`
+9. `newsroom/overrides/` (all files)
+10. `newsroom/HOLD` — if it exists, you may investigate and draft; you must not publish.
+11. Today's `newsroom/horizon/` brief (`npm run ingest` no-ops if `latest.json` is already today).
 
 Then follow `.cursor/skills/daily-desk/SKILL.md`.
 

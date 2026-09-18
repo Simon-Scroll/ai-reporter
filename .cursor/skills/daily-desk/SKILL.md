@@ -11,18 +11,19 @@ Before choosing work, look back. Start with the last three days of `newsroom/jou
 
 ## Sequence
 
-1. Run `npm run preflight`. Exit code 10 means `KILL` — stop.
-2. Run `npm run desk:status`. Read `state.json`, `newsroom/journal/latest.md`, the parked board, every **open** investigation, and `leads/inbox/`. Glance at recent journals (about three days; more if needed) before locking today’s plan.
-3. Run `npm run ingest`. It no-ops if `horizon/latest.json` is already today. Use `--force` only if the brief is broken.
-4. Run the thread-decision skill on every open investigation **before** repeating yesterday’s fetch.
-5. Work **up to two** threads. Use the session: several primary documents or retrieval paths, not one API poll. Stay on a thread that can reach WRITE. If a download fails (403, empty docket), try a second official channel **the same day**, then decide park vs continue vs write the public gap. For GAO product pages, try `https://www.gao.gov/assets/<id>.pdf` and `https://files.gao.gov/assets/<id>.pdf` before giving up. A 403 on the HTML page is not a day of work.
-6. You may SCAN while an investigation is open. Start a new thread only if it is the best use of the run — not because a slot is empty. Max **active work this run** is 2. Parked cap is 10. If parking would exceed 10, kill the weakest parked first and write why. After excerpting a second primary, raise the originality score on the lead file. Remove the inbox lead when you open the investigation.
-7. Write this run to `newsroom/journal/_incoming.md`, then `npm run journal:append`. That appends to `YYYY-MM-DD.md` and sets `latest.md` to this run only. Never overwrite a dated journal that already exists. Every open thread needs an explicit continue / park / kill line.
-8. Write a **public desk note** to `newsroom/desk/_incoming.md` (short, English, under 280 words, not a finding), then `npm run desk:note`. A run without a desk note is a failed run. `HOLD` still requires the note; it only blocks `published/`.
-9. Skeptic skill before PUBLISH.
-10. If publishing: one file in `published/`, none in `drafts/` for the same slug. Never publish a fixture.
-11. Update `state.json` (`next_action`, `handoff`, `last_journal`, `open_investigations`, `parked_investigations`) and `newsroom/runs/YYYY-MM-DD/manifest.yml`.
-12. Commit newsroom changes even with no article. GitHub Pages rebuilds the site from `main` (desk notes and investigations).
+1. Sync to `origin/main` (`git fetch origin main && git checkout main && git reset --hard origin/main` on a cloud clone). If the constitution does not name 30 September 2026 as the first-article target, stop and fetch again.
+2. Run `npm run preflight`. Exit code 10 means `KILL` — stop.
+3. Run `npm run desk:status`. Read `state.json`, `newsroom/journal/latest.md`, the parked board, every **open** investigation, and `leads/inbox/`. Glance at recent journals (about three days; more if needed) before locking today’s plan.
+4. Run `npm run ingest`. It no-ops if `horizon/latest.json` is already today. Use `--force` only if the brief is broken.
+5. Run the thread-decision skill on every open investigation **before** repeating yesterday’s fetch.
+6. Work **up to two** threads. Use the session: several primary documents or retrieval paths, not one API poll. Stay on a thread that can reach WRITE. If a download fails (403, empty docket), try a second official channel **the same day**, then decide park vs continue vs write the public gap. For GAO product pages, try `https://www.gao.gov/assets/<id>.pdf` and `https://files.gao.gov/assets/<id>.pdf` before giving up. A 403 on the HTML page is not a day of work.
+7. You may SCAN while an investigation is open. Start a new thread only if it is the best use of the run — not because a slot is empty. Max **active work this run** is 2. Parked cap is 10. If parking would exceed 10, kill the weakest parked first and write why. After excerpting a second primary, raise the originality score on the lead file. Remove the inbox lead when you open the investigation.
+8. Write this run to `newsroom/journal/_incoming.md`, then `npm run journal:append`. That appends to `YYYY-MM-DD.md` and sets `latest.md` to this run only. Never overwrite a dated journal that already exists. Every open thread needs an explicit continue / park / kill line.
+9. Write a **public desk note** to `newsroom/desk/_incoming.md` (short, English, under 280 words, not a finding), then `npm run desk:note`. A run without a desk note is a failed run. `HOLD` still requires the note; it only blocks `published/`.
+10. Skeptic skill before PUBLISH.
+11. If publishing: one file in `published/`, none in `drafts/` for the same slug. Never publish a fixture.
+12. Update `state.json` (`next_action`, `handoff`, `last_journal`, `open_investigations`, `parked_investigations`) and `newsroom/runs/YYYY-MM-DD/manifest.yml`.
+13. Commit newsroom changes even with no article. GitHub Pages rebuilds the site from `main` (desk notes and investigations).
 
 ## Modes
 
