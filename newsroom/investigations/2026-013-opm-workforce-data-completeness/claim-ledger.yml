@@ -15,3 +15,7 @@ claims:
     text: "A specific effect of the documented missing files or historical leave-coding issues on a named public metric has not yet been established."
     status: open
     source: null
+  - id: C5
+    text: "OPM's public administrative-leave KPI identifies EHRI Payroll as its source, while the public record-level downloads, table builder, and API reviewed on September 18, 2026 expose Status/Dynamics-derived Employment, Accessions, and Separations datasets rather than a Payroll denominator."
+    status: supported
+    source: evidence/2026-09-18-opm-payroll-access-boundary.md

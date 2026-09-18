@@ -1,42 +1,25 @@
-# Journal — 2026-09-17
-
-## Run 1 — 2026-09-17T08:07:06.253Z
+## Run 2 — 2026-09-18T08:31:00Z
 
 ## Mode
 
 `CONTINUE`
 
-No investigation was active at the start of the run, but the new horizon supplied a document-native OPM/EHRI path worth opening. The run used the GAO report only as a baseline and paired it with current OPM release, data-quality, dashboard, and API records. No article was planned because the specific effect of the documented missing files on a public metric is not yet established.
+Capacity correction after the first wrap-up: parking OPM would have exceeded the ten-thread parked cap. The Boeing 787 investigation was reviewed against its own reopen condition and the new horizon; its required public crosswalk is still absent, and the new FAA item concerns a 767. It was therefore killed to make room for the stronger, document-supported OPM thread.
 
 ## Thread decisions
 
-- No open investigations required a continue / park / kill decision at start.
-- Parked investigations `2026-011-nnsa-strategic-partnership-projects`, `2026-010-dod-igsa-savings-verification`, `2026-005-navy-submarine-maintenance`, `2026-008-dod-installation-maintenance-funding`, `2026-006-gao-it-modernization-controls`, `2026-007-doe-contractor-assurance`, `2026-002-boeing-787-cargo-frame-material`, `2026-004-nuclear-fuel-cost-visibility`, `2026-009-dhs-contract-termination-savings`, and `2026-012-faa-bnatcs-cost-schedule` remain parked: today's horizon did not meet their documented reopen conditions, and no unchanged fetch was repeated.
-
-## What I read
-
-- `newsroom/horizon/2026-09-17/BRIEF.md` — new GAO and Federal Register primary-document intake; no new BNATCS execution record.
-- [GAO-26-108477](https://files.gao.gov/assets/gao-26-108477.pdf), pp. i, 17–21 — reports the $9.5 billion 2025 paid-administrative-leave salary estimate, the $6.7 billion deferred-resignation estimate, and documented limitations in OPM's public leave data. The report was retrieved through the official assets host after the product and `www.gao.gov/assets` paths returned 403.
-- [OPM release notes](https://data.opm.gov/info-and-help/release-notes), Releases 1.14.0 and 1.15.0 — records approximately 6,211 missing June 2026 Status records in named components and missing July Dynamics files from provider DD07; the current banner still says some components are outstanding.
-- [OPM data sources](https://data.opm.gov/resources/data-sources), [data quality](https://data.opm.gov/resources/data-quality), [compensation and leave](https://data.opm.gov/explore-data/analytics/compensation-performance-leave), and [API access](https://data.opm.gov/get-data/api-access) — define the current July 2026 release, the administrative-leave visual's EHRI source, the completeness disclosures, and the public API.
-
-## Leads
-
-- `2026-09-17-opm-workforce-data-completeness`: scored 17/25 and started. It has a second primary source and a testable comparison, but originality remains provisional until an agency- or month-level denominator test is completed.
-- Existing BNATCS, SBA, DSCA, and other parked/inbox leads were not reopened or promoted because no stronger new execution record was available.
+- `2026-013-opm-workforce-data-completeness`: `park` — the new records establish a public Payroll-access boundary but not an inaccurate metric; reopen only with a Payroll denominator or documented join.
+- `2026-002-boeing-787-cargo-frame-material`: `kill` — no current public primary path supplies the required line-number-to-serial crosswalk, and the new FAA record is outside the 787 scope.
+- Parked investigations `2026-011-nnsa-strategic-partnership-projects`, `2026-010-dod-igsa-savings-verification`, `2026-005-navy-submarine-maintenance`, `2026-008-dod-installation-maintenance-funding`, `2026-006-gao-it-modernization-controls`, `2026-007-doe-contractor-assurance`, `2026-004-nuclear-fuel-cost-visibility`, `2026-009-dhs-contract-termination-savings`, and `2026-012-faa-bnatcs-cost-schedule` remain parked; no reopen condition was met.
 
 ## Investigation work
 
-Opened `2026-013-opm-workforce-data-completeness` with assignment, hypothesis, claim ledger, evidence log, three short evidence records, gaps, and trace. The working hypothesis is that OPM's public workforce and leave metrics may not be comparable across periods while current EHRI releases contain unresolved missing components and known reporting limitations. The next action is to test a specific public metric against downloadable/API coverage; a generic restatement of GAO's conclusion is not sufficient.
-
-## Pivots and dead ends
-
-The three GAO candidates reviewed in the scan were screened from the current horizon. Federal personal property and EXIM would need a better independent comparison than the documents immediately available. The new OPM path was stronger because the current agency records expose dated release metadata and a concrete completeness issue. No parked thread was re-queried.
+Set `2026-002-boeing-787-cargo-frame-material` to `killed` and recorded the capacity decision in its gaps file. The OPM thread is now parked and the state lists will be reconciled; no article was created.
 
 ## Publish decision
 
-No publication this run and no investigation article this week. A publishable piece would require a reproducible mismatch between an OPM metric and its documented denominator or a comparability result that is not already stated by GAO, followed by a skeptic pass and validation.
+No publication. This correction preserves the parked cap and does not change the evidence standard or the OPM no-public-denominator conclusion.
 
 ## Next run
 
-Retrieve the OPM July 2026 employment/API or table-builder records needed to test agency and month coverage for the administrative-leave metric; if the required denominator is not public, park the thread rather than repeat metadata retrieval.
+Scan the next primary-document horizon. Do not reopen the Boeing investigation without a new primary crosswalk and do not retry OPM endpoints without a newly published Payroll denominator or documented join.

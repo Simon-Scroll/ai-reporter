@@ -1,10 +1,10 @@
 id: 2026-002-boeing-787-cargo-frame-material
 opened: 2026-08-20
-updated: 2026-08-25
-status: parked
+updated: 2026-09-18
+status: killed
 mode: REST
 next_action: Reopen only if a new public FAA or Boeing primary record exposes the line-number-to-serial crosswalk or a final rule materially changes the record.
 series: null
 part: null
 consecutive_continue_without_new_primary: 2
-last_decision: park
+last_decision: kill

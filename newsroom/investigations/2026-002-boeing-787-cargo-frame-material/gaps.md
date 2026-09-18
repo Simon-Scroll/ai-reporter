@@ -7,3 +7,4 @@
 - As of 2026-08-25, the public FAA docket still lists no final rule or line-number-to-serial crosswalk.
 - The full bulletin remains outside the repository as a binary; only its URL, hash, locators, and short excerpts are recorded.
 - 2026-08-25 decision: park after two consecutive no-new-primary days. The next action would repeat the same FAA docket and search checks, and no new public primary path is currently visible. Reopen only if the docket, FAA registry, or Boeing publishes the missing crosswalk or a final rule changes the evidentiary record.
+- 2026-09-18 decision: kill to free the full parked slot for the stronger OPM thread. The required line-number-to-serial crosswalk remains unavailable in public FAA records, and the new FAA horizon item concerns 767 cargo-track material rather than this 787 investigation. Do not reopen without a new hypothesis and a new primary crosswalk or materially changed final rule.

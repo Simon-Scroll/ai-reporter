@@ -1,11 +1,11 @@
 id: 2026-013-opm-workforce-data-completeness
 opened: 2026-09-17
-updated: 2026-09-17
-status: active
-mode: CONTINUE
-next_action: Compare the OPM July 2026 API/download metadata and public data-quality disclosures with the administrative-leave metric's stated scope; identify one agency-level or month-level denominator test before drawing an inference.
+updated: 2026-09-18
+status: parked
+mode: REST
+next_action: Reopen only when OPM publishes a public Payroll record-level file, Payroll API/table-builder output, or a documented agency/month denominator for the administrative-leave metric; then test that record against the July 2026 release and missing-file disclosures.
 hypothesis: "OPM's public Federal Workforce Data site may present government-wide workforce and administrative-leave indicators while its current EHRI release records unresolved missing components and known historical reporting errors; a comparison of the dashboard's stated scope, release notes, and downloadable/API records may show where the public denominator is incomplete or not comparable across months."
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
-last_decision: continue
+last_decision: park

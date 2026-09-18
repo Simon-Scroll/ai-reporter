@@ -6,28 +6,26 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [
-    "2026-013-opm-workforce-data-completeness"
-  ],
+  "open_investigations": [],
   "parked_investigations": [
+    "2026-013-opm-workforce-data-completeness",
     "2026-011-nnsa-strategic-partnership-projects",
     "2026-010-dod-igsa-savings-verification",
     "2026-005-navy-submarine-maintenance",
     "2026-008-dod-installation-maintenance-funding",
     "2026-006-gao-it-modernization-controls",
     "2026-007-doe-contractor-assurance",
-    "2026-002-boeing-787-cargo-frame-material",
     "2026-004-nuclear-fuel-cost-visibility",
     "2026-009-dhs-contract-termination-savings",
     "2026-012-faa-bnatcs-cost-schedule"
   ],
   "series": [],
-  "last_run": "2026-09-17",
+  "last_run": "2026-09-18",
   "last_mode": "CONTINUE",
-  "last_horizon": "2026-09-17",
+  "last_horizon": "2026-09-18",
   "last_published_at": null,
-  "last_journal": "newsroom/journal/2026-09-17.md",
-  "next_action": "Retrieve the OPM July 2026 employment/API or table-builder records needed to test agency and month coverage for the administrative-leave metric; if the required denominator is not public, park 2026-013 rather than repeat metadata retrieval.",
-  "handoff": "The desk opened 2026-013-opm-workforce-data-completeness after pairing GAO-26-108477 with current OPM release notes, data-quality disclosures, dashboard scope, and API metadata. The documents establish a testable completeness question but not yet a new finding: OPM's missing-file disclosures must be joined to a specific public metric or denominator. All ten existing investigations remain parked, and no article is ready.",
+  "last_journal": "newsroom/journal/2026-09-18.md",
+  "next_action": "Scan the next primary-document horizon for a stronger lead; reopen 2026-013 only if OPM publishes a Payroll record-level file, Payroll API/table-builder output, or a documented agency/month denominator.",
+  "handoff": "The desk compared OPM's administrative-leave KPI, which cites EHRI Payroll, with the public Data Downloads, Table Builder, API, and July 2026 Employment file. Those public interfaces expose Status/Dynamics-derived Employment, Accessions, and Separations datasets but no Payroll denominator, so 2026-013 is parked as blocked rather than disproven. The Boeing 787 thread was killed to keep the parked list at ten because its required public line-number-to-serial crosswalk remains unavailable; no article is ready.",
   "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Absence of KILL/HOLD does not mean publish today."
 }
