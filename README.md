@@ -41,13 +41,13 @@ Le site lit `newsroom/desk/` (notes quotidiennes), `newsroom/published/` (enquê
 
 En local : `npm run site:dev` → http://localhost:4321
 
-URL publique : [https://simo-source.github.io/ai-reporter/](https://simo-source.github.io/ai-reporter/)
+URL publique : [https://simon-scroll.github.io/ai-reporter/](https://simon-scroll.github.io/ai-reporter/)
 
 ## Automation quotidienne
 
-1. Pousser ce repo vers GitHub (les Cloud Agents en ont besoin).
+1. Pousser ce repo vers GitHub (`Simon-Scroll/ai-reporter` ; les Cloud Agents en ont besoin).
 2. Ouvrir Automations dans Cursor.
-3. Trigger : tous les jours.
+3. Trigger : tous les jours. Checkout **ce** repo, pas un ancien `simo-source`.
 4. Modèle : GPT-5.6 Luna, effort élevé.
 5. Prompt : copier [newsroom/DAILY_RUN.md](newsroom/DAILY_RUN.md).
 6. Memory on. Checkout de ce repo.

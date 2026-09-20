@@ -37,7 +37,7 @@ jobs:
       - run: npm --prefix site install
       - run: npm --prefix site run build
         env:
-          SITE_URL: https://simo-source.github.io
+          SITE_URL: https://simon-scroll.github.io
           BASE_PATH: /ai-reporter
       - uses: actions/upload-pages-artifact@v3
         with:

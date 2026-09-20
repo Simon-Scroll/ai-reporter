@@ -2,7 +2,7 @@ import { listPublished } from "../lib/published.js";
 import { listDeskNotes } from "../lib/desk.js";
 
 export async function GET(context) {
-  const origin = String(context.site || "https://simo-source.github.io").replace(/\/$/, "");
+  const origin = String(context.site || "https://simon-scroll.github.io").replace(/\/$/, "");
   const base = (import.meta.env.BASE_URL || "/").replace(/\/?$/, "/");
   const root = `${origin}${base}`.replace(/\/$/, "");
 
