@@ -1,0 +1,11 @@
+id: 2026-015-faa-aviation-cybersecurity
+opened: 2026-09-21
+updated: 2026-09-21
+status: active
+mode: CONTINUE
+next_action: Retrieve any public FAA or DOT remediation record that identifies how the eight GAO-reviewed systems relate to the 45 DOT OIG high-impact systems, and compare the December 31, 2026 completion commitment with dated implementation evidence.
+hypothesis: "FAA's public audit record may contain a persistent, unjoinable boundary between GAO's spectrum-dependent NAS sample and DOT OIG's 45 high-impact-system review, preventing a public reader from reconciling control counts, status terms, and remediation progress."
+series: null
+part: null
+consecutive_continue_without_new_primary: 0
+last_decision: continue

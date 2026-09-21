@@ -1,0 +1,25 @@
+claims:
+  - id: C1
+    text: "GAO reviewed eight spectrum-dependent NAS systems and found that seven lacked separate detailed risk-assessment reports; it also reported outdated NIST references, incomplete control baselines, inconsistent categorization, and one overdue annual assessment."
+    status: supported
+    source: evidence/2026-09-21-gao-26-108439.md
+  - id: C2
+    text: "DOT OIG reviewed FAA's 45 high-impact systems and reported 1,836 of 16,245 required controls not fully implemented, including 717 documented as not implemented and 1,119 documented as planned."
+    status: supported
+    source: evidence/2026-09-21-dot-oig-fi2026023.md
+  - id: C3
+    text: "DOT OIG reported that FAA primarily tracked vulnerabilities in its internal SMART system rather than DOT's CSAM system of record, and FAA concurred with four recommendations with a planned completion date of December 31, 2026."
+    status: supported
+    source: evidence/2026-09-21-dot-oig-fi2026023.md
+  - id: C4
+    text: "The public records do not yet establish whether GAO's eight systems overlap with DOT OIG's 45-system population or provide a common denominator for reconciling their control-status counts."
+    status: open
+    source: null
+  - id: C5
+    text: "GAO's report says FAA had not defined continuous, real-time monitoring for all spectrum-related threats and made nine recommendations, including a plan to strengthen authentication and data protection for ACARS and CPDLC."
+    status: supported
+    source: evidence/2026-09-21-gao-26-108439.md
+  - id: C6
+    text: "FAA's FY2020 actions report said it had updated its common-control provider catalog in CSAM, remediated 70 percent of critical- and high-severity vulnerabilities identified on high-impact systems, and validated authorization status and dates in CSAM."
+    status: supported
+    source: evidence/2026-09-21-faa-fy2020-actions.md
