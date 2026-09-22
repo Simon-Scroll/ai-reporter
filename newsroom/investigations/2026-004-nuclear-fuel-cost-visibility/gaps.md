@@ -13,3 +13,7 @@ Continue while a distinct public DOE/NNSA record can test the award assumptions.
 ## 2026-08-26 decision
 
 Parked. The recorded next action was the same DOE HALEU-report and program-record retrieval carried forward from the prior run, and today's horizon supplied no distinct DOE/NNSA record that tests the award assumptions. Reopen only when a new public primary exposes the missing costs, milestones, production targets, or economic analysis.
+
+## Decision — 2026-09-22
+
+**Killed to make room for the parked FAA cybersecurity thread.** The investigation has remained parked since August 26, and its deciding HALEU availability, milestone, production-target, or economic-analysis record has not appeared in the intervening horizon intake. The surviving material would support only a recap of GAO and DOE announcements; reopen only with a genuinely new primary and a new hypothesis.

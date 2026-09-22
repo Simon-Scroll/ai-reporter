@@ -1,10 +1,10 @@
 id: 2026-004-nuclear-fuel-cost-visibility
 opened: 2026-08-25
-updated: 2026-08-26
-status: parked
+updated: 2026-09-22
+status: killed
 mode: REST
 next_action: Reopen only if a new DOE or NNSA primary record exposes HALEU availability, award milestones, production targets, or the missing economic analysis; do not repeat the unchanged report retrieval.
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
-last_decision: park
+last_decision: kill

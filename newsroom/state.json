@@ -6,9 +6,7 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [
-    "2026-015-faa-aviation-cybersecurity"
-  ],
+  "open_investigations": [],
   "parked_investigations": [
     "2026-013-opm-workforce-data-completeness",
     "2026-011-nnsa-strategic-partnership-projects",
@@ -17,17 +15,17 @@
     "2026-008-dod-installation-maintenance-funding",
     "2026-006-gao-it-modernization-controls",
     "2026-007-doe-contractor-assurance",
-    "2026-004-nuclear-fuel-cost-visibility",
     "2026-009-dhs-contract-termination-savings",
-    "2026-012-faa-bnatcs-cost-schedule"
+    "2026-012-faa-bnatcs-cost-schedule",
+    "2026-015-faa-aviation-cybersecurity"
   ],
   "series": [],
-  "last_run": "2026-09-21",
-  "last_mode": "CONTINUE",
-  "last_horizon": "2026-09-21",
+  "last_run": "2026-09-22",
+  "last_mode": "REST",
+  "last_horizon": "2026-09-22",
   "last_published_at": "2026-09-18",
-  "last_journal": "newsroom/journal/2026-09-21.md",
-  "next_action": "Retrieve any public FAA or DOT remediation record that identifies how GAO's eight aviation-cybersecurity systems relate to the 45 DOT OIG high-impact systems, and compare the December 31, 2026 completion commitment with dated implementation evidence; do not treat different audit populations as a contradiction without a public join.",
-  "handoff": "The desk opened `2026-015-faa-aviation-cybersecurity` after reading GAO-26-108439, DOT OIG FI2026023, and FAA's FY2020 actions report. The two 2026 audits both document incomplete or outdated FAA cybersecurity controls, but their public versions do not identify the relationship between GAO's eight-system sample and DOT OIG's 45-system population. No article is ready; ten older investigations remain parked and the FAA thread is the sole active workstream.",
+  "last_journal": "newsroom/journal/2026-09-22.md",
+  "next_action": "Inspect the next primary-document horizon for a new record that can reopen a parked investigation; prioritize the FAA cybersecurity thread only if a public remediation or population-join record appears, and do not repeat the audit-page retrieval.",
+  "handoff": "The FAA cybersecurity thread was parked after an official DOT OIG page check and a distinct FAA Civil Aviation Cybersecurity ARC page check produced no population join, common control basis, or dated implementation bridge. The parked cap was full, so the oldest HALEU cost-visibility thread was killed; ten parked investigations remain, all with documented reopen conditions. No article is ready and the desk is resting until a new primary can move a thread.",
   "notes": "Explore daily. Use the session. Publish at most weekly, and aim for a first original piece by 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }

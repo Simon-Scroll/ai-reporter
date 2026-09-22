@@ -11,6 +11,10 @@
 
 **Continue.** Two current official audits supply a new comparison, and the next retrieval is a distinct remediation/population-join question rather than a repeat of a parked thread's unchanged action. Do not publish unless a public record supports a finding beyond the audits' own summaries.
 
+## Decision — 2026-09-22
+
+**Park.** The official DOT OIG audit page and FAA's current Civil Aviation Cybersecurity ARC page were checked through distinct public channels. The ARC page supplies a current recommendation-record date and status, but no audit population, control-status basis, or dated implementation bridge between the eight GAO systems and the 45 OIG systems. The public record therefore still supports only an unresolved comparability gap, not a distinct remediation finding; reopen when a new implementation or population-join record appears.
+
 ## Reopen or park rule
 
 Continue while a public FAA or DOT remediation record can connect the samples, definitions, or December 31, 2026 commitment to dated actions. Park if the only available record is the two audits' own summaries and no public join or distinct gap can be established after a serious same-day official retrieval. Kill if the output would only restate GAO or DOT OIG.
