@@ -5,7 +5,7 @@ description: Decides whether to continue, park, or kill each open investigation.
 
 # Thread decision
 
-Spend the run on work that can move — toward an original public finding, or an honest park or kill. Repeating yesterday’s query is a failure. Abandoning a corpse is a success. Parking a thread that already has two primaries in tension, only because a third operator file is missing, is usually a miss.
+Spend the run on work that can move — toward an original public finding, or an honest park or kill. Repeating yesterday’s query is a failure. Abandoning a corpse is a success. Parking a thread that passes the constitution’s same-object test, only because a third file is missing, is a miss.
 
 For **each** open investigation, write `continue` | `park` | `kill` in that run’s journal **before** fetching more of the same URLs. Prefer reopening a parked thread that can move today over starting a new one whose deciding record is not public. A parked thread that already has two primaries in tension is in play, even if its reopen condition still names a missing file.
 
@@ -16,7 +16,7 @@ Favor continue if:
 - there is a **new** public primary to open, **or** a comparison between already-captured primaries that has not been written
 - the next action is not a copy of yesterday’s `next_action`
 - public interest still justifies the work
-- the missing piece is plausibly public, **or** the public gap itself may be the finding
+- the missing piece is plausibly public, **or** the same-object test already passes and the piece has not been written
 
 Do not continue only to wait for an operator portal.
 
@@ -26,11 +26,11 @@ Park when the thread cannot move and the public record does not yet support a la
 
 - two consecutive days would do the same fetch (same docket, same API, same search)
 - three consecutive `CONTINUE` days add no new primary excerpt and no new comparison
-- the missing document is incorporated-by-reference, operator-only, or otherwise not public **and** the captured primaries do not already support a piece
+- the missing document is incorporated-by-reference, operator-only, or otherwise not public **and** the same-object test fails
 - a better lead is sitting in `leads/inbox/` and this thread cannot move without a future filing
 - a GAO (or similar) HTML product page returns 403 **and** the official PDF candidates were tried the same day and still failed, or the PDF is only the report’s own summary
 
-If two official primaries already conflict, and a same-day retrieval cannot find the reconciling file, consider **WRITE** of that labeled gap instead of parking.
+If the same-object test passes and the reconciling file is still missing after that retrieval, the decision is **WRITE**, not park. Label the gap. Do not treat a proposal as an enacted change.
 
 Write why in `gaps.md`. Set `status: parked`. Remove the id from `state.open_investigations`; add it to `state.parked_investigations`. A parked thread may be reopened if a new primary appears.
 

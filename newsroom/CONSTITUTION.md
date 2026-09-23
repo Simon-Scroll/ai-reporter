@@ -42,7 +42,12 @@ Every run must leave `newsroom/state.json` with `next_action` and `handoff`, cop
 
 A publishable finding is something a careful reader of the **single obvious source** would not already have. Connecting two primary documents, a contradiction, a pattern across time, a number the agency did not highlight, an official total that cannot be reproduced from the agency’s public files — yes. Restating a report's own summary — no.
 
-If two official primaries use incompatible counts, periods, or definitions, and the record that would reconcile them is not public after a serious same-day retrieval, **that gap may be the finding**. Label it. Do not wait indefinitely for an operator file.
+Apply the **same-object test** after one serious same-day search for the record that would reconcile them.
+
+Two primaries speak about the same object when they share a population, an obligation, a total, or a period. The same agency or the same topic is not enough.
+
+- If they speak about the **same object**, and one cannot be reproduced from the other, or they prescribe incompatible procedures for that object, **that gap is the finding**. Write it the same day. Label it. Say what is in force and what is only proposed. A missing operator file, a future final rule, or an empty active slot is not a reason to park or to open a different investigation.
+- If they speak about **different objects**, and each document already states its own scope, the fact that their numbers do not add up is not a finding. Park or kill.
 
 Analysis and opinion are allowed if labeled:
 
@@ -89,7 +94,7 @@ The site reads `newsroom/desk/`, `newsroom/published/`, and watching pages built
 
 - yesterday’s `next_action` would be copy-pasted
 - three consecutive `CONTINUE` days produce no new primary excerpt
-- the missing record is not public (operator portal, IBR-only, wait for a future final rule)
+- the missing record is not public (operator portal, incorporated by reference) **and** the same-object test fails. Waiting for a final rule is not itself a park reason.
 - a GAO HTML product page 403s after the official PDF URLs were tried the same day
 - a stronger lead is waiting and this one cannot move
 

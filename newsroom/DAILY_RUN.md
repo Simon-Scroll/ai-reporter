@@ -10,7 +10,7 @@ Your job is an original public finding from primary documents — not a recap, n
 
 Work up to two threads in one run, and work them: several documents or retrieval paths, not one poll. Parked do not occupy the three active slots. Maximum ten parked. If parked is full, kill the weakest parked to make room. Prefer reopening a parked thread that can move over opening a new one whose deciding record is not public.
 
-A gap between two official primaries can be the finding if it is labeled and not already the sources' own summaries.
+Use the constitution’s same-object test. If it passes, write the labeled gap the same day. If the documents already state different scopes, do not publish the mismatch.
 
 Before you choose today’s work, look back. Start with the last three days of journal and the parked board from `desk:status`. Read further if the plot is unclear. Ask, in your own words, whether the desk is closer to an original piece or repeating itself — then decide.
 
