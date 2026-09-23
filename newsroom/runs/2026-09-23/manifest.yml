@@ -1,0 +1,67 @@
+date: 2026-09-23
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: read the prior REST run, no active threads, and ten parked investigations
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon
+  horizon: newsroom/horizon/2026-09-23/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-016-section-889-information-gap
+    decision: continue
+    reason: GAO-26-108630, the proposed FAR overhaul, and current DoD DFARS clauses create a new primary-document comparison; the next step is GSA implementation guidance
+  - parked_board:
+    decision: remain parked
+    reason: no 2026-09-23 horizon record met a documented reopen condition
+parked:
+  - 2026-013-opm-workforce-data-completeness
+  - 2026-011-nnsa-strategic-partnership-projects
+  - 2026-010-dod-igsa-savings-verification
+  - 2026-005-navy-submarine-maintenance
+  - 2026-008-dod-installation-maintenance-funding
+  - 2026-006-gao-it-modernization-controls
+  - 2026-007-doe-contractor-assurance
+  - 2026-009-dhs-contract-termination-savings
+  - 2026-012-faa-bnatcs-cost-schedule
+  - 2026-015-faa-aviation-cybersecurity
+investigations:
+  - id: 2026-016-section-889-information-gap
+    decision: continue
+    new_primary_documents: 3
+    sources:
+      - https://files.gao.gov/assets/gao-26-108630.pdf
+      - https://www.federalregister.gov/documents/2026/06/23/2026-12559/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-1-2-4-33-39-40-and-53
+      - https://www.acquisition.gov/dfars/252.204-7016-covered-defense-telecommunications-equipment-or-services%E2%80%94representation.
+      - https://www.acquisition.gov/dfars/252.204-7017-prohibition-acquisition-covered-defense-telecommunications-equipment-or-services%E2%80%94representation.
+    changed:
+      - assignment.md
+      - hypothesis.md
+      - status.yml
+      - timeline.md
+      - claim-ledger.yml
+      - evidence-log.md
+      - evidence/2026-09-23-gao-26-108630.md
+      - evidence/2026-09-23-far-proposed-rule.md
+      - evidence/2026-09-23-dfars-representation.md
+      - gaps.md
+      - traces/2026-09-23.md
+publication:
+  published: false
+  reason: The active comparison concerns a proposed FAR change and lacks GSA implementation guidance or a final public record; no article is ready.
+journal:
+  - newsroom/journal/2026-09-23.md
+desk_notes:
+  - newsroom/desk/2026-09-23-r1.md

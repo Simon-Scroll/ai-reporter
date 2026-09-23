@@ -1,0 +1,27 @@
+claims:
+  - id: C1
+    type: fact
+    text: "GAO found that GSA and DoD rely on contractor representations in SAM, that almost 90 percent of companies with FY2025 federal contract activity represented that they did not use covered equipment, and that representation data was unavailable for about 3,800 companies."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "The June 23, 2026 proposed FAR overhaul would remove FAR 52.204-8 Annual Representations and Certifications from SAM and require Section 889 representations by submission of an offer under proposed FAR 52.240-2."
+    status: supported
+    evidence:
+      - E2
+  - id: C3
+    type: fact
+    text: "Current DFARS 252.204-7017 still directs an offeror to use its annual representations and certifications in SAM under DFARS 252.204-7016."
+    status: supported
+    evidence:
+      - E3
+  - id: C4
+    type: inference
+    text: "The public records show a potential split between a proposed civilian FAR representation workflow and DoD's current annual-SAM workflow, but they do not yet establish how civilian purchase-card users would obtain equivalent current information after implementation."
+    status: provisional
+    evidence:
+      - E1
+      - E2
+      - E3
