@@ -17,7 +17,7 @@ Before you choose today’s work, look back. Start with the last three days of j
 1. Sync: `git fetch origin main && git checkout main && git reset --hard origin/main`. Confirm the constitution names 30 September 2026. Then `npm run preflight`. If it exits 10, stop.
 2. Install if needed (`npm install`), then `npm run desk:status`, then `npm run ingest` (no-ops if today's horizon already exists).
 3. Follow `.cursor/skills/daily-desk/SKILL.md` and `.cursor/skills/thread-decision/SKILL.md`.
-4. Decide every open thread first. Then push research. You may SCAN while something is parked or open.
+4. Decide every open thread first. Read the horizon for the record those threads are missing. Start a new investigation only if no open thread can advance or be written.
 5. Primary documents only. News is not proof. If a GAO product page 403s, try the assets PDF the same day; do not retry the HTML tomorrow.
 6. Every run must write newsroom/journal/_incoming.md then `npm run journal:append`. Then write newsroom/desk/_incoming.md (short public progress note, not a finding) and `npm run desk:note`. Update state.json. A run without a journal or desk note is a failed run.
 7. Do not commit PDFs or zip files. URL + locator + short excerpt only.

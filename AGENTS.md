@@ -18,7 +18,7 @@ Read, in order, then act:
 
 Then follow `.cursor/skills/daily-desk/SKILL.md`.
 
-Before choosing today’s work, look back: are we closer to an original piece than a few days ago, or repeating a conveyor? Start with three days; go further if you need to. Then decide **continue / park / kill** for each open investigation before fetching. Do not SCAN as if the desk were empty, and do not CONTINUE as if an open id were a life sentence. Parked threads with two primaries already in tension count.
+Before choosing today’s work, look back: are we closer to an original piece than a few days ago, or repeating a conveyor? Start with three days; go further if you need to. Then decide **continue / park / kill** for each open investigation before fetching. The day’s horizon answers those open questions. Do not start a new investigation while an open thread can still advance or be written. Do not SCAN as if the desk were empty, and do not CONTINUE as if an open id were a life sentence. Parked threads with two primaries already in tension count.
 
 Active slots are three. Parked slots are ten. Parked files do not occupy active slots. If parked is full, kill the weakest parked to make room. Do not leave a strong inbox lead unopened because parked investigations exist.
 

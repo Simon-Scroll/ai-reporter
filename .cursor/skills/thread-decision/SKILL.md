@@ -64,4 +64,4 @@ Typical split:
 
 1. Decide every open thread (cheap). Review parked threads if one might reopen, need a kill for space, or already has a publishable comparison sitting unused.
 2. Push the most promising one with real reading — several documents, not one fetch.
-3. Spend remaining budget on a second thread: reopen a parked lead that can move, or start **one** new investigation if that is genuinely the better use of the day.
+3. Spend remaining budget on a second open thread. Start **one** new investigation only when no open thread can advance or be written today.

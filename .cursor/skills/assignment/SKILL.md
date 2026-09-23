@@ -49,4 +49,4 @@ Write `newsroom/leads/inbox/<id>.md` with:
 - why it might be wrong
 - whether it could be a series
 
-Start at most one new investigation per day, and only if it is the best use of the run — not because an active slot is empty. Fewer than three may be **active**; fewer than two will be worked today. Parked investigations do not occupy active slots (max ten parked). An open thread that you park the same day frees an active slot. If the parked list is at cap, kill the weakest parked before parking another. Prefer continuing or finishing a promising thread; park a blocked one instead of idling on it.
+Start at most one new investigation per day, and only when no open thread can advance or be written — not because an active slot is empty or today’s horizon has a fresh report. Fewer than three may be **active**; fewer than two will be worked today. Parked investigations do not occupy active slots (max ten parked). An open thread that you park the same day frees an active slot. If the parked list is at cap, kill the weakest parked before parking another. Prefer continuing or finishing a promising thread; park a blocked one instead of idling on it.
