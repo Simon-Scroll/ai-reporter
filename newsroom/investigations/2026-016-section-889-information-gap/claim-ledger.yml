@@ -25,3 +25,36 @@ claims:
       - E1
       - E2
       - E3
+  - id: C5
+    type: fact
+    text: "The current RFO FAR Part 4 model text keeps SAM as the primary method for entity-level representations and certifications, exempts micro-purchases using a governmentwide commercial purchase card from active SAM registration, and directs contracting officers to collect certain information at the offer when SAM registration is not required."
+    status: supported
+    evidence:
+      - E4
+  - id: C6
+    type: fact
+    text: "The current RFO FAR Part 40 model text places the Section 889 prohibition at FAR 40.202(d), requires provision 52.240-90 in all solicitations, and requires clause 52.240-91 in solicitations and contracts."
+    status: supported
+    evidence:
+      - E5
+  - id: C7
+    type: fact
+    text: "HHS's April 2026 civilian-agency deviation instructs contracting officers to rely on representations from offers when RFO language is used and warns that SAM system updates may lag policy updates."
+    status: supported
+    evidence:
+      - E7
+  - id: C8
+    type: fact
+    text: "GSA's January 2026 RGO class deviation applies to GSA contracting activities and procurements and directs the GSA workforce to use applicable RGO deviation text instead of the codified GSAR."
+    status: supported
+    evidence:
+      - E6
+  - id: C9
+    type: inference
+    text: "The official implementation records show a replacement compliance signal for ordinary solicitations—an offer-level representation—while leaving a public-record gap for the searchable current signal available to purchase-card users and for the disposition of displaced SAM representations."
+    status: provisional
+    evidence:
+      - E4
+      - E5
+      - E6
+      - E7

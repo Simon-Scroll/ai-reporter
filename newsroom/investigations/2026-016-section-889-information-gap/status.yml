@@ -1,10 +1,10 @@
 id: 2026-016-section-889-information-gap
 opened: 2026-09-23
-updated: 2026-09-23
-status: active
-mode: CONTINUE
-next_action: Retrieve GSA's current Section 889 class deviation or implementation guidance and compare it with the June 2026 proposed FAR representation text; determine whether a public replacement preserves searchable current compliance data for civilian agencies and purchase-card users.
-hypothesis: "The proposed Revolutionary FAR Overhaul would move Section 889 representations from the government-wide annual SAM process into each offer, while DoD's current DFARS still depends on annual SAM representations."
+updated: 2026-09-24
+status: published
+mode: PUBLISH
+next_action: Watch for a documented purchase-card workflow or searchable offer-level Section 889 representation record that resolves the public-record gap.
+hypothesis: "The RFO model-deviation text supplies an offer-level Section 889 path for ordinary solicitations while the public record does not show a searchable equivalent for micro-purchases using a governmentwide purchase card."
 series: null
 part: null
 consecutive_continue_without_new_primary: 0

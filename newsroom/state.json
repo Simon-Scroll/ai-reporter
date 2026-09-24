@@ -6,9 +6,7 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [
-    "2026-016-section-889-information-gap"
-  ],
+  "open_investigations": [],
   "parked_investigations": [
     "2026-013-opm-workforce-data-completeness",
     "2026-011-nnsa-strategic-partnership-projects",
@@ -22,12 +20,12 @@
     "2026-015-faa-aviation-cybersecurity"
   ],
   "series": [],
-  "last_run": "2026-09-23",
-  "last_mode": "CONTINUE",
-  "last_horizon": "2026-09-23",
-  "last_published_at": "2026-09-18",
-  "last_journal": "newsroom/journal/2026-09-23.md",
-  "next_action": "Retrieve GSA's current Section 889 class deviation or implementation guidance and compare it with proposed FAR 52.240-2 to determine whether civilian agencies and purchase-card users retain searchable current compliance data after the proposed removal of annual SAM representations.",
-  "handoff": "Opened 2026-016-section-889-information-gap after reading GAO-26-108630, Federal Register document 2026-12559, and current DFARS 252.204-7016/7017. The records show a provisional divergence: the proposed civilian FAR moves Section 889 representations into offers and removes annual representations from SAM, while DoD still relies on annual SAM representations. The thread is active but not ready to publish; the next run must locate GSA implementation guidance or a final rule and must not treat the proposal as completed.",
+  "last_run": "2026-09-24",
+  "last_mode": "PUBLISH",
+  "last_horizon": "2026-09-24",
+  "last_published_at": "2026-09-24",
+  "last_journal": "newsroom/journal/2026-09-24.md",
+  "next_action": "Look for a documented purchase-card workflow or searchable offer-level Section 889 representation record that resolves the public-record gap; do not repeat the unchanged GAO or DFARS retrieval.",
+  "handoff": "Published section-889-offer-record-gap after comparing GAO-26-108630 with current RFO FAR Parts 4 and 40, GSA RGO-2026-01, and HHS FAR Class Deviation 2025-09 Amendment 2. The records show an offer-level path for ordinary solicitations, while active SAM registration is not required for certain governmentwide purchase-card micro-purchases; no public searchable equivalent was identified in the reviewed records. The gap is traceability, not proof of noncompliance. The next run should seek a documented purchase-card workflow or searchable offer-level record.",
   "notes": "Explore daily. Use the session. Publish at most weekly, and aim for a first original piece by 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }
