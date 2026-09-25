@@ -1,0 +1,11 @@
+id: 2026-017-fema-bric-cycle-status
+opened: 2026-09-25
+updated: 2026-09-25
+status: active
+mode: CONTINUE
+next_action: Retrieve the FY2024–25 BRIC NOFO and any official selection or award-timeline record; compare its stated process with the 1,051 live OpenFEMA records and do not repeat the same API query.
+hypothesis: "After the July 23, 2026 deadline, FEMA's live OpenFEMA records show 1,051 FY2024–25 BRIC applications all still marked Submitted to FEMA, while FEMA described the redesigned cycle as intended to move money faster; the explanation may be ordinary review timing or a public status-record gap."
+series: null
+part: null
+consecutive_continue_without_new_primary: 0
+last_decision: continue

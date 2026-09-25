@@ -1,0 +1,39 @@
+claims:
+  - id: C1
+    type: fact
+    text: "GAO reported that, as of March 2025, FEMA had awarded 1,245 BRIC subgrants from fiscal years 2020 through 2023, allocated about $2.5 billion, reimbursed $62 million, and had 700 additional subapplications selected for further review but not yet awarded."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "GAO reported that FEMA did not award additional BRIC subgrants or obligate additional BRIC funds between April 2025 and March 2026, and that FEMA announced it was restarting the program in March 2026."
+    status: supported
+    evidence:
+      - E1
+  - id: C3
+    type: fact
+    text: "FEMA's March 25, 2026 announcement offered $1 billion for the FY2024–25 BRIC cycle, said the redesigned process would move money faster, and set July 23, 2026 as the application deadline."
+    status: supported
+    evidence:
+      - E2
+  - id: C4
+    type: fact
+    text: "The OpenFEMA HMA Subapplications v2 API returned 1,051 FY2024–25 BRIC records on September 25, 2026: 97 with fiscalYear 2024 and 954 with fiscalYear 2025; every returned record had status Submitted to FEMA."
+    status: supported
+    evidence:
+      - E3
+  - id: C5
+    type: fact
+    text: "FEMA's HMA Subapplications v2 metadata says the dataset was last refreshed August 27, 2026, is sourced from FEMA GO, NEMIS Mitigation, and eGrants, and warns that reporting periods, obligation status, and business rules can make its financial information differ from official public financial reporting."
+    status: supported
+    evidence:
+      - E4
+  - id: C6
+    type: inference
+    text: "The current public record shows a status boundary for the restarted BRIC cycle, but it does not yet establish whether FEMA's review is delayed, whether the API lags FEMA GO, or whether awards are being made through a process not reflected in this dataset."
+    status: provisional
+    evidence:
+      - E2
+      - E3
+      - E4

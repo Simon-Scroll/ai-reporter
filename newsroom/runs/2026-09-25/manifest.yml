@@ -1,0 +1,64 @@
+date: 2026-09-25
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: read the prior PUBLISH run, no active investigation, and ten parked investigations
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon
+  horizon: newsroom/horizon/2026-09-25/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-017-fema-bric-cycle-status
+    decision: continue
+    reason: a distinct current-cycle announcement and live OpenFEMA record set can advance the status/process comparison without repeating today's query
+  - parked_board:
+    decision: remain parked
+    reason: no 2026-09-25 horizon record met a documented reopen condition
+parked:
+  - 2026-013-opm-workforce-data-completeness
+  - 2026-011-nnsa-strategic-partnership-projects
+  - 2026-010-dod-igsa-savings-verification
+  - 2026-005-navy-submarine-maintenance
+  - 2026-008-dod-installation-maintenance-funding
+  - 2026-006-gao-it-modernization-controls
+  - 2026-007-doe-contractor-assurance
+  - 2026-009-dhs-contract-termination-savings
+  - 2026-012-faa-bnatcs-cost-schedule
+  - 2026-015-faa-aviation-cybersecurity
+investigations:
+  - id: 2026-017-fema-bric-cycle-status
+    decision: continue
+    new_primary_documents: 4
+    sources:
+      - https://files.gao.gov/assets/gao-26-107774.pdf
+      - https://www.fema.gov/press-release/20260325/fema-announces-1-billion-federal-funding-help-states-mitigate-impact
+      - https://www.fema.gov/openfema-data-page/hma-subapplications-v2
+      - https://www.fema.gov/api/open/v2/HmaSubapplications
+    changed:
+      - assignment.md
+      - hypothesis.md
+      - status.yml
+      - timeline.md
+      - claim-ledger.yml
+      - evidence-log.md
+      - gaps.md
+      - traces/2026-09-25.md
+publication:
+  published: false
+  reason: active investigation is at evidence-gathering stage; last article was published 2026-09-24
+journal:
+  - newsroom/journal/2026-09-25.md
+desk_notes:
+  - newsroom/desk/2026-09-25-r1.md
