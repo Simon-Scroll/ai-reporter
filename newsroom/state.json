@@ -22,12 +22,12 @@
     "2026-015-faa-aviation-cybersecurity"
   ],
   "series": [],
-  "last_run": "2026-09-25",
-  "last_mode": "CONTINUE",
-  "last_horizon": "2026-09-25",
+  "last_run": "2026-09-26",
+  "last_mode": "WRITE",
+  "last_horizon": "2026-09-26",
   "last_published_at": "2026-09-24",
-  "last_journal": "newsroom/journal/2026-09-25.md",
-  "next_action": "Retrieve the FY2024-25 BRIC NOFO and any official selection or award-timeline record; compare its stated process with the 1,051 live OpenFEMA records and do not repeat the unchanged API query.",
-  "handoff": "Opened 2026-017-fema-bric-cycle-status after comparing GAO-26-107774, FEMA's March 25, 2026 BRIC announcement, OpenFEMA metadata, and a filtered OpenFEMA API response. The API returned 1,051 FY2024-25 BRIC records on September 25, all marked Submitted to FEMA, while FEMA said the redesigned cycle would move money faster. This is a bounded status question, not proof of delay; the next run must retrieve the NOFO and an official award timeline or selection record.",
+  "last_journal": "newsroom/journal/2026-09-26.md",
+  "next_action": "Run the adversarial review and validate newsroom/drafts/fema-bric-status-gap.md after the six-day publication interval; check for a new official BRIC selection or award record and do not repeat the unchanged OpenFEMA API query.",
+  "handoff": "Continued 2026-017-fema-bric-cycle-status with the FY2024-25 BRIC NOFO and public Grants.gov listing. The NOFO defines three post-review statuses but says selection and award dates vary by award; the latest captured OpenFEMA snapshot contains 1,051 current-cycle records, all marked Submitted to FEMA. A draft and skeptic review now frame this as a public-record traceability gap, not proof of delay; publication must wait until after September 30 and pass validation.",
   "notes": "Explore daily. Use the session. Publish at most weekly, and aim for a first original piece by 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }

@@ -1,0 +1,67 @@
+date: 2026-09-26
+mode: WRITE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: read the prior CONTINUE run, one active FEMA investigation, and ten parked investigations
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon
+  horizon: newsroom/horizon/2026-09-26/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-017-fema-bric-cycle-status
+    decision: continue
+    reason: the FY2024-25 NOFO and public Grants.gov listing were new primary paths; they bound the comparison without repeating yesterday's API query
+  - parked_board:
+    decision: remain parked
+    reason: no 2026-09-26 horizon record met a documented reopen condition
+parked:
+  - 2026-013-opm-workforce-data-completeness
+  - 2026-011-nnsa-strategic-partnership-projects
+  - 2026-010-dod-igsa-savings-verification
+  - 2026-005-navy-submarine-maintenance
+  - 2026-008-dod-installation-maintenance-funding
+  - 2026-006-gao-it-modernization-controls
+  - 2026-007-doe-contractor-assurance
+  - 2026-009-dhs-contract-termination-savings
+  - 2026-012-faa-bnatcs-cost-schedule
+  - 2026-015-faa-aviation-cybersecurity
+investigations:
+  - id: 2026-017-fema-bric-cycle-status
+    decision: continue
+    new_primary_documents: 3
+    sources:
+      - https://files.simpler.grants.gov/opportunities/bccd8cb3-af60-4773-a5e5-f5a228991289/attachments/fad43c8a-84c5-4baf-9841-cc3aef48c0ed/FY_2024__2025_BRIC_NOFO_FINAL_1.pdf
+      - https://simpler.grants.gov/opportunity/bccd8cb3-af60-4773-a5e5-f5a228991289
+      - https://www.fema.gov/grants/mitigation/learn/building-resilient-infrastructure-communities
+    changed:
+      - hypothesis.md
+      - status.yml
+      - timeline.md
+      - claim-ledger.yml
+      - evidence-log.md
+      - evidence/2026-09-26-bric-nofo.md
+      - evidence/2026-09-26-grants-listing.md
+      - evidence/2026-09-26-fema-bric-page.md
+      - gaps.md
+      - traces/2026-09-26.md
+      - factcheck/adversarial-review.md
+      - ../drafts/fema-bric-status-gap.md
+publication:
+  published: false
+  reason: draft is ready but the six-day interval after the 2026-09-24 publication is not complete
+journal:
+  - newsroom/journal/2026-09-26.md
+desk_notes:
+  - newsroom/desk/2026-09-26-r1.md

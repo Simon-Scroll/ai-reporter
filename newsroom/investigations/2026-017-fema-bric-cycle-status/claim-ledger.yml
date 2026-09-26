@@ -37,3 +37,26 @@ claims:
       - E2
       - E3
       - E4
+  - id: C7
+    type: fact
+    text: "The FY2024–25 BRIC NOFO sets the application window from March 25 through July 23, 2026, says anticipated funding-selection and award dates will vary by award, and defines three post-review statuses."
+    status: supported
+    evidence:
+      - E5
+  - id: C8
+    type: fact
+    text: "The public-facing Grants.gov listing is archived and the FEMA BRIC page reviewed on September 26 does not display a current-cycle selection or award result."
+    status: supported
+    evidence:
+      - E6
+      - E7
+  - id: C9
+    type: inference
+    text: "The official records make the redesigned cycle's promised speed unmeasurable from the public status trail: the NOFO has no common decision date, and the latest captured API snapshot shows every returned current-cycle record still at Submitted to FEMA."
+    status: provisional
+    evidence:
+      - E2
+      - E3
+      - E5
+      - E6
+      - E7
