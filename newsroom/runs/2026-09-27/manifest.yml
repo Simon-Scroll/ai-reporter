@@ -1,0 +1,51 @@
+date: 2026-09-27
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: read the prior WRITE run, one ready-to-write FEMA investigation, and ten parked investigations
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon
+  horizon: newsroom/horizon/2026-09-27/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-017-fema-bric-cycle-status
+    decision: continue
+    reason: the live FEMA BRIC page supplied a new official current-status record; the unchanged OpenFEMA API query was not repeated
+  - parked_board:
+    decision: remain parked
+    reason: no 2026-09-27 horizon record met a documented reopen condition
+investigations:
+  - id: 2026-017-fema-bric-cycle-status
+    decision: continue
+    new_primary_documents: 1
+    sources:
+      - https://www.fema.gov/grants/mitigation/learn/building-resilient-infrastructure-communities
+    changed:
+      - newsroom/investigations/2026-017-fema-bric-cycle-status/evidence/2026-09-27-fema-bric-page.md
+      - newsroom/investigations/2026-017-fema-bric-cycle-status/evidence-log.md
+      - newsroom/investigations/2026-017-fema-bric-cycle-status/claim-ledger.yml
+      - newsroom/investigations/2026-017-fema-bric-cycle-status/gaps.md
+      - newsroom/investigations/2026-017-fema-bric-cycle-status/timeline.md
+      - newsroom/investigations/2026-017-fema-bric-cycle-status/status.yml
+      - newsroom/investigations/2026-017-fema-bric-cycle-status/traces/2026-09-27.md
+      - newsroom/investigations/2026-017-fema-bric-cycle-status/factcheck/adversarial-review.md
+      - newsroom/drafts/fema-bric-status-gap.md
+publication:
+  published: false
+  reason: revised draft passed validation, but the six-day interval after the 2026-09-24 publication is not complete
+journal:
+  - newsroom/journal/2026-09-27.md
+desk_notes:
+  - newsroom/desk/2026-09-27-r1.md

@@ -24,8 +24,8 @@ claims:
     text: "FEMA’s metadata warns that reporting periods, obligation status, and business rules can make the dataset differ from official public financial reporting."
     source_ids: [metadata]
   - id: C6
-    text: "The public-facing Grants.gov listing and FEMA BRIC page reviewed on September 26 did not display a current-cycle selection or award result."
-    source_ids: [listing]
+    text: "The public-facing Grants.gov listing is archived, while FEMA's current BRIC page says it is still reviewing FY2024–25 submissions and that selections will be announced after the review process is complete."
+    source_ids: [listing, current_page]
   - id: C7
     text: "The records show a public status boundary, not proof that FEMA has delayed, failed to review, or failed to award the applications."
     source_ids: [nofo, api, metadata]
@@ -55,6 +55,12 @@ sources:
     url: https://simpler.grants.gov/opportunity/bccd8cb3-af60-4773-a5e5-f5a228991289
     retrieved: 2026-09-26
     locator: "Opportunity listing fields for funding opportunity number, posted date, archive date, and documents"
+  - id: current_page
+    type: government
+    url: https://www.fema.gov/grants/mitigation/learn/building-resilient-infrastructure-communities
+    retrieved: 2026-09-27
+    locator: "Fiscal Years 2024/2025 Funding Opportunity: Application Period Closed"
+    excerpt: "FEMA is currently reviewing submissions against program requirements and evaluation criteria. Selections will be announced after the review process is complete."
 disclosure: true
 ---
 
@@ -70,7 +76,7 @@ The program’s formal notice supplies a process, but not a shared clock.
 
 ## What the comparison shows
 
-**Inference.** The public record cannot currently measure the promised speed-up. The NOFO does not provide a common selection or award date, and the public status snapshot has not exposed any of the three post-review statuses for the 1,051 returned current-cycle records. The public Grants.gov opportunity listing is archived and does not display a current-cycle selection result. (C6)
+**Inference.** The public record cannot currently measure the promised speed-up. The NOFO does not provide a common selection or award date, the public status snapshot has not exposed any of the three post-review statuses for the 1,051 returned current-cycle records, and FEMA's current program page says the agency is still reviewing submissions before announcing selections. The public Grants.gov opportunity listing is archived. (C6)
 
 That is a traceability gap, not a finding that FEMA has failed to review or award applications.
 

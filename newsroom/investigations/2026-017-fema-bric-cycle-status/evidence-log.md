@@ -55,3 +55,11 @@
 - Locator: “Fiscal Years 2024/2025 Funding Opportunity” section in FEMA’s indexed official result.
 - Excerpt: FEMA’s page describes the published FY2024–25 opportunity, the July 23, 2026 deadline, and the instruction that prior January 2025 subapplications would not be reviewed. The indexed page does not show a current-cycle selection or award announcement.
 - Boundary: The direct page returned HTTP 403 on this run; the indexed official result was used for discovery and corroboration, not as proof that no internal action exists.
+
+## E8 — FEMA BRIC program page, current cycle status
+
+- URL: https://www.fema.gov/grants/mitigation/learn/building-resilient-infrastructure-communities
+- Retrieved: 2026-09-27
+- Locator: “Fiscal Years 2024/2025 Funding Opportunity: Application Period Closed” section.
+- Excerpt: FEMA says the application period closed on July 23, 2026, that it is “currently reviewing submissions against program requirements and evaluation criteria,” and that “Selections will be announced after the review process is complete.”
+- Boundary: The page does not provide a common completion date, award date, or record-level status history, and it does not establish that the review is late or deficient.

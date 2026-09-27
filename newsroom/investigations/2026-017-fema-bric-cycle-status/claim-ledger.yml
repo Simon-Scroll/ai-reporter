@@ -45,11 +45,11 @@ claims:
       - E5
   - id: C8
     type: fact
-    text: "The public-facing Grants.gov listing is archived and the FEMA BRIC page reviewed on September 26 does not display a current-cycle selection or award result."
+    text: "The public-facing Grants.gov listing is archived, while FEMA's current BRIC page says it is still reviewing FY2024–25 submissions and that selections will be announced after the review process is complete."
     status: supported
     evidence:
       - E6
-      - E7
+      - E8
   - id: C9
     type: inference
     text: "The official records make the redesigned cycle's promised speed unmeasurable from the public status trail: the NOFO has no common decision date, and the latest captured API snapshot shows every returned current-cycle record still at Submitted to FEMA."
@@ -59,4 +59,4 @@ claims:
       - E3
       - E5
       - E6
-      - E7
+      - E8
