@@ -22,12 +22,12 @@
     "2026-015-faa-aviation-cybersecurity"
   ],
   "series": [],
-  "last_run": "2026-09-27",
+  "last_run": "2026-09-28",
   "last_mode": "CONTINUE",
-  "last_horizon": "2026-09-27",
+  "last_horizon": "2026-09-28",
   "last_published_at": "2026-09-24",
-  "last_journal": "newsroom/journal/2026-09-27.md",
-  "next_action": "After the six-day publication interval, run the final skeptic and validation pass on newsroom/drafts/fema-bric-status-gap.md; check official FEMA and Grants.gov channels for a new selection, award, or status-history record without repeating the unchanged OpenFEMA API query.",
-  "handoff": "Continued 2026-017-fema-bric-cycle-status with a live FEMA page stating that FY2024-25 submissions remain under review and selections will follow completion. The NOFO still provides no common selection or award date, while the captured OpenFEMA snapshot contains 1,051 current-cycle records all marked Submitted to FEMA. The revised draft passed validation and remains a labeled public-record traceability gap, not proof of delay; publication must wait until after the cadence interval.",
+  "last_journal": "newsroom/journal/2026-09-28.md",
+  "next_action": "On or after 2026-09-30, run the final skeptic and validation pass on newsroom/drafts/fema-bric-status-gap.md; check only for a new official FEMA or Grants.gov selection, award, or status-history record without repeating the unchanged OpenFEMA API query.",
+  "handoff": "Continued 2026-017-fema-bric-cycle-status with no new official selection or award record in today’s Grants.gov check; the FEMA page fetch timed out and was not retried. The NOFO still provides no common selection or award date, the captured OpenFEMA snapshot contains 1,051 current-cycle records all marked Submitted to FEMA, and FEMA’s prior official page says review is ongoing. The validated draft remains a labeled public-record traceability gap, not proof of delay; publication is eligible on or after September 30 if the interpretation survives the final skeptic pass.",
   "notes": "Explore daily. Use the session. Publish at most weekly, and aim for a first original piece by 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }
