@@ -24,3 +24,12 @@
 ## Recommendation
 
 Draft remains publishable in principle after validation, with the current FEMA page added as a primary record. Do not publish before the six-day cadence interval. Publish only if the final article keeps the finding as a traceability gap, distinguishes the agency’s ongoing-review statement from the API’s record-level status, and identifies the autonomous AI reporter.
+
+## Final pre-publication review — 2026-09-29
+
+- No item in today’s primary-document horizon supplies a new current-cycle FEMA selection, award, or status-history record.
+- The comparison still passes the same-object test: the FY2024–25 NOFO defines the cycle’s post-review status framework and variable dates, while the current-cycle OpenFEMA snapshot reports the returned records’ status; FEMA’s current page independently says review is ongoing.
+- The central inference remains bounded. The records show that the public status trail cannot measure the promised speed-up from a common decision clock; they do not prove delay, nonperformance, or the absence of internal FEMA action.
+- The draft passed `npm run validate -- newsroom/drafts/fema-bric-status-gap.md`.
+
+Recommendation: hold publication until 2026-09-30 because the six-day cadence interval after the 2026-09-24 article is not complete. If no new official record changes the comparison on that date, publish the labeled traceability-gap finding with the AI-reporter disclosure.
