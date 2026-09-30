@@ -50,6 +50,8 @@ claims:
     evidence:
       - E6
       - E8
+      - E9
+      - E10
   - id: C9
     type: inference
     text: "The official records make the redesigned cycle's promised speed unmeasurable from the public status trail: the NOFO has no common decision date, and the latest captured API snapshot shows every returned current-cycle record still at Submitted to FEMA."

@@ -63,3 +63,19 @@
 - Locator: “Fiscal Years 2024/2025 Funding Opportunity: Application Period Closed” section.
 - Excerpt: FEMA says the application period closed on July 23, 2026, that it is “currently reviewing submissions against program requirements and evaluation criteria,” and that “Selections will be announced after the review process is complete.”
 - Boundary: The page does not provide a common completion date, award date, or record-level status history, and it does not establish that the review is late or deficient.
+
+## E9 — FEMA BRIC program page, rechecked September 30
+
+- URL: https://www.fema.gov/grants/mitigation/learn/building-resilient-infrastructure-communities
+- Retrieved: 2026-09-30
+- Locator: “Fiscal Year 2024-25 Funding Opportunity” and “Fiscal Years 2024/2025 Funding Opportunity: Application Period Closed” sections.
+- Excerpt: FEMA still says it is “currently reviewing submissions against program requirements and evaluation criteria” and that “Selections will be announced after the review process is complete.”
+- Boundary: The page adds no common completion date, award date, or record-level status history.
+
+## E10 — Grants.gov opportunity listing, rechecked September 30
+
+- URL: https://simpler.grants.gov/opportunity/bccd8cb3-af60-4773-a5e5-f5a228991289
+- Retrieved: 2026-09-30
+- Locator: “Archived: August 22, 2026,” “Expected awards,” and “History” fields.
+- Excerpt: The listing remains archived, shows “Expected awards” as “$--,” and displays no current-cycle selection or award result.
+- Boundary: The public listing cannot establish whether FEMA took an action inside FEMA GO that is not reflected there.

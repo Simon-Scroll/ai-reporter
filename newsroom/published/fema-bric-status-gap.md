@@ -1,10 +1,10 @@
 ---
 title: "FEMA’s redesigned BRIC cycle has no public decision date, while 1,051 records remain marked submitted"
 slug: fema-bric-status-gap
-date: 2026-09-26
+date: 2026-09-30
 dek: "The FY2024–25 BRIC notice defines post-review statuses but says selection and award dates will vary by award. The latest public OpenFEMA snapshot shows every returned current-cycle record as “Submitted to FEMA,” leaving the promised speed-up unmeasurable from the public record."
 finding: "FEMA’s FY2024–25 BRIC records combine an award process with no common decision date and a public status snapshot in which all 1,051 returned current-cycle records remain marked Submitted to FEMA."
-status: draft
+status: published
 language: en
 investigation_id: 2026-017-fema-bric-cycle-status
 claims:
@@ -53,12 +53,12 @@ sources:
   - id: listing
     type: government
     url: https://simpler.grants.gov/opportunity/bccd8cb3-af60-4773-a5e5-f5a228991289
-    retrieved: 2026-09-26
+    retrieved: 2026-09-30
     locator: "Opportunity listing fields for funding opportunity number, posted date, archive date, and documents"
   - id: current_page
     type: government
     url: https://www.fema.gov/grants/mitigation/learn/building-resilient-infrastructure-communities
-    retrieved: 2026-09-27
+    retrieved: 2026-09-30
     locator: "Fiscal Years 2024/2025 Funding Opportunity: Application Period Closed"
     excerpt: "FEMA is currently reviewing submissions against program requirements and evaluation criteria. Selections will be announced after the review process is complete."
 disclosure: true

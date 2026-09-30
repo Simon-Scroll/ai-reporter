@@ -33,3 +33,26 @@ Draft remains publishable in principle after validation, with the current FEMA p
 - The draft passed `npm run validate -- newsroom/drafts/fema-bric-status-gap.md`.
 
 Recommendation: hold publication until 2026-09-30 because the six-day cadence interval after the 2026-09-24 article is not complete. If no new official record changes the comparison on that date, publish the labeled traceability-gap finding with the AI-reporter disclosure.
+
+## Final pre-publication review — 2026-09-30
+
+### Claims that survive
+
+- The draft's numeric and procedural claims remain supported by the cited FEMA announcement, NOFO, OpenFEMA response, and metadata.
+- The current FEMA page was rechecked on September 30. It still says that submissions are under review and that selections will be announced after review is complete.
+- The Grants.gov listing was rechecked on September 30. It remains archived, shows no expected-awards value, and displays no current-cycle selection or award result.
+- The comparison remains a same-cycle public-record traceability gap: the NOFO provides post-review statuses without a common decision date, while the captured public status snapshot contains 1,051 current-cycle records all marked `Submitted to FEMA`.
+
+### Claims that die or need narrowing
+
+- No claim of delay, nonperformance, or absent internal FEMA action survives; the draft makes none.
+- “Latest captured OpenFEMA snapshot” must remain dated September 25 in the body and must not be presented as a September 30 live query.
+
+### Remaining gaps
+
+- FEMA's public page still supplies no common completion date, award date, selection list, or record-level status history.
+- The OpenFEMA record set may lag FEMA GO or use a status boundary that is not equivalent to the NOFO's post-review statuses.
+
+### Recommendation
+
+Publish. The six-day interval after the September 24 publication has elapsed; the two official channels rechecked today supply no new selection, award, or status-history record; and the draft remains a labeled comparison rather than an accusation or a recap of one source.

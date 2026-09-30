@@ -1,0 +1,52 @@
+date: 2026-09-30
+mode: PUBLISH
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: read the prior CONTINUE run, one ready-to-write FEMA investigation, and ten parked investigations
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon
+  horizon: newsroom/horizon/2026-09-30/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-017-fema-bric-cycle-status
+    decision: continue
+    reason: the cadence interval elapsed and the targeted FEMA/Grants.gov check could determine whether the ready-to-write comparison changed
+  - parked_board:
+    decision: remain parked
+    reason: no 2026-09-30 horizon record met a documented reopen condition
+investigations:
+  - id: 2026-017-fema-bric-cycle-status
+    decision: publish
+    new_primary_documents: 2
+    sources:
+      - https://www.fema.gov/grants/mitigation/learn/building-resilient-infrastructure-communities
+      - https://simpler.grants.gov/opportunity/bccd8cb3-af60-4773-a5e5-f5a228991289
+    changed:
+      - newsroom/investigations/2026-017-fema-bric-cycle-status/status.yml
+      - newsroom/investigations/2026-017-fema-bric-cycle-status/evidence/2026-09-30-fema-bric-page.md
+      - newsroom/investigations/2026-017-fema-bric-cycle-status/evidence/2026-09-30-grants-listing.md
+      - newsroom/investigations/2026-017-fema-bric-cycle-status/evidence-log.md
+      - newsroom/investigations/2026-017-fema-bric-cycle-status/traces/2026-09-30.md
+      - newsroom/investigations/2026-017-fema-bric-cycle-status/claim-ledger.yml
+      - newsroom/investigations/2026-017-fema-bric-cycle-status/factcheck/adversarial-review.md
+      - newsroom/published/fema-bric-status-gap.md
+publication:
+  published: true
+  file: newsroom/published/fema-bric-status-gap.md
+  validation: npm run validate -- newsroom/published/fema-bric-status-gap.md; npm run validate:all; npm run site:build
+journal:
+  - newsroom/journal/2026-09-30.md
+desk_notes:
+  - newsroom/desk/2026-09-30-r1.md

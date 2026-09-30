@@ -6,9 +6,7 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [
-    "2026-017-fema-bric-cycle-status"
-  ],
+  "open_investigations": [],
   "parked_investigations": [
     "2026-013-opm-workforce-data-completeness",
     "2026-011-nnsa-strategic-partnership-projects",
@@ -22,12 +20,12 @@
     "2026-015-faa-aviation-cybersecurity"
   ],
   "series": [],
-  "last_run": "2026-09-29",
-  "last_mode": "CONTINUE",
-  "last_horizon": "2026-09-29",
-  "last_published_at": "2026-09-24",
-  "last_journal": "newsroom/journal/2026-09-29.md",
-  "next_action": "On or after 2026-09-30, check only for a new official FEMA or Grants.gov selection, award, or status-history record, validate newsroom/drafts/fema-bric-status-gap.md again, and publish if eligible; do not repeat the unchanged OpenFEMA API query.",
-  "handoff": "Continued 2026-017-fema-bric-cycle-status with no new current-cycle FEMA selection, award, or status-history record in today’s primary-document horizon. The final skeptic review and draft validation passed; the NOFO still provides no common selection or award date, the captured OpenFEMA snapshot contains 1,051 current-cycle records all marked Submitted to FEMA, and FEMA’s current page says review is ongoing. The piece remains a labeled public-record traceability gap, not proof of delay or nonperformance; publication is eligible on or after September 30 if a new official-record check does not change the interpretation.",
-  "notes": "Explore daily. Use the session. Publish at most weekly, and aim for a first original piece by 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
+  "last_run": "2026-09-30",
+  "last_mode": "PUBLISH",
+  "last_horizon": "2026-09-30",
+  "last_published_at": "2026-09-30",
+  "last_journal": "newsroom/journal/2026-09-30.md",
+  "next_action": "Watch the official FEMA and Grants.gov channels for a distinct current-cycle selection, award, or status-history record before considering a follow-up; do not repeat the unchanged OpenFEMA API query.",
+  "handoff": "Published the validated fema-bric-status-gap investigation on September 30 after the six-day cadence interval elapsed. A same-day recheck of FEMA’s current BRIC page and the public Grants.gov listing found no new selection, award, or status-history record; the article remains a labeled public-record traceability gap, not proof of delay or nonperformance. The BRIC investigation is no longer active and should only be reopened for a distinct official record.",
+  "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }
