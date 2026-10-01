@@ -1,0 +1,46 @@
+date: 2026-10-01
+mode: SCAN
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: read the prior PUBLISH run, no active investigations, and ten parked investigations
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon
+  horizon: newsroom/horizon/2026-10-01/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-018-navy-siop-cost-oversight
+    decision: continue
+    reason: three official records establish a distinct cost-and-oversight comparison and the next action is project-level retrieval
+  - parked_board:
+    decision: remain parked
+    reason: no 2026-10-01 horizon record met a documented reopen condition
+investigations:
+  - id: 2026-018-navy-siop-cost-oversight
+    decision: opened
+    originality_score: 3
+    new_primary_documents: 3
+    sources:
+      - https://www.gao.gov/products/gao-26-107830
+      - https://www.secnav.navy.mil/fmc/fmb/Documents/27pres/DON_Press_Brief.pdf
+      - https://www.navfac.navy.mil/PEO-Infrastructure-and-Expeditionary/PMO-555-SIOP/
+    changed:
+      - newsroom/investigations/2026-018-navy-siop-cost-oversight/
+publication:
+  published: false
+  reason: initial comparison is not yet a validated finding; no project-level denominator or skeptic pass
+journal:
+  - newsroom/journal/2026-10-01.md
+desk_notes:
+  - newsroom/desk/2026-10-01-r1.md

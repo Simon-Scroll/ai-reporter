@@ -6,7 +6,9 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [],
+  "open_investigations": [
+    "2026-018-navy-siop-cost-oversight"
+  ],
   "parked_investigations": [
     "2026-013-opm-workforce-data-completeness",
     "2026-011-nnsa-strategic-partnership-projects",
@@ -20,12 +22,12 @@
     "2026-015-faa-aviation-cybersecurity"
   ],
   "series": [],
-  "last_run": "2026-09-30",
-  "last_mode": "PUBLISH",
-  "last_horizon": "2026-09-30",
+  "last_run": "2026-10-01",
+  "last_mode": "SCAN",
+  "last_horizon": "2026-10-01",
   "last_published_at": "2026-09-30",
-  "last_journal": "newsroom/journal/2026-09-30.md",
-  "next_action": "Watch the official FEMA and Grants.gov channels for a distinct current-cycle selection, award, or status-history record before considering a follow-up; do not repeat the unchanged OpenFEMA API query.",
-  "handoff": "Published the validated fema-bric-status-gap investigation on September 30 after the six-day cadence interval elapsed. A same-day recheck of FEMA’s current BRIC page and the public Grants.gov listing found no new selection, award, or status-history record; the article remains a labeled public-record traceability gap, not proof of delay or nonperformance. The BRIC investigation is no longer active and should only be reopened for a distinct official record.",
+  "last_journal": "newsroom/journal/2026-10-01.md",
+  "next_action": "Retrieve Navy or NAVFAC FY2027 SIOP project-level authorization, obligation, schedule, or milestone records and test whether they expose a common denominator for the $1.8 billion request and the program-level cost and risk baseline.",
+  "handoff": "Opened 2026-018-navy-siop-cost-oversight after comparing GAO-26-107830, the Navy FY2027 budget presentation, and NAVFAC's current SIOP FAQ. The records establish a bounded public-record question: GAO reports a more-than-$200 billion, 50-plus-year program and missing consolidated cost/risk reporting; the budget requests $1.8 billion and references six SIOP projects; NAVFAC says a full current cost estimate is unavailable. Next run should retrieve project-level records rather than repeat overview pages.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }

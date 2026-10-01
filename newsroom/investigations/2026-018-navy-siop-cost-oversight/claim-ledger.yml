@@ -1,0 +1,21 @@
+claims:
+  - id: C1
+    text: "GAO reported that SIOP would surpass $200 billion and take more than 50 additional years to execute, based on its analysis of Navy plans."
+    status: supported
+    source: evidence/2026-10-01-gao-26-107830.md
+  - id: C2
+    text: "GAO reported that the Navy does not provide Congress with consolidated, standardized information on full SIOP costs and risks because no requirement exists to do so."
+    status: supported
+    source: evidence/2026-10-01-gao-26-107830.md
+  - id: C3
+    text: "The Navy's FY2027 budget presentation requests $1.8 billion for SIOP and identifies six SIOP projects in the military-construction request."
+    status: supported
+    source: evidence/2026-10-01-navy-pb27.md
+  - id: C4
+    text: "NAVFAC's current SIOP FAQ says the original $21 billion, 20-year estimate will be higher but that additional items prevent a full current cost estimate at this time."
+    status: supported
+    source: evidence/2026-10-01-navfac-siop-faq.md
+  - id: C5
+    text: "The public records currently captured do not yet connect the FY2027 request and six-project reference to a common current full-program cost, schedule, risk, or performance denominator."
+    status: open
+    source: null
