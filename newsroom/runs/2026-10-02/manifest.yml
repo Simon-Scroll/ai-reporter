@@ -1,0 +1,48 @@
+date: 2026-10-02
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: read the prior SCAN run, one active SIOP investigation, and ten parked investigations
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon
+  horizon: newsroom/horizon/2026-10-02/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-018-navy-siop-cost-oversight
+    decision: continue
+    reason: new project-level budget and contract records advanced the comparison without repeating the overview pages
+  - parked_board:
+    decision: remain parked
+    reason: no 2026-10-02 horizon record met a documented reopen condition
+investigations:
+  - id: 2026-018-navy-siop-cost-oversight
+    decision: continued
+    originality_score: 4
+    new_primary_documents: 5
+    sources:
+      - https://www.secnav.navy.mil/fmc/fmb/Documents/27pres/Highlights_Book.pdf
+      - https://www.secnav.navy.mil/fmc/fmb/Documents/27pres/OMN_Book.pdf
+      - https://api.usaspending.gov/api/v2/awards/CONT_AWD_N6247026C0001_9700_-NONE-_-NONE-/
+      - https://api.usaspending.gov/api/v2/awards/CONT_AWD_N4425523F4030_9700_N6274222D1314_9700/
+      - https://pacific.navfac.navy.mil/Facilities-Engineering-Commands/OICC-Pearl-Harbor-Naval-Shipyard/
+    changed:
+      - newsroom/investigations/2026-018-navy-siop-cost-oversight/
+publication:
+  published: false
+  reason: project-level records now support a bounded traceability gap, but authorization-level reconciliation and a skeptic pass remain outstanding
+journal:
+  - newsroom/journal/2026-10-02.md
+desk_notes:
+  - newsroom/desk/2026-10-02-r1.md

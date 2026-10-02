@@ -17,5 +17,23 @@ claims:
     source: evidence/2026-10-01-navfac-siop-faq.md
   - id: C5
     text: "The public records currently captured do not yet connect the FY2027 request and six-project reference to a common current full-program cost, schedule, risk, or performance denominator."
+    status: supported
+    source: evidence/2026-10-02-navy-pb27-project-table.md
+    corroboration:
+      - evidence/2026-10-02-omn-siop-lines.md
+      - evidence/2026-10-02-usaspending-p1062.md
+      - evidence/2026-10-02-usaspending-p454.md
+      - evidence/2026-10-02-navfac-p209.md
+    note: "The new records connect project identities and contract-level measures, but use different cost and schedule dimensions; this supports a bounded traceability gap, not a finding of waste, delay, or misconduct."
+  - id: C6
+    text: "The six named FY2027 SIOP construction lines in the detailed budget total $1.256 billion by desk calculation."
+    status: supported
+    source: evidence/2026-10-02-navy-pb27-project-table.md
+  - id: C7
+    text: "The public contract record for P1062 Dry Dock 3 Modernization reports $167.1775 million in total obligations, $442.127 million in base exercised options, and $467.181292 million in base and all options, with performance through January 10, 2031."
+    status: supported
+    source: evidence/2026-10-02-usaspending-p1062.md
+  - id: C8
+    text: "The public record does not yet expose a single reconciliation that maps the $1.8 billion SIOP headline across the six FY2027 construction lines, FSRM, OPN equipment, contract obligations, and program-level cost and risk reporting."
     status: open
     source: null

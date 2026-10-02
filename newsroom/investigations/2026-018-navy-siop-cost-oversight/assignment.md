@@ -11,11 +11,11 @@ This is a document comparison about program traceability, not an allegation of w
 ## Selection
 
 - Public interest: 5/5
-- Originality: 3/5 after excerpts from GAO, the Navy FY2027 budget, and NAVFAC's SIOP page
+- Originality: 4/5 after joining the detailed FY2027 project table to USAspending contract records and identifying the unresolved cross-appropriation baseline
 - Document-nativeness: 5/5
 - Room to grow: 5/5
 - Legal risk: 1/5
-- Net: 17/25
+- Net: 18/25
 
 The possible finding is not that SIOP is delayed or wasteful. It is whether a reader can reconcile the Navy's current annual request and project count with a current full-program baseline when the agency's own program page says a full cost estimate is not yet available.
 

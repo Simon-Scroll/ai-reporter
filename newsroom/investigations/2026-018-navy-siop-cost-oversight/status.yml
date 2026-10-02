@@ -1,9 +1,9 @@
 id: 2026-018-navy-siop-cost-oversight
 opened: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-02
 status: active
-mode: SCAN
-next_action: Retrieve the Navy or NAVFAC FY2027 SIOP project-level authorization, obligation, schedule, or milestone records and test whether they expose a common denominator for the $1.8 billion request and the program-level cost and risk baseline.
+mode: CONTINUE
+next_action: Locate enacted or authorization-level records for the six FY2027 SIOP construction lines, and reconcile the Pearl Harbor P-209/Dry Dock 3 labels and contract measures before deciding whether the bounded traceability gap is ready for skeptic review.
 last_decision: continue
 series: null
 part: null
