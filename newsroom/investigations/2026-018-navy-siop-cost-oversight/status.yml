@@ -1,9 +1,9 @@
 id: 2026-018-navy-siop-cost-oversight
 opened: 2026-10-01
-updated: 2026-10-02
+updated: 2026-10-03
 status: active
-mode: CONTINUE
-next_action: Locate enacted or authorization-level records for the six FY2027 SIOP construction lines, and reconcile the Pearl Harbor P-209/Dry Dock 3 labels and contract measures before deciding whether the bounded traceability gap is ready for skeptic review.
+mode: WRITE
+next_action: Run the adversarial review and validate the SIOP draft; if both pass and the six-day cadence has elapsed, publish the labeled same-object comparison without claiming an overrun, delay, waste, or misconduct.
 last_decision: continue
 series: null
 part: null

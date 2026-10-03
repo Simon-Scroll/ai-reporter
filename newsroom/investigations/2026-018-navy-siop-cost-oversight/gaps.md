@@ -27,3 +27,14 @@ Continue only while a new Navy or NAVFAC project-level record can be retrieved a
 ## Decision — 2026-10-02
 
 Continue. The desk retrieved new primary records and made a same-object join for P1062, but the records still expose incompatible cost dimensions rather than a reproducible full-program baseline. The next action is to locate the enacted or authorization-level records for the six FY2027 lines and reconcile the Pearl Harbor project labels before deciding whether the bounded traceability gap is ready for a skeptic pass.
+
+## New records — 2026-10-03
+
+- USAspending now directly identifies the Pearl Harbor award as FY23 MCON Project P-209 Dry Dock 3 Replacement. The current execution record reports $3.071394028 billion in total obligations and $3.298431328 billion in base and all options through September 30, 2027, while the FY2027 budget lists $507 million for the Dry Dock 3 Replacement increment. These are different measures, not evidence of an overrun.
+- The House FY2027 military-construction report recommends $5.508034 billion for Navy and Marine Corps construction and directs a future NAVFAC/NAVSEA report on SIOP waterfront-facility cost-benefit, timelines, and estimated costs. It does not provide the requested full-program denominator.
+- H.R. 8800 is recorded as passed by the House and received in the Senate, not enacted. The available authorization-level record therefore does not close the gap.
+- The direct USAspending description resolves the P-209 identity, but the public record still does not map the $1.8 billion SIOP headline to the six construction lines, FSRM, OPN equipment, and project-level obligations in one current baseline.
+
+## Decision — 2026-10-03
+
+Continue and write a draft. The same-object test now passes for the Pearl Harbor FY2027 line and P-209 execution record, producing a falsifiable comparison that is not present in either source alone. Publication remains blocked by the six-day cadence until October 6; the draft must survive the adversarial review and validation before any publication decision.

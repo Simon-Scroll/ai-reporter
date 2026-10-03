@@ -35,5 +35,19 @@ claims:
     source: evidence/2026-10-02-usaspending-p1062.md
   - id: C8
     text: "The public record does not yet expose a single reconciliation that maps the $1.8 billion SIOP headline across the six FY2027 construction lines, FSRM, OPN equipment, contract obligations, and program-level cost and risk reporting."
-    status: open
-    source: null
+    status: supported
+    source: evidence/2026-10-03-house-report-119-622.md
+    corroboration:
+      - evidence/2026-10-03-usaspending-p209.md
+      - evidence/2026-10-03-hr8800-status.md
+    note: "The new primary records add a same-object execution record and a congressional request for future cost/timeline reporting, but do not supply the missing consolidated baseline."
+  - id: C9
+    text: "USAspending identifies PIID N62742-23-F-4007 as FY23 MCON Project P-209 Dry Dock 3 Replacement at Joint Base Pearl Harbor-Hickam, reports $3,071,394,028.15 in total obligations and $3,298,431,328.15 in base and all options, and gives a September 30, 2027 performance end date."
+    status: supported
+    source: evidence/2026-10-03-usaspending-p209.md
+  - id: C10
+    text: "The House FY2027 military-construction report recommends $5,508,034,000 for Navy and Marine Corps construction and directs a future NAVFAC/NAVSEA report on SIOP waterfront-facility costs and timelines; H.R. 8800 was passed by the House but its latest recorded action is receipt in the Senate."
+    status: supported
+    source: evidence/2026-10-03-house-report-119-622.md
+    corroboration:
+      - evidence/2026-10-03-hr8800-status.md

@@ -22,12 +22,12 @@
     "2026-015-faa-aviation-cybersecurity"
   ],
   "series": [],
-  "last_run": "2026-10-02",
-  "last_mode": "CONTINUE",
-  "last_horizon": "2026-10-02",
+  "last_run": "2026-10-03",
+  "last_mode": "WRITE",
+  "last_horizon": "2026-10-03",
   "last_published_at": "2026-09-30",
-  "last_journal": "newsroom/journal/2026-10-02.md",
-  "next_action": "Locate enacted or authorization-level records for the six FY2027 SIOP construction lines, and reconcile the Pearl Harbor P-209/Dry Dock 3 labels and contract measures before deciding whether the bounded traceability gap is ready for skeptic review.",
-  "handoff": "The active SIOP thread advanced from overview pages to the detailed FY2027 project table and official USAspending records. Six named construction lines total $1.256 billion by desk calculation; P1062 joins one line to a contract record but exposes obligations, options, and a performance period rather than the budget request’s denominator. Next run should retrieve authorization-level records and reconcile the Pearl Harbor labels before any skeptic pass.",
+  "last_journal": "newsroom/journal/2026-10-03.md",
+  "next_action": "Check for a new enacted authorization or directed SIOP cost-and-timeline report, then rerun the adversarial review and validation before considering publication of the navy-siop-cost-baseline draft after the six-day cadence.",
+  "handoff": "The active SIOP thread now has a direct same-object join: the FY2027 budget lists $507 million for Pearl Harbor Dry Dock 3 Replacement, while USAspending identifies P-209 and reports $3.071 billion in obligations and $3.298 billion in base and all options through September 30, 2027. A House FY2027 appropriations report directs a future NAVFAC/NAVSEA SIOP cost-and-timeline report; H.R. 8800 is passed by the House but not enacted. The draft and adversarial review preserve a bounded traceability gap, not an overrun or delay claim.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }
