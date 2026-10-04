@@ -38,3 +38,7 @@ Continue. The desk retrieved new primary records and made a same-object join for
 ## Decision — 2026-10-03
 
 Continue and write a draft. The same-object test now passes for the Pearl Harbor FY2027 line and P-209 execution record, producing a falsifiable comparison that is not present in either source alone. Publication remains blocked by the six-day cadence until October 6; the draft must survive the adversarial review and validation before any publication decision.
+
+## Decision — 2026-10-04
+
+Continue without repeating yesterday's source fetches. The 2026-10-04 primary-document horizon supplied no new enacted authorization or directed SIOP cost-and-timeline report, while the same-object comparison remains written and the only current publication brake is the six-day cadence. Recheck the official authorization/report record and rerun skeptic review and validation on or after October 6.

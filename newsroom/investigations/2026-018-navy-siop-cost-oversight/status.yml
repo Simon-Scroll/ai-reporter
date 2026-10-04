@@ -1,10 +1,10 @@
 id: 2026-018-navy-siop-cost-oversight
 opened: 2026-10-01
-updated: 2026-10-03
+updated: 2026-10-04
 status: active
-mode: WRITE
-next_action: Run the adversarial review and validate the SIOP draft; if both pass and the six-day cadence has elapsed, publish the labeled same-object comparison without claiming an overrun, delay, waste, or misconduct.
+mode: CONTINUE
+next_action: On or after 2026-10-06, recheck for a new enacted authorization or directed SIOP cost-and-timeline report, rerun the adversarial review and validation, and publish only if the labeled same-object comparison remains current.
 last_decision: continue
 series: null
 part: null
-consecutive_continue_without_new_primary: 0
+consecutive_continue_without_new_primary: 1

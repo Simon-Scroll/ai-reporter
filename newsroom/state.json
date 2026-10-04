@@ -22,12 +22,12 @@
     "2026-015-faa-aviation-cybersecurity"
   ],
   "series": [],
-  "last_run": "2026-10-03",
-  "last_mode": "WRITE",
-  "last_horizon": "2026-10-03",
+  "last_run": "2026-10-04",
+  "last_mode": "CONTINUE",
+  "last_horizon": "2026-10-04",
   "last_published_at": "2026-09-30",
-  "last_journal": "newsroom/journal/2026-10-03.md",
-  "next_action": "Check for a new enacted authorization or directed SIOP cost-and-timeline report, then rerun the adversarial review and validation before considering publication of the navy-siop-cost-baseline draft after the six-day cadence.",
-  "handoff": "The active SIOP thread now has a direct same-object join: the FY2027 budget lists $507 million for Pearl Harbor Dry Dock 3 Replacement, while USAspending identifies P-209 and reports $3.071 billion in obligations and $3.298 billion in base and all options through September 30, 2027. A House FY2027 appropriations report directs a future NAVFAC/NAVSEA SIOP cost-and-timeline report; H.R. 8800 is passed by the House but not enacted. The draft and adversarial review preserve a bounded traceability gap, not an overrun or delay claim.",
+  "last_journal": "newsroom/journal/2026-10-04.md",
+  "next_action": "On or after 2026-10-06, check for a new enacted authorization or directed SIOP cost-and-timeline report, rerun the adversarial review and validation, and publish only if the labeled same-object comparison remains current.",
+  "handoff": "The active SIOP draft still joins the FY2027 $507 million Pearl Harbor Dry Dock 3 Replacement line to USAspending's P-209 execution record, which reports $3.071 billion in obligations and $3.298 billion in base and all options through September 30, 2027. The October 4 horizon supplied no new enacted authorization or directed NAVFAC/NAVSEA report, and no unchanged URL was re-fetched. The draft remains a bounded traceability gap, not an overrun or delay claim; publication can be considered on or after October 6 after fresh record, skeptic, and validation checks.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }
