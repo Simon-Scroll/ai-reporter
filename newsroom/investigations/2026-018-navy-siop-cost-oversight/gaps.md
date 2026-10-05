@@ -42,3 +42,7 @@ Continue and write a draft. The same-object test now passes for the Pearl Harbor
 ## Decision — 2026-10-04
 
 Continue without repeating yesterday's source fetches. The 2026-10-04 primary-document horizon supplied no new enacted authorization or directed SIOP cost-and-timeline report, while the same-object comparison remains written and the only current publication brake is the six-day cadence. Recheck the official authorization/report record and rerun skeptic review and validation on or after October 6.
+
+## Decision — 2026-10-05
+
+Continue without repeating unchanged source fetches. The 2026-10-05 horizon supplied no new enacted authorization or directed SIOP cost-and-timeline report, and the existing same-object comparison remains a bounded, validated draft. The draft stays unpublished until the cadence permits publication; the next run should check the official authorization/report record and rerun the adversarial review before any publication decision.
