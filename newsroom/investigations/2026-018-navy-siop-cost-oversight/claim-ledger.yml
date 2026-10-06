@@ -51,3 +51,7 @@ claims:
     source: evidence/2026-10-03-house-report-119-622.md
     corroboration:
       - evidence/2026-10-03-hr8800-status.md
+  - id: C11
+    text: "The current NAVFAC PEO Infrastructure and Expeditionary page says PMO 555 oversees $6.3 billion in ongoing construction, design, planning, and environmental work and describes SIOP as integrating design, construction, budgeting, contracting, and staffing to manage cost, schedule, and risks."
+    status: supported
+    source: evidence/2026-10-06-navfac-peo-ie.md

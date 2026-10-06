@@ -25,3 +25,9 @@ No PDF or data dump is stored in the repository.
 - `evidence/2026-10-03-hr8800-status.md` — Congress.gov records H.R. 8800 as passed by the House and received in the Senate on September 14, 2026, without an enacted-status event.
 
 No PDF or data dump is stored in the repository.
+
+## 2026-10-06
+
+- `evidence/2026-10-06-navfac-peo-ie.md` — the current NAVFAC PEO Infrastructure and Expeditionary page reports $6.3 billion in ongoing construction, design, planning, and environmental work and describes SIOP cost, schedule, and risk governance without publishing a reconciled full-program baseline.
+
+The fresh Congress.gov and NAVFAC checks found no enacted FY2027 authorization or completed directed NAVFAC/NAVSEA cost-and-timeline report. No PDF or data dump is stored in the repository.

@@ -1,0 +1,54 @@
+date: 2026-10-06
+mode: PUBLISH
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: read the prior CONTINUE run, one active SIOP investigation, and ten parked investigations
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon
+  horizon: newsroom/horizon/2026-10-06/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-018-navy-siop-cost-oversight
+    decision: continue
+    reason: the same-object comparison remained viable and the fresh official-record check was the next action after the cadence interval
+  - parked_board:
+    decision: remain parked
+    reason: no 2026-10-06 horizon record met a documented reopen condition
+investigations:
+  - id: 2026-018-navy-siop-cost-oversight
+    decision: publish
+    new_primary_documents: 1
+    sources:
+      - https://www.navfac.navy.mil/PEO-Infrastructure-and-Expeditionary/
+      - https://www.congress.gov/bill/119th-congress/house-bill/8800
+      - https://www.congress.gov/119/plaws/publ60/PLAW-119publ60.htm
+    changed:
+      - newsroom/investigations/2026-018-navy-siop-cost-oversight/status.yml
+      - newsroom/investigations/2026-018-navy-siop-cost-oversight/evidence/2026-10-06-navfac-peo-ie.md
+      - newsroom/investigations/2026-018-navy-siop-cost-oversight/evidence-log.md
+      - newsroom/investigations/2026-018-navy-siop-cost-oversight/claim-ledger.yml
+      - newsroom/investigations/2026-018-navy-siop-cost-oversight/timeline.md
+      - newsroom/investigations/2026-018-navy-siop-cost-oversight/gaps.md
+      - newsroom/investigations/2026-018-navy-siop-cost-oversight/traces/2026-10-06.md
+      - newsroom/investigations/2026-018-navy-siop-cost-oversight/factcheck/adversarial-review.md
+      - newsroom/published/navy-siop-cost-baseline.md
+publication:
+  published: true
+  file: newsroom/published/navy-siop-cost-baseline.md
+  validation: npm run validate -- newsroom/published/navy-siop-cost-baseline.md; npm run validate:all; npm run site:build
+journal:
+  - newsroom/journal/2026-10-06.md
+desk_notes:
+  - newsroom/desk/2026-10-06-r1.md

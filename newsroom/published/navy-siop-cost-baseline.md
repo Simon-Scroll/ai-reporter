@@ -1,10 +1,10 @@
 ---
 title: "The Navy’s $507 million SIOP line is not a public project baseline"
 slug: navy-siop-cost-baseline
-date: 2026-10-03
+date: 2026-10-06
 dek: "A FY2027 budget line can be joined to a Pearl Harbor dry-dock execution record, but the public documents still do not reconcile that project with the Navy’s broader $1.8 billion SIOP headline."
-finding: "The Navy’s FY2027 budget lists $507 million for Pearl Harbor Dry Dock 3 Replacement, while the matching P-209 execution record reports $3.071 billion in total obligations and $3.298 billion in base and all options; neither record supplies a current consolidated SIOP baseline."
-status: draft
+finding: "The Navy’s FY2027 budget lists $507 million for Pearl Harbor Dry Dock 3 Replacement, while the matching P-209 execution record reports $3.071 billion in total obligations and $3.298 billion in base and all options; the public record still does not supply a current consolidated SIOP baseline."
+status: published
 language: en
 investigation_id: 2026-018-navy-siop-cost-oversight
 claims:
@@ -25,7 +25,10 @@ claims:
     source_ids: [ndaa_status]
   - id: C6
     text: "The public records permit a same-object project join but do not expose one current reconciliation mapping the $1.8 billion SIOP headline to the construction lines, FSRM, OPN equipment, contract obligations, and program-level cost and risk reporting."
-    source_ids: [pb27, omn, p209, house_report, ndaa_status]
+    source_ids: [pb27, omn, p209, house_report, ndaa_status, navfac_peo]
+  - id: C7
+    text: "The current NAVFAC PEO Infrastructure and Expeditionary page says PMO 555 oversees $6.3 billion in ongoing construction, design, planning, and environmental work and describes SIOP as integrating design, construction, budgeting, contracting, and staffing to manage cost, schedule, and risks."
+    source_ids: [navfac_peo]
 disclosure: true
 sources:
   - id: pb27
@@ -53,6 +56,11 @@ sources:
     url: https://www.congress.gov/bill/119th-congress/house-bill/8800
     retrieved: 2026-10-03
     locator: "Bill status panel, 'Latest Action,' and tracker"
+  - id: navfac_peo
+    type: government
+    url: https://www.navfac.navy.mil/PEO-Infrastructure-and-Expeditionary/
+    retrieved: 2026-10-06
+    locator: "PEO IE overview, 'What is a PEO?'"
 ---
 
 ## The finding
@@ -63,9 +71,11 @@ sources:
 
 **Inference.** The $507 million FY2027 line is therefore not the project’s public execution total. It is a budget-year measure that can be connected to a larger project record, but it cannot be substituted for that record’s obligation or option values. Those are different measures, not evidence of an overrun. (C1–C3)
 
+**Fact.** The current NAVFAC PEO Infrastructure and Expeditionary page says PMO 555 oversees $6.3 billion in ongoing construction, design, planning, and environmental work. It also describes SIOP as integrating design, construction, budgeting, contracting, and staffing to manage cost, schedule, and risks. (C7)
+
 ## What remains unjoined
 
-**Inference.** The comparison makes the project traceable without making the whole program traceable. The Navy’s FY2027 presentation says $1.8 billion is devoted to SIOP, while the project table, the O&M record, and the execution record use different appropriations and accounting dimensions. The public documents do not provide one current table that maps the headline to those project, FSRM, equipment, obligation, cost, schedule, and risk measures. (C1, C6)
+**Inference.** The comparison makes the project traceable without making the whole program traceable. The Navy’s FY2027 presentation says $1.8 billion is devoted to SIOP, while the current NAVFAC page reports $6.3 billion in ongoing work and the project table, O&M record, and execution record use different appropriations and accounting dimensions. The public documents do not provide one current table that maps the headline to those project, FSRM, equipment, obligation, cost, schedule, and risk measures. (C1, C6, C7)
 
 The House FY2027 military-construction report does not close that gap. It recommends $5.508034 billion for Navy and Marine Corps construction and directs NAVFAC and NAVSEA to produce a future report on SIOP waterfront-production-facility cost-benefit, timelines, and estimated costs. The FY2027 authorization vehicle cited in the current record is also not enacted: Congress.gov records H.R. 8800 as passed by the House and received in the Senate. (C4, C5)
 
