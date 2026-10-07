@@ -1,0 +1,33 @@
+claims:
+  - id: C1
+    type: fact
+    text: "GAO reported that DOL suspended Section 503 AAP certification and contractor audits; from FY2021 through FY2025, OFCCP received 3,063 Section 503 complaints and investigated 99, including 309 complaints and zero investigations recorded for FY2025."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "The August 21, 2026 final rule became effective September 21, 2026, except for the delayed 41 CFR part 60-30 amendment, and removed the Section 503 disability-inquiry, related data-collection, and 7 percent utilization requirements."
+    status: supported
+    evidence:
+      - E2
+  - id: C3
+    type: fact
+    text: "The final rule says contractors with 50 or more employees and a federal contract or subcontract of at least $50,000 must still develop and maintain a written annual affirmative action program."
+    status: supported
+    evidence:
+      - E2
+  - id: C4
+    type: fact
+    text: "DOL's current OFCCP page says the Section 503 and VEVRAA AAP certification period remains closed, pending compliance reviews were administratively closed, and the November 2024 scheduling list was not pursued, while the obligations remain in effect."
+    status: supported
+    evidence:
+      - E3
+  - id: C5
+    type: inference
+    text: "As of October 7, 2026, the public record shows a continuing written-AAP obligation alongside a closed certification period and removed utilization/self-identification measures; whether DOL has established a comparable replacement monitoring record remains unresolved."
+    status: provisional
+    evidence:
+      - E1
+      - E2
+      - E3

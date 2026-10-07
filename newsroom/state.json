@@ -6,7 +6,9 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [],
+  "open_investigations": [
+    "2026-019-dol-section-503-oversight"
+  ],
   "parked_investigations": [
     "2026-013-opm-workforce-data-completeness",
     "2026-011-nnsa-strategic-partnership-projects",
@@ -20,12 +22,12 @@
     "2026-015-faa-aviation-cybersecurity"
   ],
   "series": [],
-  "last_run": "2026-10-06",
-  "last_mode": "PUBLISH",
-  "last_horizon": "2026-10-06",
+  "last_run": "2026-10-07",
+  "last_mode": "SCAN",
+  "last_horizon": "2026-10-07",
   "last_published_at": "2026-10-06",
-  "last_journal": "newsroom/journal/2026-10-06.md",
-  "next_action": "Watch for a distinct enacted authorization, completed directed report, or project-level record that creates a new SIOP finding; do not repeat unchanged source queries.",
-  "handoff": "The SIOP investigation published a bounded comparison joining the FY2027 $507 million Pearl Harbor Dry Dock 3 Replacement line to USAspending's P-209 execution record, which reports $3.071 billion in obligations and $3.298 billion in base and all options through September 30, 2027. A fresh October 6 check found no enacted FY2027 authorization or completed directed NAVFAC/NAVSEA report. Current NAVFAC material reports $6.3 billion in ongoing work and describes cost, schedule, and risk governance, but does not provide a reconciled program baseline; the article does not allege overrun, delay, waste, or misconduct.",
+  "last_journal": "newsroom/journal/2026-10-07.md",
+  "next_action": "Locate a post-September 21, 2026 OFCCP Contractor Portal, complaint-processing, or EEOC transfer record and compare it with the final Section 503 AAP requirements; do not repeat the already captured GAO, final-rule, or OFCCP overview pages.",
+  "handoff": "The desk opened 2026-019-dol-section-503-oversight after reading GAO-26-107937, the August 21, 2026 Section 503 final rule, and DOL's current OFCCP operating notice. GAO records a continuing written-AAP obligation alongside suspended certification and audits; the final rule removed the 7 percent utilization and self-identification measures, and DOL says certification remains closed. This is a provisional oversight/traceability question, not a claim of contractor noncompliance; the next run should find a current replacement monitoring or complaint-processing record before considering a draft.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }

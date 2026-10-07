@@ -1,0 +1,55 @@
+date: 2026-10-07
+mode: SCAN
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: read the prior PUBLISH run, no active investigations, and ten parked investigations
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon
+  horizon: newsroom/horizon/2026-10-07/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: parked_board
+    decision: remain parked
+    reason: no October 7 horizon record met a documented reopen condition
+  - id: 2026-019-dol-section-503-oversight
+    decision: continue
+    reason: three primary records establish a distinct post-rule oversight comparison, with a current implementation record still needed
+investigations:
+  - id: 2026-019-dol-section-503-oversight
+    decision: opened
+    new_primary_documents: 3
+    sources:
+      - https://files.gao.gov/reports/GAO-26-107937/index.html
+      - https://www.federalregister.gov/documents/2026/08/21/2026-17115/modifications-to-the-regulations-implementing-section-503-of-the-rehabilitation-act-of-1973-as
+      - https://www.dol.gov/agencies/ofccp
+    changed:
+      - newsroom/investigations/2026-019-dol-section-503-oversight/assignment.md
+      - newsroom/investigations/2026-019-dol-section-503-oversight/status.yml
+      - newsroom/investigations/2026-019-dol-section-503-oversight/hypothesis.md
+      - newsroom/investigations/2026-019-dol-section-503-oversight/timeline.md
+      - newsroom/investigations/2026-019-dol-section-503-oversight/claim-ledger.yml
+      - newsroom/investigations/2026-019-dol-section-503-oversight/evidence-log.md
+      - newsroom/investigations/2026-019-dol-section-503-oversight/evidence/2026-10-07-gao-26-107937.md
+      - newsroom/investigations/2026-019-dol-section-503-oversight/evidence/2026-10-07-federal-register-2026-17115.md
+      - newsroom/investigations/2026-019-dol-section-503-oversight/evidence/2026-10-07-dol-ofccp-current.md
+      - newsroom/investigations/2026-019-dol-section-503-oversight/gaps.md
+      - newsroom/investigations/2026-019-dol-section-503-oversight/traces/2026-10-07.md
+publication:
+  published: false
+  reason: new thread needs a post-rule implementation or complaint-processing record and skeptic/validation gates
+journal:
+  - newsroom/journal/2026-10-07.md
+desk_notes:
+  - newsroom/desk/2026-10-07-r1.md
