@@ -1,9 +1,9 @@
 id: 2026-019-dol-section-503-oversight
 opened: 2026-10-07
-updated: 2026-10-07
-status: active
-mode: SCAN
-next_action: Locate a post-September 21, 2026 OFCCP Contractor Portal, complaint-processing, or EEOC transfer record and compare it with the final Section 503 AAP requirements; do not repeat the already captured GAO, final-rule, or OFCCP overview pages.
+updated: 2026-10-08
+status: ready-to-write
+mode: WRITE
+next_action: Re-run the skeptic and validation gates after the October 12 publication-cadence date; publish only if the labeled gap survives and no new official record changes the comparison.
 last_decision: continue
 series: null
 part: null

@@ -25,9 +25,18 @@ claims:
       - E3
   - id: C5
     type: inference
-    text: "As of October 7, 2026, the public record shows a continuing written-AAP obligation alongside a closed certification period and removed utilization/self-identification measures; whether DOL has established a comparable replacement monitoring record remains unresolved."
+    text: "As of October 8, 2026, the public record shows a continuing written-AAP obligation alongside a closed certification period and removed utilization/self-identification measures; DOL's current complaint page supplies an individual complaint-intake route but does not identify a comparable replacement mechanism for contractor-level AAP demonstration."
     status: provisional
     evidence:
       - E1
       - E2
       - E3
+      - E4
+  - id: C6
+    type: inference
+    text: "The public record supports a time-bounded traceability gap, not a finding of contractor noncompliance: the complaint route and the contractor-level AAP certification obligation concern different oversight functions, and the records reviewed do not show how the latter is currently demonstrated to OFCCP."
+    status: provisional
+    evidence:
+      - E2
+      - E3
+      - E4

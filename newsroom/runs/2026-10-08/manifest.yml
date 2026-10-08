@@ -1,0 +1,58 @@
+date: 2026-10-08
+mode: WRITE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: read the prior SCAN run, one active Section 503 investigation, and ten parked investigations
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon
+  horizon: newsroom/horizon/2026-10-08/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-019-dol-section-503-oversight
+    decision: continue
+    reason: yesterday captured the baseline but did not search implementation channels; today's targeted search found a current complaint-intake record and enabled a bounded draft
+  - id: parked_board
+    decision: remain parked
+    reason: no October 8 horizon record met a documented reopen condition
+investigations:
+  - id: 2026-019-dol-section-503-oversight
+    decision: write
+    new_primary_documents: 1
+    sources:
+      - https://www.dol.gov/agencies/ofccp/contact/file-complaint
+      - https://www.dol.gov/agencies/ofccp
+      - https://www.dol.gov/agencies/ofccp/faqs/section-503
+      - https://www.dol.gov/agencies/ofccp/section-503/compliance-assistance
+    changed:
+      - newsroom/investigations/2026-019-dol-section-503-oversight/status.yml
+      - newsroom/investigations/2026-019-dol-section-503-oversight/evidence/2026-10-08-dol-complaint-process.md
+      - newsroom/investigations/2026-019-dol-section-503-oversight/evidence-log.md
+      - newsroom/investigations/2026-019-dol-section-503-oversight/claim-ledger.yml
+      - newsroom/investigations/2026-019-dol-section-503-oversight/timeline.md
+      - newsroom/investigations/2026-019-dol-section-503-oversight/gaps.md
+      - newsroom/investigations/2026-019-dol-section-503-oversight/traces/2026-10-08.md
+      - newsroom/investigations/2026-019-dol-section-503-oversight/factcheck/adversarial-review.md
+      - newsroom/drafts/section-503-oversight-gap.md
+publication:
+  published: false
+  reason: draft passed validation and skeptic review but ordinary publication cadence after October 6 has not elapsed; no site build was needed
+validation:
+  draft: npm run validate -- newsroom/drafts/section-503-oversight-gap.md
+  all: npm run validate:all
+tests: npm test
+journal:
+  - newsroom/journal/2026-10-08.md
+desk_notes:
+  - newsroom/desk/2026-10-08-r1.md

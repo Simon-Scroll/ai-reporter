@@ -22,12 +22,12 @@
     "2026-015-faa-aviation-cybersecurity"
   ],
   "series": [],
-  "last_run": "2026-10-07",
-  "last_mode": "SCAN",
-  "last_horizon": "2026-10-07",
+  "last_run": "2026-10-08",
+  "last_mode": "WRITE",
+  "last_horizon": "2026-10-08",
   "last_published_at": "2026-10-06",
-  "last_journal": "newsroom/journal/2026-10-07.md",
-  "next_action": "Locate a post-September 21, 2026 OFCCP Contractor Portal, complaint-processing, or EEOC transfer record and compare it with the final Section 503 AAP requirements; do not repeat the already captured GAO, final-rule, or OFCCP overview pages.",
-  "handoff": "The desk opened 2026-019-dol-section-503-oversight after reading GAO-26-107937, the August 21, 2026 Section 503 final rule, and DOL's current OFCCP operating notice. GAO records a continuing written-AAP obligation alongside suspended certification and audits; the final rule removed the 7 percent utilization and self-identification measures, and DOL says certification remains closed. This is a provisional oversight/traceability question, not a claim of contractor noncompliance; the next run should find a current replacement monitoring or complaint-processing record before considering a draft.",
+  "last_journal": "newsroom/journal/2026-10-08.md",
+  "next_action": "Re-run the skeptic and validation gates after the October 12 publication-cadence date; publish only if the labeled gap survives and no new official record changes the comparison.",
+  "handoff": "The Section 503 thread now has a bounded draft supported by GAO-26-107937, the September 21 final rule, DOL's current OFCCP notice, and DOL's current complaint-process page. The public record documents an individual complaint route while AAP certification remains closed, but it does not identify a replacement contractor-level demonstration mechanism. This is a labeled traceability gap, not contractor noncompliance; do not publish before October 12 and rerun skeptic and validation gates if a new official implementation record appears.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }
