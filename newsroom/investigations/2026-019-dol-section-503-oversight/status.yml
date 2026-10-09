@@ -1,10 +1,10 @@
 id: 2026-019-dol-section-503-oversight
 opened: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-09
 status: ready-to-write
 mode: WRITE
 next_action: Re-run the skeptic and validation gates after the October 12 publication-cadence date; publish only if the labeled gap survives and no new official record changes the comparison.
 last_decision: continue
 series: null
 part: null
-consecutive_continue_without_new_primary: 0
+consecutive_continue_without_new_primary: 1
