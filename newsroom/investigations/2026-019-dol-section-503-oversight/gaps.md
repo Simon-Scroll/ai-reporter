@@ -16,6 +16,10 @@ Continue, without repeating yesterday's retrieval. The comparison already suppor
 
 Continue, without repeating the unchanged implementation search. The October 10 horizon contains no distinct post-September 21 Section 503 implementation record, while the same-object comparison already supports a labeled draft. Keep the thread active until the October 12 cadence gate, then run the skeptic and validation gates rather than parking a publishable comparison.
 
+## Decision — 2026-10-11
+
+Continue, without repeating the unchanged implementation search. The October 11 horizon again contains no distinct post-September 21 Section 503 implementation record. The same-object test remains satisfied by the written-AAP obligation, closed certification period, and separate individual complaint route, so the bounded draft remains ready to write rather than being parked; the cadence gate opens October 12 for a fresh official-record check, skeptic review, and validation.
+
 ## Open questions
 
 - Whether OFCCP has a contractor-level AAP certification or demonstration function that is not identified on the public pages reviewed.

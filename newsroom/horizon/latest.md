@@ -1,9 +1,56 @@
-# Horizon brief — 2026-10-10
+# Horizon brief — 2026-10-11
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
 ## sec-edgar
-Ingest failed: 403 Forbidden for https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&count=40&output=atom
+- **4 - FRIEDMAN BRIAN P (0001275002) (Reporting)**
+  - when: 2026-10-09T21:56:14-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1275002/000121465926012761/0001214659-26-012761-index.htm
+  - Filed: 2026-10-09 AccNo: 0001214659-26-012761 Size: 8 KB
+- **4 - Jefferies Financial Group Inc. (0000096223) (Issuer)**
+  - when: 2026-10-09T21:56:14-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/96223/000121465926012761/0001214659-26-012761-index.htm
+  - Filed: 2026-10-09 AccNo: 0001214659-26-012761 Size: 8 KB
+- **3 - Bregier Fabrice Roger Daniel (0002159509) (Reporting)**
+  - when: 2026-10-09T21:45:05-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2159509/000110465926115137/0001104659-26-115137-index.htm
+  - Filed: 2026-10-09 AccNo: 0001104659-26-115137 Size: 12 KB
+- **3 - Vertical Aerospace Ltd. (0001867102) (Issuer)**
+  - when: 2026-10-09T21:45:05-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1867102/000110465926115137/0001104659-26-115137-index.htm
+  - Filed: 2026-10-09 AccNo: 0001104659-26-115137 Size: 12 KB
+- **3 - Zavakopoulos Petros (0002118416) (Reporting)**
+  - when: 2026-10-09T21:40:53-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2118416/000114036126039311/0001140361-26-039311-index.htm
+  - Filed: 2026-10-09 AccNo: 0001140361-26-039311 Size: 4 KB
+- **3 - AI OKTO Corp. (0002095591) (Issuer)**
+  - when: 2026-10-09T21:40:53-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2095591/000114036126039311/0001140361-26-039311-index.htm
+  - Filed: 2026-10-09 AccNo: 0001140361-26-039311 Size: 4 KB
+- **3 - Panagiotidis Petros Panagiotis (0002118775) (Reporting)**
+  - when: 2026-10-09T21:40:51-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2118775/000114036126039310/0001140361-26-039310-index.htm
+  - Filed: 2026-10-09 AccNo: 0001140361-26-039310 Size: 6 KB
+- **3 - AI OKTO Corp. (0002095591) (Issuer)**
+  - when: 2026-10-09T21:40:51-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2095591/000114036126039310/0001140361-26-039310-index.htm
+  - Filed: 2026-10-09 AccNo: 0001140361-26-039310 Size: 6 KB
+- **3 - Syriopoulos John Paul (0002118332) (Reporting)**
+  - when: 2026-10-09T21:40:50-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2118332/000114036126039312/0001140361-26-039312-index.htm
+  - Filed: 2026-10-09 AccNo: 0001140361-26-039312 Size: 3 KB
+- **3 - AI OKTO Corp. (0002095591) (Issuer)**
+  - when: 2026-10-09T21:40:50-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2095591/000114036126039312/0001140361-26-039312-index.htm
+  - Filed: 2026-10-09 AccNo: 0001140361-26-039312 Size: 3 KB
+- **3/A - GG Managers LLC (0001752309) (Reporting)**
+  - when: 2026-10-09T21:32:27-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1752309/000121390026108608/0001213900-26-108608-index.htm
+  - Filed: 2026-10-09 AccNo: 0001213900-26-108608 Size: 15 KB
+- **3/A - Cross Ocean Partners Management GP, LLC (0001752227) (Reporting)**
+  - when: 2026-10-09T21:32:27-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1752227/000121390026108608/0001213900-26-108608-index.htm
+  - Filed: 2026-10-09 AccNo: 0001213900-26-108608 Size: 15 KB
 
 ## federal-register
 - **Columbus Day, 2026**
@@ -118,6 +165,10 @@ Ingest failed: 403 Forbidden for https://www.sec.gov/cgi-bin/browse-edgar?action
   - This Scroll-Driven Narrative tells the story of how the federal government is trying to strengthen U.S. manufacturing through Manufacturing USA—a national network of institutes that are partnerships between federal agencies, companies, universities, and others. It is a companion to a series of reports GAO has issued examining the Manufacturing USA program—for example, Advanced Manufacturing: Aligning Strategies and Improving Agency Reviews Could Help Institutes Achieve National Goals, GAO-25-107
 
 ## courtlistener
+- **Gakou v. Warden**
+  - when: 2026-10-10T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11026597/gakou-v-warden/
+  - Case: 26-10925 Document: 31-2 Page: 1 Date Filed: 10/10/2026 United States Court of Appeals for the Fifth Circuit United States Court of Appeals _____________ Fifth Circuit FILED No. 26-10925 October 10, 2026 _____________ Original document
 - **Luis Albor v. Elizabeth Albor**
   - when: 2026-10-09T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11024611/luis-albor-v-elizabeth-albor/
@@ -162,10 +213,6 @@ Ingest failed: 403 Forbidden for https://www.sec.gov/cgi-bin/browse-edgar?action
   - when: 2026-10-09T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11024235/lesko-v-greene-cty-bd-of-commrs/
   - [Cite as Lesko v. Greene Cty. Bd. of Commrs., 2026-Ohio-3982.] IN THE COURT OF APPEALS OF OHIO SECOND APPELLATE DISTRICT GREENE COUNTY RICHARD LESKO, ET AL. : : C.A. No. 2026-CA-25 Appellees : : Trial Court Original document
-- **Jenkins v. City of Utica**
-  - when: 2026-10-09T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11025340/jenkins-v-city-of-utica/
-  - Jenkins v City of Utica 2026 NY Slip Op 05872 October 9, 2026 Appellate Division, Fourth Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. TIFFANY S. JENKINS, PLAINTIFF-APPELLANT, v CITY OF UTICA AND JAMES FEMIA, DEFENDANTS-RESPONDENTS. Supreme Court of the State of New York, Appellate Division, Fourth Judicial Department Decided on October 9, 2026 589 CA Original document
 
 ## uk-legislation
 - **The Social Security (Income and Capital Disregards) (Amendment) Regulations 2026**
