@@ -1,10 +1,10 @@
 id: 2026-019-dol-section-503-oversight
 opened: 2026-10-07
-updated: 2026-10-11
-status: ready-to-write
-mode: WRITE
-next_action: On or after October 12, check only for a distinct official Section 503 implementation record, then rerun skeptic review and article validation; publish only if the labeled gap survives and no new official record changes the comparison.
+updated: 2026-10-12
+status: published
+mode: PUBLISH
+next_action: Watch for a distinct official Section 503 implementation record; do not repeat the unchanged portal, complaint, FAQ, compliance-assistance, GAO, final-rule, or OFCCP overview retrievals.
 last_decision: continue
 series: null
 part: null
-consecutive_continue_without_new_primary: 3
+consecutive_continue_without_new_primary: 0

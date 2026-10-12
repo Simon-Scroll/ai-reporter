@@ -1,4 +1,4 @@
-# Horizon brief — 2026-10-11
+# Horizon brief — 2026-10-12
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
@@ -165,18 +165,22 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - This Scroll-Driven Narrative tells the story of how the federal government is trying to strengthen U.S. manufacturing through Manufacturing USA—a national network of institutes that are partnerships between federal agencies, companies, universities, and others. It is a companion to a series of reports GAO has issued examining the Manufacturing USA program—for example, Advanced Manufacturing: Aligning Strategies and Improving Agency Reviews Could Help Institutes Achieve National Goals, GAO-25-107
 
 ## courtlistener
+- **People of Guam v. D.J. Tosiuo (aka DJ Peter Robert Tosiuo; aka David Peter Robert Tosiuo; aka D.J.R. Tosiuo; aka D.J. BJ Saki Prick from Barrigada)**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031905/people-of-guam-v-dj-tosiuo-aka-dj-peter-robert-tosiuo-aka-david-peter/
+  - !F iled S premeCo rt ofG am C lerk of Co rt IN THE SUPREME COURT OF GUAM PEOPLE OF GUAM, Plaintiff-Appellee, v. D.J. TOSIUO (aka DJ Peter Robert Tosiuo; aka David Original document
 - **Gakou v. Warden**
   - when: 2026-10-10T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11026597/gakou-v-warden/
   - Case: 26-10925 Document: 31-2 Page: 1 Date Filed: 10/10/2026 United States Court of Appeals for the Fifth Circuit United States Court of Appeals _____________ Fifth Circuit FILED No. 26-10925 October 10, 2026 _____________ Original document
-- **Luis Albor v. Elizabeth Albor**
-  - when: 2026-10-09T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11024611/luis-albor-v-elizabeth-albor/
-  - Court of Appeals of the State of Georgia ATLANTA, October 09, 2026 The Court of Appeals hereby passes the following order A27D0158. LUIS ALBOR v. ELIZABETH ALBOR. Upon consideration of the Application for Discretionary Appeal, it is ordered that it be hereby GRANTED. The Appellant may file a Notice of Appeal within 10 days of the date of this order. The Clerk of Superior Court is directed to include a copy of this order in Original document
 - **State v. Pate**
   - when: 2026-10-09T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11024224/state-v-pate/
   - [Cite as State v. Pate, 2026-Ohio-3983.] IN THE COURT OF APPEALS OF OHIO SECOND APPELLATE DISTRICT MONTGOMERY COUNTY STATE OF OHIO : : C.A. No. 30755 Appellant : : Trial Court Case No. 2025 Original document
+- **Luis Albor v. Elizabeth Albor**
+  - when: 2026-10-09T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11024611/luis-albor-v-elizabeth-albor/
+  - Court of Appeals of the State of Georgia ATLANTA, October 09, 2026 The Court of Appeals hereby passes the following order A27D0158. LUIS ALBOR v. ELIZABETH ALBOR. Upon consideration of the Application for Discretionary Appeal, it is ordered that it be hereby GRANTED. The Appellant may file a Notice of Appeal within 10 days of the date of this order. The Clerk of Superior Court is directed to include a copy of this order in Original document
 - **People v. Thomas**
   - when: 2026-10-09T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11025314/people-v-thomas/
@@ -209,12 +213,27 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-10-09T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11024977/in-re-js/
   - Filed 10/9/26 CERTIFIED FOR PARTIAL PUBLICATION* IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA FOURTH APPELLATE DISTRICT DIVISION TWO In re J.S., a Person Coming Under the Juvenile Court Law. SAN BERNARDINO COUNTY CHILDREN AND FAMILY SERVICES, E087885 Plaintiff and Respondent, (Super.Ct.No. J303970) v. Original document
-- **Lesko v. Greene Cty. Bd. of Commrs.**
-  - when: 2026-10-09T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11024235/lesko-v-greene-cty-bd-of-commrs/
-  - [Cite as Lesko v. Greene Cty. Bd. of Commrs., 2026-Ohio-3982.] IN THE COURT OF APPEALS OF OHIO SECOND APPELLATE DISTRICT GREENE COUNTY RICHARD LESKO, ET AL. : : C.A. No. 2026-CA-25 Appellees : : Trial Court Original document
 
 ## uk-legislation
+- **The Parking Places on Roads and Waiting Restrictions (Cookstown) (Amendment) Order (Northern Ireland) 2026**
+  - when: 2026-10-12T07:37:34+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/176
+- **The Roads (Speed Limit) (No. 3) Order (Northern Ireland) 2026**
+  - when: 2026-10-12T07:37:25+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/175
+- **The Parking Places on Roads, Loading Bay and Waiting Restrictions (Newcastle) (Amendment) Order (Northern Ireland) 2026**
+  - when: 2026-10-12T07:37:05+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/174
+- **The Parking Places on Roads (Clogher) Order (Northern Ireland) 2026**
+  - when: 2026-10-12T07:34:40+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/173
+- **The Parking and Waiting Restrictions (Derry/Londonderry) (Amendment) Order (Northern Ireland) 2026**
+  - when: 2026-10-12T07:34:30+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/172
+- **The Five Estuaries Offshore Wind Farm (Correction) Order 2026**
+  - when: 2026-10-12T07:36:43+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1070
+  - This Order corrects errors in the Five Estuaries Offshore Wind Farm Order 2025 (S.I. 2025/1376), a development consent order made under the Planning Act 2008, following a request made under paragraph 1(5)(a) of Schedule 4 to that Act.
 - **The Social Security (Income and Capital Disregards) (Amendment) Regulations 2026**
   - when: 2026-10-09T14:31:26+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1072
@@ -239,27 +258,3 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-10-08T16:59:17+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1069
   - These Regulations make provision in relation to the recovery of debt under Schedules 3ZA and 3ZB to the Social Security Administration Act 1992 (c. 5) (“the Act”), as inserted by the Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28) (“2025 Act”).
-- **Inquiry (Mother and Baby Institutions, Magdalene Laundries and Workhouses) and Redress Scheme Act (Northern Ireland) 2026**
-  - when: 2026-10-09T08:22:11+01:00
-  - url: http://www.legislation.gov.uk/id/nia/2026/9
-  - An Act to make provision relating to a Truth Recovery Public Inquiry into Mother and Baby Institutions, Magdalene Laundries and Workhouses between 1922 and 1995; to establish the Truth Recovery Redress Service and to enable payments to be made to or in respect of certain persons; and for connected purposes.
-- **The Social Security (Miscellaneous Amendments) Regulations 2026**
-  - when: 2026-10-08T12:17:38+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1063
-  - These Regulations make amendments to the Social Security (Recovery of Benefits) Regulations 1997 (S.I. 1997/2205), the State Pension Credit Regulations 2002 (S.I. 2002/1792), the Housing Benefit Regulations 2006 (S.I. 2006/213), the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 (S.I. 2006/214), the Employment and Support Allowance Regulations 2008 (S.I. 2008/794), the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations
-- **The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2026**
-  - when: 2026-10-08T11:07:06+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/285
-  - The Management of Offenders (Scotland) Act 2019 (“the 2019 Act”) makes provision allowing the courts when making certain disposals to require a person to submit to electronic monitoring of their compliance with a condition attached to their disposal. The Scottish Ministers can do the same for an individual being released from custody on licence. Section 8 of the 2019 Act gives the Scottish Ministers the power to prescribe by regulations “approved devices” which can be used for electronic monitor
-- **The Crofting and Scottish Land Court Act 2026 (Commencement No. 1) Regulations 2026**
-  - when: 2026-10-09T03:09:04+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/283
-  - These Regulations bring certain provisions of the Crofting and Scottish Land Court Act 2026 (“the Act”) into force.
-- **The Scottish Land Commission (Number of Land Commissioners) Regulations 2026**
-  - when: 2026-10-08T09:08:44+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/284
-  - These Regulations amend the Land Reform (Scotland) Act 2016 to change the composition of the Scottish Land Commission. Regulation 2 amends section 4(4)(a) to reduce the number of Land Commissioners from five to four.
-- **Correction Slip**
-  - when: 2026-10-08T08:24:32+01:00
-  - url: http://www.legislation.gov.uk/wsi/2025/1169/pdfs/wsics_20251169_we_001.pdf
-  - These Regulations amend, in relation to Wales, Commission Implementing Regulation (EU) 2019/1793 on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries (EUR 2019/1793). Mae’r Rheoliadau hyn yn diwygio, o ran Cymru, Reoliad Gweithredu’r Comisiwn (EU) 2019/1793 ar gynyddu dros dro reolaethau swyddogol a mesurau brys sy’n rheoli mynediad nwyddau penodol o drydydd gwledydd penodol i’r Undeb (

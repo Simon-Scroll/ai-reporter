@@ -6,9 +6,7 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [
-    "2026-019-dol-section-503-oversight"
-  ],
+  "open_investigations": [],
   "parked_investigations": [
     "2026-013-opm-workforce-data-completeness",
     "2026-011-nnsa-strategic-partnership-projects",
@@ -22,12 +20,12 @@
     "2026-015-faa-aviation-cybersecurity"
   ],
   "series": [],
-  "last_run": "2026-10-11",
-  "last_mode": "CONTINUE",
-  "last_horizon": "2026-10-11",
-  "last_published_at": "2026-10-06",
-  "last_journal": "newsroom/journal/2026-10-11.md",
-  "next_action": "On or after October 12, check only for a distinct official Section 503 implementation record, then rerun skeptic review and article validation; publish only if the labeled gap survives and no new official record changes the comparison.",
-  "handoff": "The Section 503 thread remains ready to write with a bounded draft supported by GAO-26-107937, the September 21 final rule, DOL's current OFCCP notice, and DOL's current complaint-process page. The October 11 horizon repeated GAO-26-107937 but added no distinct implementation record, so no captured source was re-fetched and the no-new-primary counter is now three. The public record documents an individual complaint route while AAP certification remains closed, but does not identify a replacement contractor-level demonstration mechanism. This is a labeled traceability gap, not contractor noncompliance; on or after October 12, rerun skeptic and validation gates before considering publication.",
+  "last_run": "2026-10-12",
+  "last_mode": "PUBLISH",
+  "last_horizon": "2026-10-12",
+  "last_published_at": "2026-10-12",
+  "last_journal": "newsroom/journal/2026-10-12.md",
+  "next_action": "Watch for a distinct official Section 503 implementation record; do not repeat the unchanged portal, complaint, FAQ, compliance-assistance, GAO, final-rule, or OFCCP overview retrievals.",
+  "handoff": "The Section 503 investigation was published on October 12 after the cadence gate, a targeted official-site check, a fresh skeptic pass, and validation. The official Contractor Portal FAQ remains marked last updated March 25, 2024, and the AAP Verification Interface page is labeled Coming Soon; neither identifies a post-September 21, 2026 replacement contractor-level demonstration process. The published article is a bounded public-record traceability finding, not contractor noncompliance or a claim that complaint processing stopped. All ten parked investigations remain parked.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }

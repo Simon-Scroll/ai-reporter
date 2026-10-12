@@ -15,3 +15,9 @@ No PDF, zip, binary, secondary source, private material, or source PII was added
 - `https://www.dol.gov/agencies/ofccp/section-503/compliance-assistance` — current compliance-assistance page and “Compliance Resources” list; checked as a possible implementation record, but it did not identify a post-rule contractor certification or monitoring replacement.
 
 No PDF, zip, binary, secondary source, private material, email, or source PII was added to the repository.
+
+## 2026-10-12
+
+- `evidence/2026-10-12-dol-portal-check.md` — targeted official-site check of the Contractor Portal FAQ and AAP Verification Interface. The FAQ remains a March 25, 2024 page describing the preexisting annual certification system; it does not announce a post-September 21, 2026 certification opening or replacement demonstration process. The related interface page is labeled “Coming Soon.”
+
+The direct DOL page requests returned HTTP 403 from this environment; the official FAQ content was obtained through the official-page search result and recorded with its page locator. No PDF, zip, binary, secondary source, private material, email, or source PII was added.
