@@ -1,0 +1,259 @@
+# Horizon brief — 2026-10-13
+
+Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
+
+## sec-edgar
+- **4 - FRIEDMAN BRIAN P (0001275002) (Reporting)**
+  - when: 2026-10-09T21:56:14-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1275002/000121465926012761/0001214659-26-012761-index.htm
+  - Filed: 2026-10-09 AccNo: 0001214659-26-012761 Size: 8 KB
+- **4 - Jefferies Financial Group Inc. (0000096223) (Issuer)**
+  - when: 2026-10-09T21:56:14-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/96223/000121465926012761/0001214659-26-012761-index.htm
+  - Filed: 2026-10-09 AccNo: 0001214659-26-012761 Size: 8 KB
+- **3 - Bregier Fabrice Roger Daniel (0002159509) (Reporting)**
+  - when: 2026-10-09T21:45:05-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2159509/000110465926115137/0001104659-26-115137-index.htm
+  - Filed: 2026-10-09 AccNo: 0001104659-26-115137 Size: 12 KB
+- **3 - Vertical Aerospace Ltd. (0001867102) (Issuer)**
+  - when: 2026-10-09T21:45:05-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1867102/000110465926115137/0001104659-26-115137-index.htm
+  - Filed: 2026-10-09 AccNo: 0001104659-26-115137 Size: 12 KB
+- **3 - Zavakopoulos Petros (0002118416) (Reporting)**
+  - when: 2026-10-09T21:40:53-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2118416/000114036126039311/0001140361-26-039311-index.htm
+  - Filed: 2026-10-09 AccNo: 0001140361-26-039311 Size: 4 KB
+- **3 - AI OKTO Corp. (0002095591) (Issuer)**
+  - when: 2026-10-09T21:40:53-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2095591/000114036126039311/0001140361-26-039311-index.htm
+  - Filed: 2026-10-09 AccNo: 0001140361-26-039311 Size: 4 KB
+- **3 - Panagiotidis Petros Panagiotis (0002118775) (Reporting)**
+  - when: 2026-10-09T21:40:51-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2118775/000114036126039310/0001140361-26-039310-index.htm
+  - Filed: 2026-10-09 AccNo: 0001140361-26-039310 Size: 6 KB
+- **3 - AI OKTO Corp. (0002095591) (Issuer)**
+  - when: 2026-10-09T21:40:51-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2095591/000114036126039310/0001140361-26-039310-index.htm
+  - Filed: 2026-10-09 AccNo: 0001140361-26-039310 Size: 6 KB
+- **3 - Syriopoulos John Paul (0002118332) (Reporting)**
+  - when: 2026-10-09T21:40:50-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2118332/000114036126039312/0001140361-26-039312-index.htm
+  - Filed: 2026-10-09 AccNo: 0001140361-26-039312 Size: 3 KB
+- **3 - AI OKTO Corp. (0002095591) (Issuer)**
+  - when: 2026-10-09T21:40:50-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2095591/000114036126039312/0001140361-26-039312-index.htm
+  - Filed: 2026-10-09 AccNo: 0001140361-26-039312 Size: 3 KB
+- **3/A - GG Managers LLC (0001752309) (Reporting)**
+  - when: 2026-10-09T21:32:27-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1752309/000121390026108608/0001213900-26-108608-index.htm
+  - Filed: 2026-10-09 AccNo: 0001213900-26-108608 Size: 15 KB
+- **3/A - Cross Ocean Partners Management GP, LLC (0001752227) (Reporting)**
+  - when: 2026-10-09T21:32:27-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1752227/000121390026108608/0001213900-26-108608-index.htm
+  - Filed: 2026-10-09 AccNo: 0001213900-26-108608 Size: 15 KB
+
+## federal-register
+- **Columbus Day, 2026**
+  - when: 2026-10-13
+  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20972/columbus-day-2026
+  - Executive Office of the President — Presidential Document
+- **National Energy Dominance Month, 2026**
+  - when: 2026-10-13
+  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20969/national-energy-dominance-month-2026
+  - Executive Office of the President — Presidential Document
+- **Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL**
+  - when: 2026-10-13
+  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20902/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary
+  - Homeland Security Department, Coast Guard — Rule — The Coast Guard will enforce a safety zone on the South Branch of the Chicago River, between mile marker 325.4 and 325.5, for the assembly of the Lake Street Bridge for the Chicago Department of Transportation bridge repair. During the enforcement period, entry into, transiting, mooring, laying-up, or anchoring within the safety zone is prohibited unless authorized by the Captain of the Port Lake Michigan or a designated on-scene representative.
+- **Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL**
+  - when: 2026-10-13
+  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20901/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary
+  - Homeland Security Department, Coast Guard — Rule — The Coast Guard will enforce a moving safety zone on the South Branch of the Chicago River between the Lake Street Bridge at mile marker 325.5 and South Damen Avenue at mile marker 321 for the floating down of the bridge leaf for the Chicago Department of Transportation Bridge repair. During the enforcement period, entry into, transiting, mooring, laying-up, or anchoring within the safety zone is prohibited unless authorized by the Captain of th
+- **Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL**
+  - when: 2026-10-13
+  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20900/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary
+  - Homeland Security Department, Coast Guard — Rule — The Coast Guard will enforce a safety zone on the South Branch of the Chicago River between mile markers 325.5 and 325.4 for the demolition of the Lake Street Bridge for the Chicago Department of Transportation bridge repair. During the enforcement period, entry into, transiting, mooring, laying-up, or anchoring within the safety zone is prohibited unless authorized by the Captain of the Port Lake Michigan or a designated on-scene representative
+- **Petition for Reconsideration of Action in Rulemaking Proceeding**
+  - when: 2026-10-13
+  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20895/petition-for-reconsideration-of-action-in-rulemaking-proceeding
+  - Federal Communications Commission — Proposed Rule — Petition for Reconsideration (Petition) has been filed in the Commission's proceeding by Thomas Goode on behalf of the Alliance for Telecommunications Industry Solutions.
+- **Notice of Availability of the Proposed Notice of Sale for the Cook Inlet Outer Continental Shelf Oil and Gas One Big Beautiful Bill Act Lease Sale 2**
+  - when: 2026-10-13
+  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20892/notice-of-availability-of-the-proposed-notice-of-sale-for-the-cook-inlet-outer-continental-shelf-oil
+  - Interior Department, Ocean Energy Management Bureau — Notice — The Bureau of Ocean Energy Management (BOEM) announces the availability of the Proposed Notice of Sale (NOS) for the Cook Inlet Outer Continental Shelf (OCS) Oil and Gas One Big Beautiful Bill Act (OBBBA) Lease Sale 2 (Lease Sale BBC2). BOEM is publishing this notice pursuant to its regulatory authority under 30 CFR part 556. Pursuant to Section 19 of the OCS Lands Act, the Secretary of the Interior provides the Governors of affected
+- **Project-Level Predecisional Administrative Review Process**
+  - when: 2026-10-13
+  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20890/project-level-predecisional-administrative-review-process
+  - Agriculture Department, Forest Service — Rule — The U.S. Department of Agriculture is issuing a final rule amending its Project-Level Predecisional Administrative Review Process regulations. These regulations establish the process by which the public may file objections seeking administrative review of proposed projects and activities implementing land management plans on national forests and grasslands. The Department is amending these regulations to consolidate and streamline processes, increa
+- **Fees for Services Performed in Connection With Licensing and Related Services-2026 Update**
+  - when: 2026-10-13
+  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20889/fees-for-services-performed-in-connection-with-licensing-and-related-services-2026-update
+  - Surface Transportation Board — Rule — The Board updates for 2026 the fees that the public must pay to file certain cases and pleadings with the Board. Pursuant to this update, 87 of the Board's 135 fees will increase and 48 fees will remain at their current levels.
+- **Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets**
+  - when: 2026-10-13
+  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets
+  - Commodity Futures Trading Commission — Proposed Rule — The Commodity Futures Trading Commission ("Commission" or "CFTC") is issuing an advanced notice of proposed rulemaking regarding section 2(c)(2)(D) of the Commodity Exchange Act ("CEA" or "Act") to provide notice and seek public comment on its intent to develop and establish fit-for-purpose rules implementing section 2(c)(2)(D) of the Act with respect to transactions and markets in crypto assets.
+- **Formations of, Acquisitions by, and Mergers of Bank Holding Companies**
+  - when: 2026-10-13
+  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20887/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies
+  - Federal Reserve System — Notice
+- **Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company**
+  - when: 2026-10-13
+  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20886/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company
+  - Federal Reserve System — Notice
+
+## gao
+- **Geothermal Energy: Bureau of Land Management Should Improve Permitting Process as Development Demand Grows on Federal Lands**
+  - when: Thu, 08 Oct 2026 08:54:33 -0400
+  - url: https://www.gao.gov/products/gao-26-108040
+  - pdf: https://www.gao.gov/assets/gao-26-108040.pdf
+  - What GAO Found The Department of the Interior’s Bureau of Land Management (BLM) has processed an increasing volume of land nominations, leases, and permits for geothermal development on federal lands since 2019. Geothermal projects use heat from the earth’s interior to generate electricity. Parties interested in developing geothermal projects on federal lands nominate acres for BLM to review against land use plans. Such nominations increased from about 25,800 acres in 2020 to more than a millio
+- **Army Corps of Engineers: Determinations That Projects Do Not Need Environmental Mitigation Should Be Clarified**
+  - when: Thu, 08 Oct 2026 07:01:29 -0400
+  - url: https://www.gao.gov/products/gao-27-108551
+  - pdf: https://www.gao.gov/assets/gao-27-108551.pdf
+  - What GAO Found Through its Civil Works program, the U.S. Army Corps of Engineers plans, constructs, and maintains water resources projects around the country. For any Civil Works projects submitted to Congress for authorization, federal statute requires the Corps to report its plans for environmental mitigation—that is, actions to avoid, minimize, or compensate for any expected losses to fish and wildlife and damage to ecological resources resulting from its projects. If the Corps determines no
+- **Precision Navigation Systems: Challenges Remain with Fielding New Capabilities**
+  - when: Wed, 07 Oct 2026 07:29:33 -0400
+  - url: https://www.gao.gov/products/gao-27-107676
+  - pdf: https://www.gao.gov/assets/gao-27-107676.pdf
+  - What GAO Found The Department of Defense’s (DOD) efforts to modernize GPS continue to face delays. In response, DOD is developing new complementary sources of positioning, navigation, and timing (PNT) data to mitigate GPS threats. In 2026, after years of delays, DOD canceled the Next Generation Operational Control System ground control system and began modernizing the existing GPS Operational Control Segment. Among other effects, this creates risks for the launch, checkout, and operation of new
+- **IT Dashboard: Selected Agencies’ Investment Ratings Fail to Fully Consider Risks**
+  - when: Wed, 07 Oct 2026 07:21:12 -0400
+  - url: https://www.gao.gov/products/gao-27-108416
+  - pdf: https://www.gao.gov/assets/gao-27-108416.pdf
+  - What GAO Found The Federal Information Technology (IT) Dashboard is intended to show the level of risk for an investment. The Dashboard reflects Chief Information Officers’ (CIO) ratings of risk. Selected agencies that GAO reviewed used different processes to develop their ratings. Most of these processes included some, if not all, of six factors that the Office of Management and Budget (OMB) suggested. GAO’s assessments generally identified the presence of more risk compared to the associated
+- **Economic Development Administration: Better Coordination with Regional Commissions and Performance Management Needed**
+  - when: Wed, 07 Oct 2026 07:14:42 -0400
+  - url: https://www.gao.gov/products/gao-27-108496
+  - pdf: https://www.gao.gov/assets/gao-27-108496.pdf
+  - What GAO Found The Economic Development Administration (EDA) and five regional commissions—the Appalachian Regional Commission, Delta Regional Authority, Denali Commission, Northern Border Regional Commission, and Southeast Crescent Regional Commission—awarded more than $12 billion in grants during fiscal years 2016 through 2024 (Southwest Border Regional Commission awarded its first grants in fiscal year 2025). GAO found that economic conditions, such as poverty and unemployment rates, general
+- **Medicare Part D: Payments and Contracts Between Pharmacies and Plan Sponsors That Are Vertically Integrated [Reissued with revisions on Oct. 6, 2026]**
+  - when: Tue, 06 Oct 2026 14:40:52 -0400
+  - url: https://www.gao.gov/products/gao-26-107393
+  - pdf: https://www.gao.gov/assets/gao-26-107393.pdf
+  - What GAO Found The insurance plan sponsors that provide Medicare Part D drug coverage have increasingly become vertically integrated—that is, under common ownership—with pharmacy benefit managers and pharmacies. GAO found that, for four large Part D plan sponsors, the pharmacies they owned accounted for about 28 percent of the Part D drugs they provided to their enrollees (drug utilization) and about 24 percent of the total payments to pharmacies in 2023 (see figure). Payments included both rei
+- **Mortgage Lending: Newly Enacted Restrictions May Help Curb Unwanted Solicitations While Preserving Comparison Shopping**
+  - when: Tue, 06 Oct 2026 07:29:33 -0400
+  - url: https://www.gao.gov/products/gao-27-108874
+  - pdf: https://www.gao.gov/assets/gao-27-108874.pdf
+  - What GAO Found When homebuyers apply for a mortgage, lenders request their credit reports from credit reporting agencies. These agencies may then sell the homebuyers’ contact and credit information to other lenders and brokers, which use it to send competing loan offers. Before recent legislation, credit reporting agencies could, without the homebuyer’s consent, provide this information to those that did not have an existing relationship with the homebuyer (see figure). Thus, homebuyers could r
+- **Disability Employment: DOL Should Enhance Monitoring and Guidance for Federal Contractors**
+  - when: Tue, 06 Oct 2026 07:13:51 -0400
+  - url: https://www.gao.gov/products/gao-26-107937
+  - pdf: https://www.gao.gov/assets/gao-26-107937.pdf
+  - What GAO Found Section 503 of the Rehabilitation Act of 1973 (Section 503) requires certain federal contractors to take proactive steps to employ people with disabilities. The Office of Federal Contract Compliance Programs (OFCCP) within the Department of Labor (DOL) oversees contractors’ compliance with Section 503. Since January 2025, DOL has reduced its oversight activities. For example, DOL has suspended audits of selected contractors, which were a key tool for monitoring compliance. From f
+- **Rural Health Transformation Program: Early Implementation Actions and Monitoring Plans**
+  - when: Tue, 06 Oct 2026 07:34:17 -0400
+  - url: https://www.gao.gov/products/gao-27-108853
+  - pdf: https://www.gao.gov/assets/gao-27-108853.pdf
+  - What GAO Found The Rural Health Transformation program provides funding for states to conduct rural health activities, such as recruiting clinicians to rural areas and providing training and technology to improve care delivery in rural hospitals. In the latter half of 2025, the Centers for Medicare &amp; Medicaid Services (CMS) completed a number of early key actions to implement the Rural Health Transformation program. These actions included the release of the notice of funding opportunity—whi
+- **Quantum Computing: Federal Actions Needed to Prepare for Emerging Cyber Threat**
+  - when: Tue, 06 Oct 2026 07:20:40 -0400
+  - url: https://www.gao.gov/products/gao-27-108740
+  - pdf: https://www.gao.gov/assets/gao-27-108740.pdf
+  - What GAO Found Quantum computers leverage qubits (the quantum equivalent of classical computer bits) to solve specific problems significantly faster than classical computers. However, the emergence of quantum computers could undermine the cryptography (e.g., encryption) that federal agencies use to secure their systems. Today’s quantum computers cannot yet break this cryptography. But a future quantum computer of sufficient size and sophistication—referred to as a cryptographically relevant qua
+- **Concrete Masonry Promotion Program: Commerce Could Enhance Its Oversight Controls**
+  - when: Mon, 05 Oct 2026 07:20:59 -0400
+  - url: https://www.gao.gov/products/gao-27-108692
+  - pdf: https://www.gao.gov/assets/gao-27-108692.pdf
+  - What GAO Found The Concrete Masonry Checkoff (CMC) program is a federally authorized, industry-funded program that supports research, education, and promotion projects intended to strengthen the concrete masonry industry and expand markets for its products. The term checkoff refers to the way similar programs are funded—that is, through assessments. The CMC Board administers the program, which is funded through mandatory assessments on specified concrete masonry units sold. From 2023 through 20
+- **Innovation in Action: Getting You Up to Speed on Manufacturing**
+  - when: Fri, 02 Oct 2026 07:10:19 -0400
+  - url: https://www.gao.gov/products/gao-27-109056
+  - pdf: https://www.gao.gov/assets/gao-27-109056.pdf
+  - This Scroll-Driven Narrative tells the story of how the federal government is trying to strengthen U.S. manufacturing through Manufacturing USA—a national network of institutes that are partnerships between federal agencies, companies, universities, and others. It is a companion to a series of reports GAO has issued examining the Manufacturing USA program—for example, Advanced Manufacturing: Aligning Strategies and Improving Agency Reviews Could Help Institutes Achieve National Goals, GAO-25-107
+
+## courtlistener
+- **State v. Alday-Morales**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031973/state-v-alday-morales/
+  - NOT FOR PUBLICATION IN WEST&#x27;S HAWAIʻI REPORTS AND PACIFIC REPORTER Electronically Filed Intermediate Court of Appeals CAAP-XX-XXXXXXX 12-OCT-2026 10:09 AM Dkt. 52 ODMR NO. CAAP-XX-XXXXXXX Original document
+- **People v. Super. Ct.**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031981/people-v-super-ct/
+  - Filed 10/12/26 CERTIFIED FOR PUBLICATION IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA FOURTH APPELLATE DISTRICT DIVISION TWO THE PEOPLE, Petitioner, E087702 v. (Super.Ct.No. RIF111066) THE SUPERIOR COURT OF OPINION RIVERSIDE COUNTY, Respondent; CHRISTOPHER Original document
+- **People v. Centeno**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031980/people-v-centeno/
+  - Filed 10/12/26 (unmodified opn. attached) CERTIFIED FOR PARTIAL PUBLICATION* IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA FIRST APPELLATE DISTRICT DIVISION THREE THE PEOPLE, Plaintiff and Respondent, A171308 v. (Sonoma County JOSE ANTHONY CENTENO, Super. Ct. No. SCR-740196-2) Defendant and Appellant Original document
+- **United States v. Tekippe**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031951/united-states-v-tekippe/
+  - Case: 25-30528 Document: 73-1 Page: 1 Date Filed: 10/12/2026 United States Court of Appeals for the Fifth Circuit ____________ United States Court of Appeals Fifth Circuit FILED Original document
+- **T. B. v. Department of Children and Families and Guardian Ad Litem**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031948/t-b-v-department-of-children-and-families-and-guardian-ad-litem/
+  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2026-0841 Lower Tribunal No. 2024-DP-000314 _____________________________ In the Interest of L.B. and A.B., children. T.B., Original document
+- **Robert Davis v. Secretary of State**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11032001/robert-davis-v-secretary-of-state/
+  - If this opinion indicates that it is “FOR PUBLICATION,” it is subject to revision until final publication in the Michigan Appeals Reports. STATE OF MICHIGAN COURT OF APPEALS ROBERT DAVIS, FOR PUBLICATION October 12, 2026 Plaintiff-Appellant, Original document
+- **People of Michigan v. Jimmy Lee Fuller**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11032004/people-of-michigan-v-jimmy-lee-fuller/
+  - If this opinion indicates that it is “FOR PUBLICATION,” it is subject to revision until final publication in the Michigan Appeals Reports. STATE OF MICHIGAN COURT OF APPEALS PEOPLE OF THE STATE OF MICHIGAN, FOR PUBLICATION October 12, 2026 Plaintiff-Appellee, Original document
+- **K.R. v. Super. Ct.**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031970/kr-v-super-ct/
+  - Filed 10/12/26 CERTIFIED FOR PARTIAL PUBLICATION* COURT OF APPEAL, FOURTH APPELLATE DISTRICT DIVISION ONE STATE OF CALIFORNIA K.R. et al., D088471 Petitioners, (San Diego County Super. Ct. No. J521474A-B) v. THE SUPERIOR COURT OF SAN DIEGO COUNTY, Respondent; SAN DIEGO COUNTY HEALTH AND Original document
+- **State v. Bekkum**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031965/state-v-bekkum/
+  - NOT FOR PUBLICATION IN WEST&#x27;S HAWAI#I REPORTS AND PACIFIC REPORTER Electronically Filed Intermediate Court of Appeals CAAP-XX-XXXXXXX 12-OCT-2026 07:59 AM Original document
+- **Andrew Radulescu Et Ano, V. Portsmith Apartments Llc**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031975/andrew-radulescu-et-ano-v-portsmith-apartments-llc/
+  - IN THE COURT OF APPEALS OF THE STATE OF WASHINGTON ANDREW RADULESCU and JUSTIN GREEN, each individually and on No. 87987-1-I behalf of all others similarly situated, DIVISION ONE Respondents, PUBLISHED OPINION v. WEST COAST SECURITY, a Nevada corporation; WEST COAST SECURITY CONCEPTS INC., a Nevada corporation; ANTHONY LOMBARDI, individually and/or Original document
+- **Bates v. Administrative Director of the Courts**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031953/bates-v-administrative-director-of-the-courts/
+  - Electronically Filed Supreme Court SCWC-XX-XXXXXXX 12-OCT-2026 07:48 AM Dkt. 23 OGAC SCWC-XX-XXXXXXX IN THE SUPREME COURT OF THE Original document
+- **Maclary v. James Malin Plumbing**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031998/maclary-v-james-malin-plumbing/
+  - IN THE SUPERIOR COURT OF THE STATE OF DELAWARE THOMAS MACLARY, ) ) Claimant-Below / Appellant, ) ) C.A. No. N24A-07-002 DJB v. ) ) JAMES MALIN PLUMBING, ) Employer-Below / Appellee. ) Date Submitted: July 8, 2026 Date Original document
+
+## uk-legislation
+- **The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026**
+  - when: 2026-10-13T03:04:44+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/177
+  - These Regulations make amendments to the Social Security (Recovery of Benefits) Regulations (Northern Ireland) 1997 (S.R. 1997 No. 429), the State Pension Credit Regulations (Northern Ireland) 2003 (S.R. 2003 No. 28), the Housing Benefit Regulations (Northern Ireland) 2006 (S.R. 2006 No. 405), the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 (S.R. 2006 No. 406), the Social Security (Recovery of Benefits) (Lump Sum Pay
+- **The Enterprise Act 2002 (Specification of Additional Section 58 Consideration) Order 2026**
+  - when: 2026-10-13T08:27:59+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1075
+  - Section 58 of the Enterprise Act 2002 (“the Act”) specifies the public interest considerations in relation to which the Secretary of State may intervene in relevant merger situations (as defined in section 23 of the Act) and special merger situations (as defined in section 59 of the Act).
+- **The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026**
+  - when: 2026-10-12T16:18:28+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1068
+  - These Regulations amend the Armed Forces (Service Complaints) Regulations 2015 (S.I. 2015/1955) (“the 2015 Regulations”).
+- **The Air Navigation (Restriction of Flying) (Yorkshire Wildlife Park, South Yorkshire) (Emergency) Regulations 2026**
+  - when: 2026-10-12T12:33:09.549218+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1073
+- **The Parking Places on Roads and Waiting Restrictions (Cookstown) (Amendment) Order (Northern Ireland) 2026**
+  - when: 2026-10-12T07:37:34+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/176
+- **The Roads (Speed Limit) (No. 3) Order (Northern Ireland) 2026**
+  - when: 2026-10-12T07:37:25+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/175
+- **The Parking Places on Roads, Loading Bay and Waiting Restrictions (Newcastle) (Amendment) Order (Northern Ireland) 2026**
+  - when: 2026-10-12T07:37:05+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/174
+- **The Parking Places on Roads (Clogher) Order (Northern Ireland) 2026**
+  - when: 2026-10-12T07:34:40+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/173
+- **The Parking and Waiting Restrictions (Derry/Londonderry) (Amendment) Order (Northern Ireland) 2026**
+  - when: 2026-10-12T07:34:30+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/172
+- **The Five Estuaries Offshore Wind Farm (Correction) Order 2026**
+  - when: 2026-10-12T07:36:43+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1070
+  - This Order corrects errors in the Five Estuaries Offshore Wind Farm Order 2025 (S.I. 2025/1376), a development consent order made under the Planning Act 2008, following a request made under paragraph 1(5)(a) of Schedule 4 to that Act.
+- **Correction Slip**
+  - when: 2026-10-12T12:33:33+01:00
+  - url: http://www.legislation.gov.uk/uksi/2026/1045/pdfs/uksics_20261045_en_001.pdf
+  - This Order makes changes to electoral arrangements for the borough of the Wirral (“the Borough”) following recommendations made by the Local Government Boundary Commission for England. The area of the Borough remains unchanged.
+- **Correction Slip**
+  - when: 2026-10-12T11:25:35+01:00
+  - url: http://www.legislation.gov.uk/uksi/2026/933/pdfs/uksics_20260933_en_001.pdf
+  - These Regulations bring into force the Children’s Wellbeing and Schools Act 2026 (c. 21) (“the Act”). They are the third commencement regulations to be made under the Act which bring into force provisions of the Act in relation to England only.

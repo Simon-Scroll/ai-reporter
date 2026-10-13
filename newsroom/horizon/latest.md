@@ -1,4 +1,4 @@
-# Horizon brief — 2026-10-12
+# Horizon brief — 2026-10-13
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
@@ -165,56 +165,71 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - This Scroll-Driven Narrative tells the story of how the federal government is trying to strengthen U.S. manufacturing through Manufacturing USA—a national network of institutes that are partnerships between federal agencies, companies, universities, and others. It is a companion to a series of reports GAO has issued examining the Manufacturing USA program—for example, Advanced Manufacturing: Aligning Strategies and Improving Agency Reviews Could Help Institutes Achieve National Goals, GAO-25-107
 
 ## courtlistener
-- **People of Guam v. D.J. Tosiuo (aka DJ Peter Robert Tosiuo; aka David Peter Robert Tosiuo; aka D.J.R. Tosiuo; aka D.J. BJ Saki Prick from Barrigada)**
+- **State v. Alday-Morales**
   - when: 2026-10-12T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11031905/people-of-guam-v-dj-tosiuo-aka-dj-peter-robert-tosiuo-aka-david-peter/
-  - !F iled S premeCo rt ofG am C lerk of Co rt IN THE SUPREME COURT OF GUAM PEOPLE OF GUAM, Plaintiff-Appellee, v. D.J. TOSIUO (aka DJ Peter Robert Tosiuo; aka David Original document
-- **Gakou v. Warden**
-  - when: 2026-10-10T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11026597/gakou-v-warden/
-  - Case: 26-10925 Document: 31-2 Page: 1 Date Filed: 10/10/2026 United States Court of Appeals for the Fifth Circuit United States Court of Appeals _____________ Fifth Circuit FILED No. 26-10925 October 10, 2026 _____________ Original document
-- **State v. Pate**
-  - when: 2026-10-09T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11024224/state-v-pate/
-  - [Cite as State v. Pate, 2026-Ohio-3983.] IN THE COURT OF APPEALS OF OHIO SECOND APPELLATE DISTRICT MONTGOMERY COUNTY STATE OF OHIO : : C.A. No. 30755 Appellant : : Trial Court Case No. 2025 Original document
-- **Luis Albor v. Elizabeth Albor**
-  - when: 2026-10-09T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11024611/luis-albor-v-elizabeth-albor/
-  - Court of Appeals of the State of Georgia ATLANTA, October 09, 2026 The Court of Appeals hereby passes the following order A27D0158. LUIS ALBOR v. ELIZABETH ALBOR. Upon consideration of the Application for Discretionary Appeal, it is ordered that it be hereby GRANTED. The Appellant may file a Notice of Appeal within 10 days of the date of this order. The Clerk of Superior Court is directed to include a copy of this order in Original document
-- **People v. Thomas**
-  - when: 2026-10-09T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11025314/people-v-thomas/
-  - People v Thomas 2026 NY Slip Op 05879 October 9, 2026 Appellate Division, Fourth Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. THE PEOPLE OF THE STATE OF NEW YORK, RESPONDENT, v SHAMERE THOMAS, DEFENDANT-APPELLANT. Supreme Court of the State of New York, Appellate Division, Fourth Judicial Department Decided on October 9, 2026 636 KA 22-00492 Present: Original document
-- **Kenkam, LLC v. Cls Entertainment Incorporated**
-  - when: 2026-10-09T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11024096/kenkam-llc-v-cls-entertainment-incorporated/
-  - Court of Appeals of the State of Georgia ATLANTA,____________________ October 09, 2026 The Court of Appeals hereby passes the following order: A27A0471. KENKAM, LLC v. CLS ENTERTAINMENT INCORPORATED. In this civil action, plaintiff Kenkam, LLC directly appeals from two trial court orders: (1) the “Order Enforcing Settlement Agreement, Directing Cooperation with Closing, and Applying Closing Credits”; Original document
-- **State v. Pulliam**
-  - when: 2026-10-09T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11024222/state-v-pulliam/
-  - [Cite as State v. Pulliam, 2026-Ohio-3985.] IN THE COURT OF APPEALS OF OHIO SECOND APPELLATE DISTRICT CLARK COUNTY STATE OF OHIO : : C.A. No. 2026-CA-1 Appellee : : Trial Court Case No. 25-CR-604 v. Original document
-- **Blanchard Refining Company LLC and Marathon Petroleum Company Lp v. Industrial Specialists, LLC**
-  - when: 2026-10-09T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11024246/blanchard-refining-company-llc-and-marathon-petroleum-company-lp-v/
-  - Supreme Court of Texas ══════════ No. 26-0118 ══════════ Blanchard Refining Company LLC and Marathon Petroleum Company LP, Petitioners, v. Industrial Specialists, LLC, Respondent ═══════════════════════════════════════ On Petition for Review from the Original document
-- **Evans v. Garza**
-  - when: 2026-10-09T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11024773/evans-v-garza/
-  - Case: 23-50541 Document: 119-1 Page: 1 Date Filed: 10/09/2026 United States Court of Appeals for the Fifth Circuit United States Court of Appeals Fifth Circuit ____________ FILED October 9, 2026 Original document
-- **People v. Reynolds**
-  - when: 2026-10-09T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11025319/people-v-reynolds/
-  - People v Reynolds 2026 NY Slip Op 05894 October 9, 2026 Appellate Division, Fourth Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. THE PEOPLE OF THE STATE OF NEW YORK, RESPONDENT, v ERIC N. REYNOLDS, DEFENDANT-APPELLANT. (APPEAL NO. 1.) Supreme Court of the State of New York, Appellate Division, Fourth Judicial Department Decided on October 9, 2026 695 Original document
-- **Way v. State of Florida**
-  - when: 2026-10-09T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11024072/way-v-state-of-florida/
-  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT MICHAEL ANTHONY WAY, Appellant, v. STATE OF FLORIDA, Appellee. No. 2D2025-1034 October 9, 2026 Appeal from the County Court for Hillsborough County; Monique M. Scott, Judge. Blair Allen Original document
-- **In re J.S.**
-  - when: 2026-10-09T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11024977/in-re-js/
-  - Filed 10/9/26 CERTIFIED FOR PARTIAL PUBLICATION* IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA FOURTH APPELLATE DISTRICT DIVISION TWO In re J.S., a Person Coming Under the Juvenile Court Law. SAN BERNARDINO COUNTY CHILDREN AND FAMILY SERVICES, E087885 Plaintiff and Respondent, (Super.Ct.No. J303970) v. Original document
+  - url: https://www.courtlistener.com/opinion/11031973/state-v-alday-morales/
+  - NOT FOR PUBLICATION IN WEST&#x27;S HAWAIʻI REPORTS AND PACIFIC REPORTER Electronically Filed Intermediate Court of Appeals CAAP-XX-XXXXXXX 12-OCT-2026 10:09 AM Dkt. 52 ODMR NO. CAAP-XX-XXXXXXX Original document
+- **People v. Super. Ct.**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031981/people-v-super-ct/
+  - Filed 10/12/26 CERTIFIED FOR PUBLICATION IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA FOURTH APPELLATE DISTRICT DIVISION TWO THE PEOPLE, Petitioner, E087702 v. (Super.Ct.No. RIF111066) THE SUPERIOR COURT OF OPINION RIVERSIDE COUNTY, Respondent; CHRISTOPHER Original document
+- **People v. Centeno**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031980/people-v-centeno/
+  - Filed 10/12/26 (unmodified opn. attached) CERTIFIED FOR PARTIAL PUBLICATION* IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA FIRST APPELLATE DISTRICT DIVISION THREE THE PEOPLE, Plaintiff and Respondent, A171308 v. (Sonoma County JOSE ANTHONY CENTENO, Super. Ct. No. SCR-740196-2) Defendant and Appellant Original document
+- **United States v. Tekippe**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031951/united-states-v-tekippe/
+  - Case: 25-30528 Document: 73-1 Page: 1 Date Filed: 10/12/2026 United States Court of Appeals for the Fifth Circuit ____________ United States Court of Appeals Fifth Circuit FILED Original document
+- **T. B. v. Department of Children and Families and Guardian Ad Litem**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031948/t-b-v-department-of-children-and-families-and-guardian-ad-litem/
+  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2026-0841 Lower Tribunal No. 2024-DP-000314 _____________________________ In the Interest of L.B. and A.B., children. T.B., Original document
+- **Robert Davis v. Secretary of State**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11032001/robert-davis-v-secretary-of-state/
+  - If this opinion indicates that it is “FOR PUBLICATION,” it is subject to revision until final publication in the Michigan Appeals Reports. STATE OF MICHIGAN COURT OF APPEALS ROBERT DAVIS, FOR PUBLICATION October 12, 2026 Plaintiff-Appellant, Original document
+- **People of Michigan v. Jimmy Lee Fuller**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11032004/people-of-michigan-v-jimmy-lee-fuller/
+  - If this opinion indicates that it is “FOR PUBLICATION,” it is subject to revision until final publication in the Michigan Appeals Reports. STATE OF MICHIGAN COURT OF APPEALS PEOPLE OF THE STATE OF MICHIGAN, FOR PUBLICATION October 12, 2026 Plaintiff-Appellee, Original document
+- **K.R. v. Super. Ct.**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031970/kr-v-super-ct/
+  - Filed 10/12/26 CERTIFIED FOR PARTIAL PUBLICATION* COURT OF APPEAL, FOURTH APPELLATE DISTRICT DIVISION ONE STATE OF CALIFORNIA K.R. et al., D088471 Petitioners, (San Diego County Super. Ct. No. J521474A-B) v. THE SUPERIOR COURT OF SAN DIEGO COUNTY, Respondent; SAN DIEGO COUNTY HEALTH AND Original document
+- **State v. Bekkum**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031965/state-v-bekkum/
+  - NOT FOR PUBLICATION IN WEST&#x27;S HAWAI#I REPORTS AND PACIFIC REPORTER Electronically Filed Intermediate Court of Appeals CAAP-XX-XXXXXXX 12-OCT-2026 07:59 AM Original document
+- **Andrew Radulescu Et Ano, V. Portsmith Apartments Llc**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031975/andrew-radulescu-et-ano-v-portsmith-apartments-llc/
+  - IN THE COURT OF APPEALS OF THE STATE OF WASHINGTON ANDREW RADULESCU and JUSTIN GREEN, each individually and on No. 87987-1-I behalf of all others similarly situated, DIVISION ONE Respondents, PUBLISHED OPINION v. WEST COAST SECURITY, a Nevada corporation; WEST COAST SECURITY CONCEPTS INC., a Nevada corporation; ANTHONY LOMBARDI, individually and/or Original document
+- **Bates v. Administrative Director of the Courts**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031953/bates-v-administrative-director-of-the-courts/
+  - Electronically Filed Supreme Court SCWC-XX-XXXXXXX 12-OCT-2026 07:48 AM Dkt. 23 OGAC SCWC-XX-XXXXXXX IN THE SUPREME COURT OF THE Original document
+- **Maclary v. James Malin Plumbing**
+  - when: 2026-10-12T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11031998/maclary-v-james-malin-plumbing/
+  - IN THE SUPERIOR COURT OF THE STATE OF DELAWARE THOMAS MACLARY, ) ) Claimant-Below / Appellant, ) ) C.A. No. N24A-07-002 DJB v. ) ) JAMES MALIN PLUMBING, ) Employer-Below / Appellee. ) Date Submitted: July 8, 2026 Date Original document
 
 ## uk-legislation
+- **The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026**
+  - when: 2026-10-13T03:04:44+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/177
+  - These Regulations make amendments to the Social Security (Recovery of Benefits) Regulations (Northern Ireland) 1997 (S.R. 1997 No. 429), the State Pension Credit Regulations (Northern Ireland) 2003 (S.R. 2003 No. 28), the Housing Benefit Regulations (Northern Ireland) 2006 (S.R. 2006 No. 405), the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 (S.R. 2006 No. 406), the Social Security (Recovery of Benefits) (Lump Sum Pay
+- **The Enterprise Act 2002 (Specification of Additional Section 58 Consideration) Order 2026**
+  - when: 2026-10-13T08:27:59+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1075
+  - Section 58 of the Enterprise Act 2002 (“the Act”) specifies the public interest considerations in relation to which the Secretary of State may intervene in relevant merger situations (as defined in section 23 of the Act) and special merger situations (as defined in section 59 of the Act).
+- **The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026**
+  - when: 2026-10-12T16:18:28+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1068
+  - These Regulations amend the Armed Forces (Service Complaints) Regulations 2015 (S.I. 2015/1955) (“the 2015 Regulations”).
+- **The Air Navigation (Restriction of Flying) (Yorkshire Wildlife Park, South Yorkshire) (Emergency) Regulations 2026**
+  - when: 2026-10-12T12:33:09.549218+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1073
 - **The Parking Places on Roads and Waiting Restrictions (Cookstown) (Amendment) Order (Northern Ireland) 2026**
   - when: 2026-10-12T07:37:34+01:00
   - url: http://www.legislation.gov.uk/id/nisr/2026/176
@@ -234,27 +249,11 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-10-12T07:36:43+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1070
   - This Order corrects errors in the Five Estuaries Offshore Wind Farm Order 2025 (S.I. 2025/1376), a development consent order made under the Planning Act 2008, following a request made under paragraph 1(5)(a) of Schedule 4 to that Act.
-- **The Social Security (Income and Capital Disregards) (Amendment) Regulations 2026**
-  - when: 2026-10-09T14:31:26+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1072
-  - Regulations 2 to 6 amend respectively the State Pension Credit Regulations 2002 (S.I. 2002/1792), the Housing Benefit Regulations 2006 (S.I. 2006/213), the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 (S.I. 2006/214), the Employment and Support Allowance Regulations 2008 (S.I. 2008/794), and the Universal Credit Regulations 2013 (S.I. 2013/376).
-- **Northern Ireland Fiscal Council Act (Northern Ireland) 2026**
-  - when: 2026-10-09T11:03:54+01:00
-  - url: http://www.legislation.gov.uk/id/nia/2026/8
-  - An Act to make provision for the establishment and functions of the Northern Ireland Fiscal Council; and for connected purposes.
-- **The Housing (Scotland) Act 2025 (Commencement No. 4 and Transitional Provisions) Regulations 2026**
-  - when: 2026-10-09T08:52:30+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/286
-  - These Regulations bring into force a number of the provisions of the Housing (Scotland) Act 2025 (“the Act”) on 9 November 2026, 1 April 2027 and 1 August 2027.
-- **The Armed Forces (Service Complaints Miscellaneous Provisions) (Amendment) Regulations 2026**
-  - when: 2026-10-09T03:08:02+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1066
-  - These Regulations amend the Armed Forces (Service Complaints Miscellaneous Provisions) Regulations 2015 (S.I. 2015/2064) (“the 2015 Regulations”).
-- **The Armed Forces Commissioner Act 2025 (Commencement No. 2) Regulations 2026**
-  - when: 2026-10-09T03:03:52+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1067
-  - These are the second commencement Regulations made under the Armed Forces Commissioner Act 2025 (c. 23) (“the 2025 Act”).
-- **The Social Security (Further Methods of Recovery) Regulations 2026**
-  - when: 2026-10-08T16:59:17+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1069
-  - These Regulations make provision in relation to the recovery of debt under Schedules 3ZA and 3ZB to the Social Security Administration Act 1992 (c. 5) (“the Act”), as inserted by the Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28) (“2025 Act”).
+- **Correction Slip**
+  - when: 2026-10-12T12:33:33+01:00
+  - url: http://www.legislation.gov.uk/uksi/2026/1045/pdfs/uksics_20261045_en_001.pdf
+  - This Order makes changes to electoral arrangements for the borough of the Wirral (“the Borough”) following recommendations made by the Local Government Boundary Commission for England. The area of the Borough remains unchanged.
+- **Correction Slip**
+  - when: 2026-10-12T11:25:35+01:00
+  - url: http://www.legislation.gov.uk/uksi/2026/933/pdfs/uksics_20260933_en_001.pdf
+  - These Regulations bring into force the Children’s Wellbeing and Schools Act 2026 (c. 21) (“the Act”). They are the third commencement regulations to be made under the Act which bring into force provisions of the Act in relation to England only.

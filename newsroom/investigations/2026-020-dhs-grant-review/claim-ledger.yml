@@ -1,0 +1,28 @@
+claims:
+  - id: C1
+    type: fact
+    text: "GAO reports that four DHS components terminated 362 grants and deobligated about $1.002 billion between January 20 and September 30, 2025; FEMA accounts for 215 grants and $999.433 million in the table."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "FEMA's BRIC page says the FY2024-25 application period closed on July 23, 2026, that FEMA is reviewing submissions, and that January 2025 subapplications will not be reviewed."
+    status: supported
+    evidence:
+      - E2
+  - id: C3
+    type: fact
+    text: "USAspending exposes BRIC award identifiers and award-level obligation, funding, outlay, transaction, and performance-period fields."
+    status: supported
+    evidence:
+      - E3
+      - E4
+  - id: C4
+    type: inference
+    text: "The current records create a testable path for joining an aggregate DHS grant action to an award record, but they do not yet show whether the selected award was terminated or included in GAO's population."
+    status: provisional
+    evidence:
+      - E1
+      - E3
+      - E4
