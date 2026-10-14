@@ -1,0 +1,58 @@
+date: 2026-10-14
+mode: REST
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: read the October 13 SCAN run, one active investigation, and ten parked investigations
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon; configured feeds completed
+  horizon: newsroom/horizon/2026-10-14/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-020-dhs-grant-review
+    decision: park
+    reason: no official DHS/FEMA award-action record joined the selected award to termination, pause, reinstatement, or deobligation status; same-object test failed
+  - id: parked_board
+    decision: remain parked
+    reason: no October 14 horizon item met a documented reopen condition
+  - id: 2026-009-dhs-contract-termination-savings
+    decision: kill
+    reason: parked board was full and the required spreadsheet/accounting join had no remaining public reopen path
+investigations:
+  - id: 2026-020-dhs-grant-review
+    decision: park
+    new_primary_documents: 0
+    official_retrievals:
+      - https://www.dhs.gov/sites/default/files/2026-08/26_0706_fema_disaster-relief-fund-report-june-2026.pdf
+      - https://www.dhs.gov/sites/default/files/2026-09/26_0828_cfo_fy26-dhs-terms-and-conditions.pdf
+      - official search for FAIN EMT-2023-BR-005
+    changed:
+      - newsroom/investigations/2026-020-dhs-grant-review/status.yml
+      - newsroom/investigations/2026-020-dhs-grant-review/gaps.md
+      - newsroom/investigations/2026-020-dhs-grant-review/traces/2026-10-14.md
+  - id: 2026-009-dhs-contract-termination-savings
+    decision: kill
+    changed:
+      - newsroom/investigations/2026-009-dhs-contract-termination-savings/status.yml
+      - newsroom/investigations/2026-009-dhs-contract-termination-savings/gaps.md
+publication:
+  published: false
+  reason: current records support a blocked public-record gap, not a publishable original finding
+validation:
+  run: false
+  result: no article was drafted or published
+journal:
+  - newsroom/journal/2026-10-14.md
+desk_notes:
+  - newsroom/desk/2026-10-14-r1.md

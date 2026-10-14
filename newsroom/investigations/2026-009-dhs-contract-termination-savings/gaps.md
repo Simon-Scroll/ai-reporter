@@ -10,3 +10,7 @@
 ## Decision required
 
 Continue only if the official DHS spreadsheet or contract-level records expose fields that can reconcile the two aggregate claims. **Park (2026-09-09):** the transparency page and component attachment pages are new primary records, but the spreadsheet is inaccessible and the sampled public attachments do not contain the required accounting fields. Reopen if DHS makes the spreadsheet retrievable or publishes a new official record with a common population, period, and savings definition. Kill if the public data ultimately cannot identify those fields.
+
+## 2026-10-14 decision
+
+**Killed to make room for a required park.** The DHS termination spreadsheet remained inaccessible after the documented official retrieval paths, and the sampled contract-level attachments did not expose termination, deobligation, settlement, or savings fields. No remaining public reopen path currently identifies the common population, period, and accounting definition required by the hypothesis. Keep the folder for continuity; do not reopen without a new public record and a new hypothesis.

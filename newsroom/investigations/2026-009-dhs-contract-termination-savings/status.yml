@@ -1,11 +1,11 @@
 id: 2026-009-dhs-contract-termination-savings
 opened: 2026-09-08
-updated: 2026-09-09
-status: parked
-mode: SCAN
-next_action: Reopen only when the DHS termination spreadsheet or a new official contract-level record is retrievable and exposes termination, deobligation, settlement, or savings fields that can be reconciled with GAO-26-109096 and the FY2025 Agency Financial Report.
+updated: 2026-10-14
+status: killed
+mode: REST
+next_action: Do not reopen without a new public record and a new hypothesis that identifies a common contract-level population, period, and savings definition.
 hypothesis: "DHS's public FY2025 contract-savings figure may combine a broader population and a different definition of savings than GAO's net deobligations, leaving no common denominator for the public claim."
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
-last_decision: park
+last_decision: kill

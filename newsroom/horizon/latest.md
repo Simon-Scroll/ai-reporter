@@ -1,106 +1,106 @@
-# Horizon brief — 2026-10-13
+# Horizon brief — 2026-10-14
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
 ## sec-edgar
-- **4 - FRIEDMAN BRIAN P (0001275002) (Reporting)**
-  - when: 2026-10-09T21:56:14-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1275002/000121465926012761/0001214659-26-012761-index.htm
-  - Filed: 2026-10-09 AccNo: 0001214659-26-012761 Size: 8 KB
-- **4 - Jefferies Financial Group Inc. (0000096223) (Issuer)**
-  - when: 2026-10-09T21:56:14-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/96223/000121465926012761/0001214659-26-012761-index.htm
-  - Filed: 2026-10-09 AccNo: 0001214659-26-012761 Size: 8 KB
-- **3 - Bregier Fabrice Roger Daniel (0002159509) (Reporting)**
-  - when: 2026-10-09T21:45:05-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2159509/000110465926115137/0001104659-26-115137-index.htm
-  - Filed: 2026-10-09 AccNo: 0001104659-26-115137 Size: 12 KB
+- **4 - Kim Vyacheslav (0002029485) (Reporting)**
+  - when: 2026-10-13T21:52:38-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2029485/000119312526420859/0001193125-26-420859-index.htm
+  - Filed: 2026-10-13 AccNo: 0001193125-26-420859 Size: 25 KB
+- **4 - Joint Stock Co Kaspi.kz (0001985487) (Issuer)**
+  - when: 2026-10-13T21:52:38-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1985487/000119312526420859/0001193125-26-420859-index.htm
+  - Filed: 2026-10-13 AccNo: 0001193125-26-420859 Size: 25 KB
+- **4 - Heine Martin Andres (0002118333) (Reporting)**
+  - when: 2026-10-13T21:46:00-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2118333/000110465926115671/0001104659-26-115671-index.htm
+  - Filed: 2026-10-13 AccNo: 0001104659-26-115671 Size: 6 KB
+- **4 - TELECOM ARGENTINA SA (0000932470) (Issuer)**
+  - when: 2026-10-13T21:46:00-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/932470/000110465926115671/0001104659-26-115671-index.htm
+  - Filed: 2026-10-13 AccNo: 0001104659-26-115671 Size: 6 KB
+- **3 - Woltman Clyde M. (0002159507) (Reporting)**
+  - when: 2026-10-13T21:45:19-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2159507/000110465926115669/0001104659-26-115669-index.htm
+  - Filed: 2026-10-13 AccNo: 0001104659-26-115669 Size: 12 KB
 - **3 - Vertical Aerospace Ltd. (0001867102) (Issuer)**
-  - when: 2026-10-09T21:45:05-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1867102/000110465926115137/0001104659-26-115137-index.htm
-  - Filed: 2026-10-09 AccNo: 0001104659-26-115137 Size: 12 KB
-- **3 - Zavakopoulos Petros (0002118416) (Reporting)**
-  - when: 2026-10-09T21:40:53-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2118416/000114036126039311/0001140361-26-039311-index.htm
-  - Filed: 2026-10-09 AccNo: 0001140361-26-039311 Size: 4 KB
-- **3 - AI OKTO Corp. (0002095591) (Issuer)**
-  - when: 2026-10-09T21:40:53-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2095591/000114036126039311/0001140361-26-039311-index.htm
-  - Filed: 2026-10-09 AccNo: 0001140361-26-039311 Size: 4 KB
-- **3 - Panagiotidis Petros Panagiotis (0002118775) (Reporting)**
-  - when: 2026-10-09T21:40:51-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2118775/000114036126039310/0001140361-26-039310-index.htm
-  - Filed: 2026-10-09 AccNo: 0001140361-26-039310 Size: 6 KB
-- **3 - AI OKTO Corp. (0002095591) (Issuer)**
-  - when: 2026-10-09T21:40:51-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2095591/000114036126039310/0001140361-26-039310-index.htm
-  - Filed: 2026-10-09 AccNo: 0001140361-26-039310 Size: 6 KB
-- **3 - Syriopoulos John Paul (0002118332) (Reporting)**
-  - when: 2026-10-09T21:40:50-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2118332/000114036126039312/0001140361-26-039312-index.htm
-  - Filed: 2026-10-09 AccNo: 0001140361-26-039312 Size: 3 KB
-- **3 - AI OKTO Corp. (0002095591) (Issuer)**
-  - when: 2026-10-09T21:40:50-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2095591/000114036126039312/0001140361-26-039312-index.htm
-  - Filed: 2026-10-09 AccNo: 0001140361-26-039312 Size: 3 KB
-- **3/A - GG Managers LLC (0001752309) (Reporting)**
-  - when: 2026-10-09T21:32:27-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1752309/000121390026108608/0001213900-26-108608-index.htm
-  - Filed: 2026-10-09 AccNo: 0001213900-26-108608 Size: 15 KB
-- **3/A - Cross Ocean Partners Management GP, LLC (0001752227) (Reporting)**
-  - when: 2026-10-09T21:32:27-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1752227/000121390026108608/0001213900-26-108608-index.htm
-  - Filed: 2026-10-09 AccNo: 0001213900-26-108608 Size: 15 KB
+  - when: 2026-10-13T21:45:19-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1867102/000110465926115669/0001104659-26-115669-index.htm
+  - Filed: 2026-10-13 AccNo: 0001104659-26-115669 Size: 12 KB
+- **4 - PodcastOne, Inc. (0001940177) (Issuer)**
+  - when: 2026-10-13T21:45:01-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1940177/000121390026109198/0001213900-26-109198-index.htm
+  - Filed: 2026-10-13 AccNo: 0001213900-26-109198 Size: 7 KB
+- **4 - MERRIMAN D JONATHAN (0001022711) (Reporting)**
+  - when: 2026-10-13T21:45:01-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1022711/000121390026109198/0001213900-26-109198-index.htm
+  - Filed: 2026-10-13 AccNo: 0001213900-26-109198 Size: 7 KB
+- **4 - Liborski Valeri (0002065440) (Reporting)**
+  - when: 2026-10-13T21:44:46-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2065440/000123627526000026/0001236275-26-000026-index.htm
+  - Filed: 2026-10-13 AccNo: 0001236275-26-000026 Size: 5 KB
+- **4 - QXO, Inc. (0001236275) (Issuer)**
+  - when: 2026-10-13T21:44:46-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1236275/000123627526000026/0001236275-26-000026-index.htm
+  - Filed: 2026-10-13 AccNo: 0001236275-26-000026 Size: 5 KB
+- **4 - Nambiar Vijayan (0002089239) (Reporting)**
+  - when: 2026-10-13T21:44:22-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2089239/000208923926000001/0002089239-26-000001-index.htm
+  - Filed: 2026-10-13 AccNo: 0002089239-26-000001 Size: 5 KB
+- **4 - CID Holdco, Inc. (0002033770) (Issuer)**
+  - when: 2026-10-13T21:44:22-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2033770/000208923926000001/0002089239-26-000001-index.htm
+  - Filed: 2026-10-13 AccNo: 0002089239-26-000001 Size: 5 KB
 
 ## federal-register
-- **Columbus Day, 2026**
-  - when: 2026-10-13
-  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20972/columbus-day-2026
+- **Establishment of a Committee of Inquiry To Investigate Allegations of False Statements by Lisa DeNell Cook**
+  - when: 2026-10-14
+  - url: https://www.federalregister.gov/documents/2026/10/14/2026-21061/establishment-of-a-committee-of-inquiry-to-investigate-allegations-of-false-statements-by-lisa
   - Executive Office of the President — Presidential Document
-- **National Energy Dominance Month, 2026**
-  - when: 2026-10-13
-  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20969/national-energy-dominance-month-2026
-  - Executive Office of the President — Presidential Document
-- **Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL**
-  - when: 2026-10-13
-  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20902/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary
-  - Homeland Security Department, Coast Guard — Rule — The Coast Guard will enforce a safety zone on the South Branch of the Chicago River, between mile marker 325.4 and 325.5, for the assembly of the Lake Street Bridge for the Chicago Department of Transportation bridge repair. During the enforcement period, entry into, transiting, mooring, laying-up, or anchoring within the safety zone is prohibited unless authorized by the Captain of the Port Lake Michigan or a designated on-scene representative.
-- **Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL**
-  - when: 2026-10-13
-  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20901/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary
-  - Homeland Security Department, Coast Guard — Rule — The Coast Guard will enforce a moving safety zone on the South Branch of the Chicago River between the Lake Street Bridge at mile marker 325.5 and South Damen Avenue at mile marker 321 for the floating down of the bridge leaf for the Chicago Department of Transportation Bridge repair. During the enforcement period, entry into, transiting, mooring, laying-up, or anchoring within the safety zone is prohibited unless authorized by the Captain of th
-- **Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL**
-  - when: 2026-10-13
-  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20900/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary
-  - Homeland Security Department, Coast Guard — Rule — The Coast Guard will enforce a safety zone on the South Branch of the Chicago River between mile markers 325.5 and 325.4 for the demolition of the Lake Street Bridge for the Chicago Department of Transportation bridge repair. During the enforcement period, entry into, transiting, mooring, laying-up, or anchoring within the safety zone is prohibited unless authorized by the Captain of the Port Lake Michigan or a designated on-scene representative
-- **Petition for Reconsideration of Action in Rulemaking Proceeding**
-  - when: 2026-10-13
-  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20895/petition-for-reconsideration-of-action-in-rulemaking-proceeding
-  - Federal Communications Commission — Proposed Rule — Petition for Reconsideration (Petition) has been filed in the Commission's proceeding by Thomas Goode on behalf of the Alliance for Telecommunications Industry Solutions.
-- **Notice of Availability of the Proposed Notice of Sale for the Cook Inlet Outer Continental Shelf Oil and Gas One Big Beautiful Bill Act Lease Sale 2**
-  - when: 2026-10-13
-  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20892/notice-of-availability-of-the-proposed-notice-of-sale-for-the-cook-inlet-outer-continental-shelf-oil
-  - Interior Department, Ocean Energy Management Bureau — Notice — The Bureau of Ocean Energy Management (BOEM) announces the availability of the Proposed Notice of Sale (NOS) for the Cook Inlet Outer Continental Shelf (OCS) Oil and Gas One Big Beautiful Bill Act (OBBBA) Lease Sale 2 (Lease Sale BBC2). BOEM is publishing this notice pursuant to its regulatory authority under 30 CFR part 556. Pursuant to Section 19 of the OCS Lands Act, the Secretary of the Interior provides the Governors of affected
-- **Project-Level Predecisional Administrative Review Process**
-  - when: 2026-10-13
-  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20890/project-level-predecisional-administrative-review-process
-  - Agriculture Department, Forest Service — Rule — The U.S. Department of Agriculture is issuing a final rule amending its Project-Level Predecisional Administrative Review Process regulations. These regulations establish the process by which the public may file objections seeking administrative review of proposed projects and activities implementing land management plans on national forests and grasslands. The Department is amending these regulations to consolidate and streamline processes, increa
-- **Fees for Services Performed in Connection With Licensing and Related Services-2026 Update**
-  - when: 2026-10-13
-  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20889/fees-for-services-performed-in-connection-with-licensing-and-related-services-2026-update
-  - Surface Transportation Board — Rule — The Board updates for 2026 the fees that the public must pay to file certain cases and pleadings with the Board. Pursuant to this update, 87 of the Board's 135 fees will increase and 48 fees will remain at their current levels.
-- **Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets**
-  - when: 2026-10-13
-  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets
-  - Commodity Futures Trading Commission — Proposed Rule — The Commodity Futures Trading Commission ("Commission" or "CFTC") is issuing an advanced notice of proposed rulemaking regarding section 2(c)(2)(D) of the Commodity Exchange Act ("CEA" or "Act") to provide notice and seek public comment on its intent to develop and establish fit-for-purpose rules implementing section 2(c)(2)(D) of the Act with respect to transactions and markets in crypto assets.
-- **Formations of, Acquisitions by, and Mergers of Bank Holding Companies**
-  - when: 2026-10-13
-  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20887/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies
-  - Federal Reserve System — Notice
-- **Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company**
-  - when: 2026-10-13
-  - url: https://www.federalregister.gov/documents/2026/10/13/2026-20886/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company
-  - Federal Reserve System — Notice
+- **AP1000 Design Certification Renewal**
+  - when: 2026-10-14
+  - url: https://www.federalregister.gov/documents/2026/10/14/2026-21031/ap1000-design-certification-renewal
+  - Nuclear Regulatory Commission — Proposed Rule — The U.S. Nuclear Regulatory Commission (NRC) is proposing to amend its regulations to renew the AP1000 design certification and incorporate Revision 20 of the AP1000 design control document. The purpose of this rulemaking action is to update the AP1000 design to be consistent with changes made to the design during the licensing, construction, and operation of Vogtle Electric Generating Plant, Units 3 and 4. This rulemaking incorporates AP1000 desig
+- **AP1000 Design Certification Renewal**
+  - when: 2026-10-14
+  - url: https://www.federalregister.gov/documents/2026/10/14/2026-21030/ap1000-design-certification-renewal
+  - Nuclear Regulatory Commission — Rule — The U.S. Nuclear Regulatory Commission (NRC) is amending its regulations to renew the AP1000 design certification and incorporate Revision 20 of the AP1000 design control document. The purpose of this rulemaking action is to update the AP1000 design to be consistent with changes made to the design during the licensing, construction, and operation of Vogtle Electric Generating Plant, Units 3 and 4. This rulemaking incorporates AP1000 design control document
+- **Imposition and Collection of Civil Penalties for Certain Immigration-Related Violations**
+  - when: 2026-10-14
+  - url: https://www.federalregister.gov/documents/2026/10/14/2026-21024/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations
+  - Homeland Security Department, Justice Department, Executive Office for Immigration Review — Rule — On June 27, 2025, the Departments issued an interim final rule ("IFR") to streamline assessment of civil penalties under the Immigration and Nationality Act ("INA") for aliens who fail to depart during a voluntary departure period, willfully fail or refuse to depart after a final removal order and certain other proscribed activities, or are apprehended while improperly entering or attempting to ent
+- **Center For Scientific Review; Notice of Closed Meetings**
+  - when: 2026-10-14
+  - url: https://www.federalregister.gov/documents/2026/10/14/2026-21022/center-for-scientific-review-notice-of-closed-meetings
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Center for Scientific Review; Notice of Closed Meetings**
+  - when: 2026-10-14
+  - url: https://www.federalregister.gov/documents/2026/10/14/2026-21021/center-for-scientific-review-notice-of-closed-meetings
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **New Postal Products**
+  - when: 2026-10-14
+  - url: https://www.federalregister.gov/documents/2026/10/14/2026-21020/new-postal-products
+  - Postal Regulatory Commission — Notice — The Commission is noticing a recent Postal Service filing for the Commission's consideration concerning a negotiated service agreement. This notice informs the public of the filing, invites public comment, and takes other administrative steps.
+- **Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits**
+  - when: 2026-10-14
+  - url: https://www.federalregister.gov/documents/2026/10/14/2026-21019/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits
+  - Pension Benefit Guaranty Corporation — Rule — This final rule amends the Pension Benefit Guaranty Corporation's regulation on Allocation of Assets in Single-Employer Plans to prescribe the spreads component of the interest assumption under the asset allocation regulation for plans with valuation dates of October 31, 2026-January 30, 2027. These interest assumptions are used for valuing benefits under terminating single-employer plans and for other purposes.
+- **New England Fishery Management Council; Public Meeting**
+  - when: 2026-10-14
+  - url: https://www.federalregister.gov/documents/2026/10/14/2026-21018/new-england-fishery-management-council-public-meeting
+  - Commerce Department, National Oceanic and Atmospheric Administration — Notice — The New England Fishery Management Council (Council) is scheduling a public hybrid meeting of its Scallop Joint Committee and Advisory Panel to consider actions affecting New England fisheries in the exclusive economic zone (EEZ). Recommendations from this group will be brought to the full Council for formal consideration and action, if appropriate.
+- **Fisheries of the South Atlantic; Southeast Data, Assessment, and Review; Public Meeting**
+  - when: 2026-10-14
+  - url: https://www.federalregister.gov/documents/2026/10/14/2026-21017/fisheries-of-the-south-atlantic-southeast-data-assessment-and-review-public-meeting
+  - Commerce Department, National Oceanic and Atmospheric Administration — Notice — The Southeast Data Assessment and Review (SEDAR) 90 assessment process of South Atlantic Red Snapper will consist of a Data Workshop, a series of Assessment Webinars, and a Review Workshop. See SUPPLEMENTARY INFORMATION.
+- **Fisheries of the Caribbean; Southeast Data, Assessment, and Review; Public Meeting**
+  - when: 2026-10-14
+  - url: https://www.federalregister.gov/documents/2026/10/14/2026-21016/fisheries-of-the-caribbean-southeast-data-assessment-and-review-public-meeting
+  - Commerce Department, National Oceanic and Atmospheric Administration — Notice — The Southeast Data Assessment and Review (SEDAR) 103 assessment process of Caribbean Alternate Assessment Methods will consist of a Development Workshop, a series of Assessment Webinars, and a Review Workshop. See SUPPLEMENTARY INFORMATION.
+- **Mid-Atlantic Fishery Management Council (MAFMC); Public Meeting**
+  - when: 2026-10-14
+  - url: https://www.federalregister.gov/documents/2026/10/14/2026-21015/mid-atlantic-fishery-management-council-mafmc-public-meeting
+  - Commerce Department, National Oceanic and Atmospheric Administration — Notice — The Mid-Atlantic Fishery Management Council's Summer Flounder, Scup, and Black Sea Bass Advisory Panel will hold a public meeting with the Atlantic States Marine Fisheries Commission's Summer Flounder, Scup, and Black Sea Bass Advisory Panel.
 
 ## gao
 - **Geothermal Energy: Bureau of Land Management Should Improve Permitting Process as Development Demand Grows on Federal Lands**
@@ -165,60 +165,94 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - This Scroll-Driven Narrative tells the story of how the federal government is trying to strengthen U.S. manufacturing through Manufacturing USA—a national network of institutes that are partnerships between federal agencies, companies, universities, and others. It is a companion to a series of reports GAO has issued examining the Manufacturing USA program—for example, Advanced Manufacturing: Aligning Strategies and Improving Agency Reviews Could Help Institutes Achieve National Goals, GAO-25-107
 
 ## courtlistener
-- **State v. Alday-Morales**
-  - when: 2026-10-12T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11031973/state-v-alday-morales/
-  - NOT FOR PUBLICATION IN WEST&#x27;S HAWAIʻI REPORTS AND PACIFIC REPORTER Electronically Filed Intermediate Court of Appeals CAAP-XX-XXXXXXX 12-OCT-2026 10:09 AM Dkt. 52 ODMR NO. CAAP-XX-XXXXXXX Original document
-- **People v. Super. Ct.**
-  - when: 2026-10-12T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11031981/people-v-super-ct/
-  - Filed 10/12/26 CERTIFIED FOR PUBLICATION IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA FOURTH APPELLATE DISTRICT DIVISION TWO THE PEOPLE, Petitioner, E087702 v. (Super.Ct.No. RIF111066) THE SUPERIOR COURT OF OPINION RIVERSIDE COUNTY, Respondent; CHRISTOPHER Original document
-- **People v. Centeno**
-  - when: 2026-10-12T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11031980/people-v-centeno/
-  - Filed 10/12/26 (unmodified opn. attached) CERTIFIED FOR PARTIAL PUBLICATION* IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA FIRST APPELLATE DISTRICT DIVISION THREE THE PEOPLE, Plaintiff and Respondent, A171308 v. (Sonoma County JOSE ANTHONY CENTENO, Super. Ct. No. SCR-740196-2) Defendant and Appellant Original document
-- **United States v. Tekippe**
-  - when: 2026-10-12T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11031951/united-states-v-tekippe/
-  - Case: 25-30528 Document: 73-1 Page: 1 Date Filed: 10/12/2026 United States Court of Appeals for the Fifth Circuit ____________ United States Court of Appeals Fifth Circuit FILED Original document
-- **T. B. v. Department of Children and Families and Guardian Ad Litem**
-  - when: 2026-10-12T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11031948/t-b-v-department-of-children-and-families-and-guardian-ad-litem/
-  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2026-0841 Lower Tribunal No. 2024-DP-000314 _____________________________ In the Interest of L.B. and A.B., children. T.B., Original document
-- **Robert Davis v. Secretary of State**
-  - when: 2026-10-12T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11032001/robert-davis-v-secretary-of-state/
-  - If this opinion indicates that it is “FOR PUBLICATION,” it is subject to revision until final publication in the Michigan Appeals Reports. STATE OF MICHIGAN COURT OF APPEALS ROBERT DAVIS, FOR PUBLICATION October 12, 2026 Plaintiff-Appellant, Original document
-- **People of Michigan v. Jimmy Lee Fuller**
-  - when: 2026-10-12T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11032004/people-of-michigan-v-jimmy-lee-fuller/
-  - If this opinion indicates that it is “FOR PUBLICATION,” it is subject to revision until final publication in the Michigan Appeals Reports. STATE OF MICHIGAN COURT OF APPEALS PEOPLE OF THE STATE OF MICHIGAN, FOR PUBLICATION October 12, 2026 Plaintiff-Appellee, Original document
-- **K.R. v. Super. Ct.**
-  - when: 2026-10-12T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11031970/kr-v-super-ct/
-  - Filed 10/12/26 CERTIFIED FOR PARTIAL PUBLICATION* COURT OF APPEAL, FOURTH APPELLATE DISTRICT DIVISION ONE STATE OF CALIFORNIA K.R. et al., D088471 Petitioners, (San Diego County Super. Ct. No. J521474A-B) v. THE SUPERIOR COURT OF SAN DIEGO COUNTY, Respondent; SAN DIEGO COUNTY HEALTH AND Original document
-- **State v. Bekkum**
-  - when: 2026-10-12T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11031965/state-v-bekkum/
-  - NOT FOR PUBLICATION IN WEST&#x27;S HAWAI#I REPORTS AND PACIFIC REPORTER Electronically Filed Intermediate Court of Appeals CAAP-XX-XXXXXXX 12-OCT-2026 07:59 AM Original document
-- **Andrew Radulescu Et Ano, V. Portsmith Apartments Llc**
-  - when: 2026-10-12T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11031975/andrew-radulescu-et-ano-v-portsmith-apartments-llc/
-  - IN THE COURT OF APPEALS OF THE STATE OF WASHINGTON ANDREW RADULESCU and JUSTIN GREEN, each individually and on No. 87987-1-I behalf of all others similarly situated, DIVISION ONE Respondents, PUBLISHED OPINION v. WEST COAST SECURITY, a Nevada corporation; WEST COAST SECURITY CONCEPTS INC., a Nevada corporation; ANTHONY LOMBARDI, individually and/or Original document
-- **Bates v. Administrative Director of the Courts**
-  - when: 2026-10-12T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11031953/bates-v-administrative-director-of-the-courts/
-  - Electronically Filed Supreme Court SCWC-XX-XXXXXXX 12-OCT-2026 07:48 AM Dkt. 23 OGAC SCWC-XX-XXXXXXX IN THE SUPREME COURT OF THE Original document
-- **Maclary v. James Malin Plumbing**
-  - when: 2026-10-12T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11031998/maclary-v-james-malin-plumbing/
-  - IN THE SUPERIOR COURT OF THE STATE OF DELAWARE THOMAS MACLARY, ) ) Claimant-Below / Appellant, ) ) C.A. No. N24A-07-002 DJB v. ) ) JAMES MALIN PLUMBING, ) Employer-Below / Appellee. ) Date Submitted: July 8, 2026 Date Original document
+- **Edward Williams v. Attorney General United States of America**
+  - when: 2026-10-13T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11032450/edward-williams-v-attorney-general-united-states-of-america/
+  - UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT No. 24-1091 EDWARD A. WILLIAMS V. ATTORNEY GENERAL UNITED STATES OF AMERICA; DIRECTOR BUREAU OF ALCOHOL TOBACCO FIREARMS &amp; EXPLOSIVES; DIRECTOR FEDERAL BUREAU OF INVESTIGATION; UNITED STATES OF AMERICA, Appellants _____________________________ On Appeal from U.S. District Court, E.D. Pa. Judge Original document
+- **162 South Britain Road Operating Co. II, LLC v. Marshall**
+  - when: 2026-10-13T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11032076/162-south-britain-road-operating-co-ii-llc-v-marshall/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **Robert Parfrey v. State of Florida**
+  - when: 2026-10-13T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11032081/robert-parfrey-v-state-of-florida/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2026-0624 LT Case No. 2017-CF-000938-A _____________________________ ROBERT PARFREY, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ 3.850 Appeal from the Circuit Court for Hernando County. Daniel B. Merritt, Jr., Judge. Robert Parfrey, Lowell, pro se. Original document
+- **Griener v. State of Florida**
+  - when: 2026-10-13T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11032153/griener-v-state-of-florida/
+  - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2025-0478 _____________________________ BRADLEY SCOTT GRIENER, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Escambia County. John F. Simon, Jr., Judge. October 13, 2026 PER CURIAM. AFFIRMED. ROWE, NORDBY Original document
+- **People v. Saleem**
+  - when: 2026-10-13T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11032291/people-v-saleem/
+  - Original document
+- **Wells Fargo Bank, N.A. v. Chambers**
+  - when: 2026-10-13T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11032607/wells-fargo-bank-na-v-chambers/
+  - [Cite as Wells Fargo Bank, N.A. v. Chambers, 2026-Ohio-4020.] IN THE COURT OF APPEALS OF OHIO ELEVENTH APPELLATE DISTRICT LAKE COUNTY WELLS FARGO BANK, N.A., CASE NO. 2026-L-0041 Plaintiff-Appellee, Civil Appeal from the - vs - Mentor Municipal Court THOMAS C. CHAMBERS, Original document
+- **Jenisha S. Likansis v. Walmart Inc.**
+  - when: 2026-10-13T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11032112/jenisha-s-likansis-v-walmart-inc/
+  - COURT OF CHANCERY OF THE STATE OF DELAWARE DANIELLE GIBBS LEONARD L. WILLIAMS JUSTICE CENTER MAGISTRATE IN CHANCERY 500 NORTH KING STREET, SUITE 11400 WILMINGTON, DE 19801-3734 October 13, 2026 Jenisha S. Likansis Original document
+- **Nicholas Morrison v. Reemployment Assistance Appeals Commission and PIN of GA, LLC**
+  - when: 2026-10-13T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11032083/nicholas-morrison-v-reemployment-assistance-appeals-commission-and-pin-of/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2026-0652 LT Case No. 25-01551 _____________________________ NICHOLAS MORRISON, Appellant, v. REEMPLOYMENT ASSISTANCE APPEALS COMMISSION AND PIN OF GA, LLC, Appellees. _____________________________ Administrative Appeal from the Reemployment Assistance Appeals Commission. Original document
+- **Roberson v. State of Florida**
+  - when: 2026-10-13T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11032150/roberson-v-state-of-florida/
+  - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2025-1669 _____________________________ WESLEY CLINTON ROBERSON, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Hamilton County. Kathryn R. Land, Judge. October 13, 2026 PER CURIAM. AFFIRMED. ROBERTS, ROWE Original document
+- **Shalonda Johnson-Funny v. Orlando Utilities Commission**
+  - when: 2026-10-13T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11032157/shalonda-johnson-funny-v-orlando-utilities-commission/
+  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2025-1641 Lower Tribunal No. 2019-CA-008898-O _____________________________ SHALONDA JOHNSON-FUNNY, Appellant, v. ORLANDO UTILITIES COMMISSION, Original document
+- **Daquand D. Marion v. State of Florida**
+  - when: 2026-10-13T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11032168/daquand-d-marion-v-state-of-florida/
+  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2025-1118 Lower Tribunal No. 2018-CF-005319 _____________________________ DAQUAND D. MARION, Appellant, v. STATE OF FLORIDA Original document
+- **Reindeer Logistics, LLC v. Model 1 Commercial Vehicles, Inc.**
+  - when: 2026-10-13T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11032280/reindeer-logistics-llc-v-model-1-commercial-vehicles-inc/
+  - Original document
 
 ## uk-legislation
+- **<div xmlns="http://www.w3.org/1999/xhtml">
+						<span xml:lang="en">The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) Regulations 2026</span> / <span xml:lang="cy">Rheoliadau Adnoddau Dŵr (Rheoli Llygredd Amaethyddol) (Cymru) (Diwygio) 2026</span>
+					</div>**
+  - when: 2026-10-14T08:32:37+01:00
+  - url: http://www.legislation.gov.uk/id/wsi/2026/121
+  - These Regulations amend the Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021 (S.I. 2021/77 (W. 20)) (“the 2021 Regulations”). Mae’r Rheoliadau hyn yn diwygio Rheoliadau Adnoddau Dŵr (Rheoli Llygredd Amaethyddol) (Cymru) 2021 (O.S. 2021/77 (Cy. 20)) (“Rheoliadau 2021”).
+- **The Northern Ireland Assembly (Minimum Period) (Amendment) Order 2026**
+  - when: 2026-10-13T17:51:56+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1080
+  - By virtue of section 31 (1) of the Northern Ireland Act 1998 (c. 47), ordinary general elections to the Northern Ireland Assembly are held on the first Thursday in May every five years. The predecessor Assembly must be dissolved at the start of the minimum period which ends with the date of the poll for the election and that period is determined in accordance with an Order made by the Secretary of State.
+- **The Employment Appeal Tribunal (Amendment) (No. 2) Rules 2026**
+  - when: 2026-10-13T17:51:53+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1077
+  - These Rules amend the Employment Appeal Tribunal Rules 1993 (S.I. 1993/2854) (“the 1993 Rules”) which are the rules governing the procedure in the Employment Appeal Tribunal.
+- **The Income-related Benefits (Subsidy to Authorities) Amendment Order 2026**
+  - when: 2026-10-13T17:51:46+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1079
+  - This Order amends the Income-related Benefits (Subsidy to Authorities) Order 1998 (S.I. 1998/562) (“the 1998 Order”) which provides for the calculation and payment of housing benefit subsidy to local authorities in England, Wales and Scotland which administer housing benefit. Sections 140C(4) and 140F(2) of the Social Security Administration Act 1992 (c. 5) authorise the making, revocation or varying of an Order before, during or after the year to which it relates.
+- **The Licensing Act 2003 (Applications of Potential Strategic Importance to Greater London etc and Consequential Amendment) Regulations 2026**
+  - when: 2026-10-13T17:51:42+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1078
+  - Section 51 of, and Schedule 26 to, the English Devolution and Community Empowerment Act 2026 (c. 23) amended the Licensing Act 2003 (c. 17) by inserting powers enabling the Mayor of London to call in and determine certain licensing applications of potential strategic importance to Greater London. These Regulations supplement those provisions.
+- **The Local Authorities (Functions and Responsibilities) (England) (Amendment) Regulations 2026**
+  - when: 2026-10-13T17:51:37+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1076
+  - These Regulations amend the Local Authorities (Functions and Responsibilities) (England) Regulations 2000 (“the 2000 Regulations”). They apply in relation to local authorities in England.
+- **The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026**
+  - when: 2026-10-13T17:51:32+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1071
+  - These Regulations are made under the Sanctions and Anti-Money Laundering Act 2018 (c. 13) to establish a sanctions regime for the purposes of: deterring, and providing accountability for: activities which, if carried out by or on behalf of a State, would amount to serious violations of certain human rights by that State; serious violations of international humanitarian law; and obstruction of the delivery or distribution of, or access to humanitarian assistance around the world.
 - **The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2026**
   - when: 2026-10-13T03:04:44+01:00
   - url: http://www.legislation.gov.uk/id/nisr/2026/177
   - These Regulations make amendments to the Social Security (Recovery of Benefits) Regulations (Northern Ireland) 1997 (S.R. 1997 No. 429), the State Pension Credit Regulations (Northern Ireland) 2003 (S.R. 2003 No. 28), the Housing Benefit Regulations (Northern Ireland) 2006 (S.R. 2006 No. 405), the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 (S.R. 2006 No. 406), the Social Security (Recovery of Benefits) (Lump Sum Pay
+- **Correction Slip**
+  - when: 2026-10-13T09:15:48+01:00
+  - url: http://www.legislation.gov.uk/nisr/2026/171/pdfs/nisrcs_20260171_en_001.pdf
+  - These Regulations amend the Tobacco Retailer (Fixed Penalty) (Amount) Regulations (Northern Ireland) 2016 (“the Regulations”).
 - **The Enterprise Act 2002 (Specification of Additional Section 58 Consideration) Order 2026**
   - when: 2026-10-13T08:27:59+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1075
@@ -230,30 +264,3 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
 - **The Air Navigation (Restriction of Flying) (Yorkshire Wildlife Park, South Yorkshire) (Emergency) Regulations 2026**
   - when: 2026-10-12T12:33:09.549218+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1073
-- **The Parking Places on Roads and Waiting Restrictions (Cookstown) (Amendment) Order (Northern Ireland) 2026**
-  - when: 2026-10-12T07:37:34+01:00
-  - url: http://www.legislation.gov.uk/id/nisr/2026/176
-- **The Roads (Speed Limit) (No. 3) Order (Northern Ireland) 2026**
-  - when: 2026-10-12T07:37:25+01:00
-  - url: http://www.legislation.gov.uk/id/nisr/2026/175
-- **The Parking Places on Roads, Loading Bay and Waiting Restrictions (Newcastle) (Amendment) Order (Northern Ireland) 2026**
-  - when: 2026-10-12T07:37:05+01:00
-  - url: http://www.legislation.gov.uk/id/nisr/2026/174
-- **The Parking Places on Roads (Clogher) Order (Northern Ireland) 2026**
-  - when: 2026-10-12T07:34:40+01:00
-  - url: http://www.legislation.gov.uk/id/nisr/2026/173
-- **The Parking and Waiting Restrictions (Derry/Londonderry) (Amendment) Order (Northern Ireland) 2026**
-  - when: 2026-10-12T07:34:30+01:00
-  - url: http://www.legislation.gov.uk/id/nisr/2026/172
-- **The Five Estuaries Offshore Wind Farm (Correction) Order 2026**
-  - when: 2026-10-12T07:36:43+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1070
-  - This Order corrects errors in the Five Estuaries Offshore Wind Farm Order 2025 (S.I. 2025/1376), a development consent order made under the Planning Act 2008, following a request made under paragraph 1(5)(a) of Schedule 4 to that Act.
-- **Correction Slip**
-  - when: 2026-10-12T12:33:33+01:00
-  - url: http://www.legislation.gov.uk/uksi/2026/1045/pdfs/uksics_20261045_en_001.pdf
-  - This Order makes changes to electoral arrangements for the borough of the Wirral (“the Borough”) following recommendations made by the Local Government Boundary Commission for England. The area of the Borough remains unchanged.
-- **Correction Slip**
-  - when: 2026-10-12T11:25:35+01:00
-  - url: http://www.legislation.gov.uk/uksi/2026/933/pdfs/uksics_20260933_en_001.pdf
-  - These Regulations bring into force the Children’s Wellbeing and Schools Act 2026 (c. 21) (“the Act”). They are the third commencement regulations to be made under the Act which bring into force provisions of the Act in relation to England only.
