@@ -1,0 +1,61 @@
+date: 2026-10-15
+mode: SCAN
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: read the October 14 REST run, no active investigations, and ten parked investigations
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon; configured feeds completed
+  horizon: newsroom/horizon/2026-10-15/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-020-dhs-grant-review
+    decision: park
+    reason: no official DHS/FEMA award-action record joined the selected award to termination, pause, reinstatement, or deobligation status; same-object test failed
+  - id: parked_board
+    decision: remain parked
+    reason: no October 15 horizon item met a documented reopen condition
+  - id: 2026-021-cbp-ice-body-camera-management
+    decision: continue
+    reason: GAO-26-108157 can be compared with current ICE and CBP directives; underlying plans and response records remain to be located
+investigations:
+  - id: 2026-021-cbp-ice-body-camera-management
+    decision: continue
+    new_primary_documents: 3
+    official_retrievals:
+      - https://www.gao.gov/products/gao-26-108157
+      - https://www.ice.gov/doclib/foia/policy/19010.3.pdf
+      - https://www.cbp.gov/sites/default/files/2025-05/CBP-Directive-4320-030B-IDVRS-signed-508.pdf
+    changed:
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/assignment.md
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/status.yml
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/hypothesis.md
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/timeline.md
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/claim-ledger.yml
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/evidence-log.md
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/evidence/2026-10-15-gao-26-108157.md
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/evidence/2026-10-15-ice-directive-19010-3.md
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/evidence/2026-10-15-cbp-directive-4320-030b.md
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/gaps.md
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/traces/2026-10-15.md
+publication:
+  published: false
+  reason: the current records define a researchable gap but do not yet expose the underlying plans or recommendation responses needed for a publishable finding
+validation:
+  run: false
+  result: no article was drafted or published
+journal:
+  - newsroom/journal/2026-10-15.md
+desk_notes:
+  - newsroom/desk/2026-10-15-r1.md

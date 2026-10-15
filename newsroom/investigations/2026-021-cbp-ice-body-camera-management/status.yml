@@ -1,0 +1,11 @@
+id: 2026-021-cbp-ice-body-camera-management
+opened: 2026-10-15
+updated: 2026-10-15
+status: active
+mode: SCAN
+next_action: Locate the CBP and ICE program management plans or later official responses to GAO-26-108157, then compare their dates, deployment assumptions, and assigned operational guidance with the current directives; do not infer noncompliance from a missing public file.
+hypothesis: "CBP and ICE have current body-camera directives that assign program-management, training, and local operating-guidance duties, but the public record may not show that those duties produced updated program plans or office-level guidance after deployment expanded and paused."
+series: null
+part: null
+consecutive_continue_without_new_primary: 0
+last_decision: continue

@@ -1,0 +1,27 @@
+claims:
+  - id: C1
+    type: fact
+    text: "GAO reports that CBP and ICE had not updated their body-camera program plans since 2022 and 2024, respectively, despite changes including increased deployment and a 2025 pause; it also reports that most offices lacked specific operational guidance."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "ICE Directive 19010.3 limits application to locations where cameras and responsibilities have been implemented until enterprise-wide issuance, makes full implementation dependent on appropriated funding, and assigns the OFTP Program Management Office responsibility for managing and overseeing the program."
+    status: supported
+    evidence:
+      - E2
+  - id: C3
+    type: fact
+    text: "CBP Directive 4320-030B describes itself as overarching guidance, requires office-level SOPs before deployment, and assigns component leadership duties for updating SOPs, monitoring deployment, and auditing recorded data."
+    status: supported
+    evidence:
+      - E3
+  - id: C4
+    type: inference
+    text: "The records define different layers of governance—policy directive, program plan, and office guidance—but do not yet establish whether the current directives were followed by updated plans or local guidance."
+    status: provisional
+    evidence:
+      - E1
+      - E2
+      - E3
