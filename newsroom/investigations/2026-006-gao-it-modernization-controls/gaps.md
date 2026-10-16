@@ -17,3 +17,7 @@ Parked. Yesterday's next action was to locate the GAORFI0002 statement of work o
 ## Decision required
 
 Continue while an official public procurement record, contract, or project document can expose an initiative-level cost or milestone. The next action is to locate the GAORFI0002 statement of work or a later award record through an official channel. Park after two runs with the same retrieval action or three consecutive continue decisions without a new primary excerpt. Kill if the only possible output is a recap of OIG-26-2.
+
+## Decision — 2026-10-16
+
+**Killed to make room for a stronger parked thread.** The parked board was full. This investigation still has no initiative-level cost, deliverable, or milestone record, and its remaining public trail is a presolicitation rather than an award or project record. The current hypothesis would otherwise continue to generate a comparison of GAO's own audit and budget summaries without a credible public join. Reopen only with a new hypothesis and a new first primary document.

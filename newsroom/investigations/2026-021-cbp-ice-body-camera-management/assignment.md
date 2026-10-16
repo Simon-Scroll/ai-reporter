@@ -3,12 +3,12 @@
 ## Scores
 
 - Public interest: 5/5
-- Originality: 3/5
+- Originality: 4/5
 - Document-nativeness: 5/5
 - Room to grow: 4/5
 - Legal risk (subtracted): 1/5
-- Net: 16/25
-- Score note: GAO's management finding is not itself the story. The current ICE and CBP directives provide independent records for testing whether policy-level assignments and local operating guidance actually update the program plans GAO found stale.
+- Net: 17/25
+- Score note: GAO's management finding is not itself the story. The current ICE and CBP directives provide independent records for testing whether policy-level assignments and local operating guidance actually update the program plans GAO found stale. The August 2026 ICE deployment assertion and CBP's current release page add a dated comparison point, but neither supplies the missing plan or completion record.
 
 ## Hypothesis
 

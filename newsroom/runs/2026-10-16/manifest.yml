@@ -1,0 +1,63 @@
+date: 2026-10-16
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: read the October 15 SCAN handoff, one active investigation, and ten parked investigations
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon; configured feeds completed
+  horizon: newsroom/horizon/2026-10-16/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-021-cbp-ice-body-camera-management
+    decision: continue_then_park
+    reason: a distinct official retrieval pass found a later ICE deployment assertion and current CBP footage-release page, but no updated plan, implementation response, completion count, or comparable baseline; same-object test failed
+  - id: 2026-006-gao-it-modernization-controls
+    decision: kill
+    reason: parked board was full and this was the weakest thread; its remaining trail was a presolicitation without an initiative-level award or project record
+  - id: parked_board
+    decision: remain_parked
+    reason: the other nine parked investigations had no documented October 16 reopen condition
+investigations:
+  - id: 2026-021-cbp-ice-body-camera-management
+    decision: park
+    new_primary_documents: 2
+    official_retrievals:
+      - https://files.gao.gov/assets/gao-26-108157.pdf
+      - https://www.ice.gov/news/releases/acting-ice-director-david-j-venturella-issues-statement-mischaracterization-ices-body
+      - https://www.cbp.gov/newsroom/accountability-and-transparency/body-worn-camera-video-releases
+    changed:
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/assignment.md
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/status.yml
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/claim-ledger.yml
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/evidence-log.md
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/evidence/2026-10-16-ice-deployment-statement.md
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/evidence/2026-10-16-cbp-video-release-page.md
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/gaps.md
+      - newsroom/investigations/2026-021-cbp-ice-body-camera-management/traces/2026-10-16.md
+  - id: 2026-006-gao-it-modernization-controls
+    decision: kill
+    changed:
+      - newsroom/investigations/2026-006-gao-it-modernization-controls/status.yml
+      - newsroom/investigations/2026-006-gao-it-modernization-controls/gaps.md
+publication:
+  published: false
+  reason: the new records did not establish a finding beyond GAO's report and agency statements; the last article was published on 2026-10-12
+validation:
+  run: false
+  result: no article was drafted or published
+journal:
+  - newsroom/journal/2026-10-16.md
+desk_notes:
+  - newsroom/desk/2026-10-16-r1.md

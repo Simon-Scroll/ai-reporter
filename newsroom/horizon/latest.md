@@ -1,106 +1,106 @@
-# Horizon brief — 2026-10-15
+# Horizon brief — 2026-10-16
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
 ## sec-edgar
-- **SCHEDULE 13D/A - Cable One, Inc. (0001632127) (Subject)**
-  - when: 2026-10-14T21:55:47-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1632127/000095015726001101/0000950157-26-001101-index.htm
-  - Filed: 2026-10-14 AccNo: 0000950157-26-001101 Size: 11 KB
-- **SCHEDULE 13D/A - GRAHAM DONALD (0001018401) (Filed by)**
-  - when: 2026-10-14T21:55:47-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1018401/000095015726001101/0000950157-26-001101-index.htm
-  - Filed: 2026-10-14 AccNo: 0000950157-26-001101 Size: 11 KB
-- **4 - Ng Chun Seong (0002057693) (Reporting)**
-  - when: 2026-10-14T21:54:22-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2057693/000149315226047081/0001493152-26-047081-index.htm
-  - Filed: 2026-10-14 AccNo: 0001493152-26-047081 Size: 5 KB
-- **4 - SKK Holdings Ltd (0001991261) (Issuer)**
-  - when: 2026-10-14T21:54:22-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1991261/000149315226047081/0001493152-26-047081-index.htm
-  - Filed: 2026-10-14 AccNo: 0001493152-26-047081 Size: 5 KB
-- **144 - Ainscow Robert (0001951275) (Reporting)**
-  - when: 2026-10-14T21:50:06-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1951275/000147793226006223/0001477932-26-006223-index.htm
-  - Filed: 2026-10-14 AccNo: 0001477932-26-006223 Size: 5 KB
-- **144 - ASP Isotopes Inc. (0001921865) (Subject)**
-  - when: 2026-10-14T21:50:06-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1921865/000147793226006223/0001477932-26-006223-index.htm
-  - Filed: 2026-10-14 AccNo: 0001477932-26-006223 Size: 5 KB
-- **SCHEDULE 13D/A - Herd Whitney Wolfe (0001842687) (Filed by)**
-  - when: 2026-10-14T21:44:51-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1842687/000110465926115924/0001104659-26-115924-index.htm
-  - Filed: 2026-10-14 AccNo: 0001104659-26-115924 Size: 183 KB
-- **SCHEDULE 13D/A - Bumble Inc. (0001830043) (Subject)**
-  - when: 2026-10-14T21:44:51-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1830043/000110465926115924/0001104659-26-115924-index.htm
-  - Filed: 2026-10-14 AccNo: 0001104659-26-115924 Size: 183 KB
-- **4 - Cue Biopharma, Inc. (0001645460) (Issuer)**
-  - when: 2026-10-14T21:39:34-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1645460/000157962926000012/0001579629-26-000012-index.htm
-  - Filed: 2026-10-14 AccNo: 0001579629-26-000012 Size: 5 KB
-- **4 - Ray Sumita (0001579629) (Reporting)**
-  - when: 2026-10-14T21:39:34-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1579629/000157962926000012/0001579629-26-000012-index.htm
-  - Filed: 2026-10-14 AccNo: 0001579629-26-000012 Size: 5 KB
-- **4 - Meluzio Michael Vincent (0002138368) (Reporting)**
-  - when: 2026-10-14T21:38:15-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2138368/000213836826000009/0002138368-26-000009-index.htm
-  - Filed: 2026-10-14 AccNo: 0002138368-26-000009 Size: 5 KB
-- **4 - Cue Biopharma, Inc. (0001645460) (Issuer)**
-  - when: 2026-10-14T21:38:15-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1645460/000213836826000009/0002138368-26-000009-index.htm
-  - Filed: 2026-10-14 AccNo: 0002138368-26-000009 Size: 5 KB
+- **4 - Hyperliquid Strategies Inc (0002078856) (Issuer)**
+  - when: 2026-10-15T21:38:47-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2078856/000119312526423229/0001193125-26-423229-index.htm
+  - Filed: 2026-10-15 AccNo: 0001193125-26-423229 Size: 4 KB
+- **4 - Bhatt Nailesh (0001806525) (Reporting)**
+  - when: 2026-10-15T21:38:47-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1806525/000119312526423229/0001193125-26-423229-index.htm
+  - Filed: 2026-10-15 AccNo: 0001193125-26-423229 Size: 4 KB
+- **4 - Hyperliquid Strategies Inc (0002078856) (Issuer)**
+  - when: 2026-10-15T21:38:03-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2078856/000119312526423228/0001193125-26-423228-index.htm
+  - Filed: 2026-10-15 AccNo: 0001193125-26-423228 Size: 4 KB
+- **4 - KING THOMAS C. (0001774975) (Reporting)**
+  - when: 2026-10-15T21:38:03-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1774975/000119312526423228/0001193125-26-423228-index.htm
+  - Filed: 2026-10-15 AccNo: 0001193125-26-423228 Size: 4 KB
+- **4 - Hyperliquid Strategies Inc (0002078856) (Issuer)**
+  - when: 2026-10-15T21:37:33-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2078856/000119312526423227/0001193125-26-423227-index.htm
+  - Filed: 2026-10-15 AccNo: 0001193125-26-423227 Size: 4 KB
+- **4 - Rosengren Eric S (0001973576) (Reporting)**
+  - when: 2026-10-15T21:37:33-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1973576/000119312526423227/0001193125-26-423227-index.htm
+  - Filed: 2026-10-15 AccNo: 0001193125-26-423227 Size: 4 KB
+- **4 - Hyperliquid Strategies Inc (0002078856) (Issuer)**
+  - when: 2026-10-15T21:36:34-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2078856/000119312526423224/0001193125-26-423224-index.htm
+  - Filed: 2026-10-15 AccNo: 0001193125-26-423224 Size: 4 KB
+- **4 - LEIBOWITZ LAWRENCE E (0001276505) (Reporting)**
+  - when: 2026-10-15T21:36:34-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1276505/000119312526423224/0001193125-26-423224-index.htm
+  - Filed: 2026-10-15 AccNo: 0001193125-26-423224 Size: 4 KB
+- **3 - ALABEDIN ALI MOHAMMAD AHMAD MOHAMMAD (0002159719) (Reporting)**
+  - when: 2026-10-15T21:33:09-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2159719/000121390026109968/0001213900-26-109968-index.htm
+  - Filed: 2026-10-15 AccNo: 0001213900-26-109968 Size: 3 KB
+- **3 - NEONC TECHNOLOGIES HOLDINGS, INC. (0001979414) (Issuer)**
+  - when: 2026-10-15T21:33:09-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1979414/000121390026109968/0001213900-26-109968-index.htm
+  - Filed: 2026-10-15 AccNo: 0001213900-26-109968 Size: 3 KB
+- **S-1MEF - CITY THERAPEUTICS, INC. (0002143850) (Filer)**
+  - when: 2026-10-15T21:32:54-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2143850/000110465926116363/0001104659-26-116363-index.htm
+  - Filed: 2026-10-15 AccNo: 0001104659-26-116363 Size: 194 KB
+- **3 - TCGX Acquisition Corp. II (0002149916) (Issuer)**
+  - when: 2026-10-15T21:18:24-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2149916/000119312526423216/0001193125-26-423216-index.htm
+  - Filed: 2026-10-15 AccNo: 0001193125-26-423216 Size: 22 KB
 
 ## federal-register
-- **Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters**
-  - when: 2026-10-15
-  - url: https://www.federalregister.gov/documents/2026/10/15/2026-21123/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters
-  - Transportation Department, Federal Aviation Administration — Proposed Rule — The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus Helicopters Deutschland GmbH (AHD) Model MBB-BK 117 D-2 helicopters. This proposed AD was prompted by certification test results of a certain common cargo hook beam (CCHB) on the affected helicopters, which revealed that the installed CCHB could result in fuel leakage following a survivable accident. This proposed AD would require modification o
-- **Fisheries of the Exclusive Economic Zone off Alaska; Pacific Ocean Perch in the Central Regulatory Area of the Gulf of Alaska**
-  - when: 2026-10-15
-  - url: https://www.federalregister.gov/documents/2026/10/15/2026-21106/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-ocean-perch-in-the-central-regulatory
-  - Commerce Department, National Oceanic and Atmospheric Administration — Rule — NMFS is prohibiting retention of the incidental catch allowance for Pacific Ocean perch in the Central Regulatory Area of the Gulf of Alaska (GOA) except by vessels checked-in to the Central GOA Rockfish Program who are fishing with a rockfish cooperative quota permit. This action is necessary because the 2026 total allowable catch (TAC) apportioned as the incidental catch allowance for Pacific Ocean perch in the Centr
-- **Family and Medical Leave Act**
-  - when: 2026-10-15
-  - url: https://www.federalregister.gov/documents/2026/10/15/2026-21104/family-and-medical-leave-act
-  - Personnel Management Office — Rule — The Office of Personnel Management (OPM) is issuing a direct final rule making technical revisions to OPM's Family and Medical Leave Act (FMLA) regulations to incorporate various statutory amendments. The rule reflects statutory changes making virtually all Federal civilian service and certain honorable active military service qualify for determining FMLA eligibility, making clear that annual and sick leave provided under an authority outside of title 5, Unit
-- **Administrative Declaration of a Disaster for the State of Indiana**
-  - when: 2026-10-15
-  - url: https://www.federalregister.gov/documents/2026/10/15/2026-21103/administrative-declaration-of-a-disaster-for-the-state-of-indiana
-  - Small Business Administration — Notice — This is notice of an Administrative declaration of a disaster for the state of Indiana dated October 9, 2026. Incident: Severe Storms, Tornadoes, Straight-line Winds, and Flash Flooding.
-- **Presidential Declaration of a Major Disaster for Public Assistance Only for the PUEBLO OF ZUNI**
-  - when: 2026-10-15
-  - url: https://www.federalregister.gov/documents/2026/10/15/2026-21102/presidential-declaration-of-a-major-disaster-for-public-assistance-only-for-the-pueblo-of-zuni
-  - Small Business Administration — Notice — This is notice of the Presidential declaration of a major disaster for Public Assistance Only for the Pueblo of Zuni (FEMA-4954- DR), dated October 7, 2026. Incident: Severe Storms and Flooding.
-- **Presidential Declaration of a Major Disaster for Public Assistance Only for the State of Wisconsin**
-  - when: 2026-10-15
-  - url: https://www.federalregister.gov/documents/2026/10/15/2026-21101/presidential-declaration-of-a-major-disaster-for-public-assistance-only-for-the-state-of-wisconsin
-  - Small Business Administration — Notice — This is notice of the Presidential declaration of a major disaster for Public Assistance Only for the state of WISCONSIN (FEMA- 4949-DR), dated October 7, 2026. Incident: Severe Storms and Tornadoes.
-- **Certain Systems, Devices, Software, Compositions, Chemicals, and Laboratory Supplies for Studying Proteins; Notice of Commission Determination Not To Review an Initial Determination Finding the Sole Respondent in This Investigation in Default; Request for Written Submissions on Remedy, the Public Interest, and Bonding**
-  - when: 2026-10-15
-  - url: https://www.federalregister.gov/documents/2026/10/15/2026-21100/certain-systems-devices-software-compositions-chemicals-and-laboratory-supplies-for-studying
-  - International Trade Commission — Notice — Notice is hereby given that the U.S. International Trade Commission has determined not to review an initial determination ("ID") (Order No. 7) of the presiding administrative law judge ("ALJ") finding the sole respondent in this investigation--Nanomics Biotechnology Co., Ltd. ("Nanomics") of Hangzhou, Zhejiang, China--in default based on Nanomics's filing of a notice of intent to default. The Commission requests written submissions from the parties, inte
-- **Center for Scientific Review; Amended Notice of Meeting**
-  - when: 2026-10-15
-  - url: https://www.federalregister.gov/documents/2026/10/15/2026-21099/center-for-scientific-review-amended-notice-of-meeting
+- **Non-Applicability of Section 357(c) to Consolidated Groups**
+  - when: 2026-10-16
+  - url: https://www.federalregister.gov/documents/2026/10/16/2026-21253/non-applicability-of-section-357c-to-consolidated-groups
+  - Treasury Department, Internal Revenue Service — Rule — This document contains final regulations clarifying that, in the case of certain transfers between members of a consolidated group, a transferee's assumption of certain liabilities will not reduce the transferor's basis in the transferee's stock received in the transfer. These final regulations affect consolidated groups and their members.
+- **Safety Zone; Cumberland River, Hendersonville, TN**
+  - when: 2026-10-16
+  - url: https://www.federalregister.gov/documents/2026/10/16/2026-21240/safety-zone-cumberland-river-hendersonville-tn
+  - Homeland Security Department, Coast Guard — Proposed Rule — The Coast Guard is proposing to establish a temporary safety zone for navigable waters on the Cumberland River from mile marker 221.7 to 222. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with an overwater fireworks display. This proposed rulemaking would prohibit persons and vessels from being in the safety zone unless specifically authorized by the Captain of the
+- **Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Atka Mackerel in the Bering Sea and Aleutian Islands Management Area**
+  - when: 2026-10-16
+  - url: https://www.federalregister.gov/documents/2026/10/16/2026-21239/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-atka-mackerel-in-the-bering-sea
+  - Commerce Department, National Oceanic and Atmospheric Administration — Rule — NMFS is reallocating the projected unused amount of the 2026 Atka mackerel incidental catch allowance (ICA) for the Bering Sea subarea and Eastern Aleutian district (BS/EAI) to the Amendment 80 cooperative allocation for the BS/EAI in the Bering Sea and Aleutian Islands management area (BSAI). This action is necessary to allow the 2026 total allowable catch (TAC) of Atka mackerel in the BS/EAI to be fully harvested.
+- **Notice of Availability of an Environmental Assessment for Exterior Improvements to the Eisenhower Executive Office Building and Request for Consulting Parties**
+  - when: 2026-10-16
+  - url: https://www.federalregister.gov/documents/2026/10/16/2026-21236/notice-of-availability-of-an-environmental-assessment-for-exterior-improvements-to-the-eisenhower
+  - Notice — Consistent with the National Environmental Policy Act of 1969 (NEPA) and Section 106 of the National Historic Preservation Act of 1966, as amended (NHPA), this Notice announces the availability and opportunity for public review and comment of a draft Environmental Assessment (EA), which examines the potential impacts of a proposal by the Office of Administration (OA), Executive Office of the President (EOP), to improve the granite fa[ccedil]ade of the Dwight D. Eisenhower Executive Offi
+- **National Cancer Institute; Amended Notice of Meeting**
+  - when: 2026-10-16
+  - url: https://www.federalregister.gov/documents/2026/10/16/2026-21235/national-cancer-institute-amended-notice-of-meeting
   - Health and Human Services Department, National Institutes of Health — Notice
-- **National Institute on Drug Abuse; Notice of Closed Meeting**
-  - when: 2026-10-15
-  - url: https://www.federalregister.gov/documents/2026/10/15/2026-21098/national-institute-on-drug-abuse-notice-of-closed-meeting
+- **Center for Scientific Review; Notice of Closed Meetings**
+  - when: 2026-10-16
+  - url: https://www.federalregister.gov/documents/2026/10/16/2026-21234/center-for-scientific-review-notice-of-closed-meetings
   - Health and Human Services Department, National Institutes of Health — Notice
-- **Agency Information Collection Activities; Comment Request on Guidance Under Section 529A: Qualified ABLE Programs.**
-  - when: 2026-10-15
-  - url: https://www.federalregister.gov/documents/2026/10/15/2026-21097/agency-information-collection-activities-comment-request-on-guidance-under-section-529a-qualified
-  - Treasury Department, Internal Revenue Service — Notice — In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.
-- **Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments**
-  - when: 2026-10-15
-  - url: https://www.federalregister.gov/documents/2026/10/15/2026-21096/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures
-  - Transportation Department, Federal Aviation Administration — Rule — This rule establishes, amends, suspends, or removes Standard Instrument Approach Procedures (SIAPS) and associated Takeoff Minimums and Obstacle Departure procedures (ODPs) for operations at certain airports. These regulatory actions are needed because of the adoption of new or revised criteria, or because of changes occurring in the National Airspace System, such as the commissioning of new navigational facilities, adding new o
-- **Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments**
-  - when: 2026-10-15
-  - url: https://www.federalregister.gov/documents/2026/10/15/2026-21095/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures
-  - Transportation Department, Federal Aviation Administration — Rule — This rule amends, suspends, or removes Standard Instrument Approach Procedures (SIAPs) and associated Takeoff Minimums and Obstacle Departure Procedures for operations at certain airports. These regulatory actions are needed because of the adoption of new or revised criteria, or because of changes occurring in the National Airspace System, such as the commissioning of new navigational facilities, adding new obstacles, or changin
+- **Center for Scientific Review; Notice of Closed Meetings**
+  - when: 2026-10-16
+  - url: https://www.federalregister.gov/documents/2026/10/16/2026-21233/center-for-scientific-review-notice-of-closed-meetings
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Center For Scientific Review; Amended Notice of Meeting**
+  - when: 2026-10-16
+  - url: https://www.federalregister.gov/documents/2026/10/16/2026-21232/center-for-scientific-review-amended-notice-of-meeting
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Center for Scientific Review; Notice of Closed Meetings**
+  - when: 2026-10-16
+  - url: https://www.federalregister.gov/documents/2026/10/16/2026-21231/center-for-scientific-review-notice-of-closed-meetings
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Center for Scientific Review; Notice of Closed Meetings**
+  - when: 2026-10-16
+  - url: https://www.federalregister.gov/documents/2026/10/16/2026-21230/center-for-scientific-review-notice-of-closed-meetings
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Agency Information Collection Activities; Proposed eCollection eComments Requested; Reinstatement of a Previously Approved Collection; Title-Federal Bureau of Investigation Whistleblower Request for Corrective Action Form**
+  - when: 2026-10-16
+  - url: https://www.federalregister.gov/documents/2026/10/16/2026-21229/agency-information-collection-activities-proposed-ecollection-ecomments-requested-reinstatement-of-a
+  - Justice Department — Notice — The Office of Attorney Recruitment and Management (OARM), Justice Management Division (JMD), Department of Justice (DOJ), will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.
+- **Agency Information Collection Activities: Request for Comments for a New Information Collection**
+  - when: 2026-10-16
+  - url: https://www.federalregister.gov/documents/2026/10/16/2026-21228/agency-information-collection-activities-request-for-comments-for-a-new-information-collection
+  - Transportation Department, Federal Highway Administration — Notice — The FHWA has forwarded the information collection request described in this notice to the Office of Management and Budget (OMB) to approve a new information collection. We are required to publish this notice in the Federal Register by the Paperwork Reduction Act of 1995.
 
 ## gao
 - **Artificial Intelligence: Actions and Opportunities to Implement Responsible Use in DOD**
@@ -165,105 +165,102 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - What GAO Found When homebuyers apply for a mortgage, lenders request their credit reports from credit reporting agencies. These agencies may then sell the homebuyers’ contact and credit information to other lenders and brokers, which use it to send competing loan offers. Before recent legislation, credit reporting agencies could, without the homebuyer’s consent, provide this information to those that did not have an existing relationship with the homebuyer (see figure). Thus, homebuyers could r
 
 ## courtlistener
-- **McLean v. Living**
-  - when: 2026-10-14T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11033877/mclean-v-living/
-  - 2026 IL App (2d) 260174 No. 2-26-0174 Opinion filed October 14, 2026 IN THE APPELLATE COURT OF ILLINOIS SECOND DISTRICT SAMUEL McLEAN, as Independent Executor of the Estate of Jane King McLean, Deceased, Plaintiff-Appellee, Original document
-- **Tymoshenko v. Levitansky**
-  - when: 2026-10-14T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11034040/tymoshenko-v-levitansky/
-  - Tymoshenko v Levitansky 2026 NY Slip Op 05988 October 14, 2026 Appellate Division, Second Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Olga Tymoshenko, etc., respondent, v Oksana Levitansky, etc., et al., defendants, Maria Guerrero, etc., appellant. Supreme Court of the State of New York, Appellate Division, Second Judicial Department Decided on October Original document
-- **United States v. Lance Washington**
-  - when: 2026-10-14T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11034008/united-states-v-lance-washington/
-  - In the United States Court of Appeals For the Seventh Circuit ____________________ Nos. 20-2048, et al. UNITED STATES OF AMERICA, Plaintiﬀ-Appellee, v. KENTREVION WATKINS, et al., Defendants-Appellants. ____________________ Appeals from the United States District Original document
-- **United States v. Keith Gregory**
-  - when: 2026-10-14T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11034015/united-states-v-keith-gregory/
-  - In the United States Court of Appeals For the Seventh Circuit ____________________ Nos. 20-2048, et al. UNITED STATES OF AMERICA, Plaintiﬀ-Appellee, v. KENTREVION WATKINS, et al., Defendants-Appellants. ____________________ Appeals from the United States District Original document
-- **Matter of VN Prop., Inc. v. Byrne**
-  - when: 2026-10-14T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11034068/matter-of-vn-prop-inc-v-byrne/
-  - Matter of VN Prop., Inc. v Byrne 2026 NY Slip Op 05961 October 14, 2026 Appellate Division, Second Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. In the Matter of VN Property, Inc., appellant, v Rita Byrne, etc., et al., respondents. Supreme Court of the State of New York, Appellate Division, Second Judicial Department Decided on October 14, 2026 2024-08064 Original document
-- **Tracy Than Hunter v. State of Florida**
-  - when: 2026-10-14T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11033678/tracy-than-hunter-v-state-of-florida/
-  - DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA FOURTH DISTRICT RUEL GREEN, SHARIKA MORGAN, SYLVESTER JEFFERSON CUFFY, and TRACY THAN HUNTER, Petitioners, v. STATE OF FLORIDA, Respondent. Nos. 4D2026-2733, 4D2026-2742, 4D2026-2743, 4D2026-2744 [October 14, 2026] Consolidated petitions for writ Original document
-- **Gregory Rosenbaum and Patricia Rosenbaum v. Florida Insurance Guaranty Association, Inc.**
-  - when: 2026-10-14T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11033649/gregory-rosenbaum-and-patricia-rosenbaum-v-florida-insurance-guaranty/
-  - DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA FOURTH DISTRICT GREGORY ROSENBAUM and PATRICIA ROSENBAUM, Appellants, v. FLORIDA INSURANCE GUARANTY ASSOCIATION, INC., Appellee. No. 4D2025-1179 [October 14, 2026] Appeal from Original document
-- **The State of Wyoming v. Mark Anthony Martinez**
-  - when: 2026-10-14T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11033734/the-state-of-wyoming-v-mark-anthony-martinez/
-  - IN THE SUPREME COURT, STATE OF WYOMING 2026 WY 111 OCTOBER TERM, A.D. 2026 October 14, 2026 THE STATE OF WYOMING, Petitioner, v. S-26-0003 MARK ANTHONY MARTINEZ, Respondent. Original Proceeding Original document
-- **United States v. Sherman Williams**
-  - when: 2026-10-14T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11034001/united-states-v-sherman-williams/
-  - In the United States Court of Appeals For the Seventh Circuit ____________________ Nos. 20-2048, et al. UNITED STATES OF AMERICA, Plaintiﬀ-Appellee, v. KENTREVION WATKINS, et al., Defendants-Appellants. ____________________ Appeals from the United States District Original document
-- **United States v. Lloyd Dotson**
-  - when: 2026-10-14T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11034006/united-states-v-lloyd-dotson/
-  - In the United States Court of Appeals For the Seventh Circuit ____________________ Nos. 20-2048, et al. UNITED STATES OF AMERICA, Plaintiﬀ-Appellee, v. KENTREVION WATKINS, et al., Defendants-Appellants. ____________________ Appeals from the United States District Original document
-- **FCC v. Brown**
-  - when: 2026-10-14T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11034117/fcc-v-brown/
-  - Cite as: 610 U. S. ____ (2026) 1 Per Curiam SUPREME COURT OF THE UNITED STATES _________________ No. 26A476 _________________ FEDERAL COMMUNICATIONS COMMISSION v. SHERROD BROWN, ET AL. ON APPLICATION FOR STAY _________________ No. 26A477 _________________ Original document
-- **Pennymac Corp. v. New York City Envtl. Control Bd.**
-  - when: 2026-10-14T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11034063/pennymac-corp-v-new-york-city-envtl-control-bd/
-  - Pennymac Corp. v New York City Envtl. Control Bd. 2026 NY Slip Op 05965 October 14, 2026 Appellate Division, Second Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Pennymac Corp., respondent, v New York City Environmental Control Board, et al., defendants; 194 Grant Corp., nonparty-appellant. Supreme Court of the State of New York, Appellate Division, Original document
+- **Matter of Buscemi v. Prime Care Coordination**
+  - when: 2026-10-15T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11035186/matter-of-buscemi-v-prime-care-coordination/
+  - Matter of Buscemi v Prime Care Coordination 2026 NY Slip Op 06043 October 15, 2026 Appellate Division, Third Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. In the Matter of the Claim of Aaron Buscemi, Appellant, v Prime Care Coordination et al., Respondents. Workers' Compensation Board, Respondent. Decided and Entered:October 15, 2026 CV-23-0761 Calendar Original document
+- **Gary Steinberg v. Fiesta Homeowners Association, Inc.**
+  - when: 2026-10-15T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11035019/gary-steinberg-v-fiesta-homeowners-association-inc/
+  - DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA FOURTH DISTRICT GARY STEINBERG, Appellant, v. FIESTA HOMEOWNERS ASSOCIATION, INC., Appellee. No. 4D2025-3507 [October 15, 2026] Appeal from the County Court for the Seventeenth Judicial Circuit, Broward County; John Original document
+- **Akeem Emory v. State of Florida**
+  - when: 2026-10-15T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11035032/akeem-emory-v-state-of-florida/
+  - DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA FOURTH DISTRICT AKEEM EMORY, Appellant, v. STATE OF FLORIDA, Appellee. No. 4D2026-0083 [October 15, 2026] Appeal of order denying rule 3.850 motion from the Circuit Court for the Nineteenth Judicial Original document
+- **Matter of Attorneys in Violation of Judiciary Law § 468-a. (DeSouza)**
+  - when: 2026-10-15T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11035192/matter-of-attorneys-in-violation-of-judiciary-law-468-a-desouza/
+  - Matter of Attorneys in Violation of Judiciary Law § 468-a. (DeSouza) 2026 NY Slip Op 06055 October 15, 2026 Appellate Division, Third Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. In the Matter of Attorneys in Violation of Judiciary Law § 468-a. Attorney Grievance Committee for the Third Judicial Department, Petitioner; Iana Carleen DeSouza, Respondent Original document
+- **Manisha Maraj v. State of Florida**
+  - when: 2026-10-15T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11035010/manisha-maraj-v-state-of-florida/
+  - DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA FOURTH DISTRICT MANISHA MARAJ, Appellant, v. STATE OF FLORIDA, Appellee. No. 4D2025-1176 [October 15, 2026] Appeal from the County Court for the Fifteenth Judicial Circuit, Palm Beach County; Caroline C. Shepherd Original document
+- **City of Sparks v. Bluth**
+  - when: 2026-10-15T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11035172/city-of-sparks-v-bluth/
+  - IN THE SUPREME COURT OF THE STATE OF NEVADA CITY OF SPARKS, No. 90244 Appellant, vs. ERICA BLUTH, AN INDIVIDUAL; AND CITY OF RENO, A POLITICAL SUBDIVISION OF THE STATE OF NEVADA, Respondents. Appeal from a district court order issuing a writ of mandamus in a Nevada Public Records Act proceeding. Second Judicial District Court, Washoe County; Barry L. Breslow, Judge. Reversed. Wesley K. Duncan, City Attorney, and Mariah Original document
+- **Matter of Wray**
+  - when: 2026-10-15T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11035179/matter-of-wray/
+  - Matter of Wray 2026 NY Slip Op 06054 October 15, 2026 Appellate Division, Third Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. In the Matter of John Owen Butler Wray, an Attorney. (Attorney Registration No. 5590062.) Decided and Entered:October 15, 2026 PM-234-26 Calendar Date: September 28, 2026 Before: Pritzker, J.P., Ceresia, Fisher, Powers And Cocoran Original document
+- **Bombardini v. Bd. of Psychology**
+  - when: 2026-10-15T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11035281/bombardini-v-bd-of-psychology/
+  - Filed 10/15/26 (unmodifed opn. attached) CERTIFIED FOR PARTIAL PUBLICATION * IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA THIRD APPELLATE DISTRICT (Sacramento) MORELLA BOMBARDINI, C104172 Plaintiff and Appellant, (Super. Ct. No. 24WM000096) v. Original document
+- **Eric D. Holmes v. Ron Neal**
+  - when: 2026-10-15T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11035336/eric-d-holmes-v-ron-neal/
+  - In the United States Court of Appeals For the Seventh Circuit ____________________ No. 23-2890 ERIC D. HOLMES, Petitioner-Appellant, v. RON NEAL, Respondent-Appellee. ____________________ Appeal from the United States District Court for the Southern District of Indiana Original document
+- **In Re: Rules Governing Admission to The Mississippi Bar**
+  - when: 2026-10-15T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11035286/in-re-rules-governing-admission-to-the-mississippi-bar/
+  - Serial: 264809 IN THE SUPREME COURT OF MISSISSIPPI No. 89-R-99012-SCT FILED IN RE: RULES GOVERNING ADMISSION OCT 08 2026 TO THE MISSISSIPPI BAR OFFICE OF THE CLERK SUPREME COURT EN BANC ORDER COURT OF APPEALS Before the Court is the Mississippi Board of Bar Admissions’ Petition to Set Commencement Date for Administration of the NextGen Uniform Bar Exam. On June 12, 2025, the Court announced its intention to adopt the NextGen Uniform Bar Exam (“NextGen UBE”). Order, Jn re: Rules Governing Admission Original document
+- **JOHN CONNORS v. ALEXANDRIA HART**
+  - when: 2026-10-15T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11034982/john-connors-v-alexandria-hart/
+  - Court of Appeals of the State of Georgia ATLANTA, October 15, 2026 The Court of Appeals hereby passes the following order A26A2059. JOHN CONNORS et al v. ALEXANDRIA HART et al . Upon consideration of the APPELLANT&#x27;S motion FOR PERMISSION TO WITHDRAW THE APPEAL in the above styled case, it is ordered that the motion be hereby GRANTED, and jurisdiction is released back to the trial court upon receipt of this order. Original document
+- **Well Done Mitigation LLC, A/A/O Angel Miguel Aguila v. Citizens Property Insurance Corporation**
+  - when: 2026-10-15T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11035001/well-done-mitigation-llc-aao-angel-miguel-aguila-v-citizens-property/
+  - DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA FOURTH DISTRICT WELL DONE MITIGATION LLC a/a/o ANGEL MIGUEL AGUILA, Appellant, v. CITIZENS PROPERTY INSURANCE CORPORATION, Appellee. No. 4D2025-1794 [October 15, 2026] Appeal from the County Court for the Seventeenth Judicial Circuit, Broward County; Nina W Original document
 
 ## uk-legislation
+- **The Diocese of Leicester (Educational Endowments) (Hathern Church of England Primary School Teacher’s House) Order 2026**
+  - when: 2026-10-16T03:05:54+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1091
+  - This Order appoints the Leicester Diocesan Board of Education as trustee of the foundation known as Hathern Church of England Primary School Teacher’s House and makes new provision as to the use of that foundation. It creates a separate foundation for the purpose of providing religious education in accordance with the doctrines of the Church of England within the Parish of Hathern. The Order provides for the Religious Education Fund to be held on trust by the minister and churchwardens for the t
+- **The Crime and Policing Act 2026 (Commencement No. 4) Regulations 2026**
+  - when: 2026-10-16T03:05:44+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1090
+  - These Regulations bring into force specified provisions of the Crime and Policing Act 2026 (c. 20) (“the Act”). These are the fourth commencement regulations made under the Act.
+- **The Official Controls (Plant Protection Products) (Amendment) Regulations (Northern Ireland) 2026**
+  - when: 2026-10-16T03:10:26+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/179
+  - These Regulations amend the Official Controls (Plant Protection Products) Regulations (Northern Ireland) 2020 (S.R. 2020 No.360) (“PPP Official Controls Regulations”)
+- **The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026**
+  - when: 2026-10-15T16:44:29+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1094
+  - These Regulations set out provisions in relation to charges of local authorities for or in connection with certain building related functions.
+- **The Welfare Food (Amendment) (England and Wales) Regulations 2026**
+  - when: 2026-10-15T15:44:00+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1092
+  - These Regulations amend the Welfare Food Regulations 1996 (S.I. 1996/1434) (“the 1996 Regulations”). The 1996 Regulations provide for a scheme (the “Nursery Milk Scheme”) which entitles children under the age of five years to one-third of a pint of milk (189ml) on any day where they are provided with childcare, by an approved childcare provider, for two hours or more. Regulations 3 to 10 amend the 1996 Regulations to replace references to day care with childcare and to update references to child
+- **The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment No. 2) Order 2026**
+  - when: 2026-10-15T15:43:49+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1083
+  - The First-tier Tribunal and Upper Tribunal (Chambers) Order 2010 (S.I. 2010/2655) (“the 2010 Order”) organises the First-tier Tribunal and Upper Tribunal into chambers and makes provision for the allocation of those tribunals’ functions between the chambers.
+- **The Port of Tyne Harbour Revision Order 2026**
+  - when: 2026-10-15T15:43:40+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1088
+  - This Order, made on the application of the Port of Tyne Authority, modernises and consolidates the statutory harbour powers which apply in relation to the Port of Tyne (‘the port’) and provides for—
+- **The Income Tax (Pay As You Earn) (Amendment No. 3) Regulations 2026**
+  - when: 2026-10-15T14:01:16+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1082
+  - These Regulations make amendments to the Income Tax (Pay As You Earn) Regulations 2003 (S.I. 2003/2682) (“the PAYE regulations”) to make loans and living accommodation a “specified benefit” for the purposes of Chapter 3A of the PAYE regulations and provide methods for calculating their cash equivalent or the relevant amount for the purposes of the PAYE regulations. This allows employers to apply to HMRC to become an “authorised employer” under regulation 61C of the PAYE regulations in respect o
+- **The Air Navigation (Restriction of Flying) (Yorkshire Wildlife Park, South Yorkshire) (Emergency) (Revocation) Regulations 2026**
+  - when: 2026-10-15T12:34:29+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1093
+- **The Global Human Rights and International Humanitarian Law Sanctions (Overseas Territories) Order 2026**
+  - when: 2026-10-15T14:31:56+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1089
+  - This Order extends with modifications the Global Human Rights and International Humanitarian Law Sanctions Regulations 2026 (S.I. 2026/1071) (“the GHRIHLS Regulations”) as amended from time to time to all British overseas territories except Bermuda and Gibraltar (which implement sanctions under their own legislative arrangements).
+- **The Inspectors of Education, Children’s Services and Skills (No. 3) Order 2026**
+  - when: 2026-10-15T10:42:09+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1087
+  - This Order appoints the persons named in the Schedule as His Majesty’s Inspectors of Education, Children’s Services and Skills.
 - **<div xmlns="http://www.w3.org/1999/xhtml">
 						<span xml:lang="en">The Child Minding and Day Care Exceptions (Revocation and Transitional Provision) (Wales) (Amendment) Order 2026</span> / <span xml:lang="cy">Gorchymyn Eithriadau Gwarchod Plant a Gofal Dydd (Dirymu a Darpariaeth Drosiannol) (Cymru) (Diwygio) 2026</span>
 					</div>**
   - when: 2026-10-15T09:00:44+01:00
   - url: http://www.legislation.gov.uk/id/wsi/2026/122
   - This Order is made under sections 19(4) and (5) and 74(2)(c) of the Children and Families (Wales) Measure 2010 (“the Measure”). Mae’r Gorchymyn hwn wedi ei wneud o dan adrannau 19(4) a (5) a 74(2)(c) o Fesur Plant a Theuluoedd (Cymru) 2010 (“y Mesur”).
-- **The Gas Safety (Installation and Use) (Amendment) Regulations (Northern Ireland) 2026**
-  - when: 2026-10-15T03:10:07+01:00
-  - url: http://www.legislation.gov.uk/id/nisr/2026/178
-  - These Regulationsamend the Gas Safety (Installation and Use) Regulations (Northern Ireland) 2004 (“the 2004 Regulations”).
-- **The Housing (Empty Dwelling Management Orders) (Prescribed Period of Time and Prescribed Requirements) (England) (Amendment) Order 2026**
-  - when: 2026-10-15T08:50:26+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1085
-  - Chapter 2 of Part 4 of the Housing Act 2004 (c. 34) (“the Act”) deals with the making of interim and final empty dwelling management orders (“EDMOs) which may be made by local housing authorities in respect of dwellings which are wholly unoccupied.
-- **The Anti-social Behaviour (Provision of Information) Regulations 2026**
-  - when: 2026-10-14T16:34:08+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1081
-  - These Regulations are made under section 105A of the Anti-Social Behaviour, Crime and Policing Act 2014 (c. 12) (“the 2014 Act”), which enables the Secretary of State to make regulations placing a duty on specified authorities to provide the Secretary of State with specific information relating to anti-social behaviour. This may include information about reports of anti-social behaviour made to the authority, and their response to anti-social behaviour. Under section 105A(3), a relevant authorit
-- **<div xmlns="http://www.w3.org/1999/xhtml">
-						<span xml:lang="en">The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) Regulations 2026</span> / <span xml:lang="cy">Rheoliadau Adnoddau Dŵr (Rheoli Llygredd Amaethyddol) (Cymru) (Diwygio) 2026</span>
-					</div>**
-  - when: 2026-10-15T00:10:00+01:00
-  - url: http://www.legislation.gov.uk/id/wsi/2026/121
-  - These Regulations amend the Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021 (S.I. 2021/77 (W. 20)) (“the 2021 Regulations”). Mae’r Rheoliadau hyn yn diwygio Rheoliadau Adnoddau Dŵr (Rheoli Llygredd Amaethyddol) (Cymru) 2021 (O.S. 2021/77 (Cy. 20)) (“Rheoliadau 2021”).
-- **Correction Slip**
-  - when: 2026-10-14T13:51:05+01:00
-  - url: http://www.legislation.gov.uk/uksi/2026/960/pdfs/uksics_20260960_en_001.pdf
-  - These Regulations bring into force specified provisions of the Crime and Policing Act 2026 (c. 20) (“the 2026 Act”). These are the third commencement regulations made under the 2026 Act.
-- **Correction Slip**
-  - when: 2026-10-15T08:38:55+01:00
-  - url: http://www.legislation.gov.uk/uksi/2026/689/pdfs/uksics_20260689_en_001.pdf
-  - These Regulations bring into force specified provisions of the Crime and Policing Act 2026 (c. 20) (“the 2026 Act”). These are the first commencement regulations made under the 2026 Act.
-- **The Northern Ireland Assembly (Minimum Period) (Amendment) Order 2026**
-  - when: 2026-10-13T17:51:56+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1080
-  - By virtue of section 31 (1) of the Northern Ireland Act 1998 (c. 47), ordinary general elections to the Northern Ireland Assembly are held on the first Thursday in May every five years. The predecessor Assembly must be dissolved at the start of the minimum period which ends with the date of the poll for the election and that period is determined in accordance with an Order made by the Secretary of State.
-- **The Employment Appeal Tribunal (Amendment) (No. 2) Rules 2026**
-  - when: 2026-10-13T17:51:53+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1077
-  - These Rules amend the Employment Appeal Tribunal Rules 1993 (S.I. 1993/2854) (“the 1993 Rules”) which are the rules governing the procedure in the Employment Appeal Tribunal.
-- **The Income-related Benefits (Subsidy to Authorities) Amendment Order 2026**
-  - when: 2026-10-13T17:51:46+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1079
-  - This Order amends the Income-related Benefits (Subsidy to Authorities) Order 1998 (S.I. 1998/562) (“the 1998 Order”) which provides for the calculation and payment of housing benefit subsidy to local authorities in England, Wales and Scotland which administer housing benefit. Sections 140C(4) and 140F(2) of the Social Security Administration Act 1992 (c. 5) authorise the making, revocation or varying of an Order before, during or after the year to which it relates.
-- **The Licensing Act 2003 (Applications of Potential Strategic Importance to Greater London etc and Consequential Amendment) Regulations 2026**
-  - when: 2026-10-13T17:51:42+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1078
-  - Section 51 of, and Schedule 26 to, the English Devolution and Community Empowerment Act 2026 (c. 23) amended the Licensing Act 2003 (c. 17) by inserting powers enabling the Mayor of London to call in and determine certain licensing applications of potential strategic importance to Greater London. These Regulations supplement those provisions.
-- **The Local Authorities (Functions and Responsibilities) (England) (Amendment) Regulations 2026**
-  - when: 2026-10-13T17:51:37+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1076
-  - These Regulations amend the Local Authorities (Functions and Responsibilities) (England) Regulations 2000 (“the 2000 Regulations”). They apply in relation to local authorities in England.

@@ -25,3 +25,23 @@ claims:
       - E1
       - E2
       - E3
+  - id: C5
+    type: fact
+    text: "In an August 8, 2026 official statement, ICE said it was on track to equip every officer and agent in the field with body-worn cameras by the end of August."
+    status: supported
+    evidence:
+      - E4
+  - id: C6
+    type: fact
+    text: "CBP's current public body-camera release page describes the program as a pilot and lists May 13, 2025 as its newest incident-release date."
+    status: supported
+    evidence:
+      - E5
+  - id: C7
+    type: inference
+    text: "The new official records show later deployment language and ongoing footage-release activity, but the public record still does not provide a dated ICE completion count or a current CBP/ICE program plan that can be compared with GAO's plan findings."
+    status: provisional
+    evidence:
+      - E1
+      - E4
+      - E5

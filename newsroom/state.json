@@ -6,9 +6,7 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [
-    "2026-021-cbp-ice-body-camera-management"
-  ],
+  "open_investigations": [],
   "parked_investigations": [
     "2026-020-dhs-grant-review",
     "2026-013-opm-workforce-data-completeness",
@@ -16,18 +14,18 @@
     "2026-010-dod-igsa-savings-verification",
     "2026-005-navy-submarine-maintenance",
     "2026-008-dod-installation-maintenance-funding",
-    "2026-006-gao-it-modernization-controls",
     "2026-007-doe-contractor-assurance",
     "2026-012-faa-bnatcs-cost-schedule",
-    "2026-015-faa-aviation-cybersecurity"
+    "2026-015-faa-aviation-cybersecurity",
+    "2026-021-cbp-ice-body-camera-management"
   ],
   "series": [],
-  "last_run": "2026-10-15",
-  "last_mode": "SCAN",
-  "last_horizon": "2026-10-15",
+  "last_run": "2026-10-16",
+  "last_mode": "CONTINUE",
+  "last_horizon": "2026-10-16",
   "last_published_at": "2026-10-12",
-  "last_journal": "newsroom/journal/2026-10-15.md",
-  "next_action": "Locate the CBP and ICE body-camera program management plans or later official responses to GAO-26-108157; compare their dates, deployment assumptions, costs/schedules, contingencies, and office guidance with the current directives. Do not infer noncompliance from a missing public file.",
-  "handoff": "Opened 2026-021-cbp-ice-body-camera-management after GAO-26-108157 was compared with current ICE Directive 19010.3 and CBP Directive 4320-030B. The records distinguish policy directives from program plans and office guidance, but the underlying plans or later recommendation responses are still missing; no article is ready. The DHS grant thread remains parked and the other nine parked investigations remain unchanged.",
+  "last_journal": "newsroom/journal/2026-10-16.md",
+  "next_action": "Reopen 2026-021-cbp-ice-body-camera-management only when CBP or ICE publishes an updated body-camera program plan, a dated implementation/recommendation response, or a verifiable deployment-status record that can be compared with GAO-26-108157; do not repeat the GAO, ICE statement, or CBP release-page retrievals.",
+  "handoff": "The body-camera thread advanced through a distinct official retrieval pass, including the readable GAO PDF mirror, an August 8 ICE deployment assertion, and CBP's current release page. Those records still do not provide a comparable updated plan, completion count, cost/schedule baseline, or implementation response, so the thread is parked without a noncompliance claim. The parked board remains at ten after killing the weaker GAO internal-modernization thread; no article was published.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }

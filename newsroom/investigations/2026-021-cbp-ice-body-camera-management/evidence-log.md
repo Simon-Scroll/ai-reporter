@@ -23,3 +23,19 @@
 - Locator: Sections 4.1–4.2 and 7.1–7.2.
 - Captured excerpt: The directive covers CBP offices and says it is overarching guidance that does not replace office-level SOPs; offices must issue SOPs before deployment. It assigns the Commissioner overall policy, acquisition, requirements, audit, and quality-assurance responsibility, while component leaders must update SOPs, monitor deployment, and ensure recorded data are audited.
 - Why it matters: Supplies a second component’s policy-layer assignments and an explicit requirement for office-level procedures, allowing the investigation to test whether plans and local guidance are separate unresolved layers.
+
+## E4 — ICE statement on body-worn-camera deployment
+
+- URL: https://www.ice.gov/news/releases/acting-ice-director-david-j-venturella-issues-statement-mischaracterization-ices-body
+- Retrieved: 2026-10-16
+- Locator: Statement dated August 8, 2026; final paragraph.
+- Captured excerpt: The acting ICE director said ICE was “on track to equip every officer and agent in the field with body-worn cameras by the end of August,” ahead of its original timeline.
+- Why it matters: This is a later official deployment assertion than GAO’s April/June 2026 snapshots, but it is a statement of intent/progress rather than a public completion record or updated program plan.
+
+## E5 — CBP Body-Worn Camera Video Releases page
+
+- URL: https://www.cbp.gov/newsroom/accountability-and-transparency/body-worn-camera-video-releases
+- Retrieved: 2026-10-16
+- Locator: Page introduction and incident table.
+- Captured excerpt: CBP describes the program as piloting body-worn cameras throughout the United States and says its directive provides implementation guidance; the newest listed release is dated May 13, 2025.
+- Why it matters: The current public page supplies operational evidence that footage is being released, but it does not expose a current deployment plan, office-specific guidance, or a dated status against GAO’s 49,000-camera plan.
