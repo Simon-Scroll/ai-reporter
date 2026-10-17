@@ -1,0 +1,11 @@
+id: 2026-022-nnsa-workforce-capacity
+opened: 2026-10-17
+updated: 2026-10-17
+status: active
+mode: CONTINUE
+next_action: Compare the GAO Q2 FY2026 actual workforce definition with the DOE/NNSA FY2026 2,003-FTE request, especially the 38 Savannah River Operations Office FTEs transferred from DOE Environmental Management; then seek a distinct official staffing or workforce-planning record before deciding whether the gap is publishable.
+hypothesis: "NNSA's FY2026 budget requested funding for 2,003 federal FTEs while GAO reports 1,755 federal employees at the end of the second quarter of FY2026; the difference may show that the agency's staffing plan and its reported workforce had diverged during a period of expanding nuclear-modernization work."
+series: null
+part: null
+consecutive_continue_without_new_primary: 1
+last_decision: continue

@@ -1,0 +1,33 @@
+claims:
+  - id: C1
+    type: fact
+    text: "GAO reports that NNSA's federal workforce fell by 236 employees, or 11.9 percent, from a peak of 1,991 early in FY2025 to 1,755 employees through the second quarter of FY2026."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "The DOE/NNSA FY2026 Congressional Justification requests $555 million for Federal Salaries and Expenses and says that amount supports a federal staff of 2,003 FTEs."
+    status: supported
+    evidence:
+      - E2
+  - id: C3
+    type: fact
+    text: "The FY2026 request includes FTEs at the Savannah River Operations Office that were funded in FY2025 by DOE Environmental Management, reflecting a transfer of responsibility for the Savannah River Site."
+    status: supported
+    evidence:
+      - E2
+  - id: C4
+    type: inference
+    text: "The two official records differ by 248 positions on their face: 2,003 requested FTEs minus 1,755 reported employees."
+    status: provisional
+    evidence:
+      - E1
+      - E2
+  - id: C5
+    type: inference
+    text: "The 248-position difference is not yet a publishable staffing shortfall because the records may use different dates, workforce definitions, or treatment of the Savannah River transfer."
+    status: provisional
+    evidence:
+      - E1
+      - E2

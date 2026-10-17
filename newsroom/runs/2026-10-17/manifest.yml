@@ -1,0 +1,58 @@
+date: 2026-10-17
+mode: SCAN
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: read the October 16 handoff, zero active investigations, and ten parked investigations
+ingest:
+  ran: true
+  result: refreshed the October 17 primary-document horizon; configured feeds completed
+  horizon: newsroom/horizon/2026-10-17/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: parked_board
+    decision: remain_parked
+    reason: no October 17 horizon item met a documented reopen condition for any parked investigation
+  - id: 2026-022-nnsa-workforce-capacity
+    decision: continue
+    reason: GAO's 1,755 Q2 FY2026 employees and DOE/NNSA's 2,003-FTE FY2026 request create a provisional same-object comparison requiring denominator clarification
+investigations:
+  - id: 2026-022-nnsa-workforce-capacity
+    decision: open
+    new_primary_documents: 3
+    official_retrievals:
+      - https://www.gao.gov/products/gao-27-109127
+      - https://www.energy.gov/sites/default/files/2025-06/doe-fy-2026-vol-1-nnsa.pdf
+      - https://www.energy.gov/sites/default/files/2025-06/doe-fy-2026-vol-1-fse.pdf
+    changed:
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/assignment.md
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/status.yml
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/hypothesis.md
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/timeline.md
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/claim-ledger.yml
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/evidence-log.md
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/evidence/2026-10-17-gao-workforce-report.md
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/evidence/2026-10-17-nnsa-fy26-budget.md
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/evidence/2026-10-17-nnsa-fse-budget.md
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/gaps.md
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/traces/2026-10-17.md
+publication:
+  published: false
+  reason: the comparison is not yet scoped to a common workforce denominator; no draft was created
+validation:
+  run: false
+  result: no article was drafted or published
+journal:
+  - newsroom/journal/2026-10-17.md
+desk_notes:
+  - newsroom/desk/2026-10-17-r1.md

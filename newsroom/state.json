@@ -6,7 +6,9 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [],
+  "open_investigations": [
+    "2026-022-nnsa-workforce-capacity"
+  ],
   "parked_investigations": [
     "2026-020-dhs-grant-review",
     "2026-013-opm-workforce-data-completeness",
@@ -20,12 +22,12 @@
     "2026-021-cbp-ice-body-camera-management"
   ],
   "series": [],
-  "last_run": "2026-10-16",
-  "last_mode": "CONTINUE",
-  "last_horizon": "2026-10-16",
+  "last_run": "2026-10-17",
+  "last_mode": "SCAN",
+  "last_horizon": "2026-10-17",
   "last_published_at": "2026-10-12",
-  "last_journal": "newsroom/journal/2026-10-16.md",
-  "next_action": "Reopen 2026-021-cbp-ice-body-camera-management only when CBP or ICE publishes an updated body-camera program plan, a dated implementation/recommendation response, or a verifiable deployment-status record that can be compared with GAO-26-108157; do not repeat the GAO, ICE statement, or CBP release-page retrievals.",
-  "handoff": "The body-camera thread advanced through a distinct official retrieval pass, including the readable GAO PDF mirror, an August 8 ICE deployment assertion, and CBP's current release page. Those records still do not provide a comparable updated plan, completion count, cost/schedule baseline, or implementation response, so the thread is parked without a noncompliance claim. The parked board remains at ten after killing the weaker GAO internal-modernization thread; no article was published.",
+  "last_journal": "newsroom/journal/2026-10-17.md",
+  "next_action": "Retrieve one distinct official NNSA or DOE staffing/workforce-planning record that clarifies the FY2026 FTE denominator, office composition, or Savannah River treatment for 2026-022-nnsa-workforce-capacity; do not repeat GAO-27-109127 or the FY2026 budget retrievals.",
+  "handoff": "The desk opened 2026-022-nnsa-workforce-capacity after comparing GAO-27-109127's 1,755 NNSA federal employees through Q2 FY2026 with DOE/NNSA's FY2026 request for 2,003 federal FTEs. The apparent 248-position difference is provisional because the request includes 38 Savannah River Operations Office FTEs transferred from DOE Environmental Management and the public GAO summary does not establish the same denominator. All ten parked investigations remain parked; no article was published.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }

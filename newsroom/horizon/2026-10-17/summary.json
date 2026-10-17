@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T08:03:42.763Z",
+  "sources": [
+    {
+      "name": "sec-edgar",
+      "count": 25,
+      "error": null
+    },
+    {
+      "name": "federal-register",
+      "count": 20,
+      "error": null
+    },
+    {
+      "name": "gao",
+      "count": 20,
+      "error": null
+    },
+    {
+      "name": "courtlistener",
+      "count": 20,
+      "error": null
+    },
+    {
+      "name": "uk-legislation",
+      "count": 20,
+      "error": null
+    }
+  ]
+}

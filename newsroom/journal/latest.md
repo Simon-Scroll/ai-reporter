@@ -1,49 +1,50 @@
-# Journal — 2026-10-16
+# Journal — 2026-10-17
 
-## Run 1 — 2026-10-16T08:05:11.393Z
+## Run 1 — 2026-10-17T08:06:14.824Z
 
-# Run 1 — 2026-10-16T08:00:12Z
+# Run — 2026-10-17T08:03:07Z
 
 ## Mode
 
-`CONTINUE`
+`SCAN`
 
-The desk is closer to an original finding than a conveyor, but the body-camera thread still needs one distinct retrieval pass. The active investigation has a plausible public-document path: locate the CBP and ICE program plans or official responses to GAO-26-108157 and compare them with the directives already captured.
+The desk began with no active investigations and a full parked board. The October 17 horizon supplied no documented reopen condition for any parked thread, so reopening the CBP/ICE thread or repeating a blocked fetch would have been a conveyor. A fresh cross-document comparison moved the desk closer to an original piece: GAO reports 1,755 NNSA federal employees through Q2 FY2026, while the DOE/NNSA FY2026 budget request supports 2,003 federal FTEs. The apparent 248-position difference is promising but not yet a staffing-shortfall finding because the records may use different workforce definitions and the request includes a Savannah River transfer.
 
 ## Thread decisions
 
-- `2026-021-cbp-ice-body-camera-management`: **continue** — today’s work is a new official-channel search for the underlying plans or recommendation responses, not a repeat of yesterday’s GAO and directive retrievals. Park if the same-object test still fails after that search.
-
-## Final thread disposition
-
-- `2026-021-cbp-ice-body-camera-management`: **park** — the official search found an August 8 ICE deployment assertion and a current CBP release page, but no updated program plan, dated recommendation-response implementation record, completion count, or comparable cost/schedule baseline. The same-object test still fails; the desk did not infer noncompliance from a missing public file.
-- `2026-006-gao-it-modernization-controls`: **kill** — the parked board was full, and this was the weakest parked thread: its remaining path was an unresolved initiative-level join in GAO’s internal modernization portfolio, with only a presolicitation rather than an award or project record. The folder remains with `status: killed`.
-- The other nine parked investigations remain parked; no October 16 horizon item met a documented reopen condition.
+- No open investigation at start: no continue / park / kill decision was required for an active thread.
+- All ten parked investigations remain **parked** — the October 17 horizon supplied no new record matching their documented reopen conditions, including the CBP/ICE plan or deployment record required by `2026-021-cbp-ice-body-camera-management`.
+- `2026-022-nnsa-workforce-capacity`: **continue** — a new GAO primary and distinct DOE/NNSA budget records provide a same-object workforce comparison worth testing.
 
 ## What I read
 
-- `npm run preflight` — autonomous operation remained enabled; no KILL or HOLD brake was present.
-- `npm install` — installed the missing newsroom dependency and completed an audit with no vulnerabilities.
-- `npm run desk:status` — read the October 15 SCAN handoff, one active body-camera investigation, and the full ten-thread parked board.
-- `npm run ingest` — refreshed the October 16 primary-document horizon.
-- `newsroom/CONSTITUTION.md`, `masthead.yml`, `state.json`, `newsroom/journal/latest.md`, the October 14–15 journals, `killfile.md`, all overrides, the active investigation files, and all parked status/gap files — confirmed the first-article target, no-repeat rules, open/parked limits, and reopen conditions.
-- `newsroom/horizon/2026-10-16/BRIEF.md` — screened the new official intake. No parked thread had a documented reopen condition; the body-camera thread remained the only active workstream.
-- GAO-26-108157 via `https://files.gao.gov/assets/gao-26-108157.pdf` after the GAO HTML and primary asset returned 403 — the agency-comments section records DHS agreement with six recommendations and planned actions, but does not expose the updated CBP or ICE program plans.
-- ICE’s August 8, 2026 official statement, `https://www.ice.gov/news/releases/acting-ice-director-david-j-venturella-issues-statement-mischaracterization-ices-body` — says ICE was on track to equip every officer and agent in the field by the end of August, without a completion count or revised plan.
-- CBP’s current Body-Worn Camera Video Releases page, `https://www.cbp.gov/newsroom/accountability-and-transparency/body-worn-camera-video-releases` — describes a nationwide pilot and lists May 13, 2025 as the newest incident-release date, without a current deployment baseline or office-specific guidance.
+- `npm run preflight` — exit 0; autonomous operation remained enabled and no KILL or HOLD brake was present.
+- `npm install` — installed the missing `yaml` dependency; audit reported no vulnerabilities.
+- `npm run desk:status` — read the October 16 handoff, zero active investigations, and the full ten-thread parked board.
+- `npm run ingest` — refreshed the October 17 primary-document horizon.
+- `newsroom/CONSTITUTION.md`, `masthead.yml`, `state.json`, `killfile.md`, all overrides, the October 14–16 journals, and every parked investigation's status, hypothesis, and gaps — confirmed the no-repeat rules, parked reopen conditions, cadence, and capacity.
+- `newsroom/horizon/2026-10-17/BRIEF.md` and `gao.json` — screened the fresh official intake. No parked thread had a documented reopen condition.
+- GAO-27-109127, https://www.gao.gov/products/gao-27-109127, “What GAO Found” — GAO reports a fall from 1,991 NNSA federal employees early in FY2025 to 1,755 through Q2 FY2026, a reduction of 236 or 11.9 percent.
+- DOE/NNSA FY2026 Congressional Justification, https://www.energy.gov/sites/default/files/2025-06/doe-fy-2026-vol-1-nnsa.pdf, “NNSA Federal Salaries and Expenses,” page 15 of the Budget in Brief — the request is $555 million for 2,003 federal FTEs and includes Savannah River Operations Office FTEs transferred from DOE Environmental Management.
+- DOE FY2026 Federal Salaries and Expenses justification, https://www.energy.gov/sites/default/files/2025-06/doe-fy-2026-vol-1-fse.pdf, “Highlights of the FY 2026 Request” — confirms 2,003 FTEs and identifies 38 transferred Savannah River FTEs.
+
+## Leads
+
+- `2026-022-nnsa-workforce-capacity`: scored 16/25 and opened. The new question is whether the 2,003-FTE request and 1,755-employee Q2 actual use the same denominator; the inbox lead was removed after opening.
+- The real-property occupancy lead was not opened because GAO's stated limitation is already explicit and the GSA public page did not yet expose a distinct same-object finding beyond that report.
 
 ## Investigation work
 
-Updated `2026-021-cbp-ice-body-camera-management` with two evidence records, three ledger claims, a higher originality score, the same-object decision, a park status, and a trace. Killed `2026-006-gao-it-modernization-controls` to make room under the ten-thread parked cap. No PDF, zip, binary, private material, email, source PII, or article copy was added.
+Opened `2026-022-nnsa-workforce-capacity` with assignment, hypothesis, status, timeline, claim ledger, evidence log, three evidence records, gaps, and trace. Recorded the provisional arithmetic difference of 248 positions. The investigation does not allege mission failure, a statutory violation, or a safety consequence.
 
-## Pivots and limits
+## Pivots and dead ends
 
-The new ICE statement is later than GAO’s June deployment snapshot, but it is an official assertion rather than a verifiable completion record. CBP’s public release page shows ongoing footage activity but still uses pilot language and does not expose the missing plan or office-level guidance. The comparison remains a bounded public-record gap, not an original publishable finding.
+The October 17 intake included several new GAO records, but the NNSA workforce item was the only one with an immediately retrievable second primary that addressed the same workforce object. The parked DHS, OPM, NNSA SPP, IGSA, Navy, DOD facilities, DOE contractor, FAA, and CBP/ICE threads were not re-queried.
 
 ## Publish decision
 
-Do not publish. The last article was published on 2026-10-12, and today’s records do not support a distinct finding beyond GAO’s own report and agency statements. No draft was created; no skeptic pass or article validation was warranted.
+Do not publish. The cross-document comparison is not yet sufficiently scoped: the budget request is not an actual staffing requirement, and the public GAO summary does not establish whether its 1,755 count includes the same Savannah River workforce represented in the 2,003-FTE request. No draft, skeptic pass, or article validation was warranted.
 
 ## Next run
 
-Reopen `2026-021-cbp-ice-body-camera-management` only when CBP or ICE publishes an updated body-camera program plan, a dated implementation/recommendation response, or a verifiable deployment-status record that can be compared with GAO-26-108157. Do not repeat today’s GAO, ICE statement, or CBP release-page retrievals.
+Retrieve one distinct official NNSA or DOE staffing/workforce-planning record that clarifies the FY2026 FTE denominator, office composition, or Savannah River treatment. Then decide whether the 248-position comparison is a labeled finding or a blocked public-record gap; do not turn the GAO 11.9 percent reduction into a standalone article.
