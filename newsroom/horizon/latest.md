@@ -1,4 +1,4 @@
-# Horizon brief — 2026-10-17
+# Horizon brief — 2026-10-18
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
@@ -169,26 +169,26 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-10-16T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11036904/dale-golson-warriner-v-timothy-james-warriner/
   - Rel: October 16, 2026 Notice: This opinion is subject to formal revision before publication in the advance sheets of Southern Reporter. Readers are requested to notify the Reporter of Decisions, Alabama Appellate Courts, 300 Dexter Avenue, Montgomery, Alabama 36104-3741 ((334) 229-0650), of any typographical or other errors, in order that corrections may be made before the opinion is published in Southern Reporter. ALABAMA COURT OF CIVIL APPEALS OCTOBER TERM Original document
-- **Dula v. State of Florida**
-  - when: 2026-10-16T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11036877/dula-v-state-of-florida/
-  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT MARCOUST N. DULA, Appellant, v. STATE OF FLORIDA, Appellee. No. 2D2025-2595 October 16, 2026 Appeal from the Circuit Court for Manatee County, Stephen Mathew Whyte, Judge. Blair Allen Original document
 - **Ullman v. Evnen**
   - when: 2026-10-16T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11036882/ullman-v-evnen/
   - Nebraska Supreme Court Online Library www.nebraska.gov/apps-courts-epub/ 10/16/2026 08:16 AM CDT - 637 - Nebraska Supreme Court Advance Sheets 322 Nebraska Reports ULLMAN v. EVNEN Cite as 322 Neb. 637 Cara Ullman, appellant, v. Robert Evnen, in his Original document
+- **Dula v. State of Florida**
+  - when: 2026-10-16T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11036877/dula-v-state-of-florida/
+  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT MARCOUST N. DULA, Appellant, v. STATE OF FLORIDA, Appellee. No. 2D2025-2595 October 16, 2026 Appeal from the Circuit Court for Manatee County, Stephen Mathew Whyte, Judge. Blair Allen Original document
 - **Reginald Leon Streeter v. State of Florida**
   - when: 2026-10-16T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11036960/reginald-leon-streeter-v-state-of-florida/
   - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2026-0323 Lower Tribunal No. 2013-CF-009685 _____________________________ REGINALD LEON STREETER, Appellant, v. Original document
-- **Brian L. Walls v. Stacy M. Walls**
-  - when: 2026-10-16T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11037008/brian-l-walls-v-stacy-m-walls/
-  - Pursuant to Ind. Appellate Rule 65(E), the trial court and parties shall not take any action in reliance upon this opinion until it is certified. FILED Oct 16 2026, 9:31 am CLERK Original document
 - **Leon Fransceco Benjamin v. Tiana P. Garner, Clerk of Superior Court, Gwinnett County**
   - when: 2026-10-16T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11037003/leon-fransceco-benjamin-v-tiana-p-garner-clerk-of-superior-court/
   - Court of Appeals of the State of Georgia ATLANTA,____________________ October 16, 2026 The Court of Appeals hereby passes the following order: A27O0016. LEON FRANSCECO BENJAMIN v. TIANA P. GARNER, CLERK OF SUPERIOR COURT, GWINNETT COUNTY. Proceeding pro se, Leon Fransceco Benjamin has filed a petition for a writ of mandamus against Tiana P. Garner, the Gwinnett County Superior Court Clerk. Upon Original document
+- **Brian L. Walls v. Stacy M. Walls**
+  - when: 2026-10-16T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11037008/brian-l-walls-v-stacy-m-walls/
+  - Pursuant to Ind. Appellate Rule 65(E), the trial court and parties shall not take any action in reliance upon this opinion until it is certified. FILED Oct 16 2026, 9:31 am CLERK Original document
 - **Union Home Mtge. Corp. v. Hinds**
   - when: 2026-10-16T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11037074/union-home-mtge-corp-v-hinds/

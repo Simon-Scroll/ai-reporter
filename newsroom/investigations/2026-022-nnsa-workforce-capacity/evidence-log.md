@@ -23,3 +23,27 @@
 - Locator: “Highlights of the FY 2026 Request” under NNSA Federal Salaries and Expenses.
 - Captured excerpt: The FY2026 FSE request is $555 million for 2,003 federal FTEs, including 38 additional FTEs at the Savannah River Operations Office previously funded through Defense Environmental Cleanup. NNSA says it will use attrition, reductions, and streamlined mission support for limited targeted growth.
 - Why it matters: Confirms the workforce count and transfer detail in the dedicated FSE justification, rather than relying only on the summary budget volume.
+
+## E4 — NNSA 2024 Year in Review, Strategic Workforce Plan
+
+- URL: https://www.energy.gov/sites/default/files/2024-12/2024%20NNSA%20Year%20in%20Review_508.pdf
+- Retrieved: 2026-10-18
+- Locator: “NNSA WORKFORCE” under “Adaptive Workforce & Resilient Infrastructure.”
+- Captured excerpt: NNSA says it produced a Strategic Workforce Plan based on workload drivers to identify federal workforce needs through FY 2031 and that the plan serves as the basis of its staffing plan.
+- Why it matters: Gives the official planning context for the 2,003-FTE request and shows why it should not be treated as a contemporaneous employee count.
+
+## E5 — NNSA Savannah River Site contract workforce-planning requirements
+
+- URL: https://www.energy.gov/nnsa/articles/sec-j-app-s
+- Retrieved: 2026-10-18
+- Locator: “2.1 Staffing Plan” and “6.1 Workforce Plan” in Section J, Appendix S.
+- Captured excerpt: NNSA requires the SRS contractor to evaluate its current workforce, plan for the right workforce size and skills mix, and analyze current and future mission requirements across the FYNSP, including hiring, retention, and attrition.
+- Why it matters: Establishes a distinct site-level contractor workforce-planning record while showing that it does not reconcile the federal headcount figures.
+
+## E6 — FY2025 Stockpile Stewardship and Management Plan, workforce retention
+
+- URL: https://www.energy.gov/sites/default/files/2024-10/FY2025%20Stockpile%20Stewardship%20and%20Management%20Plan.pdf
+- Retrieved: 2026-10-18
+- Locator: “Workforce Retention,” Appendix C.
+- Captured excerpt: The plan distinguishes NNSA’s federal workforce, funded through the Federal Salaries and Expenses appropriation and responsible for oversight, from its management-and-operating partners; it also describes qualification and retention challenges.
+- Why it matters: Prevents the SRS contractor workforce-planning record from being misused as a federal FTE denominator.

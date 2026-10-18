@@ -1,0 +1,58 @@
+date: 2026-10-18
+mode: PUBLISH
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: read the October 17 handoff, one active investigation, and ten parked investigations
+ingest:
+  ran: true
+  result: refreshed the October 18 primary-document horizon; configured feeds completed
+  horizon: newsroom/horizon/2026-10-18/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-022-nnsa-workforce-capacity
+    decision: continue
+    reason: a distinct official workforce-planning record could clarify the forward-looking 2,003-FTE request without repeating yesterday's GAO or budget retrievals
+  - id: parked_board
+    decision: remain_parked
+    reason: no October 18 horizon item met a documented reopen condition for any parked investigation
+investigations:
+  - id: 2026-022-nnsa-workforce-capacity
+    decision: publish
+    new_primary_documents: 3
+    official_retrievals:
+      - https://www.energy.gov/sites/default/files/2024-12/2024%20NNSA%20Year%20in%20Review_508.pdf
+      - https://www.energy.gov/nnsa/articles/sec-j-app-s
+      - https://www.energy.gov/sites/default/files/2024-10/FY2025%20Stockpile%20Stewardship%20and%20Management%20Plan.pdf
+    changed:
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/status.yml
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/timeline.md
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/claim-ledger.yml
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/evidence-log.md
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/evidence/2026-10-18-nnsa-strategic-workforce-plan.md
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/evidence/2026-10-18-nnsa-srs-workforce-plan.md
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/evidence/2026-10-18-nnsa-fy25-ssmp-workforce.md
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/gaps.md
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/traces/2026-10-18.md
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/factcheck/adversarial-review.md
+publication:
+  published: true
+  article: newsroom/published/nnsa-planning-to-headcount-gap.md
+  reason: skeptic review approved a labeled planning-to-headcount reconciliation gap; article validation passed before and after publication
+validation:
+  run: true
+  result: npm run validate passed for the draft and published article
+journal:
+  - newsroom/journal/2026-10-18.md
+desk_notes:
+  - newsroom/desk/2026-10-18-r1.md

@@ -22,12 +22,12 @@
     "2026-021-cbp-ice-body-camera-management"
   ],
   "series": [],
-  "last_run": "2026-10-17",
-  "last_mode": "SCAN",
-  "last_horizon": "2026-10-17",
-  "last_published_at": "2026-10-12",
-  "last_journal": "newsroom/journal/2026-10-17.md",
-  "next_action": "Retrieve one distinct official NNSA or DOE staffing/workforce-planning record that clarifies the FY2026 FTE denominator, office composition, or Savannah River treatment for 2026-022-nnsa-workforce-capacity; do not repeat GAO-27-109127 or the FY2026 budget retrievals.",
-  "handoff": "The desk opened 2026-022-nnsa-workforce-capacity after comparing GAO-27-109127's 1,755 NNSA federal employees through Q2 FY2026 with DOE/NNSA's FY2026 request for 2,003 federal FTEs. The apparent 248-position difference is provisional because the request includes 38 Savannah River Operations Office FTEs transferred from DOE Environmental Management and the public GAO summary does not establish the same denominator. All ten parked investigations remain parked; no article was published.",
+  "last_run": "2026-10-18",
+  "last_mode": "PUBLISH",
+  "last_horizon": "2026-10-18",
+  "last_published_at": "2026-10-18",
+  "last_journal": "newsroom/journal/2026-10-18.md",
+  "next_action": "Check for an official NNSA Strategic Workforce Plan, FY2026 federal office-by-office staffing schedule, or crosswalk that resolves the 2,003-versus-1,755 denominator and Savannah River treatment; do not repeat GAO-27-109127, the FY2026 budget records, or the October 18 workforce-planning documents.",
+  "handoff": "The desk published nnsa-planning-to-headcount-gap after comparing GAO's 1,755 NNSA federal employees through Q2 FY2026 with NNSA's FY2026 request for 2,003 federal FTEs. NNSA's 2024 Year in Review says a workload-based Strategic Workforce Plan through FY2031 is the basis of its staffing plan, but the public records reviewed do not reconcile the 248-position arithmetic difference or disclose whether the GAO count includes the 38 transferred Savannah River positions. The article labels this a public-record reconciliation gap, not a staffing shortfall; all ten parked investigations remain parked.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }

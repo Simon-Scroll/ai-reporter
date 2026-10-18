@@ -31,3 +31,47 @@ claims:
     evidence:
       - E1
       - E2
+  - id: C6
+    type: fact
+    text: "NNSA says its Strategic Workforce Plan uses workload drivers to identify federal workforce needs through FY 2031 and serves as the basis of its staffing plan."
+    status: supported
+    evidence:
+      - E4
+  - id: C7
+    type: inference
+    text: "The 2,003-FTE figure is a forward-looking staffing-plan level, not a contemporaneous report of employees on board."
+    status: supported
+    evidence:
+      - E2
+      - E4
+  - id: C8
+    type: fact
+    text: "NNSA's Savannah River Site contract requires a contractor staffing plan covering current workforce size, skills mix, future mission requirements, hiring, retention, and attrition."
+    status: supported
+    evidence:
+      - E5
+  - id: C9
+    type: fact
+    text: "NNSA's FY2025 Stockpile Stewardship and Management Plan distinguishes the federal workforce funded through Federal Salaries and Expenses from management-and-operating partners."
+    status: supported
+    evidence:
+      - E6
+  - id: C10
+    type: inference
+    text: "The official records reviewed leave the 2,003-FTE plan and GAO's 1,755-employee Q2 FY2026 count unreconciled, including whether the GAO count includes the 38 Savannah River Operations Office positions in the request."
+    status: supported
+    evidence:
+      - E1
+      - E2
+      - E3
+      - E4
+      - E6
+  - id: C11
+    type: inference
+    text: "The comparison is a public-record planning-to-headcount reconciliation gap, not proof of a staffing shortfall, mission failure, or statutory violation."
+    status: supported
+    evidence:
+      - E1
+      - E2
+      - E4
+      - E6
