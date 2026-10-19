@@ -1,6 +1,6 @@
 id: 2026-022-nnsa-workforce-capacity
 opened: 2026-10-17
-updated: 2026-10-18
+updated: 2026-10-19
 status: published
 mode: PUBLISH
 next_action: Watch for NNSA's Strategic Workforce Plan, an FY2026 federal office-by-office staffing schedule, or an official crosswalk that resolves the 2,003-versus-1,755 denominator and Savannah River treatment; do not repeat unchanged source queries.
@@ -8,4 +8,4 @@ hypothesis: "NNSA's FY2026 budget requested funding for 2,003 federal FTEs while
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
-last_decision: continue
+last_decision: park

@@ -1,0 +1,43 @@
+date: 2026-10-19
+mode: REST
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: confirmed the October 18 publication, the NNSA handoff, and the ten parked investigations
+ingest:
+  ran: true
+  result: refreshed the October 19 primary-document horizon; configured feeds completed
+  horizon: newsroom/horizon/2026-10-19/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-022-nnsa-workforce-capacity
+    decision: park_close
+    reason: the investigation is already published and no new official staffing record appeared for a sequel
+  - id: parked_board
+    decision: remain_parked
+    reason: no October 19 horizon item met a documented reopen condition
+investigations:
+  - id: 2026-022-nnsa-workforce-capacity
+    decision: close_published
+    changed:
+      - newsroom/investigations/2026-022-nnsa-workforce-capacity/status.yml
+publication:
+  published: false
+  reason: the last article was published October 18, and today's intake supplied no new original comparison
+validation:
+  run: false
+  result: no article was drafted or published
+journal:
+  - newsroom/journal/2026-10-19.md
+desk_notes:
+  - newsroom/desk/2026-10-19-r1.md

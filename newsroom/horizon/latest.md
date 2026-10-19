@@ -1,4 +1,4 @@
-# Horizon brief — 2026-10-18
+# Horizon brief — 2026-10-19
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
@@ -193,28 +193,64 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-10-16T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11037074/union-home-mtge-corp-v-hinds/
   - [Cite as Union Home Mtge. Corp. v. Hinds, 2026-Ohio-4082.] IN THE COURT OF APPEALS OF OHIO SIXTH APPELLATE DISTRICT LUCAS COUNTY Union Home Mortgage, et al. Court of Appeals No. L-25-00273 Appellees Trial Court No. CI0202302986 v. Lauren Hinds, et al. DECISION AND JUDGMENT Appellant Original document
-- **Michael Jared Henderson v. State of Alaska**
-  - when: 2026-10-16T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11037153/michael-jared-henderson-v-state-of-alaska/
-  - 2026 WL 3091566Only the Westlaw citation is currently available.NOTICE: THIS OPINION HAS NOT BEEN RELEASED FOR PUBLICATION IN THE PERMANENT LAW REPORTS. UNTIL RELEASED, IT IS SUBJECT TO REVISION OR WITHDRAWAL.Court of Appeals of Alaska.MICHAEL JARED HENDERSON, Appellant,v.STATE OF ALASKA, Appellee.Court of Appeals No. A-14081October 16, 2026Trial Court No. 1KE-22-00077 CRAppeal from the Superior Court, First Judicial District, Ketchikan, Daniel E. Doty, Judge.Attorneys and Law FirmsAppearances: Sharon Original document
 - **Blue Fire Capital LLC v. Robert A. Lindeman**
   - when: 2026-10-16T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11036944/blue-fire-capital-llc-v-robert-a-lindeman/
   - IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE BLUE FIRE CAPITAL, LLC, ) ) Plaintiff, ) ) v. ) C.A. No. 2023-1181-BWD ) ROBERT A. LINDEMAN, ) R &amp; M ADVISORS, LLC, ) ) Defendants, Original document
-- **State v. Griffith**
-  - when: 2026-10-16T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11037076/state-v-griffith/
-  - [Cite as State v. Griffith, 2026-Ohio-4081.] IN THE COURT OF APPEALS OF OHIO SIXTH APPELLATE DISTRICT WOOD COUNTY State of Ohio Court of Appeals No. WD-25-080 Appellee Trial Court No. 2024CR0191 v. Charles Griffith DECISION AND JUDGMENT Appellant Original document
 - **Stout v. Costco Wholesale Corp.**
   - when: 2026-10-16T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11037122/stout-v-costco-wholesale-corp/
   - 2026 IL App (2d) 250335 No. 2-25-0335 Opinion filed October 16, 2026 IN THE APPELLATE COURT OF ILLINOIS SECOND DISTRICT TERRI STOUT, Plaintiff-Appellant, v. COSTCO WHOLESALE CORPORATION Original document
+- **State v. Griffith**
+  - when: 2026-10-16T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11037076/state-v-griffith/
+  - [Cite as State v. Griffith, 2026-Ohio-4081.] IN THE COURT OF APPEALS OF OHIO SIXTH APPELLATE DISTRICT WOOD COUNTY State of Ohio Court of Appeals No. WD-25-080 Appellee Trial Court No. 2024CR0191 v. Charles Griffith DECISION AND JUDGMENT Appellant Original document
 - **Jayson Ardila v. State of Florida**
   - when: 2026-10-16T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11036908/jayson-ardila-v-state-of-florida/
   - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-2610 L.T. Case Nos. 2022-CF-001852-A 2022-CF-002230-A _____________________________ JAYSON ARDILA, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Seminole County. Jessica Recksiedler Original document
+- **Robert Teig v. Iowa Judicial Branch, Molly Weber, Robert Gast, Nicholas Critelli, Iowa Supreme Court Attorney Disciplinary Board, Iowa Office of Professional Regulation, and Tara van Brederode**
+  - when: 2026-10-16T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11036909/robert-teig-v-iowa-judicial-branch-molly-weber-robert-gast-nicholas/
+  - In the Iowa Supreme Court No. 25–1889 Submitted September 9, 2026—Filed October 16, 2026 Robert Teig, Appellant, vs. Iowa Judicial Branch, Molly Weber, Robert Gast, Nicholas Critelli, Iowa Supreme Court Attorney Disciplinary Board, Iowa Office of Professional Regulation, and Tara van Brederode, Original document
 
 ## uk-legislation
+- **The Green Hill Solar Farm Order 2026**
+  - when: 2026-10-19T03:06:09+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1074
+  - This Order authorises Green Hill Solar Farm Limited (referred to in this Order as the undertaker) to construct, operate, maintain and decommission a ground mounted solar photovoltaic generating station with a gross electrical output capacity over 100 megawatts and associated development. The Order would permit the undertaker to acquire, compulsorily or by agreement, land and rights in land and to use land for this purpose.
+- **<div xmlns="http://www.w3.org/1999/xhtml">
+						<span xml:lang="en">The Tobacco and Vapes Act 2026 (Age of Sale Notices and Consequential Amendments) (Wales) Regulations 2026</span> / <span xml:lang="cy">Rheoliadau Deddf Tybaco a Fêps 2026 (Hysbysiadau Oedran Gwerthu a Diwygiadau Canlyniadol) (Cymru) 2026</span>
+					</div>**
+  - when: 2026-10-19T08:58:44+01:00
+  - url: http://www.legislation.gov.uk/id/wsi/2026/124
+  - Section 1 of the Tobacco and Vapes Act 2026 (“the 2026 Act”) changes the required age at which an individual can legally be sold tobacco products from an individual aged 18 or over, to an individual born before 1 January 2009. Under section 6 (1) of the 2026 Act, tobacco retailers in Wales must display a notice on their premises that contains the statements in section 6 (2) of that Act to reflect the new age of sale requirement. Regulation 2 prescribes the minimum size requirements
+- **<div xmlns="http://www.w3.org/1999/xhtml">
+						<span xml:lang="en">The County Borough of the Vale of Glamorgan (Electoral Arrangements) Order 2026</span> / <span xml:lang="cy">Gorchymyn Bwrdeistref Sirol Bro Morgannwg (Trefniadau Etholiadol) 2026</span>
+					</div>**
+  - when: 2026-10-19T03:05:34+01:00
+  - url: http://www.legislation.gov.uk/id/wsi/2026/127
+  - This Order implements the recommendations of the Democracy and Boundary Commission Cymru (“the Commission”), which reported in January 2026 on its review of the electoral arrangements for the County Borough of the Vale of Glamorgan. The Commission’s report proposed an increase in the number of electoral wards from 24 to 26 and an increase in the number of councillors from 58 to 59.
+- **<div xmlns="http://www.w3.org/1999/xhtml">
+						<span xml:lang="en">The County Borough of Caerphilly (Electoral Arrangements) Order 2026</span> / <span xml:lang="cy">Gorchymyn Bwrdeistref Sirol Caerffili (Trefniadau Etholiadol) 2026</span>
+					</div>**
+  - when: 2026-10-19T03:05:12+01:00
+  - url: http://www.legislation.gov.uk/id/wsi/2026/126
+  - This Order implements the recommendations of the Democracy and Boundary Commission Cymru (“the Commission”), which reported in March 2026 on its review of the electoral arrangements for the County Borough of Caerphilly. The Commission’s report proposed a reduction in the number of electoral wards from 31 to 30 and a decrease in the number of councillors from 69 to 68.
+- **<div xmlns="http://www.w3.org/1999/xhtml">
+						<span xml:lang="en">The County of Carmarthenshire (Electoral Arrangements) Order 2026</span> / <span xml:lang="cy">Gorchymyn Sir Gaerfyrddin (Trefniadau Etholiadol) 2026</span>
+					</div>**
+  - when: 2026-10-19T03:04:50+01:00
+  - url: http://www.legislation.gov.uk/id/wsi/2026/125
+  - This Order implements the recommendations of the Democracy and Boundary Commission Cymru (“the Commission”), which reported in January 2026 on its review of the electoral arrangements for the County of Carmarthenshire. The Commission’s report proposed a reduction in the number of electoral wards from 51 to 47 and a decrease in the number of councillors from 75 to 74. The Commission’s report also recommended consequential changes to electoral arrangements for the County of Carmarthenshire as a re
+- **The Insolvency (Amendment) (2026 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2026**
+  - when: 2026-10-19T03:04:30+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/180
+  - This Order is the first commencement order made under the Insolvency (Amendment) Act (Northern Ireland) 2026 (“the 2026 Act”).
+- **The Steeple Renewables Project Order 2026**
+  - when: 2026-10-19T03:04:02+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1086
+  - This Order grants development consent for, and authorises the construction, operation and maintenance of a solar generating station and battery energy storage facility together with associated development. This Order imposes requirements in connection with the development and authorises the compulsory purchase of land (including rights in land) and the right to use land and to override easements and other rights.
 - **The Scotland Act 1998 (Specification of Functions and Transfer of Property etc.) (Amendment) Order 2026**
   - when: 2026-10-16T16:04:44+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1095
@@ -235,31 +271,3 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-10-16T03:05:54+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1091
   - This Order appoints the Leicester Diocesan Board of Education as trustee of the foundation known as Hathern Church of England Primary School Teacher’s House and makes new provision as to the use of that foundation. It creates a separate foundation for the purpose of providing religious education in accordance with the doctrines of the Church of England within the Parish of Hathern. The Order provides for the Religious Education Fund to be held on trust by the minister and churchwardens for the t
-- **The Crime and Policing Act 2026 (Commencement No. 4) Regulations 2026**
-  - when: 2026-10-16T03:05:44+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1090
-  - These Regulations bring into force specified provisions of the Crime and Policing Act 2026 (c. 20) (“the Act”). These are the fourth commencement regulations made under the Act.
-- **The Official Controls (Plant Protection Products) (Amendment) Regulations (Northern Ireland) 2026**
-  - when: 2026-10-16T03:10:26+01:00
-  - url: http://www.legislation.gov.uk/id/nisr/2026/179
-  - These Regulations amend the Official Controls (Plant Protection Products) Regulations (Northern Ireland) 2020 (S.R. 2020 No.360) (“PPP Official Controls Regulations”)
-- **Correction slip**
-  - when: 2026-10-16T15:33:16+01:00
-  - url: http://www.legislation.gov.uk/wsi/2026/12/pdfs/wsics_20260012_mi_001.pdf
-  - These Regulations are made by the Welsh Ministers under powers conferred by sections 2(6)(b), 140(7), and 142(4) and (5)(a) of the Adoption and Children Act 2002 (“the 2002 Act”). They revoke and replace the Adoption Support Services (Wales) Regulations 2019 (“the 2019 Regulations”). Mae’r Rheoliadau hyn wedi eu gwneud gan Weinidogion Cymru o dan bwerau a roddir gan adrannau 2(6)(b), 140(7), a 142(4) a (5)(a) o Ddeddf Mabwysiadu a Phlant 2002 (“Deddf 2002”). Maent yn dirymu ac yn di
-- **The Building (Local Authority Charges and Amendments Relating to Charging) (England) Regulations 2026**
-  - when: 2026-10-15T16:44:29+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1094
-  - These Regulations set out provisions in relation to charges of local authorities for or in connection with certain building related functions.
-- **The Welfare Food (Amendment) (England and Wales) Regulations 2026**
-  - when: 2026-10-15T15:44:00+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1092
-  - These Regulations amend the Welfare Food Regulations 1996 (S.I. 1996/1434) (“the 1996 Regulations”). The 1996 Regulations provide for a scheme (the “Nursery Milk Scheme”) which entitles children under the age of five years to one-third of a pint of milk (189ml) on any day where they are provided with childcare, by an approved childcare provider, for two hours or more. Regulations 3 to 10 amend the 1996 Regulations to replace references to day care with childcare and to update references to child
-- **The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment No. 2) Order 2026**
-  - when: 2026-10-15T15:43:49+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1083
-  - The First-tier Tribunal and Upper Tribunal (Chambers) Order 2010 (S.I. 2010/2655) (“the 2010 Order”) organises the First-tier Tribunal and Upper Tribunal into chambers and makes provision for the allocation of those tribunals’ functions between the chambers.
-- **The Port of Tyne Harbour Revision Order 2026**
-  - when: 2026-10-15T15:43:40+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1088
-  - This Order, made on the application of the Port of Tyne Authority, modernises and consolidates the statutory harbour powers which apply in relation to the Port of Tyne (‘the port’) and provides for—

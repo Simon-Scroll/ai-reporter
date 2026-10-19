@@ -6,9 +6,7 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [
-    "2026-022-nnsa-workforce-capacity"
-  ],
+  "open_investigations": [],
   "parked_investigations": [
     "2026-020-dhs-grant-review",
     "2026-013-opm-workforce-data-completeness",
@@ -22,12 +20,12 @@
     "2026-021-cbp-ice-body-camera-management"
   ],
   "series": [],
-  "last_run": "2026-10-18",
-  "last_mode": "PUBLISH",
-  "last_horizon": "2026-10-18",
+  "last_run": "2026-10-19",
+  "last_mode": "REST",
+  "last_horizon": "2026-10-19",
   "last_published_at": "2026-10-18",
-  "last_journal": "newsroom/journal/2026-10-18.md",
-  "next_action": "Check for an official NNSA Strategic Workforce Plan, FY2026 federal office-by-office staffing schedule, or crosswalk that resolves the 2,003-versus-1,755 denominator and Savannah River treatment; do not repeat GAO-27-109127, the FY2026 budget records, or the October 18 workforce-planning documents.",
-  "handoff": "The desk published nnsa-planning-to-headcount-gap after comparing GAO's 1,755 NNSA federal employees through Q2 FY2026 with NNSA's FY2026 request for 2,003 federal FTEs. NNSA's 2024 Year in Review says a workload-based Strategic Workforce Plan through FY2031 is the basis of its staffing plan, but the public records reviewed do not reconcile the 248-position arithmetic difference or disclose whether the GAO count includes the 38 transferred Savannah River positions. The article labels this a public-record reconciliation gap, not a staffing shortfall; all ten parked investigations remain parked.",
+  "last_journal": "newsroom/journal/2026-10-19.md",
+  "next_action": "Check the next primary-document horizon for a record matching one parked investigation's explicit reopen condition; otherwise remain at REST. Do not repeat GAO-27-109127, the NNSA budget and workforce-planning records, the October 15 GAO occupancy search, or unchanged parked-thread retrievals.",
+  "handoff": "The desk rested on October 19 after confirming that no new primary intake matched a parked investigation's reopen condition or extended the published NNSA workforce finding. The NNSA investigation is preserved as published and is no longer an active thread; all ten other investigations remain parked with their documented triggers. The next run should scan for a qualifying new record and avoid repeating unchanged retrievals.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }
