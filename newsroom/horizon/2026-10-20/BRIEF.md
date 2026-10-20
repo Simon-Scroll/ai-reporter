@@ -1,0 +1,266 @@
+# Horizon brief — 2026-10-20
+
+Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
+
+## sec-edgar
+- **SCHEDULE 13D - Rantizo (0001991261) (Subject)**
+  - when: 2026-10-19T21:53:17-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1991261/000091957426007073/0000919574-26-007073-index.htm
+  - Filed: 2026-10-19 AccNo: 0000919574-26-007073 Size: 12 KB
+- **SCHEDULE 13D - OLDRIDGE PHILLIP (0001500541) (Filed by)**
+  - when: 2026-10-19T21:53:17-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1500541/000091957426007073/0000919574-26-007073-index.htm
+  - Filed: 2026-10-19 AccNo: 0000919574-26-007073 Size: 12 KB
+- **SCHEDULE 13D/A - Cable One, Inc. (0001632127) (Subject)**
+  - when: 2026-10-19T21:48:39-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1632127/000095015726001110/0000950157-26-001110-index.htm
+  - Filed: 2026-10-19 AccNo: 0000950157-26-001110 Size: 13 KB
+- **SCHEDULE 13D/A - GRAHAM DONALD (0001018401) (Filed by)**
+  - when: 2026-10-19T21:48:39-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1018401/000095015726001110/0000950157-26-001110-index.htm
+  - Filed: 2026-10-19 AccNo: 0000950157-26-001110 Size: 13 KB
+- **SCHEDULE 13G - Evernorth Holdings Inc. (0002092592) (Subject)**
+  - when: 2026-10-19T21:45:58-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2092592/000119312526425558/0001193125-26-425558-index.htm
+  - Filed: 2026-10-19 AccNo: 0001193125-26-425558 Size: 164 KB
+- **SCHEDULE 13G - Arrington XRP Capital Fund, LP (0001727934) (Filed by)**
+  - when: 2026-10-19T21:45:58-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1727934/000119312526425558/0001193125-26-425558-index.htm
+  - Filed: 2026-10-19 AccNo: 0001193125-26-425558 Size: 164 KB
+- **SCHEDULE 13G/A - Ng Chun Seong (0002057693) (Filed by)**
+  - when: 2026-10-19T21:45:04-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2057693/000149315226047674/0001493152-26-047674-index.htm
+  - Filed: 2026-10-19 AccNo: 0001493152-26-047674 Size: 6 KB
+- **SCHEDULE 13G/A - Rantizo (0001991261) (Subject)**
+  - when: 2026-10-19T21:45:04-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1991261/000149315226047674/0001493152-26-047674-index.htm
+  - Filed: 2026-10-19 AccNo: 0001493152-26-047674 Size: 6 KB
+- **SCHEDULE 13G/A - Liao Xiaoyan (0002058401) (Filed by)**
+  - when: 2026-10-19T21:43:04-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2058401/000149315226047671/0001493152-26-047671-index.htm
+  - Filed: 2026-10-19 AccNo: 0001493152-26-047671 Size: 6 KB
+- **SCHEDULE 13G/A - Rantizo (0001991261) (Subject)**
+  - when: 2026-10-19T21:43:04-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1991261/000149315226047671/0001493152-26-047671-index.htm
+  - Filed: 2026-10-19 AccNo: 0001493152-26-047671 Size: 6 KB
+- **4 - Devers Shannon L. (0002037721) (Reporting)**
+  - when: 2026-10-19T21:40:12-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2037721/000087401526000267/0000874015-26-000267-index.htm
+  - Filed: 2026-10-19 AccNo: 0000874015-26-000267 Size: 9 KB
+- **4 - IONIS PHARMACEUTICALS INC (0000874015) (Issuer)**
+  - when: 2026-10-19T21:40:12-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/874015/000087401526000267/0000874015-26-000267-index.htm
+  - Filed: 2026-10-19 AccNo: 0000874015-26-000267 Size: 9 KB
+
+## federal-register
+- **Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/C1-2026-20360/interval-fund-modernization-expansion-of-multiple-share-class-to-registered-closed-end-management
+  - Securities and Exchange Commission — Proposed Rule
+- **Civil Penalties Inflation Adjustments; Annual Adjustments**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21474/civil-penalties-inflation-adjustments-annual-adjustments
+  - Interior Department, Indian Affairs Bureau — Rule — This rule provides for annual adjustments to the level of civil monetary penalties contained in Bureau of Indian Affairs (Bureau) regulations to account for inflation under the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 and Office of Management and Budget (OMB) guidance.
+- **Presidential Declaration of a Major Disaster for Public Assistance Only for the State of Utah**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21469/presidential-declaration-of-a-major-disaster-for-public-assistance-only-for-the-state-of-utah
+  - Small Business Administration — Notice — This is notice of the Presidential declaration of a major disaster for Public Assistance Only for the state of Utah (FEMA-4948- DR), dated October 7, 2026. Incident: Cottonwood Fire, Flooding, and Mudslides.
+- **Agency Information Collection Activity: State Veterans Homes Construction & Acquisition Grant Program (SVHCGP)**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21468/agency-information-collection-activity-state-veterans-homes-construction-and-acquisition-grant
+  - Veterans Affairs Department — Notice — Veterans Health Administration (VHA), Department of Veterans Affairs (VA), is announcing an opportunity for public comment on the proposed collection of certain information by the agency. Under the Paperwork Reduction Act (PRA) of 1995, Federal agencies are required to publish a notice in the Federal Register concerning each proposed collection of information, including each proposed extension of a currently approved collection, and allow 60 days for public
+- **Presidential Declaration of a Major Disaster for Public Assistance Only for the State of New Hampshire**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21467/presidential-declaration-of-a-major-disaster-for-public-assistance-only-for-the-state-of-new
+  - Small Business Administration — Notice — This is notice of the Presidential declaration of a major disaster for Public Assistance Only for the state of New Hampshire (FEMA-4947-DR), dated October 7, 2026. Incident: Severe Storm and Flooding.
+- **Agency Information Collection Activities: Comment Request**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21466/agency-information-collection-activities-comment-request
+  - National Science Foundation — Notice — The National Science Foundation (NSF) is announcing plans to establish this collection. In accordance with the requirements of the Paperwork Reduction Act of 1995, we are providing opportunity for public to comment on this action. After obtaining and considering public comments, NSF will prepare the submission requesting Office of Management and Budget (OMB) clearance of this collection for no longer than 3 years.
+- **Submission for OMB Review; Comment Request**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21465/submission-for-omb-review-comment-request
+  - Defense Department, — Notice — The DoD (referred to herein as "the Department", "Department of War" or "DoW") has submitted to the Office of Management and Budget (OMB) for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act.
+- **Proposed Collection; Comment Request**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21464/proposed-collection-comment-request
+  - Defense Department, — Notice — In compliance with the Paperwork Reduction Act of 1995, the OUSD(A&S), DoD (referred to herein as "the Department", "Department of War" or "DoW") announces proposed public information collection and seeks public comment on the provisions thereof. Comments are invited on: whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility; the accuracy
+- **Certificate of Alternate Compliance for USS PATRICK GALLAGHER (DDG 127)**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21463/certificate-of-alternate-compliance-for-uss-patrick-gallagher-ddg-127
+  - Defense Department, Navy Department — Notice — The U.S. Navy hereby announces that a Certificate of Alternate Compliance has been issued for USS PATRICK GALLAGHER (DDG 127). Due to the special construction and purpose of this vessel, the Admiralty Counsel of the Navy has determined it is a vessel of the Navy which, due to its special construction and purpose, cannot comply fully with the navigation lights provisions of the International Regulations for Preventing Collisions at Sea, 1972 (72 COLR
+- **American Samoa Outer Continental Shelf Pacific Mineral Lease Sale 1**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21462/american-samoa-outer-continental-shelf-pacific-mineral-lease-sale-1
+  - Interior Department, Ocean Energy Management Bureau — Notice — The Marine Minerals Administration (MMA) will conduct an auction for lease areas offered in the American Samoa Outer Continental Shelf (OCS) Pacific Mineral Lease Sale 1 (Lease Sale PACM-1), in accordance with the Outer Continental Shelf Lands Act (OCSLA), as amended, and its implementing regulations. The Final Leasing Notice (FLN) package for this lease sale contains information essential to potential bidders, including Information
+- **Agency Information Collection Activities: Comment Request; Grantee Reporting Requirements for the U.S. National Science Foundation Regional Innovation Engines (NSF Engines) Program**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21461/agency-information-collection-activities-comment-request-grantee-reporting-requirements-for-the-us
+  - National Science Foundation — Notice — The National Science Foundation (NSF) is announcing plans to renew this collection. In accordance with the requirements of the Paperwork Reduction Act of 1995, we are providing an opportunity for public comment on this action. After obtaining and considering public comment, NSF will prepare the submission requesting Office of Management and Budget (OMB) clearance of this collection for no longer than 3 years.
+- **60-Day Notice of Proposed Information Collection: National Contact Point Web Page**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21460/60-day-notice-of-proposed-information-collection-national-contact-point-web-page
+  - State Department — Notice — The Department of State is seeking Office of Management and Budget (OMB) approval for the information collection described below. In accordance with the Paperwork Reduction Act of 1995, we are requesting comments on this collection from all interested individuals and organizations. The purpose of this notice is to allow 60 days for public comment preceding submission of the collection to OMB.
+
+## gao
+- **2027-2032 Strategic Plan: Serving Congress and the Nation**
+  - when: Fri, 16 Oct 2026 08:38:20 -0400
+  - url: https://www.gao.gov/products/gao-27-900655
+  - pdf: https://www.gao.gov/assets/gao-27-900655.pdf
+  - GAO’s Strategic Plan Goals and Objectives form the foundation of the agency’s strategic plan and lay out our long-term strategies to accomplish our goals. For more information, contact Stephen Sanford at SanfordS@gao.gov.
+- **Federal Real Property: New Occupancy Data Help Agencies Shed Unneeded Office Space But Gaps Limit the Full Picture**
+  - when: Fri, 16 Oct 2026 07:18:45 -0400
+  - url: https://www.gao.gov/products/gao-27-108503
+  - pdf: https://www.gao.gov/assets/gao-27-108503.pdf
+  - What GAO Found Under the Utilizing Space Efficiently and Improving Technologies (USE IT) Act, enacted in January 2025, federal agencies are now required to collect and report occupancy data. This data is used to calculate utilization rates for agencies’ office space in federally owned buildings and leased locations. While 20 of the 23 agencies that responded to GAO’s survey reported using existing badging systems for this purpose, 16 of these 20 agencies reported supplementing that information
+- **Critical Minerals: BLM Should Ensure Individuals and Businesses Meet Citizenship Requirements for Hardrock Mining Claims**
+  - when: Fri, 16 Oct 2026 07:40:59 -0400
+  - url: https://www.gao.gov/products/gao-27-108196
+  - pdf: https://www.gao.gov/assets/gao-27-108196.pdf
+  - What GAO Found The Department of the Interior’s Bureau of Land Management (BLM) administers mining claims that grant the exclusive right to extract critical and other hardrock minerals from most federal lands. U.S. mining laws include citizenship requirements for individuals and business entities holding such claims, known as mining claimants. Under these laws, mining claimants generally must be U.S. citizens, which can include individuals as well as business entities incorporated in a U.S. sta
+- **Private Health Insurance: Market Concentration in 2024 Was Generally Higher Than in 2011**
+  - when: Fri, 16 Oct 2026 10:25:08 -0400
+  - url: https://www.gao.gov/products/gao-27-108927
+  - pdf: https://www.gao.gov/assets/gao-27-108927.pdf
+  - What GAO Found Since 2014, GAO has reported that enrollment in private health insurance plans has been concentrated, meaning a small number of issuers, such as health insurers, enrolled most of the people in a given market. Specifically, GAO considers a market concentrated in a state if three or fewer issuers hold at least 80 percent of the market share of enrollment. For this report, GAO examined the individual (coverage primarily sold to individuals who lack access to group coverage), small-
+- **National Nuclear Security Administration: Reductions to Federal Workforce**
+  - when: Fri, 16 Oct 2026 07:24:19 -0400
+  - url: https://www.gao.gov/products/gao-27-109127
+  - pdf: https://www.gao.gov/assets/gao-27-109127.pdf
+  - What GAO Found The National Nuclear Security Administration (NNSA) oversees a $25 billion annual budget and approximately 70,000 management and operating contractor personnel to maintain the U.S. nuclear weapons stockpile and nuclear nonproliferation efforts. NNSA took steps to build its federal workforce to meet mission needs in 2024, with its workforce peaking at 1,991 early in fiscal year 2025. However, since then through the second quarter of fiscal year 2026, NNSA has reduced its federal w
+- **Critical Minerals: Limited Available Information on the Full Extent of Foreign Investment in Mining on Federal Lands**
+  - when: Fri, 16 Oct 2026 07:40:00 -0400
+  - url: https://www.gao.gov/products/gao-27-108094
+  - pdf: https://www.gao.gov/assets/gao-27-108094.pdf
+  - What GAO Found The U.S critical mineral supply chain faces numerous constraints, including the need for substantial capital investment and limited domestic processing capacity. The U.S. exports large quantities of domestically extracted ore to Canada, Mexico, and China, among other countries. Copper Mine on Federal Lands The Bureau of Land Management (BLM) and the Forest Service oversee hardrock mines on federal land. As of February 2026, there were 632 approved hardrock mining plans of ope
+- **Research Security: NIH Action Needed to Strengthen Foreign Interference Risk Management**
+  - when: Fri, 16 Oct 2026 08:13:12 -0400
+  - url: https://www.gao.gov/products/gao-27-107848
+  - pdf: https://www.gao.gov/assets/gao-27-107848.pdf
+  - What GAO Found The National Institutes of Health (NIH) funds extramural research through awards to universities and other institutions. Implementation of federal research security requirements helps safeguard this research from foreign interference, including misappropriation and unauthorized access by foreign countries and entities. NIH implemented 14 of the 15 federal research security requirements GAO reviewed that address: (1) disclosure, (2) malign foreign talent recruitment programs, (3)
+- **Textile Circular Economy: Policy Options for the U.S.**
+  - when: Fri, 16 Oct 2026 09:35:25 -0400
+  - url: https://www.gao.gov/products/gao-27-108142
+  - pdf: https://www.gao.gov/assets/gao-27-108142.pdf
+  - What GAO Found Developing a textile circular economy includes repairing, reusing, and recycling textiles and making them last longer. Example of a Circular Economy for Textiles In the U.S., a textile circular economy may create potential benefits and involve challenges, according to reports by federal agencies and organizations and stakeholder interviews. Potential benefits could include creating new jobs and markets related to textile repair and recycling, reducing environmental harm, and
+- **National Security: FBI Should Strengthen Partnerships to Combat Non-Traditional Intelligence Collectors**
+  - when: Fri, 16 Oct 2026 07:28:08 -0400
+  - url: https://www.gao.gov/products/gao-27-109057
+  - pdf: https://www.gao.gov/assets/gao-27-109057.pdf
+  - What GAO Found According to the Federal Bureau of Investigation (FBI), non-traditional intelligence collectors (NTCs) are individuals whose primary profession is not intelligence collection, but who actively or passively collect sensitive U.S. information on behalf of foreign entities. For example, researchers and students at universities may act as NTCs if they collect non-public research on behalf of a foreign entity. According to the FBI, unlike intelligence officers, NTCs function independe
+- **Nuclear Waste: Future Land Use Planning at Selected DOE Cleanup Sites**
+  - when: Fri, 16 Oct 2026 09:42:29 -0400
+  - url: https://www.gao.gov/products/gao-27-108063
+  - pdf: https://www.gao.gov/assets/gao-27-108063.pdf
+  - What GAO Found The Department of Energy (DOE) created initial future land use plans in coordination with local communities as early as 1992 at six cleanup sites GAO selected for review. These plans inform but do not bind assumptions about future land use that DOE and regulators make when selecting a cleanup remedy at a site. The remedy selected during the cleanup process has lasting consequences for how a parcel of land can be used, even after DOE transfers or leases it to another federal agenc
+- **Nuclear Waste: Addressing Legal and Regulatory Barriers Could Accelerate Cleanup and Reduce Costs**
+  - when: Fri, 16 Oct 2026 08:05:50 -0400
+  - url: https://www.gao.gov/products/gao-27-107791
+  - pdf: https://www.gao.gov/assets/gao-27-107791.pdf
+  - What GAO Found The Department of Energy’s (DOE) nuclear waste cleanup is proceeding largely under three laws that set cleanup and waste management requirements. Each law has different requirements, applications, and regulators. Selected Cleanup and Waste Management Laws and Regulators for the Department of Energy’s (DOE) Nuclear Waste Cleanup GAO and experts GAO convened with the National Academies of Sciences, Engineering, and Medicine identified several legal and regulatory factors that a
+- **Tax Filing: IRS Should Enhance Ghost Preparer Identification and Compliance Efforts in a Comprehensive Preparer Strategy**
+  - when: Fri, 16 Oct 2026 07:28:51 -0400
+  - url: https://www.gao.gov/products/gao-27-108176
+  - pdf: https://www.gao.gov/assets/gao-27-108176.pdf
+  - What GAO Found Ghost preparers are paid tax preparers who do not comply with requirements to identify themselves on tax returns they prepare for others. Ghost preparers may intentionally leave identifying information off to get away with filing fraudulent income tax returns, stealing taxpayers’ refunds, and stealing taxpayers’ identities. Courts have ordered individual ghost preparers to pay millions in restitution to the government, but according to Internal Revenue Service (IRS) officials, th
+
+## courtlistener
+- **Bank of New York Mellon v. Tope**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038108/bank-of-new-york-mellon-v-tope/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **Villalobos v. Target Corp.**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038106/villalobos-v-target-corp/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **Frog Bridge Development Co., LLC v. Osborne**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038107/frog-bridge-development-co-llc-v-osborne/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **United States v. Roberto Orellana**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038155/united-states-v-roberto-orellana/
+  - United States Court of Appeals For the Eighth Circuit ___________________________ No. 25-2870 ___________________________ United States of America lllllllllllllllllllllPlaintiff - Appellee v. Roberto Orellana lllllllllllllllllllllDefendant - Appellant ___________________________ No. 25-2917 ___________________________ United States of America lllllllllllllllllllllPlaintiff Original document
+- **Ferguson v. Tri-R Tooling Inc.**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038370/ferguson-v-tri-r-tooling-inc/
+  - [Cite as Ferguson v. Tri-R Tooling Inc., 2026-Ohio-4111.] IN THE OHIO COURT OF APPEALS FIFTH APPELLATE DISTRICT RICHLAND COUNTY, OHIO VERONICA FERGUSON Case Nos. 2026 CA 0031 and 2026 CA 0035 Plaintiff - Appellee Opinion &amp; Judgment Entry Original document
+- **Hughes v. State of Florida**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038144/hughes-v-state-of-florida/
+  - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2025-3306 _____________________________ JESSICA LYNN HUGHES, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Santa Rosa County. Clifton Drake, Judge. October 19, 2026 PER CURIAM. AFFIRMED. LEWIS, RAY, and Original document
+- **Shubha v. State of Florida**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038139/shubha-v-state-of-florida/
+  - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2025-1546 _____________________________ KHAIRUL SHUBHA, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Escambia County. Amy P. Brodersen, Judge. October 19, 2026 PER CURIAM. AFFIRMED. ROWE, NORDBY, and LONG Original document
+- **JASON PINCUS v. NICHOLAS FORTINBERRY**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038153/jason-pincus-v-nicholas-fortinberry/
+  - Court of Appeals of the State of Georgia ATLANTA,____________________ October 19, 2026 The Court of Appeals hereby passes the following order: A27A0516. JASON PINCUS et al. v. NICHOLAS FORTINBERRY et al. Plaintiffs Nicholas and Kristy Fortinberry filed an action for damages against Jason and Laura Pincus and Come Together Properties, LLC. After the defendants failed to file an answer or any other Original document
+- **Garvin v. Federal Housing Finance Agency**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038378/garvin-v-federal-housing-finance-agency/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA ANTHONY GARVIN, Plaintiff, v. Civil Action No. 1:26-cv-0608 (CJN) FEDERAL HOUSING FINANCE AGENCY, Defendant. ORDER Plaintiff Anthony Garvin was convicted of conspiracy to commit bank fraud and bank fraud in 2022. As a result of his convictions, Original document
+- **Bridget Francis v. California State Teachers' Retirement System**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038154/bridget-francis-v-california-state-teachers-retirement-system/
+  - THIRD DIVISION DILLARD, P. J., GOBEIL and PIPKIN, JJ. NOTICE: Motions for reconsideration must be received no later than 4:30 pm on the 10th day after the decision was issued to be deemed timely filed. https://www.gaappeals.gov/rules October 19, 2026 Original document
+- **Ewa Villages Owners Association v. Tautua**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11039146/ewa-villages-owners-association-v-tautua/
+  - Electronically Filed Supreme Court SCWC-XX-XXXXXXX 19-OCT-2026 09:07 AM Dkt. 5 ODAC SCWC-XX-XXXXXXX IN THE SUPREME COURT OF THE STATE OF HAWAIʻI EWA VILLAGES OWNERS ASSOCIATION Original document
+- **Avignone v. National Railroad Passenger Corporation**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038329/avignone-v-national-railroad-passenger-corporation/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA MARIO AVIGNONE, Plaintiff, v. Civil Action No. 25-2199 (RDM) NATIONAL RAILROAD PASSENGER CORPORATION, et al., Defendants. MEMORANDUM OPINION Plaintiff Mario Avignone brings this case to challenge his termination by his former employer Original document
+
+## uk-legislation
+- **The Air Navigation (Restriction of Flying) (Aberfan, Merthyr Tydfil) Regulations 2026**
+  - when: 2026-10-20T03:04:50.303995+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1058
+- **The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2026**
+  - when: 2026-10-20T03:10:03+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/181
+  - These Regulations make amendments to the State Pension Credit Regulations (Northern Ireland) 2003 (S.R. 2003 No. 28), the Housing Benefit Regulations (Northern Ireland) 2006 (S.R. 2006 No. 405), the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 (S.R. 2006 No. 406), the Employment and Support Allowance Regulations (Northern Ireland) 2008 (S.R. 2008 No. 280), and the Universal Credit Regulations (Northern Ireland) 2016 (
+- **The Trade Unions (Right to Access Workplaces) Regulations 2026**
+  - when: 2026-10-20T03:09:53+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1101
+  - These Regulations form part of the package of legislation that provides for access agreements between trade unions and employers, which enable trade union officials to physically enter workplaces or to communicate with workers by other means. For these purposes, communication with workers includes the provision of information to workers by any means, whether direct or indirect.
+- **The Protection Against Detriment (Industrial Action) Regulations 2026**
+  - when: 2026-10-20T03:09:52+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1099
+  - These Regulations are made in exercise of the power contained in section 236A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 (“the 1992 Act”) to prescribe detriments in relation to a worker taking industrial action.
+- **The Air Navigation (Restriction of Flying) (Helicopter Flight) (No. 7) Regulations 2026**
+  - when: 2026-10-20T03:04:19.38711+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1100
+- **The Air Navigation (Restriction of Flying) (Drymen, Stirling, Scotland) (Emergency) Regulations 2026**
+  - when: 2026-10-19T16:41:12+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1106
+- **The Levelling-up and Regeneration Act 2023 (Commencement No. 12) Regulations 2026**
+  - when: 2026-10-19T16:15:47+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1105
+  - These Regulations are the twelfth commencement regulations under the Levelling-up and Regeneration Act 2023 (c. 55) (“the 2023 Act”). They bring section 232 of the 2023 Act (“section 232”) into force. Section 232 amends sections 72A, 107A and 107B of the Marine and Coastal Access Act 2009 (c. 23) (“the 2009 Act”) to confer power on the Secretary of State and the Scottish Ministers, in respect of cases where they are the appropriate licensing authority, to make regulations to charge fees for the
+- **The Code of Practice (Right of Trade Unions to Access Workplaces) Order 2026**
+  - when: 2026-10-19T15:45:19+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1103
+  - This Order appoints 30th October 2026 as the day on which the Code of Practice issued by the Secretary of State under sections 203(1)(a) and 204(2) of the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) on the Right of Trade Unions to Access Workplaces (“the Code of Practice”) comes into effect.
+- **The Authorised Investigators (Complaints and Misconduct) Regulations 2026**
+  - when: 2026-10-19T14:43:56+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1098
+  - These Regulations provide for the basis on which the Director General (the “Director General”) of the Independent Office for Police Conduct (“IOPC”) has oversight of complaints and other matters relating to the conduct of authorised investigators employed by the Cabinet Office and working in the Public Sector Fraud Authority (“PSFA”). Section 7(3) of the Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28) defines “authorised investigator”.
+- **The Green Hill Solar Farm Order 2026**
+  - when: 2026-10-19T03:06:09+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1074
+  - This Order authorises Green Hill Solar Farm Limited (referred to in this Order as the undertaker) to construct, operate, maintain and decommission a ground mounted solar photovoltaic generating station with a gross electrical output capacity over 100 megawatts and associated development. The Order would permit the undertaker to acquire, compulsorily or by agreement, land and rights in land and to use land for this purpose.
+- **<div xmlns="http://www.w3.org/1999/xhtml">
+						<span xml:lang="en">The Tobacco and Vapes Act 2026 (Age of Sale Notices and Consequential Amendments) (Wales) Regulations 2026</span> / <span xml:lang="cy">Rheoliadau Deddf Tybaco a Fêps 2026 (Hysbysiadau Oedran Gwerthu a Diwygiadau Canlyniadol) (Cymru) 2026</span>
+					</div>**
+  - when: 2026-10-19T08:58:44+01:00
+  - url: http://www.legislation.gov.uk/id/wsi/2026/124
+  - Section 1 of the Tobacco and Vapes Act 2026 (“the 2026 Act”) changes the required age at which an individual can legally be sold tobacco products from an individual aged 18 or over, to an individual born before 1 January 2009. Under section 6 (1) of the 2026 Act, tobacco retailers in Wales must display a notice on their premises that contains the statements in section 6 (2) of that Act to reflect the new age of sale requirement. Regulation 2 prescribes the minimum size requirements
+- **<div xmlns="http://www.w3.org/1999/xhtml">
+						<span xml:lang="en">The County Borough of the Vale of Glamorgan (Electoral Arrangements) Order 2026</span> / <span xml:lang="cy">Gorchymyn Bwrdeistref Sirol Bro Morgannwg (Trefniadau Etholiadol) 2026</span>
+					</div>**
+  - when: 2026-10-19T03:05:34+01:00
+  - url: http://www.legislation.gov.uk/id/wsi/2026/127
+  - This Order implements the recommendations of the Democracy and Boundary Commission Cymru (“the Commission”), which reported in January 2026 on its review of the electoral arrangements for the County Borough of the Vale of Glamorgan. The Commission’s report proposed an increase in the number of electoral wards from 24 to 26 and an increase in the number of councillors from 58 to 59.

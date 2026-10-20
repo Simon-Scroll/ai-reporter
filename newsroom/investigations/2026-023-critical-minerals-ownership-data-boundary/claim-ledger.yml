@@ -1,0 +1,20 @@
+claims:
+  - id: C1
+    status: provisional
+    claim: "GAO-27-108196 and GAO-27-108094 examine related BLM hardrock-mining records but define different populations."
+    sources:
+      - "https://files.gao.gov/assets/gao-27-108196.pdf#page=5"
+      - "https://files.gao.gov/assets/gao-27-108094.pdf#page=11"
+    locator: "GAO-27-108196 p. 5; GAO-27-108094 pp. 11-12"
+  - id: C2
+    status: provisional
+    claim: "The public BLM access path describes MLRS and NRS as ways to search mining notices, plans of operation, and case information."
+    sources:
+      - "https://www.blm.gov/programs/energy-and-minerals/mining-and-minerals/locatable-minerals/access-mining-notices-and-plans-operations"
+      - "https://www.blm.gov/services/land-records/mlrs"
+    locator: "BLM Access to Mining Notices and Plans of Operations; BLM MLRS page"
+  - id: C3
+    status: open
+    claim: "A public BLM record can or cannot join a claimant/operator, mine plan, mineral, and ownership identity across the two GAO populations."
+    sources: []
+    locator: "Pending direct MLRS/NRS record test"

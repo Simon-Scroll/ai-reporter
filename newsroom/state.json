@@ -6,7 +6,9 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [],
+  "open_investigations": [
+    "2026-023-critical-minerals-ownership-data-boundary"
+  ],
   "parked_investigations": [
     "2026-020-dhs-grant-review",
     "2026-013-opm-workforce-data-completeness",
@@ -20,12 +22,12 @@
     "2026-021-cbp-ice-body-camera-management"
   ],
   "series": [],
-  "last_run": "2026-10-19",
-  "last_mode": "REST",
-  "last_horizon": "2026-10-19",
+  "last_run": "2026-10-20",
+  "last_mode": "SCAN",
+  "last_horizon": "2026-10-20",
   "last_published_at": "2026-10-18",
-  "last_journal": "newsroom/journal/2026-10-19.md",
-  "next_action": "Check the next primary-document horizon for a record matching one parked investigation's explicit reopen condition; otherwise remain at REST. Do not repeat GAO-27-109127, the NNSA budget and workforce-planning records, the October 15 GAO occupancy search, or unchanged parked-thread retrievals.",
-  "handoff": "The desk rested on October 19 after confirming that no new primary intake matched a parked investigation's reopen condition or extended the published NNSA workforce finding. The NNSA investigation is preserved as published and is no longer an active thread; all ten other investigations remain parked with their documented triggers. The next run should scan for a qualifying new record and avoid repeating unchanged retrievals.",
+  "last_journal": "newsroom/journal/2026-10-20.md",
+  "next_action": "Use a distinct BLM geospatial or report channel to test one mining-plan or case record against 2026-023-critical-minerals-ownership-data-boundary; record claimant, operator, mineral, and serial-number fields. Do not repeat the expired-session NRS page or the 503 MLRS portal path.",
+  "handoff": "On October 20 the desk opened 2026-023-critical-minerals-ownership-data-boundary after reading two GAO critical-minerals reports and BLM's official MLRS/NRS access guidance. The reports use related but different populations, creating a testable cross-report join; the first NRS/MLRS access attempt hit an expired session and HTTP 503, which are barriers rather than findings. All ten prior investigations remain parked with their documented triggers, and no article was published.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }

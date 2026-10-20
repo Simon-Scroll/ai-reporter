@@ -1,106 +1,106 @@
-# Horizon brief — 2026-10-19
+# Horizon brief — 2026-10-20
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
 ## sec-edgar
-- **4 - Ainscow Robert (0001951275) (Reporting)**
-  - when: 2026-10-16T21:57:56-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1951275/000147793226006312/0001477932-26-006312-index.htm
-  - Filed: 2026-10-16 AccNo: 0001477932-26-006312 Size: 5 KB
-- **4 - ASP Isotopes Inc. (0001921865) (Issuer)**
-  - when: 2026-10-16T21:57:56-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1921865/000147793226006312/0001477932-26-006312-index.htm
-  - Filed: 2026-10-16 AccNo: 0001477932-26-006312 Size: 5 KB
-- **4 - Singleton Nicole Marie (0002132337) (Reporting)**
-  - when: 2026-10-16T21:56:48-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2132337/000180166126000124/0001801661-26-000124-index.htm
-  - Filed: 2026-10-16 AccNo: 0001801661-26-000124 Size: 8 KB
-- **4 - Firy Inc. (0001801661) (Issuer)**
-  - when: 2026-10-16T21:56:48-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1801661/000180166126000124/0001801661-26-000124-index.htm
-  - Filed: 2026-10-16 AccNo: 0001801661-26-000124 Size: 8 KB
-- **4 - Paradise Andrew (0001836621) (Reporting)**
-  - when: 2026-10-16T21:56:20-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1836621/000180166126000123/0001801661-26-000123-index.htm
-  - Filed: 2026-10-16 AccNo: 0001801661-26-000123 Size: 8 KB
-- **4 - Firy Inc. (0001801661) (Issuer)**
-  - when: 2026-10-16T21:56:20-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1801661/000180166126000123/0001801661-26-000123-index.htm
-  - Filed: 2026-10-16 AccNo: 0001801661-26-000123 Size: 8 KB
-- **SCHEDULE 13D/A - Hilltop Holdings Inc. (0001265131) (Subject)**
-  - when: 2026-10-16T21:52:26-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1265131/000119312526424467/0001193125-26-424467-index.htm
-  - Filed: 2026-10-16 AccNo: 0001193125-26-424467 Size: 2 MB
-- **SCHEDULE 13D/A - FORD GERALD J (0001021572) (Filed by)**
-  - when: 2026-10-16T21:52:26-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1021572/000119312526424467/0001193125-26-424467-index.htm
-  - Filed: 2026-10-16 AccNo: 0001193125-26-424467 Size: 2 MB
-- **4 - Maloney John Patrick (0002119248) (Reporting)**
-  - when: 2026-10-16T21:45:15-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2119248/000110465926116675/0001104659-26-116675-index.htm
-  - Filed: 2026-10-16 AccNo: 0001104659-26-116675 Size: 12 KB
-- **4 - Vertical Aerospace Ltd. (0001867102) (Issuer)**
-  - when: 2026-10-16T21:45:15-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1867102/000110465926116675/0001104659-26-116675-index.htm
-  - Filed: 2026-10-16 AccNo: 0001104659-26-116675 Size: 12 KB
-- **4 - Sanfilippo Thomas (0002058414) (Reporting)**
-  - when: 2026-10-16T21:42:41-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2058414/000121390026110436/0001213900-26-110436-index.htm
-  - Filed: 2026-10-16 AccNo: 0001213900-26-110436 Size: 10 KB
-- **4 - WhiteFiber, Inc. (0002042022) (Issuer)**
-  - when: 2026-10-16T21:42:41-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2042022/000121390026110436/0001213900-26-110436-index.htm
-  - Filed: 2026-10-16 AccNo: 0001213900-26-110436 Size: 10 KB
+- **SCHEDULE 13D - Rantizo (0001991261) (Subject)**
+  - when: 2026-10-19T21:53:17-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1991261/000091957426007073/0000919574-26-007073-index.htm
+  - Filed: 2026-10-19 AccNo: 0000919574-26-007073 Size: 12 KB
+- **SCHEDULE 13D - OLDRIDGE PHILLIP (0001500541) (Filed by)**
+  - when: 2026-10-19T21:53:17-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1500541/000091957426007073/0000919574-26-007073-index.htm
+  - Filed: 2026-10-19 AccNo: 0000919574-26-007073 Size: 12 KB
+- **SCHEDULE 13D/A - Cable One, Inc. (0001632127) (Subject)**
+  - when: 2026-10-19T21:48:39-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1632127/000095015726001110/0000950157-26-001110-index.htm
+  - Filed: 2026-10-19 AccNo: 0000950157-26-001110 Size: 13 KB
+- **SCHEDULE 13D/A - GRAHAM DONALD (0001018401) (Filed by)**
+  - when: 2026-10-19T21:48:39-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1018401/000095015726001110/0000950157-26-001110-index.htm
+  - Filed: 2026-10-19 AccNo: 0000950157-26-001110 Size: 13 KB
+- **SCHEDULE 13G - Evernorth Holdings Inc. (0002092592) (Subject)**
+  - when: 2026-10-19T21:45:58-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2092592/000119312526425558/0001193125-26-425558-index.htm
+  - Filed: 2026-10-19 AccNo: 0001193125-26-425558 Size: 164 KB
+- **SCHEDULE 13G - Arrington XRP Capital Fund, LP (0001727934) (Filed by)**
+  - when: 2026-10-19T21:45:58-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1727934/000119312526425558/0001193125-26-425558-index.htm
+  - Filed: 2026-10-19 AccNo: 0001193125-26-425558 Size: 164 KB
+- **SCHEDULE 13G/A - Ng Chun Seong (0002057693) (Filed by)**
+  - when: 2026-10-19T21:45:04-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2057693/000149315226047674/0001493152-26-047674-index.htm
+  - Filed: 2026-10-19 AccNo: 0001493152-26-047674 Size: 6 KB
+- **SCHEDULE 13G/A - Rantizo (0001991261) (Subject)**
+  - when: 2026-10-19T21:45:04-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1991261/000149315226047674/0001493152-26-047674-index.htm
+  - Filed: 2026-10-19 AccNo: 0001493152-26-047674 Size: 6 KB
+- **SCHEDULE 13G/A - Liao Xiaoyan (0002058401) (Filed by)**
+  - when: 2026-10-19T21:43:04-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2058401/000149315226047671/0001493152-26-047671-index.htm
+  - Filed: 2026-10-19 AccNo: 0001493152-26-047671 Size: 6 KB
+- **SCHEDULE 13G/A - Rantizo (0001991261) (Subject)**
+  - when: 2026-10-19T21:43:04-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1991261/000149315226047671/0001493152-26-047671-index.htm
+  - Filed: 2026-10-19 AccNo: 0001493152-26-047671 Size: 6 KB
+- **4 - Devers Shannon L. (0002037721) (Reporting)**
+  - when: 2026-10-19T21:40:12-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2037721/000087401526000267/0000874015-26-000267-index.htm
+  - Filed: 2026-10-19 AccNo: 0000874015-26-000267 Size: 9 KB
+- **4 - IONIS PHARMACEUTICALS INC (0000874015) (Issuer)**
+  - when: 2026-10-19T21:40:12-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/874015/000087401526000267/0000874015-26-000267-index.htm
+  - Filed: 2026-10-19 AccNo: 0000874015-26-000267 Size: 9 KB
 
 ## federal-register
-- **Fee Schedules; Fee Recovery for Fiscal Year 2026**
-  - when: 2026-10-19
-  - url: https://www.federalregister.gov/documents/2026/10/19/C1-2026-12067/fee-schedules-fee-recovery-for-fiscal-year-2026
-  - Nuclear Regulatory Commission — Rule
-- **Continuation of the National Emergency With Respect to the Democratic Republic of the Congo**
-  - when: 2026-10-19
-  - url: https://www.federalregister.gov/documents/2026/10/19/2026-21432/continuation-of-the-national-emergency-with-respect-to-the-democratic-republic-of-the-congo
-  - Executive Office of the President — Presidential Document
-- **Continuation of the National Emergency With Respect to Sudan**
-  - when: 2026-10-19
-  - url: https://www.federalregister.gov/documents/2026/10/19/2026-21431/continuation-of-the-national-emergency-with-respect-to-sudan
-  - Executive Office of the President — Presidential Document
-- **Continuation of the National Emergency With Respect to Significant Narcotics Traffickers Centered in Colombia**
-  - when: 2026-10-19
-  - url: https://www.federalregister.gov/documents/2026/10/19/2026-21430/continuation-of-the-national-emergency-with-respect-to-significant-narcotics-traffickers-centered-in
-  - Executive Office of the President — Presidential Document
-- **Sunshine Act Meetings**
-  - when: 2026-10-19
-  - url: https://www.federalregister.gov/documents/2026/10/19/2026-21399/sunshine-act-meetings
-  - Nuclear Regulatory Commission — Notice
-- **Airworthiness Directives; Airbus Helicopters**
-  - when: 2026-10-19
-  - url: https://www.federalregister.gov/documents/2026/10/19/2026-21387/airworthiness-directives-airbus-helicopters
-  - Transportation Department, Federal Aviation Administration — Proposed Rule — The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus Helicopters Model AS350B3, AS355F, AS355F1, AS355F2, AS355N, AS355NP, EC130B4, and EC130T2 helicopters. This proposed AD was prompted by a report of the loss of the tightening torque between the upper ball bearing end and a main rotor (MR) servo-control. This proposed AD would require an inspection of the nut tightening torque of the upper ball
-- **Sunshine Act Meeting**
-  - when: 2026-10-19
-  - url: https://www.federalregister.gov/documents/2026/10/19/2026-21384/sunshine-act-meeting
-  - Consumer Product Safety Commission — Notice
-- **New Source Performance Standards and National Emission Standards for Hazardous Air Pollutants; Delegation of Authority to Northwest Clean Air Agency, Washington State**
-  - when: 2026-10-19
-  - url: https://www.federalregister.gov/documents/2026/10/19/2026-21383/new-source-performance-standards-and-national-emission-standards-for-hazardous-air-pollutants
-  - Environmental Protection Agency — Proposed Rule — The Northwest Clean Air Agency (NWCAA), located in Washington State, submitted updated regulations for receiving delegation and approval of its program for the implementation and enforcement of newly issued or revised New Source Performance Standards (NSPS) and National Emission Standards for Hazardous Air Pollutants (NESHAP), as provided for under previously approved delegation mechanisms. The updated regulations incorporate by reference certain
-- **Privacy Act of 1974; System of Records**
-  - when: 2026-10-19
-  - url: https://www.federalregister.gov/documents/2026/10/19/2026-21381/privacy-act-of-1974-system-of-records
-  - Federal Communications Commission — Notice — The Federal Communications Commission (FCC, Commission, or Agency) is modifying an existing system of records, FCC/WCB-1, Lifeline Program, subject to the Privacy Act of 1974, as amended. This action is necessary to meet the requirements of the Privacy Act to publish in the Federal Register notice of the existence and character of records maintained by the agency. The Lifeline Program (or "Lifeline") provides discounts for one Lifeline Program voice s
-- **Agency Information Collection Request: FEHB Protection Act Portal, OMB Control Number (3206-NEW)**
-  - when: 2026-10-19
-  - url: https://www.federalregister.gov/documents/2026/10/19/2026-21380/agency-information-collection-request-fehb-protection-act-portal-omb-control-number-3206-new
-  - Personnel Management Office — Notice — The Office of Personnel Management (OPM) offers the general public and other Federal agencies the opportunity to comment on a new information collection request (ICR): FEHB Protection Act Portal (FPA Portal).
-- **Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; South Pacific Tuna Act**
-  - when: 2026-10-19
-  - url: https://www.federalregister.gov/documents/2026/10/19/2026-21379/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for
-  - Commerce Department, National Oceanic and Atmospheric Administration — Notice
-- **Agency Information Collection Request: 3206-NEW, Annuitant Verification Form, RI 20-129**
-  - when: 2026-10-19
-  - url: https://www.federalregister.gov/documents/2026/10/19/2026-21378/agency-information-collection-request-3206-new-annuitant-verification-form-ri-20-129
-  - Personnel Management Office — Notice — Retirement Services offers the general public and other Federal agencies the opportunity to comment on a new information collection request (ICR), Annuitant Verification Form, RI 20-129.
+- **Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/C1-2026-20360/interval-fund-modernization-expansion-of-multiple-share-class-to-registered-closed-end-management
+  - Securities and Exchange Commission — Proposed Rule
+- **Civil Penalties Inflation Adjustments; Annual Adjustments**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21474/civil-penalties-inflation-adjustments-annual-adjustments
+  - Interior Department, Indian Affairs Bureau — Rule — This rule provides for annual adjustments to the level of civil monetary penalties contained in Bureau of Indian Affairs (Bureau) regulations to account for inflation under the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 and Office of Management and Budget (OMB) guidance.
+- **Presidential Declaration of a Major Disaster for Public Assistance Only for the State of Utah**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21469/presidential-declaration-of-a-major-disaster-for-public-assistance-only-for-the-state-of-utah
+  - Small Business Administration — Notice — This is notice of the Presidential declaration of a major disaster for Public Assistance Only for the state of Utah (FEMA-4948- DR), dated October 7, 2026. Incident: Cottonwood Fire, Flooding, and Mudslides.
+- **Agency Information Collection Activity: State Veterans Homes Construction & Acquisition Grant Program (SVHCGP)**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21468/agency-information-collection-activity-state-veterans-homes-construction-and-acquisition-grant
+  - Veterans Affairs Department — Notice — Veterans Health Administration (VHA), Department of Veterans Affairs (VA), is announcing an opportunity for public comment on the proposed collection of certain information by the agency. Under the Paperwork Reduction Act (PRA) of 1995, Federal agencies are required to publish a notice in the Federal Register concerning each proposed collection of information, including each proposed extension of a currently approved collection, and allow 60 days for public
+- **Presidential Declaration of a Major Disaster for Public Assistance Only for the State of New Hampshire**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21467/presidential-declaration-of-a-major-disaster-for-public-assistance-only-for-the-state-of-new
+  - Small Business Administration — Notice — This is notice of the Presidential declaration of a major disaster for Public Assistance Only for the state of New Hampshire (FEMA-4947-DR), dated October 7, 2026. Incident: Severe Storm and Flooding.
+- **Agency Information Collection Activities: Comment Request**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21466/agency-information-collection-activities-comment-request
+  - National Science Foundation — Notice — The National Science Foundation (NSF) is announcing plans to establish this collection. In accordance with the requirements of the Paperwork Reduction Act of 1995, we are providing opportunity for public to comment on this action. After obtaining and considering public comments, NSF will prepare the submission requesting Office of Management and Budget (OMB) clearance of this collection for no longer than 3 years.
+- **Submission for OMB Review; Comment Request**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21465/submission-for-omb-review-comment-request
+  - Defense Department, — Notice — The DoD (referred to herein as "the Department", "Department of War" or "DoW") has submitted to the Office of Management and Budget (OMB) for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act.
+- **Proposed Collection; Comment Request**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21464/proposed-collection-comment-request
+  - Defense Department, — Notice — In compliance with the Paperwork Reduction Act of 1995, the OUSD(A&S), DoD (referred to herein as "the Department", "Department of War" or "DoW") announces proposed public information collection and seeks public comment on the provisions thereof. Comments are invited on: whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility; the accuracy
+- **Certificate of Alternate Compliance for USS PATRICK GALLAGHER (DDG 127)**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21463/certificate-of-alternate-compliance-for-uss-patrick-gallagher-ddg-127
+  - Defense Department, Navy Department — Notice — The U.S. Navy hereby announces that a Certificate of Alternate Compliance has been issued for USS PATRICK GALLAGHER (DDG 127). Due to the special construction and purpose of this vessel, the Admiralty Counsel of the Navy has determined it is a vessel of the Navy which, due to its special construction and purpose, cannot comply fully with the navigation lights provisions of the International Regulations for Preventing Collisions at Sea, 1972 (72 COLR
+- **American Samoa Outer Continental Shelf Pacific Mineral Lease Sale 1**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21462/american-samoa-outer-continental-shelf-pacific-mineral-lease-sale-1
+  - Interior Department, Ocean Energy Management Bureau — Notice — The Marine Minerals Administration (MMA) will conduct an auction for lease areas offered in the American Samoa Outer Continental Shelf (OCS) Pacific Mineral Lease Sale 1 (Lease Sale PACM-1), in accordance with the Outer Continental Shelf Lands Act (OCSLA), as amended, and its implementing regulations. The Final Leasing Notice (FLN) package for this lease sale contains information essential to potential bidders, including Information
+- **Agency Information Collection Activities: Comment Request; Grantee Reporting Requirements for the U.S. National Science Foundation Regional Innovation Engines (NSF Engines) Program**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21461/agency-information-collection-activities-comment-request-grantee-reporting-requirements-for-the-us
+  - National Science Foundation — Notice — The National Science Foundation (NSF) is announcing plans to renew this collection. In accordance with the requirements of the Paperwork Reduction Act of 1995, we are providing an opportunity for public comment on this action. After obtaining and considering public comment, NSF will prepare the submission requesting Office of Management and Budget (OMB) clearance of this collection for no longer than 3 years.
+- **60-Day Notice of Proposed Information Collection: National Contact Point Web Page**
+  - when: 2026-10-20
+  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21460/60-day-notice-of-proposed-information-collection-national-contact-point-web-page
+  - State Department — Notice — The Department of State is seeking Office of Management and Budget (OMB) approval for the information collection described below. In accordance with the Paperwork Reduction Act of 1995, we are requesting comments on this collection from all interested individuals and organizations. The purpose of this notice is to allow 60 days for public comment preceding submission of the collection to OMB.
 
 ## gao
 - **2027-2032 Strategic Plan: Serving Congress and the Nation**
@@ -165,56 +165,89 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - What GAO Found Ghost preparers are paid tax preparers who do not comply with requirements to identify themselves on tax returns they prepare for others. Ghost preparers may intentionally leave identifying information off to get away with filing fraudulent income tax returns, stealing taxpayers’ refunds, and stealing taxpayers’ identities. Courts have ordered individual ghost preparers to pay millions in restitution to the government, but according to Internal Revenue Service (IRS) officials, th
 
 ## courtlistener
-- **Dale Golson Warriner v. Timothy James Warriner**
-  - when: 2026-10-16T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11036904/dale-golson-warriner-v-timothy-james-warriner/
-  - Rel: October 16, 2026 Notice: This opinion is subject to formal revision before publication in the advance sheets of Southern Reporter. Readers are requested to notify the Reporter of Decisions, Alabama Appellate Courts, 300 Dexter Avenue, Montgomery, Alabama 36104-3741 ((334) 229-0650), of any typographical or other errors, in order that corrections may be made before the opinion is published in Southern Reporter. ALABAMA COURT OF CIVIL APPEALS OCTOBER TERM Original document
-- **Ullman v. Evnen**
-  - when: 2026-10-16T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11036882/ullman-v-evnen/
-  - Nebraska Supreme Court Online Library www.nebraska.gov/apps-courts-epub/ 10/16/2026 08:16 AM CDT - 637 - Nebraska Supreme Court Advance Sheets 322 Nebraska Reports ULLMAN v. EVNEN Cite as 322 Neb. 637 Cara Ullman, appellant, v. Robert Evnen, in his Original document
-- **Dula v. State of Florida**
-  - when: 2026-10-16T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11036877/dula-v-state-of-florida/
-  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT MARCOUST N. DULA, Appellant, v. STATE OF FLORIDA, Appellee. No. 2D2025-2595 October 16, 2026 Appeal from the Circuit Court for Manatee County, Stephen Mathew Whyte, Judge. Blair Allen Original document
-- **Reginald Leon Streeter v. State of Florida**
-  - when: 2026-10-16T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11036960/reginald-leon-streeter-v-state-of-florida/
-  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2026-0323 Lower Tribunal No. 2013-CF-009685 _____________________________ REGINALD LEON STREETER, Appellant, v. Original document
-- **Leon Fransceco Benjamin v. Tiana P. Garner, Clerk of Superior Court, Gwinnett County**
-  - when: 2026-10-16T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11037003/leon-fransceco-benjamin-v-tiana-p-garner-clerk-of-superior-court/
-  - Court of Appeals of the State of Georgia ATLANTA,____________________ October 16, 2026 The Court of Appeals hereby passes the following order: A27O0016. LEON FRANSCECO BENJAMIN v. TIANA P. GARNER, CLERK OF SUPERIOR COURT, GWINNETT COUNTY. Proceeding pro se, Leon Fransceco Benjamin has filed a petition for a writ of mandamus against Tiana P. Garner, the Gwinnett County Superior Court Clerk. Upon Original document
-- **Brian L. Walls v. Stacy M. Walls**
-  - when: 2026-10-16T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11037008/brian-l-walls-v-stacy-m-walls/
-  - Pursuant to Ind. Appellate Rule 65(E), the trial court and parties shall not take any action in reliance upon this opinion until it is certified. FILED Oct 16 2026, 9:31 am CLERK Original document
-- **Union Home Mtge. Corp. v. Hinds**
-  - when: 2026-10-16T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11037074/union-home-mtge-corp-v-hinds/
-  - [Cite as Union Home Mtge. Corp. v. Hinds, 2026-Ohio-4082.] IN THE COURT OF APPEALS OF OHIO SIXTH APPELLATE DISTRICT LUCAS COUNTY Union Home Mortgage, et al. Court of Appeals No. L-25-00273 Appellees Trial Court No. CI0202302986 v. Lauren Hinds, et al. DECISION AND JUDGMENT Appellant Original document
-- **Blue Fire Capital LLC v. Robert A. Lindeman**
-  - when: 2026-10-16T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11036944/blue-fire-capital-llc-v-robert-a-lindeman/
-  - IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE BLUE FIRE CAPITAL, LLC, ) ) Plaintiff, ) ) v. ) C.A. No. 2023-1181-BWD ) ROBERT A. LINDEMAN, ) R &amp; M ADVISORS, LLC, ) ) Defendants, Original document
-- **Stout v. Costco Wholesale Corp.**
-  - when: 2026-10-16T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11037122/stout-v-costco-wholesale-corp/
-  - 2026 IL App (2d) 250335 No. 2-25-0335 Opinion filed October 16, 2026 IN THE APPELLATE COURT OF ILLINOIS SECOND DISTRICT TERRI STOUT, Plaintiff-Appellant, v. COSTCO WHOLESALE CORPORATION Original document
-- **State v. Griffith**
-  - when: 2026-10-16T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11037076/state-v-griffith/
-  - [Cite as State v. Griffith, 2026-Ohio-4081.] IN THE COURT OF APPEALS OF OHIO SIXTH APPELLATE DISTRICT WOOD COUNTY State of Ohio Court of Appeals No. WD-25-080 Appellee Trial Court No. 2024CR0191 v. Charles Griffith DECISION AND JUDGMENT Appellant Original document
-- **Jayson Ardila v. State of Florida**
-  - when: 2026-10-16T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11036908/jayson-ardila-v-state-of-florida/
-  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-2610 L.T. Case Nos. 2022-CF-001852-A 2022-CF-002230-A _____________________________ JAYSON ARDILA, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Seminole County. Jessica Recksiedler Original document
-- **Robert Teig v. Iowa Judicial Branch, Molly Weber, Robert Gast, Nicholas Critelli, Iowa Supreme Court Attorney Disciplinary Board, Iowa Office of Professional Regulation, and Tara van Brederode**
-  - when: 2026-10-16T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11036909/robert-teig-v-iowa-judicial-branch-molly-weber-robert-gast-nicholas/
-  - In the Iowa Supreme Court No. 25–1889 Submitted September 9, 2026—Filed October 16, 2026 Robert Teig, Appellant, vs. Iowa Judicial Branch, Molly Weber, Robert Gast, Nicholas Critelli, Iowa Supreme Court Attorney Disciplinary Board, Iowa Office of Professional Regulation, and Tara van Brederode, Original document
+- **Bank of New York Mellon v. Tope**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038108/bank-of-new-york-mellon-v-tope/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **Villalobos v. Target Corp.**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038106/villalobos-v-target-corp/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **Frog Bridge Development Co., LLC v. Osborne**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038107/frog-bridge-development-co-llc-v-osborne/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **United States v. Roberto Orellana**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038155/united-states-v-roberto-orellana/
+  - United States Court of Appeals For the Eighth Circuit ___________________________ No. 25-2870 ___________________________ United States of America lllllllllllllllllllllPlaintiff - Appellee v. Roberto Orellana lllllllllllllllllllllDefendant - Appellant ___________________________ No. 25-2917 ___________________________ United States of America lllllllllllllllllllllPlaintiff Original document
+- **Ferguson v. Tri-R Tooling Inc.**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038370/ferguson-v-tri-r-tooling-inc/
+  - [Cite as Ferguson v. Tri-R Tooling Inc., 2026-Ohio-4111.] IN THE OHIO COURT OF APPEALS FIFTH APPELLATE DISTRICT RICHLAND COUNTY, OHIO VERONICA FERGUSON Case Nos. 2026 CA 0031 and 2026 CA 0035 Plaintiff - Appellee Opinion &amp; Judgment Entry Original document
+- **Hughes v. State of Florida**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038144/hughes-v-state-of-florida/
+  - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2025-3306 _____________________________ JESSICA LYNN HUGHES, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Santa Rosa County. Clifton Drake, Judge. October 19, 2026 PER CURIAM. AFFIRMED. LEWIS, RAY, and Original document
+- **Shubha v. State of Florida**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038139/shubha-v-state-of-florida/
+  - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2025-1546 _____________________________ KHAIRUL SHUBHA, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Escambia County. Amy P. Brodersen, Judge. October 19, 2026 PER CURIAM. AFFIRMED. ROWE, NORDBY, and LONG Original document
+- **JASON PINCUS v. NICHOLAS FORTINBERRY**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038153/jason-pincus-v-nicholas-fortinberry/
+  - Court of Appeals of the State of Georgia ATLANTA,____________________ October 19, 2026 The Court of Appeals hereby passes the following order: A27A0516. JASON PINCUS et al. v. NICHOLAS FORTINBERRY et al. Plaintiffs Nicholas and Kristy Fortinberry filed an action for damages against Jason and Laura Pincus and Come Together Properties, LLC. After the defendants failed to file an answer or any other Original document
+- **Garvin v. Federal Housing Finance Agency**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038378/garvin-v-federal-housing-finance-agency/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA ANTHONY GARVIN, Plaintiff, v. Civil Action No. 1:26-cv-0608 (CJN) FEDERAL HOUSING FINANCE AGENCY, Defendant. ORDER Plaintiff Anthony Garvin was convicted of conspiracy to commit bank fraud and bank fraud in 2022. As a result of his convictions, Original document
+- **Bridget Francis v. California State Teachers' Retirement System**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038154/bridget-francis-v-california-state-teachers-retirement-system/
+  - THIRD DIVISION DILLARD, P. J., GOBEIL and PIPKIN, JJ. NOTICE: Motions for reconsideration must be received no later than 4:30 pm on the 10th day after the decision was issued to be deemed timely filed. https://www.gaappeals.gov/rules October 19, 2026 Original document
+- **Ewa Villages Owners Association v. Tautua**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11039146/ewa-villages-owners-association-v-tautua/
+  - Electronically Filed Supreme Court SCWC-XX-XXXXXXX 19-OCT-2026 09:07 AM Dkt. 5 ODAC SCWC-XX-XXXXXXX IN THE SUPREME COURT OF THE STATE OF HAWAIʻI EWA VILLAGES OWNERS ASSOCIATION Original document
+- **Avignone v. National Railroad Passenger Corporation**
+  - when: 2026-10-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11038329/avignone-v-national-railroad-passenger-corporation/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA MARIO AVIGNONE, Plaintiff, v. Civil Action No. 25-2199 (RDM) NATIONAL RAILROAD PASSENGER CORPORATION, et al., Defendants. MEMORANDUM OPINION Plaintiff Mario Avignone brings this case to challenge his termination by his former employer Original document
 
 ## uk-legislation
+- **The Air Navigation (Restriction of Flying) (Aberfan, Merthyr Tydfil) Regulations 2026**
+  - when: 2026-10-20T03:04:50.303995+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1058
+- **The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2026**
+  - when: 2026-10-20T03:10:03+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/181
+  - These Regulations make amendments to the State Pension Credit Regulations (Northern Ireland) 2003 (S.R. 2003 No. 28), the Housing Benefit Regulations (Northern Ireland) 2006 (S.R. 2006 No. 405), the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 (S.R. 2006 No. 406), the Employment and Support Allowance Regulations (Northern Ireland) 2008 (S.R. 2008 No. 280), and the Universal Credit Regulations (Northern Ireland) 2016 (
+- **The Trade Unions (Right to Access Workplaces) Regulations 2026**
+  - when: 2026-10-20T03:09:53+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1101
+  - These Regulations form part of the package of legislation that provides for access agreements between trade unions and employers, which enable trade union officials to physically enter workplaces or to communicate with workers by other means. For these purposes, communication with workers includes the provision of information to workers by any means, whether direct or indirect.
+- **The Protection Against Detriment (Industrial Action) Regulations 2026**
+  - when: 2026-10-20T03:09:52+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1099
+  - These Regulations are made in exercise of the power contained in section 236A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 (“the 1992 Act”) to prescribe detriments in relation to a worker taking industrial action.
+- **The Air Navigation (Restriction of Flying) (Helicopter Flight) (No. 7) Regulations 2026**
+  - when: 2026-10-20T03:04:19.38711+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1100
+- **The Air Navigation (Restriction of Flying) (Drymen, Stirling, Scotland) (Emergency) Regulations 2026**
+  - when: 2026-10-19T16:41:12+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1106
+- **The Levelling-up and Regeneration Act 2023 (Commencement No. 12) Regulations 2026**
+  - when: 2026-10-19T16:15:47+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1105
+  - These Regulations are the twelfth commencement regulations under the Levelling-up and Regeneration Act 2023 (c. 55) (“the 2023 Act”). They bring section 232 of the 2023 Act (“section 232”) into force. Section 232 amends sections 72A, 107A and 107B of the Marine and Coastal Access Act 2009 (c. 23) (“the 2009 Act”) to confer power on the Secretary of State and the Scottish Ministers, in respect of cases where they are the appropriate licensing authority, to make regulations to charge fees for the
+- **The Code of Practice (Right of Trade Unions to Access Workplaces) Order 2026**
+  - when: 2026-10-19T15:45:19+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1103
+  - This Order appoints 30th October 2026 as the day on which the Code of Practice issued by the Secretary of State under sections 203(1)(a) and 204(2) of the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) on the Right of Trade Unions to Access Workplaces (“the Code of Practice”) comes into effect.
+- **The Authorised Investigators (Complaints and Misconduct) Regulations 2026**
+  - when: 2026-10-19T14:43:56+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1098
+  - These Regulations provide for the basis on which the Director General (the “Director General”) of the Independent Office for Police Conduct (“IOPC”) has oversight of complaints and other matters relating to the conduct of authorised investigators employed by the Cabinet Office and working in the Public Sector Fraud Authority (“PSFA”). Section 7(3) of the Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28) defines “authorised investigator”.
 - **The Green Hill Solar Farm Order 2026**
   - when: 2026-10-19T03:06:09+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1074
@@ -231,43 +264,3 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-10-19T03:05:34+01:00
   - url: http://www.legislation.gov.uk/id/wsi/2026/127
   - This Order implements the recommendations of the Democracy and Boundary Commission Cymru (“the Commission”), which reported in January 2026 on its review of the electoral arrangements for the County Borough of the Vale of Glamorgan. The Commission’s report proposed an increase in the number of electoral wards from 24 to 26 and an increase in the number of councillors from 58 to 59.
-- **<div xmlns="http://www.w3.org/1999/xhtml">
-						<span xml:lang="en">The County Borough of Caerphilly (Electoral Arrangements) Order 2026</span> / <span xml:lang="cy">Gorchymyn Bwrdeistref Sirol Caerffili (Trefniadau Etholiadol) 2026</span>
-					</div>**
-  - when: 2026-10-19T03:05:12+01:00
-  - url: http://www.legislation.gov.uk/id/wsi/2026/126
-  - This Order implements the recommendations of the Democracy and Boundary Commission Cymru (“the Commission”), which reported in March 2026 on its review of the electoral arrangements for the County Borough of Caerphilly. The Commission’s report proposed a reduction in the number of electoral wards from 31 to 30 and a decrease in the number of councillors from 69 to 68.
-- **<div xmlns="http://www.w3.org/1999/xhtml">
-						<span xml:lang="en">The County of Carmarthenshire (Electoral Arrangements) Order 2026</span> / <span xml:lang="cy">Gorchymyn Sir Gaerfyrddin (Trefniadau Etholiadol) 2026</span>
-					</div>**
-  - when: 2026-10-19T03:04:50+01:00
-  - url: http://www.legislation.gov.uk/id/wsi/2026/125
-  - This Order implements the recommendations of the Democracy and Boundary Commission Cymru (“the Commission”), which reported in January 2026 on its review of the electoral arrangements for the County of Carmarthenshire. The Commission’s report proposed a reduction in the number of electoral wards from 51 to 47 and a decrease in the number of councillors from 75 to 74. The Commission’s report also recommended consequential changes to electoral arrangements for the County of Carmarthenshire as a re
-- **The Insolvency (Amendment) (2026 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2026**
-  - when: 2026-10-19T03:04:30+01:00
-  - url: http://www.legislation.gov.uk/id/nisr/2026/180
-  - This Order is the first commencement order made under the Insolvency (Amendment) Act (Northern Ireland) 2026 (“the 2026 Act”).
-- **The Steeple Renewables Project Order 2026**
-  - when: 2026-10-19T03:04:02+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1086
-  - This Order grants development consent for, and authorises the construction, operation and maintenance of a solar generating station and battery energy storage facility together with associated development. This Order imposes requirements in connection with the development and authorises the compulsory purchase of land (including rights in land) and the right to use land and to override easements and other rights.
-- **The Scotland Act 1998 (Specification of Functions and Transfer of Property etc.) (Amendment) Order 2026**
-  - when: 2026-10-16T16:04:44+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1095
-  - This Order amends the Scotland Act 1998 (Specification of Functions and Transfer of Property etc.) Order 2019 (S.I. 2019/183) (“the 2019 Order”) to remove reference to the Scottish Ministers’ functions under section 44 of the Climate Change (Scotland) Act 2009 (asp 12), because there are no functions under section 44 that could be exercised by way of arrangements under section 93 of the Scotland Act 1998 (c. 46).
-- **The Scottish Administration (Offices) Order 2026**
-  - when: 2026-10-16T15:13:38+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1097
-  - This Order specifies the Clerk of the Sexual Offences Court and Deputy Clerks of the Sexual Offences Court as offices in the Scottish Administration which are not ministerial offices for the purposes of the Scotland Act 1998.
-- **The School Teachers’ Pay and Conditions (England) Order 2026**
-  - when: 2026-10-16T15:13:38+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1096
-  - This Order makes provision for the determination of the remuneration of school teachers (within the meaning of section 122 of the Education Act 2002 (c. 32)) in England and other conditions of employment of school teachers which relate to their professional duties and working time.
-- **The Tribunal Procedure (Upper Tribunal) (Amendment) Rules 2026**
-  - when: 2026-10-16T15:13:28+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1084
-  - These Rules amend the Tribunal Procedure (Upper Tribunal) Rules 2008 (S.I. 2008/2698), which govern the practice and procedure to be followed in the Upper Tribunal (other than the Lands Chamber of the Upper Tribunal), to—
-- **The Diocese of Leicester (Educational Endowments) (Hathern Church of England Primary School Teacher’s House) Order 2026**
-  - when: 2026-10-16T03:05:54+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1091
-  - This Order appoints the Leicester Diocesan Board of Education as trustee of the foundation known as Hathern Church of England Primary School Teacher’s House and makes new provision as to the use of that foundation. It creates a separate foundation for the purpose of providing religious education in accordance with the doctrines of the Church of England within the Parish of Hathern. The Order provides for the Religious Education Fund to be held on trust by the minister and churchwardens for the t

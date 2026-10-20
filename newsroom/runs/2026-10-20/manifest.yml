@@ -1,0 +1,47 @@
+date: 2026-10-20
+mode: SCAN
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: confirmed no active investigations, the full ten-thread parked board, the October 18 publication, and the no-repeat handoff
+ingest:
+  ran: true
+  result: refreshed the October 20 primary-document horizon; configured feeds completed
+  horizon: newsroom/horizon/2026-10-20/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: active_board
+    decision: none_at_start
+    reason: no active investigation existed before the new lead was selected
+  - id: parked_board
+    decision: remain_parked
+    reason: no October 20 horizon item met a documented reopen condition
+  - id: 2026-023-critical-minerals-ownership-data-boundary
+    decision: continue
+    reason: two retrieved GAO primaries and BLM access records create a testable cross-report join; a distinct BLM retrieval path remains
+investigations:
+  - id: 2026-023-critical-minerals-ownership-data-boundary
+    decision: opened_continue
+    changed:
+      - newsroom/investigations/2026-023-critical-minerals-ownership-data-boundary/
+      - newsroom/leads/inbox/2026-10-20-critical-minerals-ownership-data-boundary.md
+publication:
+  published: false
+  reason: the BLM cross-report join is untested and the last article was published October 18
+validation:
+  run: false
+  result: no article was drafted or published
+journal:
+  - newsroom/journal/2026-10-20.md
+desk_notes:
+  - newsroom/desk/2026-10-20-r1.md
