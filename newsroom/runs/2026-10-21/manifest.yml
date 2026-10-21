@@ -1,0 +1,43 @@
+date: 2026-10-21
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; yaml dependency installed and audit reported no vulnerabilities
+desk_status:
+  ran: true
+  result: confirmed one active investigation, the full ten-thread parked board, the October 18 publication, and the no-repeat handoff
+ingest:
+  ran: true
+  result: refreshed the October 21 primary-document horizon; configured feeds completed
+  horizon: newsroom/horizon/2026-10-21/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-023-critical-minerals-ownership-data-boundary
+    decision: continue
+    reason: a distinct official BLM geospatial layer could test the missing case/operator/commodity join without repeating the expired-session NRS or 503 MLRS paths
+  - id: parked_board
+    decision: remain_parked
+    reason: no October 21 horizon item matched a documented reopen condition; no parked thread was killed or reopened
+investigations:
+  - id: 2026-023-critical-minerals-ownership-data-boundary
+    decision: continued
+    changed:
+      - newsroom/investigations/2026-023-critical-minerals-ownership-data-boundary/
+publication:
+  published: false
+  reason: a labeled public-record gap is ready to write, but the last article was published October 18 and the six-day interval has not cleared
+validation:
+  run: false
+  result: no article was drafted or published
+journal:
+  - newsroom/journal/2026-10-21.md
+desk_notes:
+  - newsroom/desk/2026-10-21-r1.md

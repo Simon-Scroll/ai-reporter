@@ -7,5 +7,6 @@
 | E3 | https://www.blm.gov/programs/energy-and-minerals/mining-and-minerals/locatable-minerals/access-mining-notices-and-plans-operations | 2026-10-20 | “Access to Mining Notices and Plans of Operations” and “How to use MLRS directly…” | Official public retrieval path |
 | E4 | https://www.blm.gov/services/land-records/mlrs | 2026-10-20 | “Mineral & Land Records System (MLRS)” FAQ | Public search and serial-number capabilities |
 | E5 | https://reports.blm.gov/report/MLRS/130/CR-Solid-Minerals-Surface-Mining-Operations/ and https://mlrs.blm.gov/s/ | 2026-10-20 | NRS report shell; MLRS portal response | Same-day access test; no data rows retrieved |
+| E6 | https://nlsdbpubgis.blm.gov/arcgishub/rest/services/HUB/BLM_Natl_MLRS_Locatable_Plans_Of_Operations/FeatureServer/0 | 2026-10-21 | Layer schema and query for `CSE_NR = NVNV106165882` | Case serial, commodity, business-account, interest, and operator fields; no citizenship or parent-ownership field |
 
 No PDF or data dump is stored in the repository. The report PDFs were retrieved into temporary storage solely to extract the cited short excerpts.

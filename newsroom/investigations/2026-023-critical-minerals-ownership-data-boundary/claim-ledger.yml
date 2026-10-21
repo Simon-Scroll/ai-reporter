@@ -14,7 +14,17 @@ claims:
       - "https://www.blm.gov/services/land-records/mlrs"
     locator: "BLM Access to Mining Notices and Plans of Operations; BLM MLRS page"
   - id: C3
-    status: open
-    claim: "A public BLM record can or cannot join a claimant/operator, mine plan, mineral, and ownership identity across the two GAO populations."
-    sources: []
-    locator: "Pending direct MLRS/NRS record test"
+    status: supported
+    claim: "A public BLM geospatial record can join a mining plan to a case serial, commodity, and business-account/operator label, but its published schema does not expose citizenship or parent ownership."
+    sources:
+      - "https://nlsdbpubgis.blm.gov/arcgishub/rest/services/HUB/BLM_Natl_MLRS_Locatable_Plans_Of_Operations/FeatureServer/0?f=pjson"
+      - "https://nlsdbpubgis.blm.gov/arcgishub/rest/services/HUB/BLM_Natl_MLRS_Locatable_Plans_Of_Operations/FeatureServer/0/query?where=CSE_NR%20%3D%20%27NVNV106165882%27&returnGeometry=false&f=pjson"
+    locator: "Feature-layer field list; exact case query for NVNV106165882"
+  - id: C4
+    status: supported
+    claim: "The public BLM record test supports a bounded data-reproducibility gap between the public case/operator record and the ownership/citizenship information used in the GAO comparisons, not an allegation about a named company."
+    sources:
+      - "https://files.gao.gov/assets/gao-27-108196.pdf#page=17"
+      - "https://files.gao.gov/assets/gao-27-108094.pdf#page=12"
+      - "https://nlsdbpubgis.blm.gov/arcgishub/rest/services/HUB/BLM_Natl_MLRS_Locatable_Plans_Of_Operations/FeatureServer/0?f=pjson"
+    locator: "GAO-27-108196 pp. 17-18; GAO-27-108094 p. 12; BLM feature-layer schema"

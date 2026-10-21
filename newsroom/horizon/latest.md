@@ -1,106 +1,106 @@
-# Horizon brief — 2026-10-20
+# Horizon brief — 2026-10-21
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
 ## sec-edgar
-- **SCHEDULE 13D - Rantizo (0001991261) (Subject)**
-  - when: 2026-10-19T21:53:17-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1991261/000091957426007073/0000919574-26-007073-index.htm
-  - Filed: 2026-10-19 AccNo: 0000919574-26-007073 Size: 12 KB
-- **SCHEDULE 13D - OLDRIDGE PHILLIP (0001500541) (Filed by)**
-  - when: 2026-10-19T21:53:17-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1500541/000091957426007073/0000919574-26-007073-index.htm
-  - Filed: 2026-10-19 AccNo: 0000919574-26-007073 Size: 12 KB
-- **SCHEDULE 13D/A - Cable One, Inc. (0001632127) (Subject)**
-  - when: 2026-10-19T21:48:39-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1632127/000095015726001110/0000950157-26-001110-index.htm
-  - Filed: 2026-10-19 AccNo: 0000950157-26-001110 Size: 13 KB
-- **SCHEDULE 13D/A - GRAHAM DONALD (0001018401) (Filed by)**
-  - when: 2026-10-19T21:48:39-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1018401/000095015726001110/0000950157-26-001110-index.htm
-  - Filed: 2026-10-19 AccNo: 0000950157-26-001110 Size: 13 KB
-- **SCHEDULE 13G - Evernorth Holdings Inc. (0002092592) (Subject)**
-  - when: 2026-10-19T21:45:58-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2092592/000119312526425558/0001193125-26-425558-index.htm
-  - Filed: 2026-10-19 AccNo: 0001193125-26-425558 Size: 164 KB
-- **SCHEDULE 13G - Arrington XRP Capital Fund, LP (0001727934) (Filed by)**
-  - when: 2026-10-19T21:45:58-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1727934/000119312526425558/0001193125-26-425558-index.htm
-  - Filed: 2026-10-19 AccNo: 0001193125-26-425558 Size: 164 KB
-- **SCHEDULE 13G/A - Ng Chun Seong (0002057693) (Filed by)**
-  - when: 2026-10-19T21:45:04-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2057693/000149315226047674/0001493152-26-047674-index.htm
-  - Filed: 2026-10-19 AccNo: 0001493152-26-047674 Size: 6 KB
-- **SCHEDULE 13G/A - Rantizo (0001991261) (Subject)**
-  - when: 2026-10-19T21:45:04-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1991261/000149315226047674/0001493152-26-047674-index.htm
-  - Filed: 2026-10-19 AccNo: 0001493152-26-047674 Size: 6 KB
-- **SCHEDULE 13G/A - Liao Xiaoyan (0002058401) (Filed by)**
-  - when: 2026-10-19T21:43:04-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2058401/000149315226047671/0001493152-26-047671-index.htm
-  - Filed: 2026-10-19 AccNo: 0001493152-26-047671 Size: 6 KB
-- **SCHEDULE 13G/A - Rantizo (0001991261) (Subject)**
-  - when: 2026-10-19T21:43:04-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1991261/000149315226047671/0001493152-26-047671-index.htm
-  - Filed: 2026-10-19 AccNo: 0001493152-26-047671 Size: 6 KB
-- **4 - Devers Shannon L. (0002037721) (Reporting)**
-  - when: 2026-10-19T21:40:12-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2037721/000087401526000267/0000874015-26-000267-index.htm
-  - Filed: 2026-10-19 AccNo: 0000874015-26-000267 Size: 9 KB
-- **4 - IONIS PHARMACEUTICALS INC (0000874015) (Issuer)**
-  - when: 2026-10-19T21:40:12-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/874015/000087401526000267/0000874015-26-000267-index.htm
-  - Filed: 2026-10-19 AccNo: 0000874015-26-000267 Size: 9 KB
+- **4 - Tang Teck Shen (0002161293) (Reporting)**
+  - when: 2026-10-20T21:58:32-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2161293/000091957426007106/0000919574-26-007106-index.htm
+  - Filed: 2026-10-20 AccNo: 0000919574-26-007106 Size: 6 KB
+- **4 - Rantizo (0001991261) (Issuer)**
+  - when: 2026-10-20T21:58:32-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1991261/000091957426007106/0000919574-26-007106-index.htm
+  - Filed: 2026-10-20 AccNo: 0000919574-26-007106 Size: 6 KB
+- **3 - Tang Teck Shen (0002161293) (Reporting)**
+  - when: 2026-10-20T21:55:03-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2161293/000091957426007105/0000919574-26-007105-index.htm
+  - Filed: 2026-10-20 AccNo: 0000919574-26-007105 Size: 4 KB
+- **3 - Rantizo (0001991261) (Issuer)**
+  - when: 2026-10-20T21:55:03-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1991261/000091957426007105/0000919574-26-007105-index.htm
+  - Filed: 2026-10-20 AccNo: 0000919574-26-007105 Size: 4 KB
+- **4 - Arqit Quantum Inc. (0001859690) (Issuer)**
+  - when: 2026-10-20T21:37:39-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1859690/000185969026000196/0001859690-26-000196-index.htm
+  - Filed: 2026-10-20 AccNo: 0001859690-26-000196 Size: 13 KB
+- **4 - Lefebvre d'Ovidio Manfredi (0001840678) (Reporting)**
+  - when: 2026-10-20T21:37:39-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1840678/000185969026000196/0001859690-26-000196-index.htm
+  - Filed: 2026-10-20 AccNo: 0001859690-26-000196 Size: 13 KB
+- **SCHEDULE 13G - Sweder Tara (0002161241) (Filed by)**
+  - when: 2026-10-20T21:36:03-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2161241/000091957426007102/0000919574-26-007102-index.htm
+  - Filed: 2026-10-20 AccNo: 0000919574-26-007102 Size: 6 KB
+- **SCHEDULE 13G - Rantizo (0001991261) (Subject)**
+  - when: 2026-10-20T21:36:03-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1991261/000091957426007102/0000919574-26-007102-index.htm
+  - Filed: 2026-10-20 AccNo: 0000919574-26-007102 Size: 6 KB
+- **4 - Sheena Jonathan (0001646649) (Reporting)**
+  - when: 2026-10-20T21:35:06-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1646649/000164664926000034/0001646649-26-000034-index.htm
+  - Filed: 2026-10-20 AccNo: 0001646649-26-000034 Size: 27 KB
+- **4 - Natera, Inc. (0001604821) (Issuer)**
+  - when: 2026-10-20T21:35:06-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604821/000164664926000034/0001646649-26-000034-index.htm
+  - Filed: 2026-10-20 AccNo: 0001646649-26-000034 Size: 27 KB
+- **3 - Liu Jia LJ (0002160597) (Reporting)**
+  - when: 2026-10-20T21:31:06-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2160597/000119312526427017/0001193125-26-427017-index.htm
+  - Filed: 2026-10-20 AccNo: 0001193125-26-427017 Size: 3 KB
+- **3 - Lufax Holding Ltd (0001816007) (Issuer)**
+  - when: 2026-10-20T21:31:06-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1816007/000119312526427017/0001193125-26-427017-index.htm
+  - Filed: 2026-10-20 AccNo: 0001193125-26-427017 Size: 3 KB
 
 ## federal-register
-- **Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies**
-  - when: 2026-10-20
-  - url: https://www.federalregister.gov/documents/2026/10/20/C1-2026-20360/interval-fund-modernization-expansion-of-multiple-share-class-to-registered-closed-end-management
-  - Securities and Exchange Commission — Proposed Rule
-- **Civil Penalties Inflation Adjustments; Annual Adjustments**
-  - when: 2026-10-20
-  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21474/civil-penalties-inflation-adjustments-annual-adjustments
-  - Interior Department, Indian Affairs Bureau — Rule — This rule provides for annual adjustments to the level of civil monetary penalties contained in Bureau of Indian Affairs (Bureau) regulations to account for inflation under the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 and Office of Management and Budget (OMB) guidance.
-- **Presidential Declaration of a Major Disaster for Public Assistance Only for the State of Utah**
-  - when: 2026-10-20
-  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21469/presidential-declaration-of-a-major-disaster-for-public-assistance-only-for-the-state-of-utah
-  - Small Business Administration — Notice — This is notice of the Presidential declaration of a major disaster for Public Assistance Only for the state of Utah (FEMA-4948- DR), dated October 7, 2026. Incident: Cottonwood Fire, Flooding, and Mudslides.
-- **Agency Information Collection Activity: State Veterans Homes Construction & Acquisition Grant Program (SVHCGP)**
-  - when: 2026-10-20
-  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21468/agency-information-collection-activity-state-veterans-homes-construction-and-acquisition-grant
-  - Veterans Affairs Department — Notice — Veterans Health Administration (VHA), Department of Veterans Affairs (VA), is announcing an opportunity for public comment on the proposed collection of certain information by the agency. Under the Paperwork Reduction Act (PRA) of 1995, Federal agencies are required to publish a notice in the Federal Register concerning each proposed collection of information, including each proposed extension of a currently approved collection, and allow 60 days for public
-- **Presidential Declaration of a Major Disaster for Public Assistance Only for the State of New Hampshire**
-  - when: 2026-10-20
-  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21467/presidential-declaration-of-a-major-disaster-for-public-assistance-only-for-the-state-of-new
-  - Small Business Administration — Notice — This is notice of the Presidential declaration of a major disaster for Public Assistance Only for the state of New Hampshire (FEMA-4947-DR), dated October 7, 2026. Incident: Severe Storm and Flooding.
-- **Agency Information Collection Activities: Comment Request**
-  - when: 2026-10-20
-  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21466/agency-information-collection-activities-comment-request
-  - National Science Foundation — Notice — The National Science Foundation (NSF) is announcing plans to establish this collection. In accordance with the requirements of the Paperwork Reduction Act of 1995, we are providing opportunity for public to comment on this action. After obtaining and considering public comments, NSF will prepare the submission requesting Office of Management and Budget (OMB) clearance of this collection for no longer than 3 years.
-- **Submission for OMB Review; Comment Request**
-  - when: 2026-10-20
-  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21465/submission-for-omb-review-comment-request
-  - Defense Department, — Notice — The DoD (referred to herein as "the Department", "Department of War" or "DoW") has submitted to the Office of Management and Budget (OMB) for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act.
-- **Proposed Collection; Comment Request**
-  - when: 2026-10-20
-  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21464/proposed-collection-comment-request
-  - Defense Department, — Notice — In compliance with the Paperwork Reduction Act of 1995, the OUSD(A&S), DoD (referred to herein as "the Department", "Department of War" or "DoW") announces proposed public information collection and seeks public comment on the provisions thereof. Comments are invited on: whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility; the accuracy
-- **Certificate of Alternate Compliance for USS PATRICK GALLAGHER (DDG 127)**
-  - when: 2026-10-20
-  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21463/certificate-of-alternate-compliance-for-uss-patrick-gallagher-ddg-127
-  - Defense Department, Navy Department — Notice — The U.S. Navy hereby announces that a Certificate of Alternate Compliance has been issued for USS PATRICK GALLAGHER (DDG 127). Due to the special construction and purpose of this vessel, the Admiralty Counsel of the Navy has determined it is a vessel of the Navy which, due to its special construction and purpose, cannot comply fully with the navigation lights provisions of the International Regulations for Preventing Collisions at Sea, 1972 (72 COLR
-- **American Samoa Outer Continental Shelf Pacific Mineral Lease Sale 1**
-  - when: 2026-10-20
-  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21462/american-samoa-outer-continental-shelf-pacific-mineral-lease-sale-1
-  - Interior Department, Ocean Energy Management Bureau — Notice — The Marine Minerals Administration (MMA) will conduct an auction for lease areas offered in the American Samoa Outer Continental Shelf (OCS) Pacific Mineral Lease Sale 1 (Lease Sale PACM-1), in accordance with the Outer Continental Shelf Lands Act (OCSLA), as amended, and its implementing regulations. The Final Leasing Notice (FLN) package for this lease sale contains information essential to potential bidders, including Information
-- **Agency Information Collection Activities: Comment Request; Grantee Reporting Requirements for the U.S. National Science Foundation Regional Innovation Engines (NSF Engines) Program**
-  - when: 2026-10-20
-  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21461/agency-information-collection-activities-comment-request-grantee-reporting-requirements-for-the-us
-  - National Science Foundation — Notice — The National Science Foundation (NSF) is announcing plans to renew this collection. In accordance with the requirements of the Paperwork Reduction Act of 1995, we are providing an opportunity for public comment on this action. After obtaining and considering public comment, NSF will prepare the submission requesting Office of Management and Budget (OMB) clearance of this collection for no longer than 3 years.
-- **60-Day Notice of Proposed Information Collection: National Contact Point Web Page**
-  - when: 2026-10-20
-  - url: https://www.federalregister.gov/documents/2026/10/20/2026-21460/60-day-notice-of-proposed-information-collection-national-contact-point-web-page
-  - State Department — Notice — The Department of State is seeking Office of Management and Budget (OMB) approval for the information collection described below. In accordance with the Paperwork Reduction Act of 1995, we are requesting comments on this collection from all interested individuals and organizations. The purpose of this notice is to allow 60 days for public comment preceding submission of the collection to OMB.
+- **Potential Designation of Chartered Financial Analyst Designation as Qualifying Natural Persons for Accredited Investor Status**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/C1-2026-20311/potential-designation-of-chartered-financial-analyst-designation-as-qualifying-natural-persons-for
+  - Securities and Exchange Commission — Notice
+- **Hardwood and Decorative Plywood From the Socialist Republic of Vietnam: Final Affirmative Determination of Sales at Less Than Fair Value and Final Negative Determination of Critical Circumstances**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/C1-2026-14614/hardwood-and-decorative-plywood-from-the-socialist-republic-of-vietnam-final-affirmative
+  - Commerce Department, International Trade Administration — Notice
+- **Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21599/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026
+  - Executive Office of the President — Presidential Document
+- **Guidance Under Section 355 Concerning Device and Active Trade or Business; Partial Withdrawal**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21568/guidance-under-section-355-concerning-device-and-active-trade-or-business-partial-withdrawal
+  - Treasury Department, Internal Revenue Service — Proposed Rule — This document partially withdraws a notice of proposed rulemaking containing proposed regulations regarding the application of the device prohibition and the active trade or business requirement for distributions of controlled corporation stock (or stock and securities) by a distributing corporation without income, gain, or loss. The proposed regulations would affect corporations and their shareholders and security holders.
+- **Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pacific Cod in the Western Regulatory Area of the Gulf of Alaska**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21556/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-western
+  - Commerce Department, National Oceanic and Atmospheric Administration — Rule — NMFS is reallocating the projected unused amounts of Pacific cod from catcher vessels using trawl gear to catcher vessels using pot gear in the Western Regulatory Area of the Gulf of Alaska (GOA). This action is necessary to allow the 2026 total allowable catch (TAC) of Pacific cod to be harvested in the Western Regulatory Area of the GOA.
+- **Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; The Ocean Enterprise: A Study of US Business Activity in Ocean Measurement, Observation and Forecasting**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21529/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for
+  - Commerce Department, National Oceanic and Atmospheric Administration — Notice
+- **Agency Information Collection Activities; Proposed eCollection eComments Requested; Revisions of Previously Approved Collection**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21528/agency-information-collection-activities-proposed-ecollection-ecomments-requested-revisions-of
+  - Justice Department — Notice — The Department of Justice (DOJ), Office of the Pardon Attorney, is submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.
+- **Center for Scientific Review; Notice of Closed Meetings**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21527/center-for-scientific-review-notice-of-closed-meetings
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Center for Scientific Review; Notice of Closed Meetings**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21526/center-for-scientific-review-notice-of-closed-meetings
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Center for Scientific Review; Notice of Closed Meetings**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21525/center-for-scientific-review-notice-of-closed-meetings
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **No Adjustment to HHS Civil Monetary Penalty Amounts for 2026**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21524/no-adjustment-to-hhs-civil-monetary-penalty-amounts-for-2026
+  - Health and Human Services Department — Notice — The Department of Health and Human Services (HHS or the Department) is notifying the public that there will be no Civil Monetary Penalty (CMP) inflation adjustment for 2026 in accordance with the April 17, 2026, guidance from the Office of Management and Budget (OMB). HHS will continue to use the 2025 civil monetary penalty levels because there will be no cost-of-living adjustment for 2026.
+- **Center for Scientific Review; Notice of Closed Meetings**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21523/center-for-scientific-review-notice-of-closed-meetings
+  - Health and Human Services Department, National Institutes of Health — Notice
 
 ## gao
 - **2027-2032 Strategic Plan: Serving Congress and the Nation**
@@ -165,56 +165,64 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - What GAO Found Ghost preparers are paid tax preparers who do not comply with requirements to identify themselves on tax returns they prepare for others. Ghost preparers may intentionally leave identifying information off to get away with filing fraudulent income tax returns, stealing taxpayers’ refunds, and stealing taxpayers’ identities. Courts have ordered individual ghost preparers to pay millions in restitution to the government, but according to Internal Revenue Service (IRS) officials, th
 
 ## courtlistener
-- **Bank of New York Mellon v. Tope**
+- **Jeffery White v. State of Florida**
   - when: 2026-10-20T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11038108/bank-of-new-york-mellon-v-tope/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **Villalobos v. Target Corp.**
+  - url: https://www.courtlistener.com/opinion/11039844/jeffery-white-v-state-of-florida/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-2016 LT Case No. 2019-102848-CFDL _____________________________ JEFFREY WHITE, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Volusia County. Kathleen McNeilly, Judge. David M. Dixon, of The Law Office of David Original document
+- **Reginald Sanders v. the State of Texas**
   - when: 2026-10-20T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11038106/villalobos-v-target-corp/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **Frog Bridge Development Co., LLC v. Osborne**
+  - url: https://www.courtlistener.com/opinion/11039886/reginald-sanders-v-the-state-of-texas/
+  - TEXAS COURT OF APPEALS, THIRD DISTRICT, AT AUSTIN NO. 03-25-00071-CR Reginald Sanders, Appellant v. The State of Texas, Appellee FROM THE 426TH DISTRICT COURT OF BELL COUNTY NO. 22DCR86496, THE HONORABLE STEVEN J. DUSKIE, JUDGE PRESIDING MEMORANDUM OPINION Original document
+- **United States v. Mumma**
   - when: 2026-10-20T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11038107/frog-bridge-development-co-llc-v-osborne/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **United States v. Roberto Orellana**
-  - when: 2026-10-19T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11038155/united-states-v-roberto-orellana/
-  - United States Court of Appeals For the Eighth Circuit ___________________________ No. 25-2870 ___________________________ United States of America lllllllllllllllllllllPlaintiff - Appellee v. Roberto Orellana lllllllllllllllllllllDefendant - Appellant ___________________________ No. 25-2917 ___________________________ United States of America lllllllllllllllllllllPlaintiff Original document
-- **Ferguson v. Tri-R Tooling Inc.**
-  - when: 2026-10-19T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11038370/ferguson-v-tri-r-tooling-inc/
-  - [Cite as Ferguson v. Tri-R Tooling Inc., 2026-Ohio-4111.] IN THE OHIO COURT OF APPEALS FIFTH APPELLATE DISTRICT RICHLAND COUNTY, OHIO VERONICA FERGUSON Case Nos. 2026 CA 0031 and 2026 CA 0035 Plaintiff - Appellee Opinion &amp; Judgment Entry Original document
-- **Hughes v. State of Florida**
-  - when: 2026-10-19T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11038144/hughes-v-state-of-florida/
-  - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2025-3306 _____________________________ JESSICA LYNN HUGHES, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Santa Rosa County. Clifton Drake, Judge. October 19, 2026 PER CURIAM. AFFIRMED. LEWIS, RAY, and Original document
-- **Shubha v. State of Florida**
-  - when: 2026-10-19T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11038139/shubha-v-state-of-florida/
-  - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2025-1546 _____________________________ KHAIRUL SHUBHA, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Escambia County. Amy P. Brodersen, Judge. October 19, 2026 PER CURIAM. AFFIRMED. ROWE, NORDBY, and LONG Original document
-- **JASON PINCUS v. NICHOLAS FORTINBERRY**
-  - when: 2026-10-19T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11038153/jason-pincus-v-nicholas-fortinberry/
-  - Court of Appeals of the State of Georgia ATLANTA,____________________ October 19, 2026 The Court of Appeals hereby passes the following order: A27A0516. JASON PINCUS et al. v. NICHOLAS FORTINBERRY et al. Plaintiffs Nicholas and Kristy Fortinberry filed an action for damages against Jason and Laura Pincus and Come Together Properties, LLC. After the defendants failed to file an answer or any other Original document
-- **Garvin v. Federal Housing Finance Agency**
-  - when: 2026-10-19T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11038378/garvin-v-federal-housing-finance-agency/
-  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA ANTHONY GARVIN, Plaintiff, v. Civil Action No. 1:26-cv-0608 (CJN) FEDERAL HOUSING FINANCE AGENCY, Defendant. ORDER Plaintiff Anthony Garvin was convicted of conspiracy to commit bank fraud and bank fraud in 2022. As a result of his convictions, Original document
-- **Bridget Francis v. California State Teachers' Retirement System**
-  - when: 2026-10-19T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11038154/bridget-francis-v-california-state-teachers-retirement-system/
-  - THIRD DIVISION DILLARD, P. J., GOBEIL and PIPKIN, JJ. NOTICE: Motions for reconsideration must be received no later than 4:30 pm on the 10th day after the decision was issued to be deemed timely filed. https://www.gaappeals.gov/rules October 19, 2026 Original document
-- **Ewa Villages Owners Association v. Tautua**
-  - when: 2026-10-19T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11039146/ewa-villages-owners-association-v-tautua/
-  - Electronically Filed Supreme Court SCWC-XX-XXXXXXX 19-OCT-2026 09:07 AM Dkt. 5 ODAC SCWC-XX-XXXXXXX IN THE SUPREME COURT OF THE STATE OF HAWAIʻI EWA VILLAGES OWNERS ASSOCIATION Original document
-- **Avignone v. National Railroad Passenger Corporation**
-  - when: 2026-10-19T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11038329/avignone-v-national-railroad-passenger-corporation/
-  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA MARIO AVIGNONE, Plaintiff, v. Civil Action No. 25-2199 (RDM) NATIONAL RAILROAD PASSENGER CORPORATION, et al., Defendants. MEMORANDUM OPINION Plaintiff Mario Avignone brings this case to challenge his termination by his former employer Original document
+  - url: https://www.courtlistener.com/opinion/11040456/united-states-v-mumma/
+  - FOR PUBLICATION UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT UNITED STATES OF AMERICA, No. 24-6987 D.C. No. Plaintiff - Appellee, 1:20-cr-00168- JLT-SKO-1 v. TODD ERIC MUMMA, AKA Todd OPINION E. Mumma, AKA Todd Arecksen, AKA Todd Ericksen, Defendant - Appellant. Original document
+- **Marlon Ramel Sago v. State of Florida**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11039840/marlon-ramel-sago-v-state-of-florida/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-2140 LT Case No. 16-2023-CF-351-A _____________________________ MARLON RAMEL SAGO, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Duval County. Tatiana Radi Salvador, Judge. Rick A. Sichta and Susanne K. Sichta Original document
+- **In re: T.C. and R.C.**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11040842/in-re-tc-and-rc/
+  - NOT FOR PUBLICATION IN WEST&#x27;S HAWAIʻI REPORTS AND PACIFIC REPORTER Electronically Filed Intermediate Court of Appeals CAAP-XX-XXXXXXX 20-OCT-2026 08:44 AM Dkt. 52 SO Original document
+- **David W. Price v. State of Florida**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11039854/david-w-price-v-state-of-florida/
+  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2024-2659 Lower Tribunal Nos. 2022-CF-001644, 2024-CF-000194 and 2024-CF-000195 _____________________________ DAVID W. PRICE, Appellant, v. STATE OF FLORIDA Original document
+- **Matter of Patterson v. City of New York**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11040688/matter-of-patterson-v-city-of-new-york/
+  - Matter of Patterson v City of New York 2026 NY Slip Op 06068 October 20, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. In the Matter of Allen Patterson, Petitioner-Appellant, v City of New York et al., Respondents-Respondents. Decided and Entered: October 20, 2026 Index No. 100451/17|Appeal No. 7279|Case No. 2026-00225| Original document
+- **Gonzalez v. Chatsworth Bldrs. LLC**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11040692/gonzalez-v-chatsworth-bldrs-llc/
+  - Gonzalez v Chatsworth Bldrs. LLC 2026 NY Slip Op 06063 October 20, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Francisco Javier Gonzalez, Plaintiff-Respondent-Appellant, v Chatsworth Builders LLC et al., Defendants-Appellants-Respondents. Decided and Entered: October 20, 2026 Index No. 814285/23|Appeal No. 7284|Case No Original document
+- **Joseph Leonard Bompadre v. State of Florida**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11039842/joseph-leonard-bompadre-v-state-of-florida/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2026-1007 LT Case Nos. 2025-105062-CFDB 2026-100628-CFDB ____________________________ JOSEPH LEONARD BOMPADRE, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Volusia County. Joseph Phillip Original document
+- **United States Fire Ins. Co. v. Palin**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11040671/united-states-fire-ins-co-v-palin/
+  - United States Fire Ins. Co. v Palin 2026 NY Slip Op 06080 October 20, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. United States Fire Insurance Company et al., Plaintiffs-Appellants, v Michael Palin et al., Defendants-Respondents, Greater New York Insurance Company, Defendant. Decided and Entered: October 20, 2026 Index Original document
+- **Patricia Lynn Roosa v. State of Florida**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11039838/patricia-lynn-roosa-v-state-of-florida/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-2960 LT Case No. 18-2007-CF-34-A _____________________________ PATRICIA LYNN ROOSA, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ 3.800 Appeal from the Circuit Court for Flagler County. Dawn D. Nichols, Judge. Ryan Edward McFarland, of Kent &amp; Original document
+- **Mennonite Church USA v. DHS**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11039944/mennonite-church-usa-v-dhs/
+  - United States Court of Appeals FOR THE DISTRICT OF COLUMBIA CIRCUIT Argued February 5, 2026 Decided October 20, 2026 No. 25-5209 MENNONITE CHURCH USA, ET AL., APPELLANTS v. UNITED STATES DEPARTMENT OF HOMELAND SECURITY, ET AL., APPELLEES Appeal from the United States District Court for the District of Columbia Original document
 
 ## uk-legislation
+- **The Employment Protection Code of Practice (Time Off for Trade Union Duties and Activities) Order 2026**
+  - when: 2026-10-21T03:03:48+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1104
+  - This Order appoints 30th October 2026 as the day upon which the revised Code of Practice on Time Off for Trade Union Duties and Activities will come into effect. The Code of Practice, which includes guidance on time off for trade union representatives, trade union learning and equality representatives, is being issued by the Advisory, Conciliation and Arbitration Service under section 199 and section 200 of the Trade Union and Labour Relations (Consolidation) Act 1992.
+- **Correction slip**
+  - when: 2026-10-21T08:56:29+01:00
+  - url: http://www.legislation.gov.uk/ukpga/2025/36/pdfs/ukpgacs_20250036_en_001.pdf
+  - An Act to make provision to amend the law relating to employment rights; to make provision about procedure for handling redundancies; to make provision about the treatment of workers involved in the supply of services under certain public contracts; to provide for duties to be imposed on employers in relation to equality; to amend the definition of “employment business” in the Employment Agencies Act 1973; to provide for the establishment of the School Support Staff Negotiating Body and Social C
 - **The Air Navigation (Restriction of Flying) (Aberfan, Merthyr Tydfil) Regulations 2026**
   - when: 2026-10-20T03:04:50.303995+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1058
@@ -252,15 +260,3 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-10-19T03:06:09+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1074
   - This Order authorises Green Hill Solar Farm Limited (referred to in this Order as the undertaker) to construct, operate, maintain and decommission a ground mounted solar photovoltaic generating station with a gross electrical output capacity over 100 megawatts and associated development. The Order would permit the undertaker to acquire, compulsorily or by agreement, land and rights in land and to use land for this purpose.
-- **<div xmlns="http://www.w3.org/1999/xhtml">
-						<span xml:lang="en">The Tobacco and Vapes Act 2026 (Age of Sale Notices and Consequential Amendments) (Wales) Regulations 2026</span> / <span xml:lang="cy">Rheoliadau Deddf Tybaco a Fêps 2026 (Hysbysiadau Oedran Gwerthu a Diwygiadau Canlyniadol) (Cymru) 2026</span>
-					</div>**
-  - when: 2026-10-19T08:58:44+01:00
-  - url: http://www.legislation.gov.uk/id/wsi/2026/124
-  - Section 1 of the Tobacco and Vapes Act 2026 (“the 2026 Act”) changes the required age at which an individual can legally be sold tobacco products from an individual aged 18 or over, to an individual born before 1 January 2009. Under section 6 (1) of the 2026 Act, tobacco retailers in Wales must display a notice on their premises that contains the statements in section 6 (2) of that Act to reflect the new age of sale requirement. Regulation 2 prescribes the minimum size requirements
-- **<div xmlns="http://www.w3.org/1999/xhtml">
-						<span xml:lang="en">The County Borough of the Vale of Glamorgan (Electoral Arrangements) Order 2026</span> / <span xml:lang="cy">Gorchymyn Bwrdeistref Sirol Bro Morgannwg (Trefniadau Etholiadol) 2026</span>
-					</div>**
-  - when: 2026-10-19T03:05:34+01:00
-  - url: http://www.legislation.gov.uk/id/wsi/2026/127
-  - This Order implements the recommendations of the Democracy and Boundary Commission Cymru (“the Commission”), which reported in January 2026 on its review of the electoral arrangements for the County Borough of the Vale of Glamorgan. The Commission’s report proposed an increase in the number of electoral wards from 24 to 26 and an increase in the number of councillors from 58 to 59.

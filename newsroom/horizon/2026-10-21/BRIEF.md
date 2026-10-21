@@ -1,0 +1,262 @@
+# Horizon brief — 2026-10-21
+
+Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
+
+## sec-edgar
+- **4 - Tang Teck Shen (0002161293) (Reporting)**
+  - when: 2026-10-20T21:58:32-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2161293/000091957426007106/0000919574-26-007106-index.htm
+  - Filed: 2026-10-20 AccNo: 0000919574-26-007106 Size: 6 KB
+- **4 - Rantizo (0001991261) (Issuer)**
+  - when: 2026-10-20T21:58:32-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1991261/000091957426007106/0000919574-26-007106-index.htm
+  - Filed: 2026-10-20 AccNo: 0000919574-26-007106 Size: 6 KB
+- **3 - Tang Teck Shen (0002161293) (Reporting)**
+  - when: 2026-10-20T21:55:03-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2161293/000091957426007105/0000919574-26-007105-index.htm
+  - Filed: 2026-10-20 AccNo: 0000919574-26-007105 Size: 4 KB
+- **3 - Rantizo (0001991261) (Issuer)**
+  - when: 2026-10-20T21:55:03-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1991261/000091957426007105/0000919574-26-007105-index.htm
+  - Filed: 2026-10-20 AccNo: 0000919574-26-007105 Size: 4 KB
+- **4 - Arqit Quantum Inc. (0001859690) (Issuer)**
+  - when: 2026-10-20T21:37:39-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1859690/000185969026000196/0001859690-26-000196-index.htm
+  - Filed: 2026-10-20 AccNo: 0001859690-26-000196 Size: 13 KB
+- **4 - Lefebvre d'Ovidio Manfredi (0001840678) (Reporting)**
+  - when: 2026-10-20T21:37:39-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1840678/000185969026000196/0001859690-26-000196-index.htm
+  - Filed: 2026-10-20 AccNo: 0001859690-26-000196 Size: 13 KB
+- **SCHEDULE 13G - Sweder Tara (0002161241) (Filed by)**
+  - when: 2026-10-20T21:36:03-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2161241/000091957426007102/0000919574-26-007102-index.htm
+  - Filed: 2026-10-20 AccNo: 0000919574-26-007102 Size: 6 KB
+- **SCHEDULE 13G - Rantizo (0001991261) (Subject)**
+  - when: 2026-10-20T21:36:03-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1991261/000091957426007102/0000919574-26-007102-index.htm
+  - Filed: 2026-10-20 AccNo: 0000919574-26-007102 Size: 6 KB
+- **4 - Sheena Jonathan (0001646649) (Reporting)**
+  - when: 2026-10-20T21:35:06-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1646649/000164664926000034/0001646649-26-000034-index.htm
+  - Filed: 2026-10-20 AccNo: 0001646649-26-000034 Size: 27 KB
+- **4 - Natera, Inc. (0001604821) (Issuer)**
+  - when: 2026-10-20T21:35:06-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604821/000164664926000034/0001646649-26-000034-index.htm
+  - Filed: 2026-10-20 AccNo: 0001646649-26-000034 Size: 27 KB
+- **3 - Liu Jia LJ (0002160597) (Reporting)**
+  - when: 2026-10-20T21:31:06-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2160597/000119312526427017/0001193125-26-427017-index.htm
+  - Filed: 2026-10-20 AccNo: 0001193125-26-427017 Size: 3 KB
+- **3 - Lufax Holding Ltd (0001816007) (Issuer)**
+  - when: 2026-10-20T21:31:06-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1816007/000119312526427017/0001193125-26-427017-index.htm
+  - Filed: 2026-10-20 AccNo: 0001193125-26-427017 Size: 3 KB
+
+## federal-register
+- **Potential Designation of Chartered Financial Analyst Designation as Qualifying Natural Persons for Accredited Investor Status**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/C1-2026-20311/potential-designation-of-chartered-financial-analyst-designation-as-qualifying-natural-persons-for
+  - Securities and Exchange Commission — Notice
+- **Hardwood and Decorative Plywood From the Socialist Republic of Vietnam: Final Affirmative Determination of Sales at Less Than Fair Value and Final Negative Determination of Critical Circumstances**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/C1-2026-14614/hardwood-and-decorative-plywood-from-the-socialist-republic-of-vietnam-final-affirmative
+  - Commerce Department, International Trade Administration — Notice
+- **Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21599/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026
+  - Executive Office of the President — Presidential Document
+- **Guidance Under Section 355 Concerning Device and Active Trade or Business; Partial Withdrawal**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21568/guidance-under-section-355-concerning-device-and-active-trade-or-business-partial-withdrawal
+  - Treasury Department, Internal Revenue Service — Proposed Rule — This document partially withdraws a notice of proposed rulemaking containing proposed regulations regarding the application of the device prohibition and the active trade or business requirement for distributions of controlled corporation stock (or stock and securities) by a distributing corporation without income, gain, or loss. The proposed regulations would affect corporations and their shareholders and security holders.
+- **Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pacific Cod in the Western Regulatory Area of the Gulf of Alaska**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21556/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-western
+  - Commerce Department, National Oceanic and Atmospheric Administration — Rule — NMFS is reallocating the projected unused amounts of Pacific cod from catcher vessels using trawl gear to catcher vessels using pot gear in the Western Regulatory Area of the Gulf of Alaska (GOA). This action is necessary to allow the 2026 total allowable catch (TAC) of Pacific cod to be harvested in the Western Regulatory Area of the GOA.
+- **Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; The Ocean Enterprise: A Study of US Business Activity in Ocean Measurement, Observation and Forecasting**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21529/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for
+  - Commerce Department, National Oceanic and Atmospheric Administration — Notice
+- **Agency Information Collection Activities; Proposed eCollection eComments Requested; Revisions of Previously Approved Collection**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21528/agency-information-collection-activities-proposed-ecollection-ecomments-requested-revisions-of
+  - Justice Department — Notice — The Department of Justice (DOJ), Office of the Pardon Attorney, is submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.
+- **Center for Scientific Review; Notice of Closed Meetings**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21527/center-for-scientific-review-notice-of-closed-meetings
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Center for Scientific Review; Notice of Closed Meetings**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21526/center-for-scientific-review-notice-of-closed-meetings
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Center for Scientific Review; Notice of Closed Meetings**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21525/center-for-scientific-review-notice-of-closed-meetings
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **No Adjustment to HHS Civil Monetary Penalty Amounts for 2026**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21524/no-adjustment-to-hhs-civil-monetary-penalty-amounts-for-2026
+  - Health and Human Services Department — Notice — The Department of Health and Human Services (HHS or the Department) is notifying the public that there will be no Civil Monetary Penalty (CMP) inflation adjustment for 2026 in accordance with the April 17, 2026, guidance from the Office of Management and Budget (OMB). HHS will continue to use the 2025 civil monetary penalty levels because there will be no cost-of-living adjustment for 2026.
+- **Center for Scientific Review; Notice of Closed Meetings**
+  - when: 2026-10-21
+  - url: https://www.federalregister.gov/documents/2026/10/21/2026-21523/center-for-scientific-review-notice-of-closed-meetings
+  - Health and Human Services Department, National Institutes of Health — Notice
+
+## gao
+- **2027-2032 Strategic Plan: Serving Congress and the Nation**
+  - when: Fri, 16 Oct 2026 08:38:20 -0400
+  - url: https://www.gao.gov/products/gao-27-900655
+  - pdf: https://www.gao.gov/assets/gao-27-900655.pdf
+  - GAO’s Strategic Plan Goals and Objectives form the foundation of the agency’s strategic plan and lay out our long-term strategies to accomplish our goals. For more information, contact Stephen Sanford at SanfordS@gao.gov.
+- **Federal Real Property: New Occupancy Data Help Agencies Shed Unneeded Office Space But Gaps Limit the Full Picture**
+  - when: Fri, 16 Oct 2026 07:18:45 -0400
+  - url: https://www.gao.gov/products/gao-27-108503
+  - pdf: https://www.gao.gov/assets/gao-27-108503.pdf
+  - What GAO Found Under the Utilizing Space Efficiently and Improving Technologies (USE IT) Act, enacted in January 2025, federal agencies are now required to collect and report occupancy data. This data is used to calculate utilization rates for agencies’ office space in federally owned buildings and leased locations. While 20 of the 23 agencies that responded to GAO’s survey reported using existing badging systems for this purpose, 16 of these 20 agencies reported supplementing that information
+- **Critical Minerals: BLM Should Ensure Individuals and Businesses Meet Citizenship Requirements for Hardrock Mining Claims**
+  - when: Fri, 16 Oct 2026 07:40:59 -0400
+  - url: https://www.gao.gov/products/gao-27-108196
+  - pdf: https://www.gao.gov/assets/gao-27-108196.pdf
+  - What GAO Found The Department of the Interior’s Bureau of Land Management (BLM) administers mining claims that grant the exclusive right to extract critical and other hardrock minerals from most federal lands. U.S. mining laws include citizenship requirements for individuals and business entities holding such claims, known as mining claimants. Under these laws, mining claimants generally must be U.S. citizens, which can include individuals as well as business entities incorporated in a U.S. sta
+- **Private Health Insurance: Market Concentration in 2024 Was Generally Higher Than in 2011**
+  - when: Fri, 16 Oct 2026 10:25:08 -0400
+  - url: https://www.gao.gov/products/gao-27-108927
+  - pdf: https://www.gao.gov/assets/gao-27-108927.pdf
+  - What GAO Found Since 2014, GAO has reported that enrollment in private health insurance plans has been concentrated, meaning a small number of issuers, such as health insurers, enrolled most of the people in a given market. Specifically, GAO considers a market concentrated in a state if three or fewer issuers hold at least 80 percent of the market share of enrollment. For this report, GAO examined the individual (coverage primarily sold to individuals who lack access to group coverage), small-
+- **National Nuclear Security Administration: Reductions to Federal Workforce**
+  - when: Fri, 16 Oct 2026 07:24:19 -0400
+  - url: https://www.gao.gov/products/gao-27-109127
+  - pdf: https://www.gao.gov/assets/gao-27-109127.pdf
+  - What GAO Found The National Nuclear Security Administration (NNSA) oversees a $25 billion annual budget and approximately 70,000 management and operating contractor personnel to maintain the U.S. nuclear weapons stockpile and nuclear nonproliferation efforts. NNSA took steps to build its federal workforce to meet mission needs in 2024, with its workforce peaking at 1,991 early in fiscal year 2025. However, since then through the second quarter of fiscal year 2026, NNSA has reduced its federal w
+- **Critical Minerals: Limited Available Information on the Full Extent of Foreign Investment in Mining on Federal Lands**
+  - when: Fri, 16 Oct 2026 07:40:00 -0400
+  - url: https://www.gao.gov/products/gao-27-108094
+  - pdf: https://www.gao.gov/assets/gao-27-108094.pdf
+  - What GAO Found The U.S critical mineral supply chain faces numerous constraints, including the need for substantial capital investment and limited domestic processing capacity. The U.S. exports large quantities of domestically extracted ore to Canada, Mexico, and China, among other countries. Copper Mine on Federal Lands The Bureau of Land Management (BLM) and the Forest Service oversee hardrock mines on federal land. As of February 2026, there were 632 approved hardrock mining plans of ope
+- **Research Security: NIH Action Needed to Strengthen Foreign Interference Risk Management**
+  - when: Fri, 16 Oct 2026 08:13:12 -0400
+  - url: https://www.gao.gov/products/gao-27-107848
+  - pdf: https://www.gao.gov/assets/gao-27-107848.pdf
+  - What GAO Found The National Institutes of Health (NIH) funds extramural research through awards to universities and other institutions. Implementation of federal research security requirements helps safeguard this research from foreign interference, including misappropriation and unauthorized access by foreign countries and entities. NIH implemented 14 of the 15 federal research security requirements GAO reviewed that address: (1) disclosure, (2) malign foreign talent recruitment programs, (3)
+- **Textile Circular Economy: Policy Options for the U.S.**
+  - when: Fri, 16 Oct 2026 09:35:25 -0400
+  - url: https://www.gao.gov/products/gao-27-108142
+  - pdf: https://www.gao.gov/assets/gao-27-108142.pdf
+  - What GAO Found Developing a textile circular economy includes repairing, reusing, and recycling textiles and making them last longer. Example of a Circular Economy for Textiles In the U.S., a textile circular economy may create potential benefits and involve challenges, according to reports by federal agencies and organizations and stakeholder interviews. Potential benefits could include creating new jobs and markets related to textile repair and recycling, reducing environmental harm, and
+- **National Security: FBI Should Strengthen Partnerships to Combat Non-Traditional Intelligence Collectors**
+  - when: Fri, 16 Oct 2026 07:28:08 -0400
+  - url: https://www.gao.gov/products/gao-27-109057
+  - pdf: https://www.gao.gov/assets/gao-27-109057.pdf
+  - What GAO Found According to the Federal Bureau of Investigation (FBI), non-traditional intelligence collectors (NTCs) are individuals whose primary profession is not intelligence collection, but who actively or passively collect sensitive U.S. information on behalf of foreign entities. For example, researchers and students at universities may act as NTCs if they collect non-public research on behalf of a foreign entity. According to the FBI, unlike intelligence officers, NTCs function independe
+- **Nuclear Waste: Future Land Use Planning at Selected DOE Cleanup Sites**
+  - when: Fri, 16 Oct 2026 09:42:29 -0400
+  - url: https://www.gao.gov/products/gao-27-108063
+  - pdf: https://www.gao.gov/assets/gao-27-108063.pdf
+  - What GAO Found The Department of Energy (DOE) created initial future land use plans in coordination with local communities as early as 1992 at six cleanup sites GAO selected for review. These plans inform but do not bind assumptions about future land use that DOE and regulators make when selecting a cleanup remedy at a site. The remedy selected during the cleanup process has lasting consequences for how a parcel of land can be used, even after DOE transfers or leases it to another federal agenc
+- **Nuclear Waste: Addressing Legal and Regulatory Barriers Could Accelerate Cleanup and Reduce Costs**
+  - when: Fri, 16 Oct 2026 08:05:50 -0400
+  - url: https://www.gao.gov/products/gao-27-107791
+  - pdf: https://www.gao.gov/assets/gao-27-107791.pdf
+  - What GAO Found The Department of Energy’s (DOE) nuclear waste cleanup is proceeding largely under three laws that set cleanup and waste management requirements. Each law has different requirements, applications, and regulators. Selected Cleanup and Waste Management Laws and Regulators for the Department of Energy’s (DOE) Nuclear Waste Cleanup GAO and experts GAO convened with the National Academies of Sciences, Engineering, and Medicine identified several legal and regulatory factors that a
+- **Tax Filing: IRS Should Enhance Ghost Preparer Identification and Compliance Efforts in a Comprehensive Preparer Strategy**
+  - when: Fri, 16 Oct 2026 07:28:51 -0400
+  - url: https://www.gao.gov/products/gao-27-108176
+  - pdf: https://www.gao.gov/assets/gao-27-108176.pdf
+  - What GAO Found Ghost preparers are paid tax preparers who do not comply with requirements to identify themselves on tax returns they prepare for others. Ghost preparers may intentionally leave identifying information off to get away with filing fraudulent income tax returns, stealing taxpayers’ refunds, and stealing taxpayers’ identities. Courts have ordered individual ghost preparers to pay millions in restitution to the government, but according to Internal Revenue Service (IRS) officials, th
+
+## courtlistener
+- **Jeffery White v. State of Florida**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11039844/jeffery-white-v-state-of-florida/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-2016 LT Case No. 2019-102848-CFDL _____________________________ JEFFREY WHITE, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Volusia County. Kathleen McNeilly, Judge. David M. Dixon, of The Law Office of David Original document
+- **Reginald Sanders v. the State of Texas**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11039886/reginald-sanders-v-the-state-of-texas/
+  - TEXAS COURT OF APPEALS, THIRD DISTRICT, AT AUSTIN NO. 03-25-00071-CR Reginald Sanders, Appellant v. The State of Texas, Appellee FROM THE 426TH DISTRICT COURT OF BELL COUNTY NO. 22DCR86496, THE HONORABLE STEVEN J. DUSKIE, JUDGE PRESIDING MEMORANDUM OPINION Original document
+- **United States v. Mumma**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11040456/united-states-v-mumma/
+  - FOR PUBLICATION UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT UNITED STATES OF AMERICA, No. 24-6987 D.C. No. Plaintiff - Appellee, 1:20-cr-00168- JLT-SKO-1 v. TODD ERIC MUMMA, AKA Todd OPINION E. Mumma, AKA Todd Arecksen, AKA Todd Ericksen, Defendant - Appellant. Original document
+- **Marlon Ramel Sago v. State of Florida**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11039840/marlon-ramel-sago-v-state-of-florida/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-2140 LT Case No. 16-2023-CF-351-A _____________________________ MARLON RAMEL SAGO, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Duval County. Tatiana Radi Salvador, Judge. Rick A. Sichta and Susanne K. Sichta Original document
+- **In re: T.C. and R.C.**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11040842/in-re-tc-and-rc/
+  - NOT FOR PUBLICATION IN WEST&#x27;S HAWAIʻI REPORTS AND PACIFIC REPORTER Electronically Filed Intermediate Court of Appeals CAAP-XX-XXXXXXX 20-OCT-2026 08:44 AM Dkt. 52 SO Original document
+- **David W. Price v. State of Florida**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11039854/david-w-price-v-state-of-florida/
+  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2024-2659 Lower Tribunal Nos. 2022-CF-001644, 2024-CF-000194 and 2024-CF-000195 _____________________________ DAVID W. PRICE, Appellant, v. STATE OF FLORIDA Original document
+- **Matter of Patterson v. City of New York**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11040688/matter-of-patterson-v-city-of-new-york/
+  - Matter of Patterson v City of New York 2026 NY Slip Op 06068 October 20, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. In the Matter of Allen Patterson, Petitioner-Appellant, v City of New York et al., Respondents-Respondents. Decided and Entered: October 20, 2026 Index No. 100451/17|Appeal No. 7279|Case No. 2026-00225| Original document
+- **Gonzalez v. Chatsworth Bldrs. LLC**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11040692/gonzalez-v-chatsworth-bldrs-llc/
+  - Gonzalez v Chatsworth Bldrs. LLC 2026 NY Slip Op 06063 October 20, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Francisco Javier Gonzalez, Plaintiff-Respondent-Appellant, v Chatsworth Builders LLC et al., Defendants-Appellants-Respondents. Decided and Entered: October 20, 2026 Index No. 814285/23|Appeal No. 7284|Case No Original document
+- **Joseph Leonard Bompadre v. State of Florida**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11039842/joseph-leonard-bompadre-v-state-of-florida/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2026-1007 LT Case Nos. 2025-105062-CFDB 2026-100628-CFDB ____________________________ JOSEPH LEONARD BOMPADRE, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Volusia County. Joseph Phillip Original document
+- **United States Fire Ins. Co. v. Palin**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11040671/united-states-fire-ins-co-v-palin/
+  - United States Fire Ins. Co. v Palin 2026 NY Slip Op 06080 October 20, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. United States Fire Insurance Company et al., Plaintiffs-Appellants, v Michael Palin et al., Defendants-Respondents, Greater New York Insurance Company, Defendant. Decided and Entered: October 20, 2026 Index Original document
+- **Patricia Lynn Roosa v. State of Florida**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11039838/patricia-lynn-roosa-v-state-of-florida/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-2960 LT Case No. 18-2007-CF-34-A _____________________________ PATRICIA LYNN ROOSA, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ 3.800 Appeal from the Circuit Court for Flagler County. Dawn D. Nichols, Judge. Ryan Edward McFarland, of Kent &amp; Original document
+- **Mennonite Church USA v. DHS**
+  - when: 2026-10-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11039944/mennonite-church-usa-v-dhs/
+  - United States Court of Appeals FOR THE DISTRICT OF COLUMBIA CIRCUIT Argued February 5, 2026 Decided October 20, 2026 No. 25-5209 MENNONITE CHURCH USA, ET AL., APPELLANTS v. UNITED STATES DEPARTMENT OF HOMELAND SECURITY, ET AL., APPELLEES Appeal from the United States District Court for the District of Columbia Original document
+
+## uk-legislation
+- **The Employment Protection Code of Practice (Time Off for Trade Union Duties and Activities) Order 2026**
+  - when: 2026-10-21T03:03:48+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1104
+  - This Order appoints 30th October 2026 as the day upon which the revised Code of Practice on Time Off for Trade Union Duties and Activities will come into effect. The Code of Practice, which includes guidance on time off for trade union representatives, trade union learning and equality representatives, is being issued by the Advisory, Conciliation and Arbitration Service under section 199 and section 200 of the Trade Union and Labour Relations (Consolidation) Act 1992.
+- **Correction slip**
+  - when: 2026-10-21T08:56:29+01:00
+  - url: http://www.legislation.gov.uk/ukpga/2025/36/pdfs/ukpgacs_20250036_en_001.pdf
+  - An Act to make provision to amend the law relating to employment rights; to make provision about procedure for handling redundancies; to make provision about the treatment of workers involved in the supply of services under certain public contracts; to provide for duties to be imposed on employers in relation to equality; to amend the definition of “employment business” in the Employment Agencies Act 1973; to provide for the establishment of the School Support Staff Negotiating Body and Social C
+- **The Air Navigation (Restriction of Flying) (Aberfan, Merthyr Tydfil) Regulations 2026**
+  - when: 2026-10-20T03:04:50.303995+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1058
+- **The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2026**
+  - when: 2026-10-20T03:10:03+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/181
+  - These Regulations make amendments to the State Pension Credit Regulations (Northern Ireland) 2003 (S.R. 2003 No. 28), the Housing Benefit Regulations (Northern Ireland) 2006 (S.R. 2006 No. 405), the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 (S.R. 2006 No. 406), the Employment and Support Allowance Regulations (Northern Ireland) 2008 (S.R. 2008 No. 280), and the Universal Credit Regulations (Northern Ireland) 2016 (
+- **The Trade Unions (Right to Access Workplaces) Regulations 2026**
+  - when: 2026-10-20T03:09:53+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1101
+  - These Regulations form part of the package of legislation that provides for access agreements between trade unions and employers, which enable trade union officials to physically enter workplaces or to communicate with workers by other means. For these purposes, communication with workers includes the provision of information to workers by any means, whether direct or indirect.
+- **The Protection Against Detriment (Industrial Action) Regulations 2026**
+  - when: 2026-10-20T03:09:52+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1099
+  - These Regulations are made in exercise of the power contained in section 236A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 (“the 1992 Act”) to prescribe detriments in relation to a worker taking industrial action.
+- **The Air Navigation (Restriction of Flying) (Helicopter Flight) (No. 7) Regulations 2026**
+  - when: 2026-10-20T03:04:19.38711+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1100
+- **The Air Navigation (Restriction of Flying) (Drymen, Stirling, Scotland) (Emergency) Regulations 2026**
+  - when: 2026-10-19T16:41:12+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1106
+- **The Levelling-up and Regeneration Act 2023 (Commencement No. 12) Regulations 2026**
+  - when: 2026-10-19T16:15:47+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1105
+  - These Regulations are the twelfth commencement regulations under the Levelling-up and Regeneration Act 2023 (c. 55) (“the 2023 Act”). They bring section 232 of the 2023 Act (“section 232”) into force. Section 232 amends sections 72A, 107A and 107B of the Marine and Coastal Access Act 2009 (c. 23) (“the 2009 Act”) to confer power on the Secretary of State and the Scottish Ministers, in respect of cases where they are the appropriate licensing authority, to make regulations to charge fees for the
+- **The Code of Practice (Right of Trade Unions to Access Workplaces) Order 2026**
+  - when: 2026-10-19T15:45:19+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1103
+  - This Order appoints 30th October 2026 as the day on which the Code of Practice issued by the Secretary of State under sections 203(1)(a) and 204(2) of the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) on the Right of Trade Unions to Access Workplaces (“the Code of Practice”) comes into effect.
+- **The Authorised Investigators (Complaints and Misconduct) Regulations 2026**
+  - when: 2026-10-19T14:43:56+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1098
+  - These Regulations provide for the basis on which the Director General (the “Director General”) of the Independent Office for Police Conduct (“IOPC”) has oversight of complaints and other matters relating to the conduct of authorised investigators employed by the Cabinet Office and working in the Public Sector Fraud Authority (“PSFA”). Section 7(3) of the Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28) defines “authorised investigator”.
+- **The Green Hill Solar Farm Order 2026**
+  - when: 2026-10-19T03:06:09+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1074
+  - This Order authorises Green Hill Solar Farm Limited (referred to in this Order as the undertaker) to construct, operate, maintain and decommission a ground mounted solar photovoltaic generating station with a gross electrical output capacity over 100 megawatts and associated development. The Order would permit the undertaker to acquire, compulsorily or by agreement, land and rights in land and to use land for this purpose.
