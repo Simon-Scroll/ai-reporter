@@ -1,0 +1,46 @@
+date: 2026-10-22
+mode: WRITE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; yaml dependency installed and audit reported no vulnerabilities
+desk_status:
+  ran: true
+  result: confirmed one active investigation, the full ten-thread parked board, the October 18 publication, and the no-repeat handoff
+ingest:
+  ran: true
+  result: refreshed the October 22 primary-document horizon; configured feeds completed
+  horizon: newsroom/horizon/2026-10-22/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-023-critical-minerals-ownership-data-boundary
+    decision: continue
+    reason: same-object test passed; draft the bounded finding rather than repeat retired BLM retrieval paths
+  - id: parked_board
+    decision: remain_parked
+    reason: no October 22 horizon item matched a documented reopen condition; no parked thread was killed or reopened
+investigations:
+  - id: 2026-023-critical-minerals-ownership-data-boundary
+    decision: continued
+    changed:
+      - newsroom/investigations/2026-023-critical-minerals-ownership-data-boundary/
+      - newsroom/drafts/blm-critical-minerals-public-record-boundary.md
+      - newsroom/investigations/2026-023-critical-minerals-ownership-data-boundary/factcheck/adversarial-review.md
+publication:
+  published: false
+  reason: draft passed validation, but the last article was published October 18 and the six-day interval has not cleared
+validation:
+  run: true
+  command: npm run validate -- newsroom/drafts/blm-critical-minerals-public-record-boundary.md
+  result: passed
+journal:
+  - newsroom/journal/2026-10-22.md
+desk_notes:
+  - newsroom/desk/2026-10-22-r1.md

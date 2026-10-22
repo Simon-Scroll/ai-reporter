@@ -22,12 +22,12 @@
     "2026-021-cbp-ice-body-camera-management"
   ],
   "series": [],
-  "last_run": "2026-10-21",
-  "last_mode": "CONTINUE",
-  "last_horizon": "2026-10-21",
+  "last_run": "2026-10-22",
+  "last_mode": "WRITE",
+  "last_horizon": "2026-10-22",
   "last_published_at": "2026-10-18",
-  "last_journal": "newsroom/journal/2026-10-21.md",
-  "next_action": "After the October 18 publication interval clears, draft a short, labeled data-reproducibility finding from the BLM geospatial record test and GAO's citizenship/parent-ownership limits; run skeptic review and validation. Do not repeat the expired-session NRS, 503 MLRS, or unchanged ArcGIS queries.",
-  "handoff": "On October 21 the desk continued 2026-023-critical-minerals-ownership-data-boundary through BLM's official Geospatial Business Platform. The public MLRS-derived plans layer exposed a case serial, commodity, business-account label, interest percentage, and operator relationship for one record, but its published schema exposed no citizenship or parent-ownership field. This supports a bounded data-reproducibility gap, not an allegation about a named company. The thread remains active and ready to write after the cadence interval; all ten prior investigations remain parked, and no article was published.",
+  "last_journal": "newsroom/journal/2026-10-22.md",
+  "next_action": "Recheck the October 18 publication interval and any new official BLM crosswalk or layer revision; if unchanged, rerun validation and decide whether to publish the bounded draft. Do not repeat the expired-session NRS, 503 MLRS, or unchanged ArcGIS queries.",
+  "handoff": "On October 22 the desk drafted and validated the bounded 2026-023 critical-minerals data-reproducibility finding. The BLM public plans layer reproduces a case/operator/commodity join but its published schema omits citizenship and parent-ownership fields used in the two GAO comparisons. Skeptic review found no unsupported claim when the scope stayed limited to that schema; the draft remains unpublished because October 18 is inside the six-day cadence interval. All ten prior investigations remain parked.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }

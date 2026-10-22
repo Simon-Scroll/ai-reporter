@@ -1,0 +1,260 @@
+# Horizon brief — 2026-10-22
+
+Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
+
+## sec-edgar
+- **SCHEDULE 13G/A - Concentrix Corp (0001803599) (Subject)**
+  - when: 2026-10-21T21:49:41-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1803599/000134470126000004/0001344701-26-000004-index.htm
+  - Filed: 2026-10-21 AccNo: 0001344701-26-000004 Size: 6 KB
+- **SCHEDULE 13G/A - Synnex Technology International CORP (0001344701) (Filed by)**
+  - when: 2026-10-21T21:49:41-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1344701/000134470126000004/0001344701-26-000004-index.htm
+  - Filed: 2026-10-21 AccNo: 0001344701-26-000004 Size: 6 KB
+- **4 - SOUTHPORT SPONSOR MANAGEMENT II, LLC (0002151215) (Reporting)**
+  - when: 2026-10-21T21:45:57-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2151215/000118518526004899/0001185185-26-004899-index.htm
+  - Filed: 2026-10-21 AccNo: 0001185185-26-004899 Size: 9 KB
+- **4 - Southport Acquisition Corp. II (0002148436) (Issuer)**
+  - when: 2026-10-21T21:45:57-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2148436/000118518526004899/0001185185-26-004899-index.htm
+  - Filed: 2026-10-21 AccNo: 0001185185-26-004899 Size: 9 KB
+- **4 - SPENCER JEB S. (0001527966) (Reporting)**
+  - when: 2026-10-21T21:45:57-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1527966/000118518526004899/0001185185-26-004899-index.htm
+  - Filed: 2026-10-21 AccNo: 0001185185-26-004899 Size: 9 KB
+- **SCHEDULE 13D/A - SOUTHPORT ACQUISITION SPONSOR II LLC (0002151492) (Filed by)**
+  - when: 2026-10-21T21:45:36-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2151492/000118518526004898/0001185185-26-004898-index.htm
+  - Filed: 2026-10-21 AccNo: 0001185185-26-004898 Size: 18 KB
+- **SCHEDULE 13D/A - Southport Acquisition Corp. II (0002148436) (Subject)**
+  - when: 2026-10-21T21:45:36-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2148436/000118518526004898/0001185185-26-004898-index.htm
+  - Filed: 2026-10-21 AccNo: 0001185185-26-004898 Size: 18 KB
+- **4 - Kiessling Heather (0002026548) (Reporting)**
+  - when: 2026-10-21T21:45:10-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2026548/000147793226006387/0001477932-26-006387-index.htm
+  - Filed: 2026-10-21 AccNo: 0001477932-26-006387 Size: 5 KB
+- **4 - ASP Isotopes Inc. (0001921865) (Issuer)**
+  - when: 2026-10-21T21:45:10-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1921865/000147793226006387/0001477932-26-006387-index.htm
+  - Filed: 2026-10-21 AccNo: 0001477932-26-006387 Size: 5 KB
+- **4 - Cramer Keith (0001829989) (Reporting)**
+  - when: 2026-10-21T21:41:12-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1829989/000181838326000258/0001818383-26-000258-index.htm
+  - Filed: 2026-10-21 AccNo: 0001818383-26-000258 Size: 5 KB
+- **4 - MediaAlpha, Inc. (0001818383) (Issuer)**
+  - when: 2026-10-21T21:41:12-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1818383/000181838326000258/0001818383-26-000258-index.htm
+  - Filed: 2026-10-21 AccNo: 0001818383-26-000258 Size: 5 KB
+- **4 - Nonko Eugene (0001830016) (Reporting)**
+  - when: 2026-10-21T21:40:57-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1830016/000181838326000257/0001818383-26-000257-index.htm
+  - Filed: 2026-10-21 AccNo: 0001818383-26-000257 Size: 14 KB
+
+## federal-register
+- **Advancing Women's Health To Improve Outcomes in All Phases of Life**
+  - when: 2026-10-22
+  - url: https://www.federalregister.gov/documents/2026/10/22/2026-21666/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life
+  - Executive Office of the President — Presidential Document
+- **Safety Zone; Brownsville Ship Channel, Brownsville, TX**
+  - when: 2026-10-22
+  - url: https://www.federalregister.gov/documents/2026/10/22/2026-21636/safety-zone-brownsville-ship-channel-brownsville-tx
+  - Homeland Security Department, Coast Guard — Rule — The Coast Guard is establishing a temporary safety zone for navigable waters on the Brownsville Ship Channel. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with an over-sized dead ship tow transiting the area. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector Corpus Christi, or their designated represen
+- **Granting of Requests for Early Termination of the Waiting Period under the Premerger Notification Rules**
+  - when: 2026-10-22
+  - url: https://www.federalregister.gov/documents/2026/10/22/2026-21630/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification
+  - Federal Trade Commission — Notice
+- **Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Annual Business Survey**
+  - when: 2026-10-22
+  - url: https://www.federalregister.gov/documents/2026/10/22/2026-21629/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for
+  - Commerce Department, Census Bureau — Notice — The Department of Commerce, in accordance with the Paperwork Reduction Act (PRA) of 1995, invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment on the proposed revision to the Annual Business Survey pr
+- **Reliant Transportation Group, LLC, TIP MNC Acquisition, LLC, TIP MN Investments LP, and Tiger Infrastructure Partners Fund IV AIV LP-Acquisition of Control-Safe-Way Bus Co. and Safe-Way Wisconsin, Inc.**
+  - when: 2026-10-22
+  - url: https://www.federalregister.gov/documents/2026/10/22/2026-21628/reliant-transportation-group-llc-tip-mnc-acquisition-llc-tip-mn-investments-lp-and-tiger
+  - Surface Transportation Board — Notice — On August 31, 2026, Reliant Transportation Group, LLC (Reliant); TIP MNC Acquisition, LLC; TIP MN Investments LP; and Tiger Infrastructure Partners Fund IV AIV LP (collectively, Applicants) filed an application seeking authority to acquire, from Jane M. Stiles and Thomas W. Stiles (collectively, Sellers), control of two federally regulated interstate passenger motor carriers: Safe-Way Bus Co. (Safe- Way Bus) and Safe-Way Wisconsin, Inc. (Safe-Way Wisconsin
+- **Agency Information Collection Activity Under OMB Review: Statement of Person Claiming To Have Stood in Relation of Parent**
+  - when: 2026-10-22
+  - url: https://www.federalregister.gov/documents/2026/10/22/2026-21627/agency-information-collection-activity-under-omb-review-statement-of-person-claiming-to-have-stood
+  - Veterans Affairs Department — Notice — In compliance with the Paperwork Reduction Act (PRA) of 1995, this notice announces that the Veterans Benefits Administration, Department of Veterans Affairs, will submit the collection of information abstracted below to the Office of Management and Budget (OMB) for review and comment. The PRA submission describes the nature of the information collection and its expected cost and burden, and it includes the actual data collection instrument.
+- **Formations of, Acquisitions by, and Mergers of Bank Holding Companies**
+  - when: 2026-10-22
+  - url: https://www.federalregister.gov/documents/2026/10/22/2026-21626/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies
+  - Federal Reserve System — Notice
+- **Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company**
+  - when: 2026-10-22
+  - url: https://www.federalregister.gov/documents/2026/10/22/2026-21625/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company
+  - Federal Reserve System — Notice
+- **Welded Stainless Pressure Pipe From India: Final Results of Antidumping Duty Administrative Review; 2023-2024**
+  - when: 2026-10-22
+  - url: https://www.federalregister.gov/documents/2026/10/22/2026-21624/welded-stainless-pressure-pipe-from-india-final-results-of-antidumping-duty-administrative-review
+  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) determines that Suncity Metals and Tubes Private Limited (Suncity), the sole producer/ exporter subject to this administrative review, made sales of welded stainless pressure pipe (WSPP) from India at less than normal value during the period of review (POR) November 1, 2023, through October 31, 2024.
+- **Draft NUREG: Report on Waste Burial Charges: Changes in Decommissioning Waste Disposal Costs at Low-Level Waste Burial Facilities**
+  - when: 2026-10-22
+  - url: https://www.federalregister.gov/documents/2026/10/22/2026-21623/draft-nureg-report-on-waste-burial-charges-changes-in-decommissioning-waste-disposal-costs-at
+  - Nuclear Regulatory Commission — Notice — The U.S. Nuclear Regulatory Commission (NRC) is issuing for public comment a draft report entitled, NUREG-1307, Revision 21, "Report on Waste Burial Charges: Changes in Decommissioning Waste Disposal Costs at Low-Level Waste Burial Facilities." This report, which is revised periodically, explains the formula acceptable to the NRC for determining the minimum decommissioning fund requirements for nuclear power reactor licensees, as required by NRC regulatio
+- **Virginia: Approval of State Coal Combustion Residuals Permit Program**
+  - when: 2026-10-22
+  - url: https://www.federalregister.gov/documents/2026/10/22/2026-21622/virginia-approval-of-state-coal-combustion-residuals-permit-program
+  - Environmental Protection Agency — Rule — The Environmental Protection Agency (EPA or the Agency) is approving Virginia's coal combustion residuals (CCR) permit program under the Resource Conservation and Recovery Act (RCRA). After reviewing the CCR permit program application submitted by the Virginia Department of Environmental Quality (VADEQ), EPA has determined that Virginia's partial CCR permit program meets the standard for approval under RCRA. Virginia's CCR permit program will operate in l
+- **Neostellar Capital Corp., et al.**
+  - when: 2026-10-22
+  - url: https://www.federalregister.gov/documents/2026/10/22/2026-21621/neostellar-capital-corp-et-al
+  - Securities and Exchange Commission — Notice
+
+## gao
+- **State Department: Standards for Overseas Housing Need Review [Reissued with revisions on Oct. 21, 2026]**
+  - when: Mon, 10 Aug 2026 07:28:52 -0400
+  - url: https://www.gao.gov/products/gao-26-107965
+  - pdf: https://www.gao.gov/assets/gao-26-107965.pdf
+  - What GAO Found The Department of State last updated its standards for overseas housing space in 1991, according to State officials. Those standards may no longer align with State’s goal of providing Foreign Service personnel living abroad with housing comparable to the Washington, D.C., metropolitan area. In the last 35 years, median housing costs in the Washington, D.C., area have increased at a faster rate than Foreign Service personnel salaries. In addition, State’s method for measuring over
+- **Nuclear Waste: Future Land Use Planning at Selected DOE Cleanup Sites**
+  - when: Fri, 16 Oct 2026 09:42:29 -0400
+  - url: https://www.gao.gov/products/gao-27-108063
+  - pdf: https://www.gao.gov/assets/gao-27-108063.pdf
+  - What GAO Found The Department of Energy (DOE) created initial future land use plans in coordination with local communities as early as 1992 at six cleanup sites GAO selected for review. These plans inform but do not bind assumptions about future land use that DOE and regulators make when selecting a cleanup remedy at a site. The remedy selected during the cleanup process has lasting consequences for how a parcel of land can be used, even after DOE transfers or leases it to another federal agenc
+- **Critical Minerals: Limited Available Information on the Full Extent of Foreign Investment in Mining on Federal Lands**
+  - when: Fri, 16 Oct 2026 07:40:00 -0400
+  - url: https://www.gao.gov/products/gao-27-108094
+  - pdf: https://www.gao.gov/assets/gao-27-108094.pdf
+  - What GAO Found The U.S critical mineral supply chain faces numerous constraints, including the need for substantial capital investment and limited domestic processing capacity. The U.S. exports large quantities of domestically extracted ore to Canada, Mexico, and China, among other countries. Copper Mine on Federal Lands The Bureau of Land Management (BLM) and the Forest Service oversee hardrock mines on federal land. As of February 2026, there were 632 approved hardrock mining plans of ope
+- **Research Security: NIH Action Needed to Strengthen Foreign Interference Risk Management**
+  - when: Fri, 16 Oct 2026 08:13:12 -0400
+  - url: https://www.gao.gov/products/gao-27-107848
+  - pdf: https://www.gao.gov/assets/gao-27-107848.pdf
+  - What GAO Found The National Institutes of Health (NIH) funds extramural research through awards to universities and other institutions. Implementation of federal research security requirements helps safeguard this research from foreign interference, including misappropriation and unauthorized access by foreign countries and entities. NIH implemented 14 of the 15 federal research security requirements GAO reviewed that address: (1) disclosure, (2) malign foreign talent recruitment programs, (3)
+- **Federal Real Property: New Occupancy Data Help Agencies Shed Unneeded Office Space But Gaps Limit the Full Picture**
+  - when: Fri, 16 Oct 2026 07:18:45 -0400
+  - url: https://www.gao.gov/products/gao-27-108503
+  - pdf: https://www.gao.gov/assets/gao-27-108503.pdf
+  - What GAO Found Under the Utilizing Space Efficiently and Improving Technologies (USE IT) Act, enacted in January 2025, federal agencies are now required to collect and report occupancy data. This data is used to calculate utilization rates for agencies’ office space in federally owned buildings and leased locations. While 20 of the 23 agencies that responded to GAO’s survey reported using existing badging systems for this purpose, 16 of these 20 agencies reported supplementing that information
+- **Tax Filing: IRS Should Enhance Ghost Preparer Identification and Compliance Efforts in a Comprehensive Preparer Strategy**
+  - when: Fri, 16 Oct 2026 07:28:51 -0400
+  - url: https://www.gao.gov/products/gao-27-108176
+  - pdf: https://www.gao.gov/assets/gao-27-108176.pdf
+  - What GAO Found Ghost preparers are paid tax preparers who do not comply with requirements to identify themselves on tax returns they prepare for others. Ghost preparers may intentionally leave identifying information off to get away with filing fraudulent income tax returns, stealing taxpayers’ refunds, and stealing taxpayers’ identities. Courts have ordered individual ghost preparers to pay millions in restitution to the government, but according to Internal Revenue Service (IRS) officials, th
+- **National Security: FBI Should Strengthen Partnerships to Combat Non-Traditional Intelligence Collectors**
+  - when: Fri, 16 Oct 2026 07:28:08 -0400
+  - url: https://www.gao.gov/products/gao-27-109057
+  - pdf: https://www.gao.gov/assets/gao-27-109057.pdf
+  - What GAO Found According to the Federal Bureau of Investigation (FBI), non-traditional intelligence collectors (NTCs) are individuals whose primary profession is not intelligence collection, but who actively or passively collect sensitive U.S. information on behalf of foreign entities. For example, researchers and students at universities may act as NTCs if they collect non-public research on behalf of a foreign entity. According to the FBI, unlike intelligence officers, NTCs function independe
+- **Nuclear Waste: Addressing Legal and Regulatory Barriers Could Accelerate Cleanup and Reduce Costs**
+  - when: Fri, 16 Oct 2026 08:05:50 -0400
+  - url: https://www.gao.gov/products/gao-27-107791
+  - pdf: https://www.gao.gov/assets/gao-27-107791.pdf
+  - What GAO Found The Department of Energy’s (DOE) nuclear waste cleanup is proceeding largely under three laws that set cleanup and waste management requirements. Each law has different requirements, applications, and regulators. Selected Cleanup and Waste Management Laws and Regulators for the Department of Energy’s (DOE) Nuclear Waste Cleanup GAO and experts GAO convened with the National Academies of Sciences, Engineering, and Medicine identified several legal and regulatory factors that a
+- **Textile Circular Economy: Policy Options for the U.S.**
+  - when: Fri, 16 Oct 2026 09:35:25 -0400
+  - url: https://www.gao.gov/products/gao-27-108142
+  - pdf: https://www.gao.gov/assets/gao-27-108142.pdf
+  - What GAO Found Developing a textile circular economy includes repairing, reusing, and recycling textiles and making them last longer. Example of a Circular Economy for Textiles In the U.S., a textile circular economy may create potential benefits and involve challenges, according to reports by federal agencies and organizations and stakeholder interviews. Potential benefits could include creating new jobs and markets related to textile repair and recycling, reducing environmental harm, and
+- **Service Member Records: DOD Needs to Address Improper and Delayed Releasing of Personnel and Health Information**
+  - when: Fri, 16 Oct 2026 10:40:46 -0400
+  - url: https://www.gao.gov/products/gao-27-107784
+  - pdf: https://www.gao.gov/assets/gao-27-107784.pdf
+  - What GAO Found Service members can accrue a large volume of personnel and health records during their military careers. The custodians of these records are the Department of Defense (DOD) and the Department of Veterans Affairs. DOD and the military services developed policies and procedures to properly adhere to federal laws for safeguarding records and timely processing records requests. However, the risk of breaches and delays exists. For example, GAO covertly tested 26 requests for records f
+- **National Nuclear Security Administration: Reductions to Federal Workforce**
+  - when: Fri, 16 Oct 2026 07:24:19 -0400
+  - url: https://www.gao.gov/products/gao-27-109127
+  - pdf: https://www.gao.gov/assets/gao-27-109127.pdf
+  - What GAO Found The National Nuclear Security Administration (NNSA) oversees a $25 billion annual budget and approximately 70,000 management and operating contractor personnel to maintain the U.S. nuclear weapons stockpile and nuclear nonproliferation efforts. NNSA took steps to build its federal workforce to meet mission needs in 2024, with its workforce peaking at 1,991 early in fiscal year 2025. However, since then through the second quarter of fiscal year 2026, NNSA has reduced its federal w
+- **Geostationary Weather Satellites: Next Generation Program Challenges Put Vital Observations at Risk**
+  - when: Fri, 16 Oct 2026 08:45:07 -0400
+  - url: https://www.gao.gov/products/gao-26-107739
+  - pdf: https://www.gao.gov/assets/gao-26-107739.pdf
+  - What GAO Found The National Oceanic and Atmospheric Administration (NOAA) initially planned for the Geostationary Extended Observations (GeoXO) program to be a series of six satellites with a projected lifecycle cost of $19.6 billion. In August 2025, Commerce directed the GeoXO program office to implement a major restructuring to reduce lifecycle costs, and in April 2026 Commerce approved the program’s new baseline. This new baseline reduces the number of satellites from six to four, decreases
+
+## courtlistener
+- **Farrell-Smith v. Dept. of Justice**
+  - when: 2026-10-21T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11041965/farrell-smith-v-dept-of-justice/
+  - 24 October 21, 2026 No. 1009 IN THE COURT OF APPEALS OF THE STATE OF OREGON Ka’ila FARRELL-SMITH, Rowena Jackson, Sarah Westover, and Rosemary Francis Eatherington, Plaintiffs-Appellants, and ROGUE CLIMATE and 350Eug (“350 Eugene”), Intervenor Plaintiffs-Appellants, Original document
+- **SPRAY PROPERTIES, LLC v. ROBERT WASHINGTON, JR.**
+  - when: 2026-10-21T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11041945/spray-properties-llc-v-robert-washington-jr/
+  - SECOND DIVISION DOYLE, P. J., DAVIS and WHITAKER, JJ. NOTICE: Motions for reconsideration must be received no later than 4:30 pm on the 10th day after the decision was issued to be deemed timely filed. https://www.gaappeals.gov/rules October 21, 2026 Original document
+- **State of Iowa v. Gary Lewis Scott**
+  - when: 2026-10-21T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11041897/state-of-iowa-v-gary-lewis-scott/
+  - IN THE COURT OF APPEALS OF IOWA _______________ No. 25-0146 Filed October 21, 2026 _______________ State of Iowa, Plaintiﬀ–Appellee, v. Gary Lewis Scott, Defendant–Appellant. _______________ Appeal from the Iowa District Court for Wapello County, Original document
+- **Vale Ventures IA LLC v. Gray Jay Management Investments, LLC**
+  - when: 2026-10-21T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11042066/vale-ventures-ia-llc-v-gray-jay-management-investments-llc/
+  - IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE VALE VENTURES IA LLC, ) ) Plaintiff, ) ) v. ) C.A. No. 2022-1100-NAC ) GRAY JAY MANAGEMENT ) INVESTMENTS LLC, ) Original document
+- **Eagles v. Discovery Ins. Co.**
+  - when: 2026-10-21T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11041670/eagles-v-discovery-ins-co/
+  - IN THE COURT OF APPEALS OF NORTH CAROLINA No. COA25-610 Filed 21 October 2026 Nash County, No. 24CVS000245-630 BENJAMIN EAGLES, as Receiver for Ikeem Cherry, Plaintiff, v. DISCOVERY INSURANCE COMPANY, Defendant. Appeal by Defendant and Cross-Appeal by Plaintiff from Orders entered 22 July 2024 and 26 November 2024 by Judge Timothy W. Wilson in Nash County Superior Court. Heard in the Court Original document
+- **Mastercard International Inc. v. SCDOR**
+  - when: 2026-10-21T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11041864/mastercard-international-inc-v-scdor/
+  - THE STATE OF SOUTH CAROLINA In The Court of Appeals Mastercard International Incorporated, Appellant, v. South Carolina Department of Revenue, Respondent. Appellate Case No. 2024-001252 Appeal From The Administrative Law Court Milton G. Kimpson, Administrative Law Judge Deborah Brooks Durden, Administrative Law Judge Original document
+- **Brown v. State of Florida**
+  - when: 2026-10-21T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11041829/brown-v-state-of-florida/
+  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT LARRY D. BROWN, Appellant, v. STATE OF FLORIDA, Appellee. No. 2D2026-1820 October 21, 2026 Appeal pursuant to Fla. R. App. P. 9.141(b)(2) from the Circuit Court for Hillsborough County; Original document
+- **Ruth A. Fuessley, Neal Gilbertson, and Stephanie Gilbertson v. City of Cedar Rapids**
+  - when: 2026-10-21T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11041901/ruth-a-fuessley-neal-gilbertson-and-stephanie-gilbertson-v-city-of/
+  - IN THE COURT OF APPEALS OF IOWA _______________ No. 25-1295 Filed October 21, 2026 _______________ Ruth A. Fuessley, Neal Gilbertson, and Stephanie Gilbertson Plaintiffs–Appellants, v. City of Cedar Rapids, Iowa, Defendant–Appellee. _______________ Original document
+- **Ayala v. Culbertsons LLC**
+  - when: 2026-10-21T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11041973/ayala-v-culbertsons-llc/
+  - 54 October 21, 2026 No. 1011 IN THE COURT OF APPEALS OF THE STATE OF OREGON Anthony E. AYALA, Plaintiff-Appellant, v. CULBERTSONS LLC, Defendant-Respondent. Marion County Circuit Court 24CV31689; A189068 Lindsay R. Partridge, Judge. Argued and submitted September 10, 2026. Brian Original document
+- **Reyes v. Chapman**
+  - when: 2026-10-21T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11042111/reyes-v-chapman/
+  - Reyes v Chapman 2026 NY Slip Op 06156 October 21, 2026 Appellate Division, Second Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Ruth Reyes, appellant, v Kevin R. Chapman, et al., respondents. Supreme Court of the State of New York, Appellate Division, Second Judicial Department Decided on October 21, 2026 2025-04460, (Index No. 619475/21) Colleen D. Original document
+- **SADIE EVANS v. GWINNETT COUNTY**
+  - when: 2026-10-21T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11042069/sadie-evans-v-gwinnett-county/
+  - FIFTH DIVISION BROWN, C. J., MERCIER, P. J., and EPPS, J. NOTICE: Motions for reconsideration must be received no later than 4:30 pm on the 10th day after the decision was issued to be deemed timely filed. https://www.gaappeals.gov/rules October 21, 2026 In Original document
+- **Valer Caldwell v. Rock Rose Stoneridge Property LLC Dba the Park at Stonehaven**
+  - when: 2026-10-21T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11041944/valer-caldwell-v-rock-rose-stoneridge-property-llc-dba-the-park-at/
+  - Court of Appeals of the State of Georgia ATLANTA,____________________ October 21, 2026 The Court of Appeals hereby passes the following order: A27D0200. VALER CALDWELL v. ROCK ROSE STONERIDGE PROPERTY LLC d/b/a THE PARK AT STONEHAVEN. Plaintiff Rock Rose Stoneridge Property LLC d/b/a The Park at Stonehaven brought this dispossessory action against Valer Caldwell in magistrate court. On September Original document
+
+## uk-legislation
+- **The Air Navigation (Restriction of Flying) (Plymouth, Devon) (Emergency) Regulations 2026**
+  - when: 2026-10-21T16:54:56+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1112
+- **The Air Navigation (Restriction of Flying) (Drymen, Stirling, Scotland) (Emergency) (Revocation) Regulations 2026**
+  - when: 2026-10-21T16:54:51.138673+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1113
+- **The Employment Protection Code of Practice (Time Off for Trade Union Duties and Activities) Order 2026**
+  - when: 2026-10-21T03:03:48+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1104
+  - This Order appoints 30th October 2026 as the day upon which the revised Code of Practice on Time Off for Trade Union Duties and Activities will come into effect. The Code of Practice, which includes guidance on time off for trade union representatives, trade union learning and equality representatives, is being issued by the Advisory, Conciliation and Arbitration Service under section 199 and section 200 of the Trade Union and Labour Relations (Consolidation) Act 1992.
+- **Correction slip**
+  - when: 2026-10-21T08:56:29+01:00
+  - url: http://www.legislation.gov.uk/ukpga/2025/36/pdfs/ukpgacs_20250036_en_001.pdf
+  - An Act to make provision to amend the law relating to employment rights; to make provision about procedure for handling redundancies; to make provision about the treatment of workers involved in the supply of services under certain public contracts; to provide for duties to be imposed on employers in relation to equality; to amend the definition of “employment business” in the Employment Agencies Act 1973; to provide for the establishment of the School Support Staff Negotiating Body and Social C
+- **The Air Navigation (Restriction of Flying) (Aberfan, Merthyr Tydfil) Regulations 2026**
+  - when: 2026-10-20T03:04:50.303995+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1058
+- **The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2026**
+  - when: 2026-10-20T03:10:03+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/181
+  - These Regulations make amendments to the State Pension Credit Regulations (Northern Ireland) 2003 (S.R. 2003 No. 28), the Housing Benefit Regulations (Northern Ireland) 2006 (S.R. 2006 No. 405), the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 (S.R. 2006 No. 406), the Employment and Support Allowance Regulations (Northern Ireland) 2008 (S.R. 2008 No. 280), and the Universal Credit Regulations (Northern Ireland) 2016 (
+- **The Trade Unions (Right to Access Workplaces) Regulations 2026**
+  - when: 2026-10-20T03:09:53+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1101
+  - These Regulations form part of the package of legislation that provides for access agreements between trade unions and employers, which enable trade union officials to physically enter workplaces or to communicate with workers by other means. For these purposes, communication with workers includes the provision of information to workers by any means, whether direct or indirect.
+- **The Protection Against Detriment (Industrial Action) Regulations 2026**
+  - when: 2026-10-20T03:09:52+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1099
+  - These Regulations are made in exercise of the power contained in section 236A(1) of the Trade Union and Labour Relations (Consolidation) Act 1992 (“the 1992 Act”) to prescribe detriments in relation to a worker taking industrial action.
+- **The Air Navigation (Restriction of Flying) (Helicopter Flight) (No. 7) Regulations 2026**
+  - when: 2026-10-20T03:04:19.38711+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1100
+- **The Air Navigation (Restriction of Flying) (Drymen, Stirling, Scotland) (Emergency) Regulations 2026**
+  - when: 2026-10-19T16:41:12+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1106
+- **The Levelling-up and Regeneration Act 2023 (Commencement No. 12) Regulations 2026**
+  - when: 2026-10-19T16:15:47+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1105
+  - These Regulations are the twelfth commencement regulations under the Levelling-up and Regeneration Act 2023 (c. 55) (“the 2023 Act”). They bring section 232 of the 2023 Act (“section 232”) into force. Section 232 amends sections 72A, 107A and 107B of the Marine and Coastal Access Act 2009 (c. 23) (“the 2009 Act”) to confer power on the Secretary of State and the Scottish Ministers, in respect of cases where they are the appropriate licensing authority, to make regulations to charge fees for the
+- **The Code of Practice (Right of Trade Unions to Access Workplaces) Order 2026**
+  - when: 2026-10-19T15:45:19+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1103
+  - This Order appoints 30th October 2026 as the day on which the Code of Practice issued by the Secretary of State under sections 203(1)(a) and 204(2) of the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) on the Right of Trade Unions to Access Workplaces (“the Code of Practice”) comes into effect.
