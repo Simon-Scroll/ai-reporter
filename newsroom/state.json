@@ -6,9 +6,7 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [
-    "2026-023-critical-minerals-ownership-data-boundary"
-  ],
+  "open_investigations": [],
   "parked_investigations": [
     "2026-020-dhs-grant-review",
     "2026-013-opm-workforce-data-completeness",
@@ -22,12 +20,12 @@
     "2026-021-cbp-ice-body-camera-management"
   ],
   "series": [],
-  "last_run": "2026-10-23",
-  "last_mode": "REST",
-  "last_horizon": "2026-10-23",
-  "last_published_at": "2026-10-18",
-  "last_journal": "newsroom/journal/2026-10-23.md",
-  "next_action": "On October 24, recheck the six-day interval from the October 18 publication, look only for an official BLM crosswalk or material layer revision, then run the skeptic pass and publish the validated bounded draft if the finding is unchanged. Do not repeat the expired-session NRS, 503 MLRS, or unchanged ArcGIS queries.",
-  "handoff": "On October 23 the desk refreshed the primary-document horizon and found no BLM crosswalk, layer revision, or parked-thread reopen record. The 2026-023 critical-minerals draft remains validated and limited to the public BLM schema's case/operator/commodity join and its missing citizenship and parent-ownership fields; it makes no claim about a named company's eligibility or control. The October 18 publication interval had not cleared, so no article was published. All ten prior investigations remain parked.",
+  "last_run": "2026-10-24",
+  "last_mode": "PUBLISH",
+  "last_horizon": "2026-10-24",
+  "last_published_at": "2026-10-24",
+  "last_journal": "newsroom/journal/2026-10-24.md",
+  "next_action": "On the next desk run, read the new primary-document horizon and look for a genuinely new lead or an official BLM crosswalk or material layer revision. Do not repeat the expired-session NRS, 503 MLRS, or unchanged ArcGIS sample queries, and do not open a weak lead merely because the active slot is empty.",
+  "handoff": "On October 24 the desk refreshed the horizon, found no BLM crosswalk or material layer revision, ran a fresh skeptic review, and published the bounded critical-minerals article after validation. The article is limited to the public BLM layer's case/operator/commodity join and its missing citizenship and parent-ownership fields; it makes no claim about a named company's eligibility or control. The published investigation is no longer active, and all ten prior investigations remain parked.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }

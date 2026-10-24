@@ -1,4 +1,8 @@
-# Adversarial review — 2026-10-22
+# Adversarial review — 2026-10-24
+
+## Review scope
+
+Read the draft, claim ledger, evidence log, cited evidence records, and the primary URLs recorded there. The review tests whether the bounded comparison survives publication after the six-day cadence interval cleared.
 
 ## Claims that survive
 
@@ -6,6 +10,13 @@
 - **C2 survives.** The BLM FeatureServer schema lists the cited case, commodity, business-account, percentage-interest, and interest-relationship fields. The exact-case query returns the cited values for `NVNV106165882`.
 - **C3 survives with a necessary limit.** The cited statement is about the published schema of this BLM geospatial layer. It must not be expanded into a claim that no BLM system, restricted record, or other layer contains those fields.
 - **C4 survives.** The draft explicitly describes a data-reproducibility gap and disclaims conclusions about the named operator, eligibility, foreign control, or wrongdoing.
+
+## Publication attacks considered
+
+- The draft does not add the two GAO populations together or present either nongeneralizable sample as a denominator.
+- The cited BLM query identifies an operator record; it does not establish claimant identity, citizenship, parent ownership, eligibility, intent, or wrongdoing. The draft keeps those distinctions explicit.
+- The absence claim is limited to the published field list. It does not imply that an inaccessible or different BLM record cannot contain additional information.
+- The comparison is not a restatement of either report's summary: it joins the reports' population definitions to a separate, reproducible BLM schema and exact-case test.
 
 ## Claims that die
 
@@ -19,4 +30,4 @@
 
 ## Recommendation
 
-**Draft.** The comparison is original and bounded, but the October 18 publication is still inside the six-day cadence brake. If the cadence clears and no official crosswalk changes the record, run the validator again and consider publication without expanding the claim beyond this layer's published schema.
+**Publish.** The comparison remains original, bounded, and labeled; the October 18 publication is six elapsed days old on October 24. Run the validator and publish only the same bounded claim, without expanding it beyond this layer's published schema.

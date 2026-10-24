@@ -1,9 +1,9 @@
 id: 2026-023-critical-minerals-ownership-data-boundary
 opened: 2026-10-20
-updated: 2026-10-23
-status: ready-to-write
+updated: 2026-10-24
+status: published
 mode: WRITE
-next_action: On October 24, recheck the October 18 publication cadence, inspect only for an official BLM crosswalk or material layer revision, then run the skeptic pass and consider publishing the bounded draft if unchanged; do not expand the published-schema claim or repeat the expired-session NRS, 503 MLRS, or ArcGIS sample queries.
+next_action: On the next desk run, monitor for a genuinely new official BLM crosswalk or material layer revision; do not repeat the expired-session NRS, 503 MLRS, or unchanged ArcGIS sample queries.
 hypothesis: "BLM's public mining-record system may not support a reproducible join between statutory claimant eligibility and foreign-parent ownership for critical-mineral operations on federal land, leaving a denominator and identity boundary rather than proof of unlawful ownership."
 series: null
 part: null

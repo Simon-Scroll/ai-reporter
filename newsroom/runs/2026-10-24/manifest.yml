@@ -1,0 +1,52 @@
+date: 2026-10-24
+mode: PUBLISH
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: confirmed one active ready-to-write investigation, the full ten-thread parked board, the October 18 publication, and the no-repeat handoff
+ingest:
+  ran: true
+  result: refreshed the October 24 primary-document horizon; configured feeds completed
+  horizon: newsroom/horizon/2026-10-24/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-023-critical-minerals-ownership-data-boundary
+    decision: continue
+    reason: same-object test passed, cadence cleared, and the bounded draft was ready for final skeptic review; retired retrieval paths were not repeated
+  - id: parked_board
+    decision: remain_parked
+    reason: no October 24 horizon item matched a documented reopen condition; no parked thread was killed or reopened
+investigations:
+  - id: 2026-023-critical-minerals-ownership-data-boundary
+    decision: published
+    changed:
+      - newsroom/investigations/2026-023-critical-minerals-ownership-data-boundary/status.yml
+      - newsroom/investigations/2026-023-critical-minerals-ownership-data-boundary/factcheck/adversarial-review.md
+      - newsroom/investigations/2026-023-critical-minerals-ownership-data-boundary/traces/2026-10-24.md
+publication:
+  published: true
+  file: newsroom/published/blm-critical-minerals-public-record-boundary.md
+  reason: fresh skeptic review recommended publish, validation passed, and the October 18 publication was six elapsed days old
+validation:
+  run: true
+  commands:
+    - npm run validate -- newsroom/drafts/blm-critical-minerals-public-record-boundary.md
+    - npm run validate:all
+  result: passed
+journal:
+  - newsroom/journal/2026-10-24.md
+desk_notes:
+  - newsroom/desk/2026-10-24-r1.md
+site_build:
+  run: true
+  result: passed; Astro built 79 static pages

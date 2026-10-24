@@ -1,106 +1,106 @@
-# Horizon brief — 2026-10-23
+# Horizon brief — 2026-10-24
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
 ## sec-edgar
-- **4 - Kneppers Chris J (0001926933) (Reporting)**
-  - when: 2026-10-22T21:44:08-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1926933/000149315226048157/0001493152-26-048157-index.htm
-  - Filed: 2026-10-22 AccNo: 0001493152-26-048157 Size: 4 KB
-- **4 - BLUE BIOFUELS, INC. (0001549145) (Issuer)**
-  - when: 2026-10-22T21:44:08-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1549145/000149315226048157/0001493152-26-048157-index.htm
-  - Filed: 2026-10-22 AccNo: 0001493152-26-048157 Size: 4 KB
-- **3 - Lycia Therapeutics, Inc. (0001806540) (Issuer)**
-  - when: 2026-10-22T21:37:50-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1806540/000119312526429267/0001193125-26-429267-index.htm
-  - Filed: 2026-10-22 AccNo: 0001193125-26-429267 Size: 4 KB
-- **3 - ELI LILLY & Co (0000059478) (Reporting)**
-  - when: 2026-10-22T21:37:50-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/59478/000119312526429267/0001193125-26-429267-index.htm
-  - Filed: 2026-10-22 AccNo: 0001193125-26-429267 Size: 4 KB
-- **4 - CoreWeave, Inc. (0001769628) (Issuer)**
-  - when: 2026-10-22T21:29:16-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1769628/000176962826000451/0001769628-26-000451-index.htm
-  - Filed: 2026-10-22 AccNo: 0001769628-26-000451 Size: 4 KB
-- **4 - WHITMAN MARGARET C (0001079816) (Reporting)**
-  - when: 2026-10-22T21:29:16-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1079816/000176962826000451/0001769628-26-000451-index.htm
-  - Filed: 2026-10-22 AccNo: 0001769628-26-000451 Size: 4 KB
-- **4 - Whiteside Janey (0001973495) (Reporting)**
-  - when: 2026-10-22T21:29:08-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1973495/000197349526000007/0001973495-26-000007-index.htm
-  - Filed: 2026-10-22 AccNo: 0001973495-26-000007 Size: 5 KB
-- **4 - Lyft, Inc. (0001759509) (Issuer)**
-  - when: 2026-10-22T21:29:08-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1759509/000197349526000007/0001973495-26-000007-index.htm
-  - Filed: 2026-10-22 AccNo: 0001973495-26-000007 Size: 5 KB
-- **4 - CoreWeave, Inc. (0001769628) (Issuer)**
-  - when: 2026-10-22T21:28:16-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1769628/000176962826000450/0001769628-26-000450-index.htm
-  - Filed: 2026-10-22 AccNo: 0001769628-26-000450 Size: 7 KB
-- **4 - HUTCHINS GLENN H (0001027038) (Reporting)**
-  - when: 2026-10-22T21:28:16-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1027038/000176962826000450/0001769628-26-000450-index.htm
-  - Filed: 2026-10-22 AccNo: 0001769628-26-000450 Size: 7 KB
-- **4 - Stephenson Dave (0001834164) (Reporting)**
-  - when: 2026-10-22T21:27:47-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1834164/000183416426000005/0001834164-26-000005-index.htm
-  - Filed: 2026-10-22 AccNo: 0001834164-26-000005 Size: 5 KB
-- **4 - Lyft, Inc. (0001759509) (Issuer)**
-  - when: 2026-10-22T21:27:47-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1759509/000183416426000005/0001834164-26-000005-index.htm
-  - Filed: 2026-10-22 AccNo: 0001834164-26-000005 Size: 5 KB
+- **4 - Ruddy Jordan B. (0001575426) (Reporting)**
+  - when: 2026-10-23T21:34:10-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1575426/000139834426018733/0001398344-26-018733-index.htm
+  - Filed: 2026-10-23 AccNo: 0001398344-26-018733 Size: 5 KB
+- **4 - Bluerock Private Real Estate Fund (0001551047) (Issuer)**
+  - when: 2026-10-23T21:34:10-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1551047/000139834426018733/0001398344-26-018733-index.htm
+  - Filed: 2026-10-23 AccNo: 0001398344-26-018733 Size: 5 KB
+- **SCHEDULE 13D/A - Simpson Andrew (0001933883) (Filed by)**
+  - when: 2026-10-23T21:30:09-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1933883/000121390026112224/0001213900-26-112224-index.htm
+  - Filed: 2026-10-23 AccNo: 0001213900-26-112224 Size: 20 KB
+- **SCHEDULE 13D/A - HeartSciences Inc. (0001468492) (Subject)**
+  - when: 2026-10-23T21:30:09-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1468492/000121390026112224/0001213900-26-112224-index.htm
+  - Filed: 2026-10-23 AccNo: 0001213900-26-112224 Size: 20 KB
+- **4 - Sheena Jonathan (0001646649) (Reporting)**
+  - when: 2026-10-23T21:25:04-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1646649/000164664926000035/0001646649-26-000035-index.htm
+  - Filed: 2026-10-23 AccNo: 0001646649-26-000035 Size: 20 KB
+- **4 - Natera, Inc. (0001604821) (Issuer)**
+  - when: 2026-10-23T21:25:04-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604821/000164664926000035/0001646649-26-000035-index.htm
+  - Filed: 2026-10-23 AccNo: 0001646649-26-000035 Size: 20 KB
+- **4 - Adair Kathleen Theresa (0002160363) (Reporting)**
+  - when: 2026-10-23T21:24:50-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2160363/000216036326000004/0002160363-26-000004-index.htm
+  - Filed: 2026-10-23 AccNo: 0002160363-26-000004 Size: 39 KB
+- **4 - Nature's Miracle Holding Inc. (0001947861) (Issuer)**
+  - when: 2026-10-23T21:24:50-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1947861/000216036326000004/0002160363-26-000004-index.htm
+  - Filed: 2026-10-23 AccNo: 0002160363-26-000004 Size: 39 KB
+- **4 - Firy Inc. (0001801661) (Issuer)**
+  - when: 2026-10-23T20:46:18-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1801661/000180166126000126/0001801661-26-000126-index.htm
+  - Filed: 2026-10-23 AccNo: 0001801661-26-000126 Size: 11 KB
+- **4 - VALLI TODD A. (0001652921) (Reporting)**
+  - when: 2026-10-23T20:46:18-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1652921/000180166126000126/0001801661-26-000126-index.htm
+  - Filed: 2026-10-23 AccNo: 0001801661-26-000126 Size: 11 KB
+- **4 - Pershing Edward (0001689739) (Reporting)**
+  - when: 2026-10-23T20:34:56-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1689739/000149315226048321/0001493152-26-048321-index.htm
+  - Filed: 2026-10-23 AccNo: 0001493152-26-048321 Size: 9 KB
+- **4 - PROVECTUS BIOPHARMACEUTICALS, INC. (0000315545) (Issuer)**
+  - when: 2026-10-23T20:34:56-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/315545/000149315226048321/0001493152-26-048321-index.htm
+  - Filed: 2026-10-23 AccNo: 0001493152-26-048321 Size: 9 KB
 
 ## federal-register
-- **Part 572; Anthropomorphic Test Devices; Test Device for Human Occupant Restraint 50th Percentile Adult Male Dummy (THOR-50M); Extension of Comment Period**
-  - when: 2026-10-23
-  - url: https://www.federalregister.gov/documents/2026/10/23/2026-21730/part-572-anthropomorphic-test-devices-test-device-for-human-occupant-restraint-50th-percentile-adult
-  - Transportation Department, National Highway Traffic Safety Administration — Proposed Rule — In response to a request from the Alliance for Automotive Innovation (Auto Innovators), NHTSA is announcing a 30-day extension of the public comment period for the Supplemental Notice of Proposed Rulemaking (SNPRM) published on September 22, 2026. The SNPRM supplements NHTSA's September 2023 notice of proposed rulemaking to amend NHTSA's regulations to include an advanced crash test dummy (the Test Device
+- **Self-Regulatory Organizations; MIAX PEARL, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the MIAX Pearl Equities Fee Schedule**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21837/self-regulatory-organizations-miax-pearl-llc-notice-of-filing-and-immediate-effectiveness-of-a
+  - Securities and Exchange Commission — Notice
+- **Wyoming Regulatory Program**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21835/wyoming-regulatory-program
+  - Interior Department, Surface Mining Reclamation and Enforcement Office — Rule — The Office of Surface Mining Reclamation and Enforcement (OSM), are approving an amendment to the Wyoming regulatory program (Wyoming program) under the Surface Mining Control and Reclamation Act of 1977 (SMCRA or the Act). The Wyoming Land Quality Division (WLQD) submitted this proposed amendment in response to our January 19, 2024 partial approval of an amendment to WLQD's regulations for coal exploration by drilli
 - **Sunshine Act Meetings**
-  - when: 2026-10-23
-  - url: https://www.federalregister.gov/documents/2026/10/23/2026-21729/sunshine-act-meetings
-  - Nuclear Regulatory Commission — Notice
-- **Agency Information Collection Activities; Submission for OMB Review; Comment Request; U.S. Information Returns and Related Forms, Schedules, Attachments, and Published Guidance**
-  - when: 2026-10-23
-  - url: https://www.federalregister.gov/documents/2026/10/23/2026-21715/agency-information-collection-activities-submission-for-omb-review-comment-request-us-information
-  - Treasury Department — Notice — The Department of the Treasury will submit the following information collection request to the Office of Management and Budget (OMB) for review and clearance in accordance with the Paperwork Reduction Act of 1995, on or after the date of publication of this notice. The public is invited to submit comments on this request.
-- **Agency Information Collection Activities; Proposed Collection; Comment Request; Export Certificates for FDA Regulated Products**
-  - when: 2026-10-23
-  - url: https://www.federalregister.gov/documents/2026/10/23/2026-21714/agency-information-collection-activities-proposed-collection-comment-request-export-certificates-for
-  - Health and Human Services Department, Food and Drug Administration — Notice — The Food and Drug Administration (FDA or Agency) is announcing an opportunity for public comment on the proposed collection of certain information by the Agency. Under the Paperwork Reduction Act of 1995 (PRA), Federal Agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension of an existing collection of information, and to allo
-- **Agency Information Collection Activities; Proposed Collection; Comment Request; Product Jurisdiction and Combination Products**
-  - when: 2026-10-23
-  - url: https://www.federalregister.gov/documents/2026/10/23/2026-21713/agency-information-collection-activities-proposed-collection-comment-request-product-jurisdiction
-  - Health and Human Services Department, Food and Drug Administration — Notice — The Food and Drug Administration (FDA or Agency) is announcing an opportunity for public comment on the proposed collection of certain information by the Agency. Under the Paperwork Reduction Act of 1995 (PRA), Federal Agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension of an existing collection of information, and to allo
-- **Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Accreditation Scheme for Conformity Assessment Program**
-  - when: 2026-10-23
-  - url: https://www.federalregister.gov/documents/2026/10/23/2026-21712/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
-  - Health and Human Services Department, Food and Drug Administration — Notice — The Food and Drug Administration (FDA) is announcing that a proposed collection of information has been submitted to the Office of Management and Budget (OMB) for review and clearance under the Paperwork Reduction Act of 1995.
-- **Determination of Regulatory Review Period for Purposes of Patent Extension; Correction of Notices-ANDEMBRY; ANZUPGO; ANKTIVA; BIZENGRI; BRINSUPRI; DAYVIGO**
-  - when: 2026-10-23
-  - url: https://www.federalregister.gov/documents/2026/10/23/2026-21711/determination-of-regulatory-review-period-for-purposes-of-patent-extension-correction-of
-  - Health and Human Services Department, Food and Drug Administration — Notice — The Food and Drug Administration (FDA) is announcing corrections to the notices of Determination of Regulatory Review Period for Purposes of Patent Extension for ANDEMBRY; ANZUPGO; ANKTIVA; BIZENGRI; BRINSUPRI; and DAYVIGO. The original determinations were announced in the Federal Registers of August 10, 2026 (BRINSUPRI, DAYVIGO), August 17, 2026 (BIZENGRI), and September 9, 2026 (ANDEMBRY, ANZUPGO, ANKTIVA). Those not
-- **Notice of Public Meetings of the Michigan Advisory Committee to the U.S. Commission on Civil Rights**
-  - when: 2026-10-23
-  - url: https://www.federalregister.gov/documents/2026/10/23/2026-21710/notice-of-public-meetings-of-the-michigan-advisory-committee-to-the-us-commission-on-civil-rights
-  - Civil Rights Commission — Notice — Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Michigan Advisory Committee (Committee) to the U.S. Commission on Civil Rights will hold public meetings via Zoom. The purpose of the first meeting is to continue to hear from experts on the committee's study topic of Artificial Intelligence and Civil Rights in Michigan, and continue
-- **Appraisal Subcommittee Notice of Special Meeting**
-  - when: 2026-10-23
-  - url: https://www.federalregister.gov/documents/2026/10/23/2026-21708/appraisal-subcommittee-notice-of-special-meeting
-  - Appraisal Subcommittee of the Federal Financial Institutions Examination Council — Notice
-- **Information Collection; Improving Customer Experience (OMB Circular A-11, Section 280 Implementation)**
-  - when: 2026-10-23
-  - url: https://www.federalregister.gov/documents/2026/10/23/2026-21707/information-collection-improving-customer-experience-omb-circular-a-11-section-280-implementation
-  - National Science Foundation — Notice — The National Science Foundation (NSF) has submitted the following information collection requirement to OMB for review and clearance under the Paperwork Reduction Act of 1995. This is the second notice for public comment; the first was published in the Federal Register, and no comments were received. NSF is forwarding the proposed submission to the Office of Management and Budget (OMB) for clearance simultaneously with the publication of this second notice.
-- **Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency**
-  - when: 2026-10-23
-  - url: https://www.federalregister.gov/documents/2026/10/23/2026-21706/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the
-  - Treasury Department, Comptroller of the Currency — Rule — The Office of the Comptroller of the Currency (OCC) is issuing regulations implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act regarding the issuance of payment stablecoins and certain related activities by entities subject to the OCC's jurisdiction.
-- **Agency Information Collection Activities: Proposed Information Collection; Submission for OMB Review; Reporting Forms and Instructions for Permitted Payment Stablecoin Issuers Subject to the Jurisdiction of the Office of the Comptroller of the Currency**
-  - when: 2026-10-23
-  - url: https://www.federalregister.gov/documents/2026/10/23/2026-21705/agency-information-collection-activities-proposed-information-collection-submission-for-omb-review
-  - Treasury Department, Comptroller of the Currency — Notice — The OCC, as part of its continuing effort to reduce paperwork and respondent burden, invites comment on a new information collection, as required by the Paperwork Reduction Act of 1995 (PRA). In accordance with the requirements of the PRA, the OCC may not conduct or sponsor, and the respondent is not required to respond to an information collection unless it displays a currently valid Office of Management and Budget (OMB) control number
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21825/sunshine-act-meetings
+  - Equal Employment Opportunity Commission — Notice
+- **Senior Executive Service (SES) Performance Review Board; Notice of Membership**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21823/senior-executive-service-ses-performance-review-board-notice-of-membership
+  - National Foundation on the Arts and the Humanities, National Endowment for the Arts — Notice — This notice announces the appointment of members to the Performance Review Board (PRB) for the National Endowment for the Arts (NEA). The PRB is responsible for reviewing the performance appraisals of Senior Executive Service (SES) members and making recommendations regarding performance ratings, pay adjustments, and bonuses to ensure consistency, fairness, and adherence to Office of Personnel Manageme
+- **Submission for OMB Review; Comment Request**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21822/submission-for-omb-review-comment-request
+  - Agriculture Department — Notice
+- **Enhancing the Ability of Consumers To Control the Robocalls**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21821/enhancing-the-ability-of-consumers-to-control-the-robocalls
+  - Federal Communications Commission — Rule — In this document, the Federal Communications Commission (Commission) modifies rules to ensure that consumers can revoke consent for robocalls they no longer wish to receive while continuing to receive those they still want. We also modernize our rules to ensure that consumers have clear, simple, and automated ways to revoke consent while streamlining callers' ability to process revocations. Specifically, we allow callers to interpret a revocation reques
+- **Modernizing the Ability of Consumers To Control Robocalls**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21820/modernizing-the-ability-of-consumers-to-control-robocalls
+  - Federal Communications Commission — Proposed Rule — In this document, the Commission seeks comment on measures to ensure that the Telephone Consumer Protection Act (TCPA) rules that govern robocalls continue to evolve with changes in technology and industry practices. Specifically, we seek comment on reducing the timeframe callers must honor revocation requests, requirements for two- way texting functionality, requiring a revoke all method, and the treatment of affiliates.
+- **Certain Small Vertical Shaft Engines Between 99cc and up to 225cc, and Parts Thereof From the People's Republic of China: Continuation of Antidumping and Countervailing Duty Orders**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21819/certain-small-vertical-shaft-engines-between-99cc-and-up-to-225cc-and-parts-thereof-from-the-peoples
+  - Commerce Department, International Trade Administration — Notice — As a result of the determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC) that revocation of the antidumping duty (AD) and countervailing duty (CVD) orders on certain small vertical shaft engines between 99cc and 225cc, and parts thereof (small vertical engines) from the People's Republic of China (China) would likely lead to the continuation or recurrence of dumping, counte
+- **Space Modernization for the 21st Century**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21818/space-modernization-for-the-21st-century
+  - Federal Communications Commission — Proposed Rule — In this document, the Federal Communications Commission (Commission or we) adopts a Further Notice of Proposed Rulemaking (FNPRM) that seeks comment on and/or proposes additional reforms.
+- **Establishment of Class E Airspace; Canton, IL**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21817/establishment-of-class-e-airspace-canton-il
+  - Transportation Department, Federal Aviation Administration — Rule — This action establishes Class E airspace at Graham Hospital Heliport, Canton, IL. This action supports new instrument procedures and instrument flight rule (IFR) operations.
+- **Center for Scientific Review; Notice of Closed Meetings**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21816/center-for-scientific-review-notice-of-closed-meetings
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Eunice Kennedy Shriver National Institute of Child Health & Human Development; Notice of Meeting**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21815/eunice-kennedy-shriver-national-institute-of-child-health-and-human-development-notice-of-meeting
+  - Health and Human Services Department, National Institutes of Health — Notice
 
 ## gao
 - **State Department: Standards for Overseas Housing Need Review [Reissued with revisions on Oct. 21, 2026]**
@@ -169,52 +169,73 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-10-27T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11042843/greenstein-v-thomas/
   - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **Charles Dean Coverdale and Mary Elizabeth Coverdale v. Sylvan Acres Homeowners Association, Inc., and Thomas Leschak**
+- **Andrew Perry v. Dordt University**
   - when: 2026-10-23T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11043617/charles-dean-coverdale-and-mary-elizabeth-coverdale-v-sylvan-acres/
-  - COURT OF CHANCERY OF THE STATE OF DELAWARE COURT OF CHANCERY COURTHOUSE CAROLINE C. BRITTINGHAM 34 THE CIRCLE MAGISTRATE IN CHANCERY GEORGETOWN, DE 19947 October 22, 2026 Dean A. Campbell, Esquire Original document
-- **Robert Alan Schaefer v. State of Florida**
-  - when: 2026-10-22T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11042976/robert-alan-schaefer-v-state-of-florida/
-  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-3423 LT Case No. 2025-CF-000092-A _____________________________ ROBERT ALAN SCHAEFER, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Citrus County. Joel D. Fritton, Judge. Matthew J. Metz, Public Defender, and Original document
-- **Tavanese v. State of Florida**
-  - when: 2026-10-22T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11043024/tavanese-v-state-of-florida/
-  - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2026-1140 _____________________________ JAMES TAVANESE, Petitioner, v. STATE OF FLORIDA, Respondent. _____________________________ Petition for Writ of Mandamus—Original Proceedings. October 22, 2026 PER CURIAM. DISMISSED. RAY, BILBREY, and WINOKUR, JJ., concur Original document
-- **Janof v. Auto Warehouse**
-  - when: 2026-10-22T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11043193/janof-v-auto-warehouse/
-  - Janof v Auto Warehouse 2026 NY Slip Op 06189 October 22, 2026 Appellate Division, Third Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Richard Janof, Respondent- Appellant, v Auto Warehouse et al., Defendants, and BMW of North America, LLC, et al., Appellants- Respondents. Decided and Entered:October 22, 2026 CV-25-0985 Calendar Date: August 19, 2026 Original document
-- **U.S. Bank N.A. v. Sukljian**
-  - when: 2026-10-22T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11043159/us-bank-na-v-sukljian/
-  - U.S. Bank N.A. v Sukljian 2026 NY Slip Op 06191 October 22, 2026 Appellate Division, Third Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. U.S. Bank National Association, as Trustee, Respondent, v Moses Sukljian, Appellant, et al., Defendants. Decided and Entered:October 22, 2026 CV-25-1318 Calendar Date: September 17, 2026 Before: Clark, J.P., Ceresia Original document
-- **Desai v. Ninety Five Wall St. LLC**
-  - when: 2026-10-22T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11043341/desai-v-ninety-five-wall-st-llc/
-  - Desai v Ninety Five Wall St. LLC 2026 NY Slip Op 06198 October 22, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Sagar Desai, Plaintiff-Appellant, v Ninety Five Wall Street LLC et al., Defendants-Respondents. Decided and Entered: October 22, 2026 Index No. 653312/24|Appeal No. 7317|Case No. 2025-05992| Before: Manzanet-Daniels Original document
-- **Manuel Garcia v. the Bank of New York Mellon, Etc.**
-  - when: 2026-10-22T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11042972/manuel-garcia-v-the-bank-of-new-york-mellon-etc/
-  - Third District Court of Appeal State of Florida Opinion filed October 22, 2026. Not final until disposition of timely filed motion for rehearing. ________________ No. 3D25-0090 Lower Tribunal No. 18-CA-1408-K ________________ Manuel Garcia, et al., Appellants, Original document
-- **Cromartie v. State of Florida**
-  - when: 2026-10-22T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11042970/cromartie-v-state-of-florida/
-  - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2026-0028 _____________________________ ANTHONY JEROME CROMARTIE, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the County Court for Escambia County. Kerra A. Smith, Judge. October 22, 2026 PER CURIAM. AFFIRMED. LEWIS, KELSEY Original document
-- **Gilbert v. Powers**
-  - when: 2026-10-22T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11043339/gilbert-v-powers/
-  - Gilbert v Powers 2026 NY Slip Op 06200 October 22, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Stephen Gilbert, etc., et al., Plaintiffs-Appellants, v Sandra Powers, etc., et al., Defendants-Respondents. Decided and Entered: October 22, 2026 Index No. 650374/23|Appeal No. 6216|Case No. 2025-05811| Before: Manzanet-Daniels Original document
-- **Door Factory, Inc. and Eduard Sikar v. PCHR Development, Inc. and Serguei Zakrepine**
-  - when: 2026-10-22T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11043049/door-factory-inc-and-eduard-sikar-v-pchr-development-inc-and-serguei/
-  - DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA FOURTH DISTRICT DOOR FACTORY, INC. and EDUARD SIKAR, Appellants, v. PCHR DEVELOPMENT, INC. and SERGUEI ZAKREPINE, Appellees. No. 4D2026-0259 [October 22, 2026] Appeal from the Circuit Court for the Seventeenth Judicial Circuit, Broward County; Keathan Original document
-- **Joshua Fonollosa v. American Integrity Insurance Company of Florida**
-  - when: 2026-10-22T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11042973/joshua-fonollosa-v-american-integrity-insurance-company-of-florida/
-  - Third District Court of Appeal State of Florida Opinion filed October 22, 2026. Not final until disposition of timely filed motion for rehearing. ________________ No. 3D24-1777 Lower Tribunal No. 14-21984-CA-01 ________________ Joshua Fonollosa, et al., Appellants, Original document
+  - url: https://www.courtlistener.com/opinion/11043854/andrew-perry-v-dordt-university/
+  - In the Iowa Supreme Court No. 25–1608 Submitted September 15, 2026—Filed October 23, 2026 Andrew Perry, Appellant, vs. Dordt University, Appellee. Appeal from the Iowa District Court for Sioux County, Robert D. Tiefenthaler, judge. Original document
+- **Lawrence v. State of Florida**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11043976/lawrence-v-state-of-florida/
+  - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2026-0280 _____________________________ WAYNE L LAWRENCE, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Alachua County. James M. Colaw, Judge. October 23, 2026 PER CURIAM. AFFIRMED. OSTERHAUS, C.J., and Original document
+- **E. Bay Co. v. Baxley**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044425/e-bay-co-v-baxley/
+  - IN THE SUPREME COURT OF NORTH CAROLINA No. 40PA25 Filed 23 October 2026 EAST BAY COMPANY, LTD. v. BRANDON SCOTT BAXLEY On discretionary review pursuant to N.C.G.S. § 7A-31 of a unanimous decision of the Court of Appeals, 296 N.C. App. 444 (2024), affirming an order dismissing plaintiff’s action entered on 8 February 2023 by Judge Keith O. Gregory in Superior Court, Wake County. Heard in the Supreme Court Original document
+- **Giselle Guzman v. State of Florida**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044376/giselle-guzman-v-state-of-florida/
+  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2024-2509 Lower Tribunal No. 2022-CF-002140 _____________________________ GISELLE GUZMAN, Appellant, v. STATE OF FLORIDA Original document
+- **Beachcomber, LLC v. Hans Bilben, Philip Brna, George Krier, Lawrence Oliver, Shirley Gruber, Todd Bareman, Joseph Sparkman, Vickey Hodnik, Gary Cutlip, John Girton, Linda Bruce, Steve Thompson, Lynn Whitmore, Donald Horton, Lori Horton, James Gorman, Linda Stevens, Gary Sheridan, Eileen Sheridan, Thomas Brook, Joshua Elmaleh, Christine Elmaleh, Angela Roland, Michael Brantley, Teresa Jacobson, David Gregory, Pete Kineen, Lauren Isenhour, Allison Paparoa, Danica High, Gina Debardelaben, Ann G. Cline, Richard Cline, Linda Patrick, Mike Patrick, Marie J. Carlton, Richard D. Carlton, Donald L. Horton III, Xochitl Lopez-Ayala, Jeanne Bilben, Araya Oliver, and Kenai Peninsula Borough**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044689/beachcomber-llc-v-hans-bilben-philip-brna-george-krier-lawrence/
+  - 2026 WL 3179609Only the Westlaw citation is currently available.NOTICE: THIS DECISION DOES NOT SERVE AS PRECEDENT. THE CASE WAS ENTERED IN THE WESTLAW DATABASE BEFORE THE TIME FOR REHEARING HAD EXPIRED. IT IS POSSIBLE THAT REHEARING HAS BEEN SOUGHT, GRANTED OR DENIED.Supreme Court of Alaska.BEACHCOMBER, LLC, Appellant,v.HANS BILBEN, PHILIP BRNA, GEORGE KRIER, LAWRENCE OLIVER, SHIRLEY GRUBER, TODD BAREMAN, JOSEPH SPARKMAN, VICKEY HODNIK, GARY CUTLIP, JOHN GIRTON, LINDA BRUCE, STEVE THOMPSON, LYNN Original document
+- **State v. Dawson**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044465/state-v-dawson/
+  - [Cite as State v. Dawson, 2026-Ohio-4190.] IN THE COURT OF APPEALS FIRST APPELLATE DISTRICT OF OHIO HAMILTON COUNTY, OHIO STATE OF OHIO, : APPEAL NO. C-260052 TRIAL NO. 24/CRB/19453 Plaintiff-Appellee, : vs. : Original document
+- **The Morehouse School of Medicine Inc v. James Gregory Howell, Jr**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044655/the-morehouse-school-of-medicine-inc-v-james-gregory-howell-jr/
+  - Court of Appeals of the State of Georgia ATLANTA, October 23, 2026 The Court of Appeals hereby passes the following order A27I0071. THE MOREHOUSE SCHOOL OF MEDICINE INC v. JAMES GREGORY HOWELL, JR. Upon consideration of the Application for Interlocutory Appeal, it is ordered that it be hereby GRANTED. The Appellant may file a Notice of Appeal within 10 days of the date of this order. The Clerk of Superior Court is directed Original document
+- **United States v. Rosario-Orangel**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044735/united-states-v-rosario-orangel/
+  - United States Court of Appeals For the First Circuit Nos. 20-1275, 20-1276, 20-1283 UNITED STATES OF AMERICA, Appellee, v. EDUARDO ROSARIO-ORANGEL, a/k/a Barba, a/k/a Cholon; AVELINO MILLÁN-MACHUCA, a/k/a Papito Machuca, a/k/a El Fuerte, a/k/a Viejo, a/k/a Gordo; LUIS H. QUIÑONES-SANTIAGO, a/k/a Hiram, Defendants, Appellants. APPEALS Original document
+- **Kimber v. Cook County Health and Hospitals System**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044552/kimber-v-cook-county-health-and-hospitals-system/
+  - 2026 IL App (1st) 251091 No. 1-25-1091 SIXTH DIVISION October 23, 2026 ______________________________________________________________________________ IN THE APPELLATE COURT Original document
+- **State v. Gilroy**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044594/state-v-gilroy/
+  - NOT FOR PUBLICATION IN WEST&#x27;S HAWAI#I REPORTS AND PACIFIC REPORTER Electronically Filed Intermediate Court of Appeals CAAP-XX-XXXXXXX 23-OCT-2026 07:50 AM Dkt. 84 SO Original document
+- **Iqvia Holdings Inc. v. Panagos**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044033/iqvia-holdings-inc-v-panagos/
+  - IQVIA Holdings Inc. v. Panagos, 2026 NCBC 81. STATE OF NORTH CAROLINA IN THE GENERAL COURT OF JUSTICE SUPERIOR COURT DIVISION WAKE COUNTY 26CV009791-910 IQVIA HOLDINGS INC. and IQVIA RDS, INC., Plaintiffs, ORDER AND OPINION ON v. DEFENDANTS’ MOTION TO Original document
 
 ## uk-legislation
+- **The Air Navigation (Restriction of Flying) (Plymouth, Devon) (Emergency) (Revocation) Regulations 2026**
+  - when: 2026-10-23T16:37:23+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1123
+- **<div xmlns="http://www.w3.org/1999/xhtml">
+						<span xml:lang="en">The School Teachers’ Pay and Conditions (No. 2) (Wales) Order 2026</span> / <span xml:lang="cy">Gorchymyn Cyflog ac Amodau Athrawon Ysgol (Rhif 2) (Cymru) 2026</span>
+					</div>**
+  - when: 2026-10-23T09:35:17+01:00
+  - url: http://www.legislation.gov.uk/id/wsi/2026/129
+  - This Order makes provision for the determination of the remuneration of school teachers in Wales and other conditions of their employment which relate to their professional duties or working time. Mae’r Gorchymyn hwn yn gwneud darpariaeth ar gyfer penderfynu’r tâl ar gyfer athrawon ysgol yng Nghymru ac amodau eraill eu cyflogaeth sy’n ymwneud â’u dyletswyddau proffesiynol neu eu hamser gweithio.
+- **The Argyll and Bute Council (Oban) Harbour Revision Order 2026**
+  - when: 2026-10-23T09:12:46+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/287
+  - This Order updates the existing legislation for Oban harbour in line with the current needs of Argyll and Bute Council as the harbour authority for Oban harbour and Oban harbour users from the date it comes into force.
+- **The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) (Amendment) Regulations 2026**
+  - when: 2026-10-23T09:11:05+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1111
+  - These Regulations amend the Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) Regulations 2026 (S.I. 2026/960 (“the No. 3 Regulations”).
+- **The Power to Award Degrees etc. (MLA College Ltd) Order 2026**
+  - when: 2026-10-23T09:11:13+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1109
+  - This Order authorises MLA College Ltd (UKRPN: 10049370) to grant taught awards up to and including master’s level for subjects related to engineering and technology, business and management, and geography, earth and environmental studies, including but not limited to the subjects specified in the Schedule. The authorisation is for a fixed term beginning on 25th October 2026 and expiring at the end of the day on 24th October 2030.
 - **The Marine Licensing (Exempted Activities and Fees) (Amendment) Regulations 2026**
   - when: 2026-10-22T16:55:54+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1110
@@ -241,23 +262,3 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
 - **The Air Navigation (Restriction of Flying) (RAF Fairford, Gloucestershire) (Emergency) (Revocation) Regulations 2026**
   - when: 2026-10-22T11:20:17.254913+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1114
-- **<div xmlns="http://www.w3.org/1999/xhtml">
-						<span xml:lang="en">The Senedd Cymru (Member Accountability and Elections) Act 2026 (Commencement No. 1) Order 2026</span> / <span xml:lang="cy">Gorchymyn Deddf Senedd Cymru (Atebolrwydd Aelodau ac Etholiadau) 2026 (Cychwyn Rhif 1) 2026</span>
-					</div>**
-  - when: 2026-10-22T11:50:45+01:00
-  - url: http://www.legislation.gov.uk/id/wsi/2026/128
-  - This Order is the first commencement order made by the Welsh Ministers under the Senedd Cymru (Member Accountability and Elections) Act 2026 (“the Act”). Y Gorchymyn hwn yw’r gorchymyn cychwyn cyntaf sydd wedi ei wneud gan Weinidogion Cymru o dan Ddeddf Senedd Cymru (Atebolrwydd Aelodau ac Etholiadau) 2026 (“y Ddeddf”).
-- **The Employer’s Liability (Compulsory Insurance) (Amendment) Regulations (Northern Ireland) 2026**
-  - when: 2026-10-22T11:25:05+01:00
-  - url: http://www.legislation.gov.uk/id/nisr/2026/183
-  - These Regulations amend the Employer’s Liability (Compulsory Insurance) Regulations (Northern Ireland) 1999 (“the 1999 Regulations”). The 1999 Regulations specify employers who are exempted from the requirements of Part III of the Employer’s Liability (Defective Equipment and Compulsory Insurance) (Northern Ireland) Order 1972 (“the 1972 Order”) to insure and maintain insurance against liability for personal injury suffered by their employees and arising out of and in the course of their employm
-- **The Social Fund (Child Funeral Fund) (No. 2) (Amendment) Regulations (Northern Ireland) 2026**
-  - when: 2026-10-22T11:19:59+01:00
-  - url: http://www.legislation.gov.uk/id/nisr/2026/182
-  - These Regulations will prevent double payments by allowing a Child Funeral Fund payment to be refused where payment has already been made from a Health and Social Care Trust.
-- **The Air Navigation (Restriction of Flying) (Plymouth, Devon) (Emergency) Regulations 2026**
-  - when: 2026-10-21T16:54:56+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1112
-- **The Air Navigation (Restriction of Flying) (Drymen, Stirling, Scotland) (Emergency) (Revocation) Regulations 2026**
-  - when: 2026-10-21T16:54:51.138673+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1113

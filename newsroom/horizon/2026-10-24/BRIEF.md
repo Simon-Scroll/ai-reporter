@@ -1,0 +1,264 @@
+# Horizon brief — 2026-10-24
+
+Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
+
+## sec-edgar
+- **4 - Ruddy Jordan B. (0001575426) (Reporting)**
+  - when: 2026-10-23T21:34:10-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1575426/000139834426018733/0001398344-26-018733-index.htm
+  - Filed: 2026-10-23 AccNo: 0001398344-26-018733 Size: 5 KB
+- **4 - Bluerock Private Real Estate Fund (0001551047) (Issuer)**
+  - when: 2026-10-23T21:34:10-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1551047/000139834426018733/0001398344-26-018733-index.htm
+  - Filed: 2026-10-23 AccNo: 0001398344-26-018733 Size: 5 KB
+- **SCHEDULE 13D/A - Simpson Andrew (0001933883) (Filed by)**
+  - when: 2026-10-23T21:30:09-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1933883/000121390026112224/0001213900-26-112224-index.htm
+  - Filed: 2026-10-23 AccNo: 0001213900-26-112224 Size: 20 KB
+- **SCHEDULE 13D/A - HeartSciences Inc. (0001468492) (Subject)**
+  - when: 2026-10-23T21:30:09-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1468492/000121390026112224/0001213900-26-112224-index.htm
+  - Filed: 2026-10-23 AccNo: 0001213900-26-112224 Size: 20 KB
+- **4 - Sheena Jonathan (0001646649) (Reporting)**
+  - when: 2026-10-23T21:25:04-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1646649/000164664926000035/0001646649-26-000035-index.htm
+  - Filed: 2026-10-23 AccNo: 0001646649-26-000035 Size: 20 KB
+- **4 - Natera, Inc. (0001604821) (Issuer)**
+  - when: 2026-10-23T21:25:04-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604821/000164664926000035/0001646649-26-000035-index.htm
+  - Filed: 2026-10-23 AccNo: 0001646649-26-000035 Size: 20 KB
+- **4 - Adair Kathleen Theresa (0002160363) (Reporting)**
+  - when: 2026-10-23T21:24:50-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2160363/000216036326000004/0002160363-26-000004-index.htm
+  - Filed: 2026-10-23 AccNo: 0002160363-26-000004 Size: 39 KB
+- **4 - Nature's Miracle Holding Inc. (0001947861) (Issuer)**
+  - when: 2026-10-23T21:24:50-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1947861/000216036326000004/0002160363-26-000004-index.htm
+  - Filed: 2026-10-23 AccNo: 0002160363-26-000004 Size: 39 KB
+- **4 - Firy Inc. (0001801661) (Issuer)**
+  - when: 2026-10-23T20:46:18-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1801661/000180166126000126/0001801661-26-000126-index.htm
+  - Filed: 2026-10-23 AccNo: 0001801661-26-000126 Size: 11 KB
+- **4 - VALLI TODD A. (0001652921) (Reporting)**
+  - when: 2026-10-23T20:46:18-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1652921/000180166126000126/0001801661-26-000126-index.htm
+  - Filed: 2026-10-23 AccNo: 0001801661-26-000126 Size: 11 KB
+- **4 - Pershing Edward (0001689739) (Reporting)**
+  - when: 2026-10-23T20:34:56-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1689739/000149315226048321/0001493152-26-048321-index.htm
+  - Filed: 2026-10-23 AccNo: 0001493152-26-048321 Size: 9 KB
+- **4 - PROVECTUS BIOPHARMACEUTICALS, INC. (0000315545) (Issuer)**
+  - when: 2026-10-23T20:34:56-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/315545/000149315226048321/0001493152-26-048321-index.htm
+  - Filed: 2026-10-23 AccNo: 0001493152-26-048321 Size: 9 KB
+
+## federal-register
+- **Self-Regulatory Organizations; MIAX PEARL, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the MIAX Pearl Equities Fee Schedule**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21837/self-regulatory-organizations-miax-pearl-llc-notice-of-filing-and-immediate-effectiveness-of-a
+  - Securities and Exchange Commission — Notice
+- **Wyoming Regulatory Program**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21835/wyoming-regulatory-program
+  - Interior Department, Surface Mining Reclamation and Enforcement Office — Rule — The Office of Surface Mining Reclamation and Enforcement (OSM), are approving an amendment to the Wyoming regulatory program (Wyoming program) under the Surface Mining Control and Reclamation Act of 1977 (SMCRA or the Act). The Wyoming Land Quality Division (WLQD) submitted this proposed amendment in response to our January 19, 2024 partial approval of an amendment to WLQD's regulations for coal exploration by drilli
+- **Sunshine Act Meetings**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21825/sunshine-act-meetings
+  - Equal Employment Opportunity Commission — Notice
+- **Senior Executive Service (SES) Performance Review Board; Notice of Membership**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21823/senior-executive-service-ses-performance-review-board-notice-of-membership
+  - National Foundation on the Arts and the Humanities, National Endowment for the Arts — Notice — This notice announces the appointment of members to the Performance Review Board (PRB) for the National Endowment for the Arts (NEA). The PRB is responsible for reviewing the performance appraisals of Senior Executive Service (SES) members and making recommendations regarding performance ratings, pay adjustments, and bonuses to ensure consistency, fairness, and adherence to Office of Personnel Manageme
+- **Submission for OMB Review; Comment Request**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21822/submission-for-omb-review-comment-request
+  - Agriculture Department — Notice
+- **Enhancing the Ability of Consumers To Control the Robocalls**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21821/enhancing-the-ability-of-consumers-to-control-the-robocalls
+  - Federal Communications Commission — Rule — In this document, the Federal Communications Commission (Commission) modifies rules to ensure that consumers can revoke consent for robocalls they no longer wish to receive while continuing to receive those they still want. We also modernize our rules to ensure that consumers have clear, simple, and automated ways to revoke consent while streamlining callers' ability to process revocations. Specifically, we allow callers to interpret a revocation reques
+- **Modernizing the Ability of Consumers To Control Robocalls**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21820/modernizing-the-ability-of-consumers-to-control-robocalls
+  - Federal Communications Commission — Proposed Rule — In this document, the Commission seeks comment on measures to ensure that the Telephone Consumer Protection Act (TCPA) rules that govern robocalls continue to evolve with changes in technology and industry practices. Specifically, we seek comment on reducing the timeframe callers must honor revocation requests, requirements for two- way texting functionality, requiring a revoke all method, and the treatment of affiliates.
+- **Certain Small Vertical Shaft Engines Between 99cc and up to 225cc, and Parts Thereof From the People's Republic of China: Continuation of Antidumping and Countervailing Duty Orders**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21819/certain-small-vertical-shaft-engines-between-99cc-and-up-to-225cc-and-parts-thereof-from-the-peoples
+  - Commerce Department, International Trade Administration — Notice — As a result of the determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC) that revocation of the antidumping duty (AD) and countervailing duty (CVD) orders on certain small vertical shaft engines between 99cc and 225cc, and parts thereof (small vertical engines) from the People's Republic of China (China) would likely lead to the continuation or recurrence of dumping, counte
+- **Space Modernization for the 21st Century**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21818/space-modernization-for-the-21st-century
+  - Federal Communications Commission — Proposed Rule — In this document, the Federal Communications Commission (Commission or we) adopts a Further Notice of Proposed Rulemaking (FNPRM) that seeks comment on and/or proposes additional reforms.
+- **Establishment of Class E Airspace; Canton, IL**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21817/establishment-of-class-e-airspace-canton-il
+  - Transportation Department, Federal Aviation Administration — Rule — This action establishes Class E airspace at Graham Hospital Heliport, Canton, IL. This action supports new instrument procedures and instrument flight rule (IFR) operations.
+- **Center for Scientific Review; Notice of Closed Meetings**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21816/center-for-scientific-review-notice-of-closed-meetings
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Eunice Kennedy Shriver National Institute of Child Health & Human Development; Notice of Meeting**
+  - when: 2026-10-26
+  - url: https://www.federalregister.gov/documents/2026/10/26/2026-21815/eunice-kennedy-shriver-national-institute-of-child-health-and-human-development-notice-of-meeting
+  - Health and Human Services Department, National Institutes of Health — Notice
+
+## gao
+- **State Department: Standards for Overseas Housing Need Review [Reissued with revisions on Oct. 21, 2026]**
+  - when: Mon, 10 Aug 2026 07:28:52 -0400
+  - url: https://www.gao.gov/products/gao-26-107965
+  - pdf: https://www.gao.gov/assets/gao-26-107965.pdf
+  - What GAO Found The Department of State last updated its standards for overseas housing space in 1991, according to State officials. Those standards may no longer align with State’s goal of providing Foreign Service personnel living abroad with housing comparable to the Washington, D.C., metropolitan area. In the last 35 years, median housing costs in the Washington, D.C., area have increased at a faster rate than Foreign Service personnel salaries. In addition, State’s method for measuring over
+- **Nuclear Waste: Future Land Use Planning at Selected DOE Cleanup Sites**
+  - when: Fri, 16 Oct 2026 09:42:29 -0400
+  - url: https://www.gao.gov/products/gao-27-108063
+  - pdf: https://www.gao.gov/assets/gao-27-108063.pdf
+  - What GAO Found The Department of Energy (DOE) created initial future land use plans in coordination with local communities as early as 1992 at six cleanup sites GAO selected for review. These plans inform but do not bind assumptions about future land use that DOE and regulators make when selecting a cleanup remedy at a site. The remedy selected during the cleanup process has lasting consequences for how a parcel of land can be used, even after DOE transfers or leases it to another federal agenc
+- **Critical Minerals: Limited Available Information on the Full Extent of Foreign Investment in Mining on Federal Lands**
+  - when: Fri, 16 Oct 2026 07:40:00 -0400
+  - url: https://www.gao.gov/products/gao-27-108094
+  - pdf: https://www.gao.gov/assets/gao-27-108094.pdf
+  - What GAO Found The U.S critical mineral supply chain faces numerous constraints, including the need for substantial capital investment and limited domestic processing capacity. The U.S. exports large quantities of domestically extracted ore to Canada, Mexico, and China, among other countries. Copper Mine on Federal Lands The Bureau of Land Management (BLM) and the Forest Service oversee hardrock mines on federal land. As of February 2026, there were 632 approved hardrock mining plans of ope
+- **Research Security: NIH Action Needed to Strengthen Foreign Interference Risk Management**
+  - when: Fri, 16 Oct 2026 08:13:12 -0400
+  - url: https://www.gao.gov/products/gao-27-107848
+  - pdf: https://www.gao.gov/assets/gao-27-107848.pdf
+  - What GAO Found The National Institutes of Health (NIH) funds extramural research through awards to universities and other institutions. Implementation of federal research security requirements helps safeguard this research from foreign interference, including misappropriation and unauthorized access by foreign countries and entities. NIH implemented 14 of the 15 federal research security requirements GAO reviewed that address: (1) disclosure, (2) malign foreign talent recruitment programs, (3)
+- **Federal Real Property: New Occupancy Data Help Agencies Shed Unneeded Office Space But Gaps Limit the Full Picture**
+  - when: Fri, 16 Oct 2026 07:18:45 -0400
+  - url: https://www.gao.gov/products/gao-27-108503
+  - pdf: https://www.gao.gov/assets/gao-27-108503.pdf
+  - What GAO Found Under the Utilizing Space Efficiently and Improving Technologies (USE IT) Act, enacted in January 2025, federal agencies are now required to collect and report occupancy data. This data is used to calculate utilization rates for agencies’ office space in federally owned buildings and leased locations. While 20 of the 23 agencies that responded to GAO’s survey reported using existing badging systems for this purpose, 16 of these 20 agencies reported supplementing that information
+- **Tax Filing: IRS Should Enhance Ghost Preparer Identification and Compliance Efforts in a Comprehensive Preparer Strategy**
+  - when: Fri, 16 Oct 2026 07:28:51 -0400
+  - url: https://www.gao.gov/products/gao-27-108176
+  - pdf: https://www.gao.gov/assets/gao-27-108176.pdf
+  - What GAO Found Ghost preparers are paid tax preparers who do not comply with requirements to identify themselves on tax returns they prepare for others. Ghost preparers may intentionally leave identifying information off to get away with filing fraudulent income tax returns, stealing taxpayers’ refunds, and stealing taxpayers’ identities. Courts have ordered individual ghost preparers to pay millions in restitution to the government, but according to Internal Revenue Service (IRS) officials, th
+- **National Security: FBI Should Strengthen Partnerships to Combat Non-Traditional Intelligence Collectors**
+  - when: Fri, 16 Oct 2026 07:28:08 -0400
+  - url: https://www.gao.gov/products/gao-27-109057
+  - pdf: https://www.gao.gov/assets/gao-27-109057.pdf
+  - What GAO Found According to the Federal Bureau of Investigation (FBI), non-traditional intelligence collectors (NTCs) are individuals whose primary profession is not intelligence collection, but who actively or passively collect sensitive U.S. information on behalf of foreign entities. For example, researchers and students at universities may act as NTCs if they collect non-public research on behalf of a foreign entity. According to the FBI, unlike intelligence officers, NTCs function independe
+- **Nuclear Waste: Addressing Legal and Regulatory Barriers Could Accelerate Cleanup and Reduce Costs**
+  - when: Fri, 16 Oct 2026 08:05:50 -0400
+  - url: https://www.gao.gov/products/gao-27-107791
+  - pdf: https://www.gao.gov/assets/gao-27-107791.pdf
+  - What GAO Found The Department of Energy’s (DOE) nuclear waste cleanup is proceeding largely under three laws that set cleanup and waste management requirements. Each law has different requirements, applications, and regulators. Selected Cleanup and Waste Management Laws and Regulators for the Department of Energy’s (DOE) Nuclear Waste Cleanup GAO and experts GAO convened with the National Academies of Sciences, Engineering, and Medicine identified several legal and regulatory factors that a
+- **Textile Circular Economy: Policy Options for the U.S.**
+  - when: Fri, 16 Oct 2026 09:35:25 -0400
+  - url: https://www.gao.gov/products/gao-27-108142
+  - pdf: https://www.gao.gov/assets/gao-27-108142.pdf
+  - What GAO Found Developing a textile circular economy includes repairing, reusing, and recycling textiles and making them last longer. Example of a Circular Economy for Textiles In the U.S., a textile circular economy may create potential benefits and involve challenges, according to reports by federal agencies and organizations and stakeholder interviews. Potential benefits could include creating new jobs and markets related to textile repair and recycling, reducing environmental harm, and
+- **Service Member Records: DOD Needs to Address Improper and Delayed Releasing of Personnel and Health Information**
+  - when: Fri, 16 Oct 2026 10:40:46 -0400
+  - url: https://www.gao.gov/products/gao-27-107784
+  - pdf: https://www.gao.gov/assets/gao-27-107784.pdf
+  - What GAO Found Service members can accrue a large volume of personnel and health records during their military careers. The custodians of these records are the Department of Defense (DOD) and the Department of Veterans Affairs. DOD and the military services developed policies and procedures to properly adhere to federal laws for safeguarding records and timely processing records requests. However, the risk of breaches and delays exists. For example, GAO covertly tested 26 requests for records f
+- **National Nuclear Security Administration: Reductions to Federal Workforce**
+  - when: Fri, 16 Oct 2026 07:24:19 -0400
+  - url: https://www.gao.gov/products/gao-27-109127
+  - pdf: https://www.gao.gov/assets/gao-27-109127.pdf
+  - What GAO Found The National Nuclear Security Administration (NNSA) oversees a $25 billion annual budget and approximately 70,000 management and operating contractor personnel to maintain the U.S. nuclear weapons stockpile and nuclear nonproliferation efforts. NNSA took steps to build its federal workforce to meet mission needs in 2024, with its workforce peaking at 1,991 early in fiscal year 2025. However, since then through the second quarter of fiscal year 2026, NNSA has reduced its federal w
+- **Geostationary Weather Satellites: Next Generation Program Challenges Put Vital Observations at Risk**
+  - when: Fri, 16 Oct 2026 08:45:07 -0400
+  - url: https://www.gao.gov/products/gao-26-107739
+  - pdf: https://www.gao.gov/assets/gao-26-107739.pdf
+  - What GAO Found The National Oceanic and Atmospheric Administration (NOAA) initially planned for the Geostationary Extended Observations (GeoXO) program to be a series of six satellites with a projected lifecycle cost of $19.6 billion. In August 2025, Commerce directed the GeoXO program office to implement a major restructuring to reduce lifecycle costs, and in April 2026 Commerce approved the program’s new baseline. This new baseline reduces the number of satellites from six to four, decreases
+
+## courtlistener
+- **Greenstein v. Thomas**
+  - when: 2026-10-27T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11042843/greenstein-v-thomas/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **Andrew Perry v. Dordt University**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11043854/andrew-perry-v-dordt-university/
+  - In the Iowa Supreme Court No. 25–1608 Submitted September 15, 2026—Filed October 23, 2026 Andrew Perry, Appellant, vs. Dordt University, Appellee. Appeal from the Iowa District Court for Sioux County, Robert D. Tiefenthaler, judge. Original document
+- **Lawrence v. State of Florida**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11043976/lawrence-v-state-of-florida/
+  - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2026-0280 _____________________________ WAYNE L LAWRENCE, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Alachua County. James M. Colaw, Judge. October 23, 2026 PER CURIAM. AFFIRMED. OSTERHAUS, C.J., and Original document
+- **E. Bay Co. v. Baxley**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044425/e-bay-co-v-baxley/
+  - IN THE SUPREME COURT OF NORTH CAROLINA No. 40PA25 Filed 23 October 2026 EAST BAY COMPANY, LTD. v. BRANDON SCOTT BAXLEY On discretionary review pursuant to N.C.G.S. § 7A-31 of a unanimous decision of the Court of Appeals, 296 N.C. App. 444 (2024), affirming an order dismissing plaintiff’s action entered on 8 February 2023 by Judge Keith O. Gregory in Superior Court, Wake County. Heard in the Supreme Court Original document
+- **Giselle Guzman v. State of Florida**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044376/giselle-guzman-v-state-of-florida/
+  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2024-2509 Lower Tribunal No. 2022-CF-002140 _____________________________ GISELLE GUZMAN, Appellant, v. STATE OF FLORIDA Original document
+- **Beachcomber, LLC v. Hans Bilben, Philip Brna, George Krier, Lawrence Oliver, Shirley Gruber, Todd Bareman, Joseph Sparkman, Vickey Hodnik, Gary Cutlip, John Girton, Linda Bruce, Steve Thompson, Lynn Whitmore, Donald Horton, Lori Horton, James Gorman, Linda Stevens, Gary Sheridan, Eileen Sheridan, Thomas Brook, Joshua Elmaleh, Christine Elmaleh, Angela Roland, Michael Brantley, Teresa Jacobson, David Gregory, Pete Kineen, Lauren Isenhour, Allison Paparoa, Danica High, Gina Debardelaben, Ann G. Cline, Richard Cline, Linda Patrick, Mike Patrick, Marie J. Carlton, Richard D. Carlton, Donald L. Horton III, Xochitl Lopez-Ayala, Jeanne Bilben, Araya Oliver, and Kenai Peninsula Borough**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044689/beachcomber-llc-v-hans-bilben-philip-brna-george-krier-lawrence/
+  - 2026 WL 3179609Only the Westlaw citation is currently available.NOTICE: THIS DECISION DOES NOT SERVE AS PRECEDENT. THE CASE WAS ENTERED IN THE WESTLAW DATABASE BEFORE THE TIME FOR REHEARING HAD EXPIRED. IT IS POSSIBLE THAT REHEARING HAS BEEN SOUGHT, GRANTED OR DENIED.Supreme Court of Alaska.BEACHCOMBER, LLC, Appellant,v.HANS BILBEN, PHILIP BRNA, GEORGE KRIER, LAWRENCE OLIVER, SHIRLEY GRUBER, TODD BAREMAN, JOSEPH SPARKMAN, VICKEY HODNIK, GARY CUTLIP, JOHN GIRTON, LINDA BRUCE, STEVE THOMPSON, LYNN Original document
+- **State v. Dawson**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044465/state-v-dawson/
+  - [Cite as State v. Dawson, 2026-Ohio-4190.] IN THE COURT OF APPEALS FIRST APPELLATE DISTRICT OF OHIO HAMILTON COUNTY, OHIO STATE OF OHIO, : APPEAL NO. C-260052 TRIAL NO. 24/CRB/19453 Plaintiff-Appellee, : vs. : Original document
+- **The Morehouse School of Medicine Inc v. James Gregory Howell, Jr**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044655/the-morehouse-school-of-medicine-inc-v-james-gregory-howell-jr/
+  - Court of Appeals of the State of Georgia ATLANTA, October 23, 2026 The Court of Appeals hereby passes the following order A27I0071. THE MOREHOUSE SCHOOL OF MEDICINE INC v. JAMES GREGORY HOWELL, JR. Upon consideration of the Application for Interlocutory Appeal, it is ordered that it be hereby GRANTED. The Appellant may file a Notice of Appeal within 10 days of the date of this order. The Clerk of Superior Court is directed Original document
+- **United States v. Rosario-Orangel**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044735/united-states-v-rosario-orangel/
+  - United States Court of Appeals For the First Circuit Nos. 20-1275, 20-1276, 20-1283 UNITED STATES OF AMERICA, Appellee, v. EDUARDO ROSARIO-ORANGEL, a/k/a Barba, a/k/a Cholon; AVELINO MILLÁN-MACHUCA, a/k/a Papito Machuca, a/k/a El Fuerte, a/k/a Viejo, a/k/a Gordo; LUIS H. QUIÑONES-SANTIAGO, a/k/a Hiram, Defendants, Appellants. APPEALS Original document
+- **Kimber v. Cook County Health and Hospitals System**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044552/kimber-v-cook-county-health-and-hospitals-system/
+  - 2026 IL App (1st) 251091 No. 1-25-1091 SIXTH DIVISION October 23, 2026 ______________________________________________________________________________ IN THE APPELLATE COURT Original document
+- **State v. Gilroy**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044594/state-v-gilroy/
+  - NOT FOR PUBLICATION IN WEST&#x27;S HAWAI#I REPORTS AND PACIFIC REPORTER Electronically Filed Intermediate Court of Appeals CAAP-XX-XXXXXXX 23-OCT-2026 07:50 AM Dkt. 84 SO Original document
+- **Iqvia Holdings Inc. v. Panagos**
+  - when: 2026-10-23T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11044033/iqvia-holdings-inc-v-panagos/
+  - IQVIA Holdings Inc. v. Panagos, 2026 NCBC 81. STATE OF NORTH CAROLINA IN THE GENERAL COURT OF JUSTICE SUPERIOR COURT DIVISION WAKE COUNTY 26CV009791-910 IQVIA HOLDINGS INC. and IQVIA RDS, INC., Plaintiffs, ORDER AND OPINION ON v. DEFENDANTS’ MOTION TO Original document
+
+## uk-legislation
+- **The Air Navigation (Restriction of Flying) (Plymouth, Devon) (Emergency) (Revocation) Regulations 2026**
+  - when: 2026-10-23T16:37:23+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1123
+- **<div xmlns="http://www.w3.org/1999/xhtml">
+						<span xml:lang="en">The School Teachers’ Pay and Conditions (No. 2) (Wales) Order 2026</span> / <span xml:lang="cy">Gorchymyn Cyflog ac Amodau Athrawon Ysgol (Rhif 2) (Cymru) 2026</span>
+					</div>**
+  - when: 2026-10-23T09:35:17+01:00
+  - url: http://www.legislation.gov.uk/id/wsi/2026/129
+  - This Order makes provision for the determination of the remuneration of school teachers in Wales and other conditions of their employment which relate to their professional duties or working time. Mae’r Gorchymyn hwn yn gwneud darpariaeth ar gyfer penderfynu’r tâl ar gyfer athrawon ysgol yng Nghymru ac amodau eraill eu cyflogaeth sy’n ymwneud â’u dyletswyddau proffesiynol neu eu hamser gweithio.
+- **The Argyll and Bute Council (Oban) Harbour Revision Order 2026**
+  - when: 2026-10-23T09:12:46+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/287
+  - This Order updates the existing legislation for Oban harbour in line with the current needs of Argyll and Bute Council as the harbour authority for Oban harbour and Oban harbour users from the date it comes into force.
+- **The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) (Amendment) Regulations 2026**
+  - when: 2026-10-23T09:11:05+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1111
+  - These Regulations amend the Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) Regulations 2026 (S.I. 2026/960 (“the No. 3 Regulations”).
+- **The Power to Award Degrees etc. (MLA College Ltd) Order 2026**
+  - when: 2026-10-23T09:11:13+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1109
+  - This Order authorises MLA College Ltd (UKRPN: 10049370) to grant taught awards up to and including master’s level for subjects related to engineering and technology, business and management, and geography, earth and environmental studies, including but not limited to the subjects specified in the Schedule. The authorisation is for a fixed term beginning on 25th October 2026 and expiring at the end of the day on 24th October 2030.
+- **The Marine Licensing (Exempted Activities and Fees) (Amendment) Regulations 2026**
+  - when: 2026-10-22T16:55:54+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1110
+  - These Regulations amend the Marine Licensing (Exempted Activities) Order 2011 (S.I. 2011/409) (“the 2011 Order”) and the Marine Licensing (Application Fees) Regulations 2014 (S.I. 2014/615) (“the Fees Regulations”).
+- **The Over the Counter Derivatives (Intragroup Transactions) Regulations 2026**
+  - when: 2026-10-22T16:45:36+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1117
+  - Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (EUR 2012/648) (“the EMIR Regulation”) sets out obligations for over-the-counter (OTC) derivatives contracts to be cleared through central counterparties, establishes risk management requirements for uncleared derivatives contracts and provides for exemptions in relation to certain intragroup transactions. Further temporary provisions were ma
+- **The Overseas Prudential Requirements Regime (Credit Institutions and Investment Firms) Regulations 2026**
+  - when: 2026-10-22T17:26:15+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1116
+  - Section 1 of, and Schedule 1 to, the Financial Services and Markets Act 2023 (c. 29) revoke Regulation (EU) No. 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (“the Capital Requirements Regulation”). Articles 81(1)(a)(iii), 82(a)(iii), 107(4), 114(7), 115(4) and 116(5) of the Capital Requirements Regulation enable the Treasury to determine that a third countr
+- **The Building Societies Act 1986 (Assimilation to Company Law and Changes to Funding Limit) Order 2026**
+  - when: 2026-10-22T16:25:23+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1115
+  - This Order amends, and modifies the application of, provisions of the Building Societies Act 1986 (c. 53) (“the Act”).
+- **The Intimate Image Reports (Trusted Flagger) Regulations 2026**
+  - when: 2026-10-22T15:14:07+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1107
+  - These Regulations designate South West Grid for Learning Trust (“the Trust”) as a suitable person to make intimate image reports to providers of internet services and providers of internet access services. The Trust operates a service called the Revenge Porn Helpline which will receive information from the public and make the reports, the purpose of which is to assist providers in making judgments about whether content is intimate image content, as defined in section 59(10A) of the Online Safety
+- **The Air Navigation (Restriction of Flying) (Helicopter Flight) (No. 8) Regulations 2026**
+  - when: 2026-10-22T11:20:23.48353+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1102
+- **The Air Navigation (Restriction of Flying) (RAF Fairford, Gloucestershire) (Emergency) (Revocation) Regulations 2026**
+  - when: 2026-10-22T11:20:17.254913+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1114
