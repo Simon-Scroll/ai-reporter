@@ -6,7 +6,9 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [],
+  "open_investigations": [
+    "2026-024-nih-foreign-interference-data-continuity"
+  ],
   "parked_investigations": [
     "2026-020-dhs-grant-review",
     "2026-013-opm-workforce-data-completeness",
@@ -20,12 +22,12 @@
     "2026-021-cbp-ice-body-camera-management"
   ],
   "series": [],
-  "last_run": "2026-10-24",
-  "last_mode": "PUBLISH",
-  "last_horizon": "2026-10-24",
+  "last_run": "2026-10-25",
+  "last_mode": "SCAN",
+  "last_horizon": "2026-10-25",
   "last_published_at": "2026-10-24",
-  "last_journal": "newsroom/journal/2026-10-24.md",
-  "next_action": "On the next desk run, read the new primary-document horizon and look for a genuinely new lead or an official BLM crosswalk or material layer revision. Do not repeat the expired-session NRS, 503 MLRS, or unchanged ArcGIS sample queries, and do not open a weak lead merely because the active slot is empty.",
-  "handoff": "On October 24 the desk refreshed the horizon, found no BLM crosswalk or material layer revision, ran a fresh skeptic review, and published the bounded critical-minerals article after validation. The article is limited to the public BLM layer's case/operator/commodity join and its missing citizenship and parent-ownership fields; it makes no claim about a named company's eligibility or control. The published investigation is no longer active, and all ten prior investigations remain parked.",
+  "last_journal": "newsroom/journal/2026-10-25.md",
+  "next_action": "Retrieve any new official NIH methodology, annual series, or case-level public record that can reconcile the July 2025 and June 2026 foreign-interference snapshots. Do not repeat the already-read briefs or current table unless a new official version appears.",
+  "handoff": "On October 25 the desk opened 2026-024-nih-foreign-interference-data-continuity after comparing NIH's July 2025 and June 2026 briefs, its current aggregate data page, its allegation-handling process, and GAO-27-107848. NIH's contacted-case counts and outcome totals changed between snapshots, while GAO uses a broader allegations/violations frame; no case-level crosswalk was found in the records read today. The thread is active and aggregate-only: it makes no claim of foreign interference or unlawful conduct. The October 24 BLM article remains the latest publication, and all ten prior investigations remain parked.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }

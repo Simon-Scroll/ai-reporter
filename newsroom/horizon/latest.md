@@ -1,4 +1,4 @@
-# Horizon brief — 2026-10-24
+# Horizon brief — 2026-10-25
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
@@ -169,6 +169,10 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-10-27T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11042843/greenstein-v-thomas/
   - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **Haya Hajjir Jaffal v. Yolanda C. Parker-Smith, Judge**
+  - when: 2026-10-24T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11045531/haya-hajjir-jaffal-v-yolanda-c-parker-smith-judge/
+  - Court of Appeals of the State of Georgia Atlanta,____________________ 10/24/2026 The Court of Appeals hereby passes the following order: A27E0045. HAYA HAJJIR JAFFAL v. YOLANDA C. PARKER-SMITH, JUDGE. On October 22, 2026, Haya Hajjir Jaffal filed an emergency motion for writ of prohibition in the Supreme Court of Georgia seeking to stay her divorce proceedings, set to commence on Monday, October Original document
 - **Andrew Perry v. Dordt University**
   - when: 2026-10-23T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11043854/andrew-perry-v-dordt-university/
@@ -185,10 +189,10 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-10-23T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11044376/giselle-guzman-v-state-of-florida/
   - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2024-2509 Lower Tribunal No. 2022-CF-002140 _____________________________ GISELLE GUZMAN, Appellant, v. STATE OF FLORIDA Original document
-- **Beachcomber, LLC v. Hans Bilben, Philip Brna, George Krier, Lawrence Oliver, Shirley Gruber, Todd Bareman, Joseph Sparkman, Vickey Hodnik, Gary Cutlip, John Girton, Linda Bruce, Steve Thompson, Lynn Whitmore, Donald Horton, Lori Horton, James Gorman, Linda Stevens, Gary Sheridan, Eileen Sheridan, Thomas Brook, Joshua Elmaleh, Christine Elmaleh, Angela Roland, Michael Brantley, Teresa Jacobson, David Gregory, Pete Kineen, Lauren Isenhour, Allison Paparoa, Danica High, Gina Debardelaben, Ann G. Cline, Richard Cline, Linda Patrick, Mike Patrick, Marie J. Carlton, Richard D. Carlton, Donald L. Horton III, Xochitl Lopez-Ayala, Jeanne Bilben, Araya Oliver, and Kenai Peninsula Borough**
+- **South Carolina Coastal Conservation League v. United States Army Corps of Engineers**
   - when: 2026-10-23T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11044689/beachcomber-llc-v-hans-bilben-philip-brna-george-krier-lawrence/
-  - 2026 WL 3179609Only the Westlaw citation is currently available.NOTICE: THIS DECISION DOES NOT SERVE AS PRECEDENT. THE CASE WAS ENTERED IN THE WESTLAW DATABASE BEFORE THE TIME FOR REHEARING HAD EXPIRED. IT IS POSSIBLE THAT REHEARING HAS BEEN SOUGHT, GRANTED OR DENIED.Supreme Court of Alaska.BEACHCOMBER, LLC, Appellant,v.HANS BILBEN, PHILIP BRNA, GEORGE KRIER, LAWRENCE OLIVER, SHIRLEY GRUBER, TODD BAREMAN, JOSEPH SPARKMAN, VICKEY HODNIK, GARY CUTLIP, JOHN GIRTON, LINDA BRUCE, STEVE THOMPSON, LYNN Original document
+  - url: https://www.courtlistener.com/opinion/11045544/south-carolina-coastal-conservation-league-v-united-states-army-corps-of/
+  - USCA4 Appeal: 25-1797 Doc: 75 Filed: 10/23/2026 Pg: 1 of 16 PUBLISHED UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT No. 25-1797 SOUTH CAROLINA COASTAL CONSERVATION LEAGUE; CHARLESTON WATERKEEPER; SOUTH CAROLINA WILDLIFE FEDERATION, Plaintiffs - Appellants, Original document
 - **State v. Dawson**
   - when: 2026-10-23T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11044465/state-v-dawson/
@@ -209,10 +213,6 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-10-23T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11044594/state-v-gilroy/
   - NOT FOR PUBLICATION IN WEST&#x27;S HAWAI#I REPORTS AND PACIFIC REPORTER Electronically Filed Intermediate Court of Appeals CAAP-XX-XXXXXXX 23-OCT-2026 07:50 AM Dkt. 84 SO Original document
-- **Iqvia Holdings Inc. v. Panagos**
-  - when: 2026-10-23T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11044033/iqvia-holdings-inc-v-panagos/
-  - IQVIA Holdings Inc. v. Panagos, 2026 NCBC 81. STATE OF NORTH CAROLINA IN THE GENERAL COURT OF JUSTICE SUPERIOR COURT DIVISION WAKE COUNTY 26CV009791-910 IQVIA HOLDINGS INC. and IQVIA RDS, INC., Plaintiffs, ORDER AND OPINION ON v. DEFENDANTS’ MOTION TO Original document
 
 ## uk-legislation
 - **The Air Navigation (Restriction of Flying) (Plymouth, Devon) (Emergency) (Revocation) Regulations 2026**
@@ -233,7 +233,7 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - url: http://www.legislation.gov.uk/id/uksi/2026/1111
   - These Regulations amend the Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) Regulations 2026 (S.I. 2026/960 (“the No. 3 Regulations”).
 - **The Power to Award Degrees etc. (MLA College Ltd) Order 2026**
-  - when: 2026-10-23T09:11:13+01:00
+  - when: 2026-10-25T00:10:00+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1109
   - This Order authorises MLA College Ltd (UKRPN: 10049370) to grant taught awards up to and including master’s level for subjects related to engineering and technology, business and management, and geography, earth and environmental studies, including but not limited to the subjects specified in the Schedule. The authorisation is for a fixed term beginning on 25th October 2026 and expiring at the end of the day on 24th October 2030.
 - **The Marine Licensing (Exempted Activities and Fees) (Amendment) Regulations 2026**

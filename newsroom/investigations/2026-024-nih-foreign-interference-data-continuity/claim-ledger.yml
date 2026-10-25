@@ -1,0 +1,39 @@
+claims:
+  - id: C1
+    status: supported
+    claim: "NIH's July 2025 public brief described 263 cases in which OER contacted institutions, involving allegations about 667 scientists."
+    sources:
+      - "https://grants.nih.gov/sites/default/files/Brief-Summary-of-NIH-Foreign-Interference-Cases.pdf"
+    locator: "2025-07-30 brief, p. 1"
+  - id: C2
+    status: supported
+    claim: "NIH's June 2026 public brief described 273 contacted cases, involving allegations about 721 scientists."
+    sources:
+      - "https://grants.nih.gov/sites/default/files/foreign_interference_report_06182026.pdf"
+    locator: "2026-06-18 brief, p. 1"
+  - id: C3
+    status: supported
+    claim: "The NIH snapshots report different outcome totals: 228 versus 236 cases with any serious violation, 7 versus 10 with no violation found, 41 versus 26 reviews open, and 50 versus 55 repayment cases."
+    sources:
+      - "https://grants.nih.gov/sites/default/files/Brief-Summary-of-NIH-Foreign-Interference-Cases.pdf"
+      - "https://grants.nih.gov/sites/default/files/foreign_interference_report_06182026.pdf"
+    locator: "2025 brief p. 4; 2026 brief pp. 3–4"
+  - id: C4
+    status: supported
+    claim: "GAO reports a broader population of 697 allegations from 2017 through 2025 and 264 cases with disclosure violations, while distinguishing serious violations from affiliation-only violations."
+    sources:
+      - "https://files.gao.gov/assets/gao-27-107848.pdf"
+    locator: "GAO-27-107848 pp. 27–30"
+  - id: C5
+    status: hypothesis
+    claim: "The public snapshots do not yet provide a row-level crosswalk showing whether changes in aggregate outcomes are new cases, resolved reviews, or reclassification."
+    sources:
+      - "https://grants.nih.gov/policy-and-compliance/policy-topics/foreign-interference/fi-data"
+      - "https://grants.nih.gov/sites/default/files/foreign_interference_report_06182026.pdf"
+    locator: "Current aggregate table and linked June 2026 brief; test requires a methodology or case-level record"
+  - id: C6
+    status: supported
+    claim: "NIH's process screens incoming allegations for grant involvement and sufficient, verifiable information before contacting an institution."
+    sources:
+      - "https://grants.nih.gov/policy-and-compliance/policy-topics/foreign-interference/handling-allegations"
+    locator: "Standard Procedure, steps 1–4"

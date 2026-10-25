@@ -1,0 +1,11 @@
+id: 2026-024-nih-foreign-interference-data-continuity
+opened: 2026-10-25
+updated: 2026-10-25
+status: active
+mode: SCAN
+next_action: Retrieve NIH's current foreign-interference methodology and any case-level or annual series supporting the June 2026 brief; test whether the 2025-to-2026 changes in contacted cases, serious violations, open reviews, and repayments can be reconciled without assuming categories are mutually exclusive.
+hypothesis: "NIH's public foreign-interference summaries changed their contacted-case and outcome totals between July 2025 and June 2026, but do not publish a row-level crosswalk that shows whether the changes are new cases, resolved reviews, or reclassification; GAO's broader allegations/violations frame may compound the denominator boundary."
+series: null
+part: null
+consecutive_continue_without_new_primary: 0
+last_decision: continue

@@ -1,0 +1,58 @@
+date: 2026-10-25
+mode: SCAN
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies installed and audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: confirmed no active investigations, a full ten-thread parked board, the October 24 publication, and the no-repeat handoff
+ingest:
+  ran: true
+  result: refreshed the October 25 primary-document horizon; configured feeds completed
+  horizon: newsroom/horizon/2026-10-25/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: open_investigations
+    decision: none
+    reason: no open investigation was present at the start of the run
+  - id: parked_board
+    decision: remain_parked
+    reason: no October 25 horizon item matched a documented reopen condition; no parked thread was killed or re-queried
+investigations:
+  - id: 2026-024-nih-foreign-interference-data-continuity
+    decision: opened
+    changed:
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/assignment.md
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/status.yml
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/hypothesis.md
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/claim-ledger.yml
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/evidence-log.md
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/gaps.md
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/timeline.md
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/traces/2026-10-25.md
+research:
+  primary_documents:
+    - NIH July 2025 foreign-interference brief
+    - NIH June 2026 foreign-interference brief
+    - NIH current foreign-interference data page
+    - NIH allegation-handling process
+    - GAO-27-107848
+  result: opened a bounded aggregate-data continuity test; no named target, accusation, or publication
+publication:
+  published: false
+  reason: new thread needs a methodology or case-level reconciliation before any article can be considered
+validation:
+  run: false
+  reason: no draft or publication
+journal:
+  - newsroom/journal/2026-10-25.md
+desk_notes:
+  - newsroom/desk/2026-10-25-r1.md
