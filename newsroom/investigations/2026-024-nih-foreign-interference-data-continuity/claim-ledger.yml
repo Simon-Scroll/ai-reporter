@@ -25,15 +25,56 @@ claims:
       - "https://files.gao.gov/assets/gao-27-107848.pdf"
     locator: "GAO-27-107848 pp. 27–30"
   - id: C5
-    status: hypothesis
-    claim: "The public snapshots do not yet provide a row-level crosswalk showing whether changes in aggregate outcomes are new cases, resolved reviews, or reclassification."
+    status: supported
+    claim: "The reviewed public NIH materials provide aggregate snapshots and process descriptions, but do not provide a row-level crosswalk showing whether changes in aggregate outcomes are new cases, resolved reviews, or reclassification."
     sources:
       - "https://grants.nih.gov/policy-and-compliance/policy-topics/foreign-interference/fi-data"
       - "https://grants.nih.gov/sites/default/files/foreign_interference_report_06182026.pdf"
-    locator: "Current aggregate table and linked June 2026 brief; test requires a methodology or case-level record"
+      - "https://grants.nih.gov/policy-and-compliance/policy-topics/foreign-interference/notices-statements-reports"
+    locator: "Current aggregate table, linked June 2026 brief, and NIH reports index reviewed 2026-10-26"
   - id: C6
     status: supported
     claim: "NIH's process screens incoming allegations for grant involvement and sufficient, verifiable information before contacting an institution."
     sources:
       - "https://grants.nih.gov/policy-and-compliance/policy-topics/foreign-interference/handling-allegations"
     locator: "Standard Procedure, steps 1–4"
+  - id: C7
+    status: supported
+    claim: "NIH's November 2023 brief described 255 contacted cases involving allegations about 639 scientists."
+    sources:
+      - "https://grants.nih.gov/sites/default/files/Foreign-Interference-11-26-23-report.pdf"
+    locator: "NIH/OER brief dated 2023-11-28, p. 1"
+  - id: C8
+    status: supported
+    claim: "The 2023 NIH outcome table reported 214 cases with any serious violation, 16 with no violation, and 32 repayment cases totaling $24,076,727."
+    sources:
+      - "https://grants.nih.gov/sites/default/files/Foreign-Interference-11-26-23-report.pdf"
+    locator: "Table 2 and Repayments section, pp. 1 and 3"
+  - id: C9
+    status: supported
+    claim: "NIH's public decision matrix describes when the agency contacts institutions and says most allegations are closed internally without outreach."
+    sources:
+      - "https://grants.nih.gov/sites/default/files/NIH%20Decision%20Matrix%20for%20Assessing%20Potential%20Foreign%20Interference%20for%20Covered%20Individuals%20or%20Senior%207%2026%2024%20clean.pdf"
+      - "https://grants.nih.gov/news-events/nih-extramural-nexus-news/2026/05/an-update-on-how-nih-protects-nih-funded-research-from-undue-foreign-interference"
+    locator: "Decision Matrix, Introduction and pp. 1–2; NIH update, 'Foreign Interference Assessment Tool'"
+  - id: C10
+    status: supported
+    claim: "The NIH snapshots use the same top-level contacted-institution population but different as-of dates: November 16, 2023; March 13, 2025; and June 12, 2026."
+    sources:
+      - "https://grants.nih.gov/sites/default/files/Foreign-Interference-11-26-23-report.pdf"
+      - "https://grants.nih.gov/sites/default/files/Brief-Summary-of-NIH-Foreign-Interference-Cases.pdf"
+      - "https://grants.nih.gov/sites/default/files/foreign_interference_report_06182026.pdf"
+    locator: "Each report's Overview section, p. 1"
+  - id: C11
+    status: supported
+    claim: "NIH's May 2026 update describes disclosure and overlap checks as part of the process, but does not add a case-level history for the aggregate outcome snapshots."
+    sources:
+      - "https://grants.nih.gov/news-events/nih-extramural-nexus-news/2026/05/an-update-on-how-nih-protects-nih-funded-research-from-undue-foreign-interference"
+    locator: "'Revised Disclosure Forms' and 'In Summary,' May 12, 2026"
+  - id: C12
+    status: supported
+    claim: "NIH's public reports index lists the 2023 and 2025 case summaries and identifies the data as semi-annual updates."
+    sources:
+      - "https://grants.nih.gov/policy-and-compliance/policy-topics/foreign-interference/notices-statements-reports"
+      - "https://grants.nih.gov/policy-and-compliance/policy-topics/foreign-interference/fi-data"
+    locator: "'NIH Statements and Reports' and current data-page scope note"

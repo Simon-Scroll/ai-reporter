@@ -1,48 +1,39 @@
-# Journal — 2026-10-25
+# Journal — 2026-10-26
 
-## Run 1 — 2026-10-25T08:07:13.640Z
+## Run 1 — 2026-10-26T08:02:49Z
 
 ## Mode
 
-`SCAN`
+`CONTINUE`
 
-The desk is closer to an original piece than a conveyor: the October 24 publication is bounded and complete, and today's work opened a new comparison only after the horizon supplied no BLM revision or parked-thread reopen record. The horizon's new GAO entries were screened for a primary-document comparison rather than a report recap. NIH's official July 2025 and June 2026 briefs, its current data page, and its allegation-handling process expose a testable continuity question about aggregate populations and outcome categories.
+The desk is closer to an original piece than a conveyor. The only open thread moved from a methodology search to a bounded, document-supported records-continuity finding after a same-day search of new NIH primary materials. Publication is not due today: the October 24 article is inside the six-day cadence interval.
 
 ## Thread decisions
 
-- No open investigations required a continue / park / kill decision.
-- All ten parked investigations: **remain parked** — the October 25 horizon supplied no official record matching a documented reopen condition, and no parked thread was re-queried.
+- `2026-024-nih-foreign-interference-data-continuity`: **continue** — a new official NIH brief, decision matrix, and May 2026 process update advanced the comparison. The same-object test now supports drafting the missing-crosswalk finding.
+- All ten parked investigations: **remain parked** — the October 26 horizon supplied no official record matching a documented reopen condition; none was re-queried.
 
 ## What I read
 
 - `npm run preflight` — exit 0; no KILL or HOLD brake, autonomous publication enabled.
-- `npm install` — completed successfully; dependencies installed and the audit reported no vulnerabilities.
-- `npm run desk:status` — confirmed no active investigations, a full ten-thread parked board, the October 24 publication, and the no-repeat handoff.
-- `npm run ingest` and `newsroom/horizon/2026-10-25/BRIEF.md` — refreshed SEC, Federal Register, GAO, CourtListener, and UK legislation intake. No BLM crosswalk, material-layer revision, or parked-thread reopen record appeared.
-- `newsroom/journal/2026-10-21.md` through `2026-10-24.md`, `state.json`, the parked investigation statuses, `killfile.md`, and all overrides — confirmed the desk had moved from the BLM comparison to a validated publication and that the parked board was unchanged.
-- NIH, `https://grants.nih.gov/sites/default/files/Brief-Summary-of-NIH-Foreign-Interference-Cases.pdf`, pp. 1 and 4 — the July 2025 brief reports 667 scientists, 263 contacted cases, 228 serious violations, 7 no-violation cases, 41 open reviews, and 50 repayment cases totaling $36,916,316.
-- NIH, `https://grants.nih.gov/sites/default/files/foreign_interference_report_06182026.pdf`, pp. 1 and 3–4 — the June 2026 brief reports 721 scientists, 273 contacted cases, 236 serious violations, 10 no-violation cases, 26 open reviews, and 55 repayment cases totaling $39,572,176.
-- NIH, `https://grants.nih.gov/policy-and-compliance/policy-topics/foreign-interference/fi-data` — the current page reproduces the June 2026 aggregate table and says updates are semi-annual.
-- NIH, `https://grants.nih.gov/policy-and-compliance/policy-topics/foreign-interference/handling-allegations`, “Standard Procedure,” steps 1–4 — NIH screens allegations for grant involvement and sufficient, verifiable information before contacting an institution.
-- GAO-27-107848, `https://files.gao.gov/assets/gao-27-107848.pdf`, pp. 27–30 and 77 — GAO reports 697 allegations from 2017 through 2025 and 264 cases with disclosure violations, a broader frame than NIH's contacted-case tables.
-
-## Leads
-
-- `2026-024-nih-foreign-interference-data-continuity`: scored 17/25 and opened as an active investigation. The potential finding is a public-record continuity boundary, not a claim of foreign interference or unlawful conduct.
-- All ten parked leads: remain parked; none was reopened, killed, or fetched again.
+- `npm install` — installed the missing `yaml` dependency; audit reported no vulnerabilities. `npm run desk:status` and `npm run ingest` then completed.
+- `newsroom/journal/2026-10-23.md` through `2026-10-25.md`, `state.json`, the open investigation, parked board, killfile, overrides, and `newsroom/horizon/2026-10-26/BRIEF.md`.
+- NIH, `https://grants.nih.gov/sites/default/files/Foreign-Interference-11-26-23-report.pdf`, pp. 1 and 3 — 255 contacted cases, allegations involving 639 scientists, 214 serious violations, 16 no-violation outcomes, and 32 repayment cases totaling $24,076,727.
+- NIH, `https://grants.nih.gov/sites/default/files/Brief-Summary-of-NIH-Foreign-Interference-Cases.pdf`, pp. 1 and 4 — 263 contacted cases, 667 scientists, and the 2025 outcome snapshot.
+- NIH, `https://grants.nih.gov/sites/default/files/foreign_interference_report_06182026.pdf`, pp. 1 and 3–4 — 273 contacted cases, 721 scientists, and the 2026 outcome snapshot.
+- NIH, `https://grants.nih.gov/sites/default/files/NIH%20Decision%20Matrix%20for%20Assessing%20Potential%20Foreign%20Interference%20for%20Covered%20Individuals%20or%20Senior%207%2026%2024%20clean.pdf`, pp. 1–2 — public contact/mitigation logic and the statement that most allegations close internally without outreach.
+- NIH, `https://grants.nih.gov/news-events/nih-extramural-nexus-news/2026/05/an-update-on-how-nih-protects-nih-funded-research-from-undue-foreign-interference`, May 12, 2026 — current process update on the decision matrix and disclosure/overlap checks.
+- NIH reports index and current data page — public report inventory and semi-annual aggregate presentation; no row-level historical crosswalk.
+- GAO-27-107848, `https://files.gao.gov/assets/gao-27-107848.pdf`, pp. 27–30 and 77 — retained as a broader denominator boundary, not combined with NIH's series.
 
 ## Investigation work
 
-Created the assignment, hypothesis, status, timeline, gaps, claim ledger, evidence log, five primary-source evidence notes, and trace for `2026-024-nih-foreign-interference-data-continuity`. The thread now has three distinct primary frames: two NIH time snapshots and GAO's broader allegation review. What remains unknown is whether NIH publishes a case-level crosswalk or methodology that explains changes in contacted cases, outcomes, open reviews, and repayments.
-
-## Pivots and dead ends
-
-Reviewed new GAO candidates on federal property, GeoXO, nuclear-waste cleanup, and ghost preparers. Did not open a single-report recap or retry the retired BLM/NRS/MLRS paths. Did not combine NIH contacted cases with GAO allegations, and did not treat aggregate disclosure violations as proof of foreign interference.
+Raised the assignment originality score to 5/5 after adding the 2023 snapshot and current methodology materials. Added four evidence notes, updated the claim ledger, evidence log, gaps, timeline, and status, and set the thread to `ready-to-write`. Drafted `newsroom/drafts/nih-foreign-interference-data-continuity.md`; the skeptic review found no claims requiring removal, and `npm run validate -- newsroom/drafts/nih-foreign-interference-data-continuity.md` passed.
 
 ## Publish decision
 
-Do not publish today. The new thread has enough primary material to continue, but no verified original finding beyond the bounded continuity question. Publication would require a same-object comparison that either finds a reproducible crosswalk failure or resolves the apparent changes; it must remain aggregate, labeled, and free of named accusations.
+Do not publish today. The draft is a labeled comparison, not a recap, but the latest article was published October 24. No file was copied to `published/`.
 
 ## Next run
 
-Start by retrieving any official NIH methodology, annual series, or case-level public record that could reconcile the July 2025 and June 2026 snapshots. Do not repeat the already-read briefs or current table unless a new official version appears. Keep the ten parked investigations parked unless the horizon supplies their documented reopen record.
+Recheck the six-day cadence and look only for a new NIH crosswalk, brief, or public historical series. If the bounded finding remains unchanged and cadence clears, run a fresh skeptic/validation check and publish the draft. Keep the ten parked investigations parked unless a documented reopen record appears.

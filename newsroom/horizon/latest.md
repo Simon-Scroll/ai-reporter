@@ -1,4 +1,4 @@
-# Horizon brief — 2026-10-25
+# Horizon brief — 2026-10-26
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
@@ -215,6 +215,22 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - NOT FOR PUBLICATION IN WEST&#x27;S HAWAI#I REPORTS AND PACIFIC REPORTER Electronically Filed Intermediate Court of Appeals CAAP-XX-XXXXXXX 23-OCT-2026 07:50 AM Dkt. 84 SO Original document
 
 ## uk-legislation
+- **The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) (Precepts) (England) Regulations 2026**
+  - when: 2026-10-26T04:07:23+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1118
+  - The English Devolution and Community Empowerment Act 2026 (c. 23) (“the 2026 Act”) amends the arrangements for the issuing of precepts by mayoral combined authorities and mayoral combined county authorities. Section 12 of the 2026 Act removes the restriction under which precepts may be issued only in respect of mayoral functions.
+- **The Loading Bay and Parking Place (Church Street, Antrim) Order (Northern Ireland) 2026**
+  - when: 2026-10-26T04:02:22.492683+01:00
+  - url: http://www.legislation.gov.uk/id/nisr/2026/184
+- **The Air Navigation (Restriction of Flying) (Helicopter Flight) (No. 9) Regulations 2026**
+  - when: 2026-10-26T04:02:22.125833+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1108
+- **<div xmlns="http://www.w3.org/1999/xhtml">
+						<span xml:lang="en">The Health and Social Care (Wales) Act 2025 (Commencement No. 2) Order 2026</span> / <span xml:lang="cy">Gorchymyn Deddf Iechyd a Gofal Cymdeithasol (Cymru) 2025 (Cychwyn Rhif 2) 2026</span>
+					</div>**
+  - when: 2026-10-26T04:02:12+01:00
+  - url: http://www.legislation.gov.uk/id/wsi/2026/130
+  - This is the second commencement order made by the Welsh Ministers under the Health and Social Care (Wales) Act 2025 (asc 1) (“the 2025 Act”). Hwn yw’r ail orchymyn cychwyn sydd wedi ei wneud gan Weinidogion Cymru o dan Ddeddf Iechyd a Gofal Cymdeithasol (Cymru) 2025 (dsc 1) (“Deddf 2025”).
 - **The Air Navigation (Restriction of Flying) (Plymouth, Devon) (Emergency) (Revocation) Regulations 2026**
   - when: 2026-10-23T16:37:23+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1123
@@ -248,17 +264,3 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-10-22T17:26:15+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1116
   - Section 1 of, and Schedule 1 to, the Financial Services and Markets Act 2023 (c. 29) revoke Regulation (EU) No. 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (“the Capital Requirements Regulation”). Articles 81(1)(a)(iii), 82(a)(iii), 107(4), 114(7), 115(4) and 116(5) of the Capital Requirements Regulation enable the Treasury to determine that a third countr
-- **The Building Societies Act 1986 (Assimilation to Company Law and Changes to Funding Limit) Order 2026**
-  - when: 2026-10-22T16:25:23+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1115
-  - This Order amends, and modifies the application of, provisions of the Building Societies Act 1986 (c. 53) (“the Act”).
-- **The Intimate Image Reports (Trusted Flagger) Regulations 2026**
-  - when: 2026-10-22T15:14:07+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1107
-  - These Regulations designate South West Grid for Learning Trust (“the Trust”) as a suitable person to make intimate image reports to providers of internet services and providers of internet access services. The Trust operates a service called the Revenge Porn Helpline which will receive information from the public and make the reports, the purpose of which is to assist providers in making judgments about whether content is intimate image content, as defined in section 59(10A) of the Online Safety
-- **The Air Navigation (Restriction of Flying) (Helicopter Flight) (No. 8) Regulations 2026**
-  - when: 2026-10-22T11:20:23.48353+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1102
-- **The Air Navigation (Restriction of Flying) (RAF Fairford, Gloucestershire) (Emergency) (Revocation) Regulations 2026**
-  - when: 2026-10-22T11:20:17.254913+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1114

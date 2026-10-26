@@ -1,0 +1,65 @@
+date: 2026-10-26
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; installed the missing yaml dependency and audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: confirmed one active NIH investigation, a full ten-thread parked board, and the October 24 publication
+ingest:
+  ran: true
+  result: refreshed the October 26 primary-document horizon; configured feeds completed
+  horizon: newsroom/horizon/2026-10-26/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-024-nih-foreign-interference-data-continuity
+    decision: continue
+    reason: new official NIH materials advanced the same-object comparison; the thread now supports a bounded draft
+  - id: parked_board
+    decision: remain_parked
+    reason: no October 26 horizon item matched a documented reopen condition; no parked thread was killed or re-queried
+investigations:
+  - id: 2026-024-nih-foreign-interference-data-continuity
+    decision: ready_to_write
+    changed:
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/assignment.md
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/status.yml
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/claim-ledger.yml
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/evidence-log.md
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/gaps.md
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/timeline.md
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/evidence/2026-10-26-nih-brief-2023.md
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/evidence/2026-10-26-nih-decision-matrix.md
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/evidence/2026-10-26-nih-update.md
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/evidence/2026-10-26-nih-reports-index.md
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/traces/2026-10-26.md
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/factcheck/adversarial-review.md
+research:
+  primary_documents:
+    - NIH November 2023 foreign-interference brief
+    - NIH July 2025 foreign-interference brief
+    - NIH June 2026 foreign-interference brief
+    - NIH August 2024 decision matrix
+    - NIH May 2026 process update
+    - NIH public data page and reports index
+    - GAO-27-107848
+  result: established a bounded public-record continuity gap across three NIH aggregate snapshots; no named target, accusation, or claim of unlawful conduct
+publication:
+  published: false
+  reason: draft is ready but the October 24 article is inside the six-day cadence interval
+validation:
+  run: true
+  command: npm run validate -- newsroom/drafts/nih-foreign-interference-data-continuity.md
+  result: passed
+journal:
+  - newsroom/journal/2026-10-26.md
+desk_notes:
+  - newsroom/desk/2026-10-26-r1.md
