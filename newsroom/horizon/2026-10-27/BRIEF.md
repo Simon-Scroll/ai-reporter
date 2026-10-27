@@ -1,0 +1,257 @@
+# Horizon brief — 2026-10-27
+
+Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
+
+## sec-edgar
+- **4 - Whitney Meredith (0002108587) (Reporting)**
+  - when: 2026-10-26T21:57:10-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2108587/000095010326016190/0000950103-26-016190-index.htm
+  - Filed: 2026-10-26 AccNo: 0000950103-26-016190 Size: 20 KB
+- **4 - Robinhood Ventures Fund I (0002085091) (Issuer)**
+  - when: 2026-10-26T21:57:10-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2085091/000095010326016190/0000950103-26-016190-index.htm
+  - Filed: 2026-10-26 AccNo: 0000950103-26-016190 Size: 20 KB
+- **SCHEDULE 13D/A - Antalpha Capital (HK) Ltd (0002089769) (Filed by)**
+  - when: 2026-10-26T21:53:30-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2089769/000121390026112637/0001213900-26-112637-index.htm
+  - Filed: 2026-10-26 AccNo: 0001213900-26-112637 Size: 23 KB
+- **SCHEDULE 13D/A - Aurelion Inc. (0001765850) (Subject)**
+  - when: 2026-10-26T21:53:30-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1765850/000121390026112637/0001213900-26-112637-index.htm
+  - Filed: 2026-10-26 AccNo: 0001213900-26-112637 Size: 23 KB
+- **4 - MILLERCHIP GARY (0001771770) (Reporting)**
+  - when: 2026-10-26T21:53:07-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1771770/000090983226000125/0000909832-26-000125-index.htm
+  - Filed: 2026-10-26 AccNo: 0000909832-26-000125 Size: 10 KB
+- **4 - COSTCO WHOLESALE CORP /NEW (0000909832) (Issuer)**
+  - when: 2026-10-26T21:53:07-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/909832/000090983226000125/0000909832-26-000125-index.htm
+  - Filed: 2026-10-26 AccNo: 0000909832-26-000125 Size: 10 KB
+- **4 - Robinhood Ventures Fund II (0002131040) (Issuer)**
+  - when: 2026-10-26T21:53:02-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2131040/000095010326016189/0000950103-26-016189-index.htm
+  - Filed: 2026-10-26 AccNo: 0000950103-26-016189 Size: 21 KB
+- **4 - Whitney Meredith (0002108587) (Reporting)**
+  - when: 2026-10-26T21:53:02-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2108587/000095010326016189/0000950103-26-016189-index.htm
+  - Filed: 2026-10-26 AccNo: 0000950103-26-016189 Size: 21 KB
+- **4 - Lindsay Mark F. (0001835542) (Reporting)**
+  - when: 2026-10-26T21:52:44-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1835542/000149315226048621/0001493152-26-048621-index.htm
+  - Filed: 2026-10-26 AccNo: 0001493152-26-048621 Size: 6 KB
+- **4 - Vivos Therapeutics, Inc. (0001716166) (Issuer)**
+  - when: 2026-10-26T21:52:44-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1716166/000149315226048621/0001493152-26-048621-index.htm
+  - Filed: 2026-10-26 AccNo: 0001493152-26-048621 Size: 6 KB
+- **4 - Linetsky David (0001776729) (Reporting)**
+  - when: 2026-10-26T21:52:10-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1776729/000177672926000001/0001776729-26-000001-index.htm
+  - Filed: 2026-10-26 AccNo: 0001776729-26-000001 Size: 6 KB
+- **4 - Phreesia, Inc. (0001412408) (Issuer)**
+  - when: 2026-10-26T21:52:10-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1412408/000177672926000001/0001776729-26-000001-index.htm
+  - Filed: 2026-10-26 AccNo: 0001776729-26-000001 Size: 6 KB
+
+## federal-register
+- **Implementation of HAVANA Act of 2021**
+  - when: 2026-10-27
+  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21923/implementation-of-havana-act-of-2021
+  - Justice Department — Rule — On April 19, 2024, the Department of Justice published an interim final rule to implement the HAVANA Act of 2021. No comments were received on the interim final rule. The HAVANA Act authorizes agency heads to provide payments to certain individuals who have incurred qualifying injuries to the brain. This final rule adopts the interim final rule with minor, non-substantive changes to the titles of certain officials involved in the payment review process and the earlies
+- **Hazardous Materials: Harmonization With International Standards**
+  - when: 2026-10-27
+  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21922/hazardous-materials-harmonization-with-international-standards
+  - Transportation Department, Pipeline and Hazardous Materials Safety Administration — Proposed Rule — PHMSA proposes to update the Hazardous Materials Regulations to adopt certain international regulations and standards related to proper shipping names, hazard classes, packing groups, special provisions, packaging authorizations, air transport quantity limitations, and vessel stowage requirements. These proposed amendments are intended to maintain consistency with the latest international regulati
+- **Bipartisan Safer Communities Act of 2022-Criteria for National Instant Criminal Background Check System (“NICS”) Background Checks of Firearm Handlers**
+  - when: 2026-10-27
+  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21920/bipartisan-safer-communities-act-of-2022-criteria-for-national-instant-criminal-background-check
+  - Justice Department — Rule — The United States Department of Justice ("Department") is amending several of its regulations pertaining to the National Instant Criminal Background Check System ("NICS" or "system") of the Federal Bureau of Investigation ("FBI") to authorize Federal Firearm Licensees ("FFLs" or "licensees") to use NICS for purposes of voluntarily conducting employment background checks relating to certain current or prospective FFL employees. This final rule describes in more detail
+- **Safety Zone; Southern California Annual Firework Events for the Los Angeles-Long Beach Captain of the Port Zone**
+  - when: 2026-10-27
+  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21918/safety-zone-southern-california-annual-firework-events-for-the-los-angeles-long-beach-captain-of-the
+  - Homeland Security Department, Coast Guard — Proposed Rule — The Coast Guard is proposing to amend the Southern California Firework Events for Los Angeles-Long Beach Captain of the Port Zone Annual Safety Zones. The Coast Guard proposes eight new events to be added, thirteen events to be updated, and two events removed. The safety zones are needed to protect waterways users and keep them clear of potentially harmful debris within the fallout zone. This proposed rulemaking would prohibit persons a
+- **Special Conditions: Embraer S.A. Model ERJ 190-400 Airplane; Embraer Enhanced Takeoff System**
+  - when: 2026-10-27
+  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21907/special-conditions-embraer-sa-model-erj-190-400-airplane-embraer-enhanced-takeoff-system
+  - Transportation Department, Federal Aviation Administration — Proposed Rule — This action proposes special conditions for the Embraer S.A. (Embraer) Model ERJ 190-400 series airplane. This airplane will have a novel or unusual design feature when compared to the state of technology envisioned in the airworthiness standards for transport category airplanes. This design feature is a functionality known as the Embraer Enhanced Takeoff System (E\2\TS). The applicable airworthiness regulations do not
+- **Commercial Driver's License: PAM Transport, Inc.; Application for Exemption**
+  - when: 2026-10-27
+  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21906/commercial-drivers-license-pam-transport-inc-application-for-exemption
+  - Transportation Department, Federal Motor Carrier Safety Administration — Notice — FMCSA requests public comment on PAM Transport Inc.'s (PAM) application for an exemption from the requirement that a holder of a commercial learner's permit (CLP) who has successfully passed the commercial driver's license (CDL) skills test but not yet been issued CDL credentials be accompanied by a CDL holder in the front seat, while the commercial motor vehicle (CMV) is driven by the CLP holder. PAM states that t
+- **Government-Owned Inventions; Availability for Licensing**
+  - when: 2026-10-27
+  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21905/government-owned-inventions-availability-for-licensing
+  - Health and Human Services Department, National Institutes of Health — Notice — The invention listed below is owned by an agency of the U.S. Government and is available for licensing to achieve expeditious commercialization of results of federally-funded research and development. Foreign patent applications are filed on selected inventions to extend market coverage for companies and may also be available for licensing.
+- **Submission for OMB Review; 30-Day Comment Request; The Impact of Clinical Research Training and Medical Education at the Clinical Center on Physician Careers in Academia and Clinical Research**
+  - when: 2026-10-27
+  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21904/submission-for-omb-review-30-day-comment-request-the-impact-of-clinical-research-training-and
+  - Health and Human Services Department, National Institutes of Health — Notice — In compliance with the Paperwork Reduction Act of 1995, the National Institutes of Health (NIH) has submitted to the Office of Management and Budget (OMB) a request for review and approval of the information collection listed below.
+- **Center for Scientific Review; Notice of Closed Meetings**
+  - when: 2026-10-27
+  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21903/center-for-scientific-review-notice-of-closed-meetings
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Airworthiness Directives; Ontic Engineering and Manufacturing, Inc. (Type Certificate Previously Held by Swearingen, Fairchild Aircraft, and M7 Aerospace) Airplanes**
+  - when: 2026-10-27
+  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21902/airworthiness-directives-ontic-engineering-and-manufacturing-inc-type-certificate-previously-held-by
+  - Transportation Department, Federal Aviation Administration — Rule — The FAA is adopting a new airworthiness directive (AD) for certain Ontic Engineering and Manufacturing, Inc. Model SA226-T, SA226- AT, SA226-T(B), SA226-TC, SA227-AC (C-26A), SA227-AT, SA227-BC (C-26A), SA227-PC, SA227-CC, SA227-DC (C-26B), and SA227-TT (300) airplanes. This AD was prompted by reports of in-flight pitch trim actuator failures. This AD requires repetitively inspecting the pitch trim actuator for cracked, missing,
+- **Establishment of Federal Advisory Committees-Advisory Council on Health and Human Performance Optimization**
+  - when: 2026-10-27
+  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21900/establishment-of-federal-advisory-committees-advisory-council-on-health-and-human-performance
+  - Defense Department, — Notice — The DoD (referred to herein as "the Department of War" or "DoW") is publishing this notice to announce it is establishing the Advisory Council on Health and Human Performance Optimization ("the Council") as a discretionary Federal advisory committee.
+- **Agency Information Collection Activities: Comment Request: Survey of Earned Doctorates**
+  - when: 2026-10-27
+  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21898/agency-information-collection-activities-comment-request-survey-of-earned-doctorates
+  - National Science Foundation — Notice — The National Center for Science and Engineering Statistics within the National Science Foundation (NSF) is announcing plans to request renewal of the Survey of Earned Doctorates (OMB Control Number 3145-0019) . In accordance with the requirements of the Paperwork Reduction Act of 1995, we are providing opportunity for public comment on this action. After obtaining and considering public comments, NCSES will prepare the submission requesting OMB clearance of
+
+## gao
+- **Professional Standards Update No. 102**
+  - when: Mon, 26 Oct 2026 12:11:08 -0400
+  - url: https://www.gao.gov/products/e16067
+  - To alert the audit community to changes in professional standards, we periodically issue Professional Standards Updates (PSU). These updates highlight the effective dates of recently issued standards and guidance related to engagements conducted in accordance with Government Auditing Standards. PSUs contain summary information only, and those affected by a change should refer to the respective standard or guidance for details.
+- **State Department: Standards for Overseas Housing Need Review [Reissued with revisions on Oct. 21, 2026]**
+  - when: Mon, 10 Aug 2026 07:28:52 -0400
+  - url: https://www.gao.gov/products/gao-26-107965
+  - pdf: https://www.gao.gov/assets/gao-26-107965.pdf
+  - What GAO Found The Department of State last updated its standards for overseas housing space in 1991, according to State officials. Those standards may no longer align with State’s goal of providing Foreign Service personnel living abroad with housing comparable to the Washington, D.C., metropolitan area. In the last 35 years, median housing costs in the Washington, D.C., area have increased at a faster rate than Foreign Service personnel salaries. In addition, State’s method for measuring over
+- **Textile Circular Economy: Policy Options for the U.S.**
+  - when: Fri, 16 Oct 2026 09:35:25 -0400
+  - url: https://www.gao.gov/products/gao-27-108142
+  - pdf: https://www.gao.gov/assets/gao-27-108142.pdf
+  - What GAO Found Developing a textile circular economy includes repairing, reusing, and recycling textiles and making them last longer. Example of a Circular Economy for Textiles In the U.S., a textile circular economy may create potential benefits and involve challenges, according to reports by federal agencies and organizations and stakeholder interviews. Potential benefits could include creating new jobs and markets related to textile repair and recycling, reducing environmental harm, and
+- **Critical Minerals: Limited Available Information on the Full Extent of Foreign Investment in Mining on Federal Lands**
+  - when: Fri, 16 Oct 2026 07:40:00 -0400
+  - url: https://www.gao.gov/products/gao-27-108094
+  - pdf: https://www.gao.gov/assets/gao-27-108094.pdf
+  - What GAO Found The U.S critical mineral supply chain faces numerous constraints, including the need for substantial capital investment and limited domestic processing capacity. The U.S. exports large quantities of domestically extracted ore to Canada, Mexico, and China, among other countries. Copper Mine on Federal Lands The Bureau of Land Management (BLM) and the Forest Service oversee hardrock mines on federal land. As of February 2026, there were 632 approved hardrock mining plans of ope
+- **Tax Filing: IRS Should Enhance Ghost Preparer Identification and Compliance Efforts in a Comprehensive Preparer Strategy**
+  - when: Fri, 16 Oct 2026 07:28:51 -0400
+  - url: https://www.gao.gov/products/gao-27-108176
+  - pdf: https://www.gao.gov/assets/gao-27-108176.pdf
+  - What GAO Found Ghost preparers are paid tax preparers who do not comply with requirements to identify themselves on tax returns they prepare for others. Ghost preparers may intentionally leave identifying information off to get away with filing fraudulent income tax returns, stealing taxpayers’ refunds, and stealing taxpayers’ identities. Courts have ordered individual ghost preparers to pay millions in restitution to the government, but according to Internal Revenue Service (IRS) officials, th
+- **Research Security: NIH Action Needed to Strengthen Foreign Interference Risk Management**
+  - when: Fri, 16 Oct 2026 08:13:12 -0400
+  - url: https://www.gao.gov/products/gao-27-107848
+  - pdf: https://www.gao.gov/assets/gao-27-107848.pdf
+  - What GAO Found The National Institutes of Health (NIH) funds extramural research through awards to universities and other institutions. Implementation of federal research security requirements helps safeguard this research from foreign interference, including misappropriation and unauthorized access by foreign countries and entities. NIH implemented 14 of the 15 federal research security requirements GAO reviewed that address: (1) disclosure, (2) malign foreign talent recruitment programs, (3)
+- **Federal Real Property: New Occupancy Data Help Agencies Shed Unneeded Office Space But Gaps Limit the Full Picture**
+  - when: Fri, 16 Oct 2026 07:18:45 -0400
+  - url: https://www.gao.gov/products/gao-27-108503
+  - pdf: https://www.gao.gov/assets/gao-27-108503.pdf
+  - What GAO Found Under the Utilizing Space Efficiently and Improving Technologies (USE IT) Act, enacted in January 2025, federal agencies are now required to collect and report occupancy data. This data is used to calculate utilization rates for agencies’ office space in federally owned buildings and leased locations. While 20 of the 23 agencies that responded to GAO’s survey reported using existing badging systems for this purpose, 16 of these 20 agencies reported supplementing that information
+- **National Security: FBI Should Strengthen Partnerships to Combat Non-Traditional Intelligence Collectors**
+  - when: Fri, 16 Oct 2026 07:28:08 -0400
+  - url: https://www.gao.gov/products/gao-27-109057
+  - pdf: https://www.gao.gov/assets/gao-27-109057.pdf
+  - What GAO Found According to the Federal Bureau of Investigation (FBI), non-traditional intelligence collectors (NTCs) are individuals whose primary profession is not intelligence collection, but who actively or passively collect sensitive U.S. information on behalf of foreign entities. For example, researchers and students at universities may act as NTCs if they collect non-public research on behalf of a foreign entity. According to the FBI, unlike intelligence officers, NTCs function independe
+- **Nuclear Waste: Addressing Legal and Regulatory Barriers Could Accelerate Cleanup and Reduce Costs**
+  - when: Fri, 16 Oct 2026 08:05:50 -0400
+  - url: https://www.gao.gov/products/gao-27-107791
+  - pdf: https://www.gao.gov/assets/gao-27-107791.pdf
+  - What GAO Found The Department of Energy’s (DOE) nuclear waste cleanup is proceeding largely under three laws that set cleanup and waste management requirements. Each law has different requirements, applications, and regulators. Selected Cleanup and Waste Management Laws and Regulators for the Department of Energy’s (DOE) Nuclear Waste Cleanup GAO and experts GAO convened with the National Academies of Sciences, Engineering, and Medicine identified several legal and regulatory factors that a
+- **Nuclear Waste: Future Land Use Planning at Selected DOE Cleanup Sites**
+  - when: Fri, 16 Oct 2026 09:42:29 -0400
+  - url: https://www.gao.gov/products/gao-27-108063
+  - pdf: https://www.gao.gov/assets/gao-27-108063.pdf
+  - What GAO Found The Department of Energy (DOE) created initial future land use plans in coordination with local communities as early as 1992 at six cleanup sites GAO selected for review. These plans inform but do not bind assumptions about future land use that DOE and regulators make when selecting a cleanup remedy at a site. The remedy selected during the cleanup process has lasting consequences for how a parcel of land can be used, even after DOE transfers or leases it to another federal agenc
+- **Service Member Records: DOD Needs to Address Improper and Delayed Releasing of Personnel and Health Information**
+  - when: Fri, 16 Oct 2026 10:40:46 -0400
+  - url: https://www.gao.gov/products/gao-27-107784
+  - pdf: https://www.gao.gov/assets/gao-27-107784.pdf
+  - What GAO Found Service members can accrue a large volume of personnel and health records during their military careers. The custodians of these records are the Department of Defense (DOD) and the Department of Veterans Affairs. DOD and the military services developed policies and procedures to properly adhere to federal laws for safeguarding records and timely processing records requests. However, the risk of breaches and delays exists. For example, GAO covertly tested 26 requests for records f
+- **National Nuclear Security Administration: Reductions to Federal Workforce**
+  - when: Fri, 16 Oct 2026 07:24:19 -0400
+  - url: https://www.gao.gov/products/gao-27-109127
+  - pdf: https://www.gao.gov/assets/gao-27-109127.pdf
+  - What GAO Found The National Nuclear Security Administration (NNSA) oversees a $25 billion annual budget and approximately 70,000 management and operating contractor personnel to maintain the U.S. nuclear weapons stockpile and nuclear nonproliferation efforts. NNSA took steps to build its federal workforce to meet mission needs in 2024, with its workforce peaking at 1,991 early in fiscal year 2025. However, since then through the second quarter of fiscal year 2026, NNSA has reduced its federal w
+
+## courtlistener
+- **Reh v. Dept. of Mental Health & Addiction Services**
+  - when: 2026-10-27T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11045739/reh-v-dept-of-mental-health-addiction-services/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **State v. Clarke**
+  - when: 2026-10-27T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11045737/state-v-clarke/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **Greenstein v. Thomas**
+  - when: 2026-10-27T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11042843/greenstein-v-thomas/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **State v. Asbel R.**
+  - when: 2026-10-27T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11045738/state-v-asbel-r/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **Charbono v. Board of Education**
+  - when: 2026-10-27T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11045741/charbono-v-board-of-education/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **State v. Evans E.**
+  - when: 2026-10-27T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11045736/state-v-evans-e/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **Citibank, N.A. v. Burke**
+  - when: 2026-10-27T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11045740/citibank-na-v-burke/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **Gloster v. Murray**
+  - when: 2026-10-26T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11045909/gloster-v-murray/
+  - [Cite as Gloster v. Murray, 2026-Ohio-4222.] IN THE COURT OF APPEALS OF OHIO ELEVENTH APPELLATE DISTRICT LAKE COUNTY EUGENE B. GLOSTER, CASE NO. 2026-L-0044 Plaintiff-Appellee, Civil Appeal from the - vs - Court of Common Pleas, Juvenile Original document
+- **United States v. Dan Waeckerle, Jr.**
+  - when: 2026-10-26T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11045885/united-states-v-dan-waeckerle-jr/
+  - In the United States Court of Appeals For the Seventh Circuit ____________________ No. 24-1941 UNITED STATES OF AMERICA, Plaintiff-Appellee, v. DAN R. WAECKERLE, JR., Defendant-Appellant. ____________________ Appeal from the United States District Court for the Original document
+- **Sardinia v. Brown**
+  - when: 2026-10-26T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11045771/sardinia-v-brown/
+  - [Cite as Sardinia v. Brown, 2026-Ohio-4206.] IN THE COURT OF APPEALS TWELFTH APPELLATE DISTRICT OF OHIO BROWN COUNTY VILLAGE OF SARDINIA, : CASE NO. CA2026-01-001 Appellee, : OPINION AND Original document
+- **Jorge Feliciano v. Board of Review**
+  - when: 2026-10-26T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11045755/jorge-feliciano-v-board-of-review/
+  - NOT FOR PUBLICATION WITHOUT THE APPROVAL OF THE APPELLATE DIVISION SUPERIOR COURT OF NEW JERSEY APPELLATE DIVISION DOCKET NO. A-0491-25 JORGE FELICIANO, APPROVED FOR PUBLICATION Appellant, October 26, 2026 v. APPELLATE DIVISION BOARD OF Original document
+- **Khaboshan v. U.S. Department of State**
+  - when: 2026-10-26T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11045835/khaboshan-v-us-department-of-state/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA HASAN NAJAFI KHABOSHAN, et al., Plaintiffs, Civil Action No. 26 - 92 (SLS) v. Judge Sparkle L. Sooknanan U.S. DEPARTMENT OF STATE, et al., Defendants. MEMORANDUM OPINION Hasan Najafi Khaboshan Original document
+
+## uk-legislation
+- **The Boiler Upgrade Scheme (Amendment to the Energy Act 2008 etc.) Regulations 2026**
+  - when: 2026-10-27T04:09:04+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1121
+  - These Regulations amend section 100 of The Energy Act 2008 (“the Act”) and make minor amendments to the Boiler Upgrade Scheme (England and Wales) Regulations 2022 (S.I. 2022/565) (“the 2022 Regulations”).
+- **The South West Scotland Trunk Roads (Temporary Prohibitions of Traffic and Overtaking and Temporary Speed Restrictions) (No. 10) Order 2026**
+  - when: 2026-10-27T04:09:03+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/291
+- **The South East Scotland Trunk Roads (Temporary Prohibitions of Traffic and Overtaking and Temporary Speed Restrictions) (No. 10) Order 2026**
+  - when: 2026-10-27T04:08:51+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/292
+- **The North West Scotland Trunk Roads (Temporary Prohibitions of Traffic and Overtaking and Temporary Speed Restrictions) (No. 10) Order 2026**
+  - when: 2026-10-27T04:08:41+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/293
+- **The North East Scotland Trunk Roads (Temporary Prohibitions of Traffic and Overtaking and Temporary Speed Restrictions) (No. 10) Order 2026**
+  - when: 2026-10-27T04:08:30+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/290
+- **The Pedicabs (London) (Amendment) Regulations 2026**
+  - when: 2026-10-27T04:03:19.103698+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1122
+- **The Air Navigation (Restriction of Flying) (Llanelli, Carmarthenshire) Regulations 2026**
+  - when: 2026-10-27T04:03:13+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1120
+- **The Electronic Communications and Wireless Telegraphy (Amendment and Saving Provision) Regulations 2026**
+  - when: 2026-10-26T18:12:41+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1119
+  - These Regulations are made in exercise of the power conferred by regulation 5 of the Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246). They replace technical standards referred to in the Commission Delegated Regulation (EU) 305/2013 to include Next Generation (4G/5G) eCall and make provision for existing standards to be saved until 2G networks cease operation.
+- **The English Devolution and Community Empowerment Act 2026 (Commencement No. 3) Regulations 2026**
+  - when: 2026-10-26T16:20:05+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1127
+  - These Regulations are the third commencement regulations under the English Devolution and Community Empowerment Act 2026 (c. 23) (“the EDCEA 2026”).
+- **The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2026**
+  - when: 2026-10-26T14:47:44+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/288
+  - These Regulations amend the First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Regulations 2017 (S.S.I. 2017/328) (“the principal Regulations”) to reflect the conferral of new functions on the First-tier Tribunal by sections 16 and 17 of the Housing (Scotland) Act 2025 (asp 13) (“the 2025 Act”). Section 14 of the 2025 Act gives local authorities and the Scottish Ministers powers to seek information from a landlord relating to the tenancy of a house included in the landlord
+- **The A7 Trunk Road (Langholm) (Temporary Prohibition on Use of Road) Order 2026**
+  - when: 2026-10-26T10:48:02+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/289
+- **The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) (Precepts) (England) Regulations 2026**
+  - when: 2026-10-26T04:07:23+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1118
+  - The English Devolution and Community Empowerment Act 2026 (c. 23) (“the 2026 Act”) amends the arrangements for the issuing of precepts by mayoral combined authorities and mayoral combined county authorities. Section 12 of the 2026 Act removes the restriction under which precepts may be issued only in respect of mayoral functions.
