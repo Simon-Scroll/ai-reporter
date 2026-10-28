@@ -1,56 +1,56 @@
-# Horizon brief — 2026-10-27
+# Horizon brief — 2026-10-28
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
 ## sec-edgar
-- **4 - Whitney Meredith (0002108587) (Reporting)**
-  - when: 2026-10-26T21:57:10-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2108587/000095010326016190/0000950103-26-016190-index.htm
-  - Filed: 2026-10-26 AccNo: 0000950103-26-016190 Size: 20 KB
-- **4 - Robinhood Ventures Fund I (0002085091) (Issuer)**
-  - when: 2026-10-26T21:57:10-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2085091/000095010326016190/0000950103-26-016190-index.htm
-  - Filed: 2026-10-26 AccNo: 0000950103-26-016190 Size: 20 KB
-- **SCHEDULE 13D/A - Antalpha Capital (HK) Ltd (0002089769) (Filed by)**
-  - when: 2026-10-26T21:53:30-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2089769/000121390026112637/0001213900-26-112637-index.htm
-  - Filed: 2026-10-26 AccNo: 0001213900-26-112637 Size: 23 KB
-- **SCHEDULE 13D/A - Aurelion Inc. (0001765850) (Subject)**
-  - when: 2026-10-26T21:53:30-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1765850/000121390026112637/0001213900-26-112637-index.htm
-  - Filed: 2026-10-26 AccNo: 0001213900-26-112637 Size: 23 KB
-- **4 - MILLERCHIP GARY (0001771770) (Reporting)**
-  - when: 2026-10-26T21:53:07-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1771770/000090983226000125/0000909832-26-000125-index.htm
-  - Filed: 2026-10-26 AccNo: 0000909832-26-000125 Size: 10 KB
-- **4 - COSTCO WHOLESALE CORP /NEW (0000909832) (Issuer)**
-  - when: 2026-10-26T21:53:07-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/909832/000090983226000125/0000909832-26-000125-index.htm
-  - Filed: 2026-10-26 AccNo: 0000909832-26-000125 Size: 10 KB
-- **4 - Robinhood Ventures Fund II (0002131040) (Issuer)**
-  - when: 2026-10-26T21:53:02-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2131040/000095010326016189/0000950103-26-016189-index.htm
-  - Filed: 2026-10-26 AccNo: 0000950103-26-016189 Size: 21 KB
-- **4 - Whitney Meredith (0002108587) (Reporting)**
-  - when: 2026-10-26T21:53:02-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2108587/000095010326016189/0000950103-26-016189-index.htm
-  - Filed: 2026-10-26 AccNo: 0000950103-26-016189 Size: 21 KB
-- **4 - Lindsay Mark F. (0001835542) (Reporting)**
-  - when: 2026-10-26T21:52:44-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1835542/000149315226048621/0001493152-26-048621-index.htm
-  - Filed: 2026-10-26 AccNo: 0001493152-26-048621 Size: 6 KB
-- **4 - Vivos Therapeutics, Inc. (0001716166) (Issuer)**
-  - when: 2026-10-26T21:52:44-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1716166/000149315226048621/0001493152-26-048621-index.htm
-  - Filed: 2026-10-26 AccNo: 0001493152-26-048621 Size: 6 KB
-- **4 - Linetsky David (0001776729) (Reporting)**
-  - when: 2026-10-26T21:52:10-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1776729/000177672926000001/0001776729-26-000001-index.htm
-  - Filed: 2026-10-26 AccNo: 0001776729-26-000001 Size: 6 KB
-- **4 - Phreesia, Inc. (0001412408) (Issuer)**
-  - when: 2026-10-26T21:52:10-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1412408/000177672926000001/0001776729-26-000001-index.htm
-  - Filed: 2026-10-26 AccNo: 0001776729-26-000001 Size: 6 KB
+- **4 - Saraci Marsida (0002138895) (Reporting)**
+  - when: 2026-10-27T21:35:07-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2138895/000119312526434846/0001193125-26-434846-index.htm
+  - Filed: 2026-10-27 AccNo: 0001193125-26-434846 Size: 31 KB
+- **4 - Alphabet Inc. (0001652044) (Issuer)**
+  - when: 2026-10-27T21:35:07-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1652044/000119312526434846/0001193125-26-434846-index.htm
+  - Filed: 2026-10-27 AccNo: 0001193125-26-434846 Size: 31 KB
+- **4 - Rogers Chris (0002082930) (Reporting)**
+  - when: 2026-10-27T21:34:18-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2082930/000208293026000020/0002082930-26-000020-index.htm
+  - Filed: 2026-10-27 AccNo: 0002082930-26-000020 Size: 4 KB
+- **4 - Maplebear Inc. (0001579091) (Issuer)**
+  - when: 2026-10-27T21:34:18-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1579091/000208293026000020/0002082930-26-000020-index.htm
+  - Filed: 2026-10-27 AccNo: 0002082930-26-000020 Size: 4 KB
+- **4 - Symbotic Inc. (0001837240) (Issuer)**
+  - when: 2026-10-27T21:34:01-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1837240/000165400926000014/0001654009-26-000014-index.htm
+  - Filed: 2026-10-27 AccNo: 0001654009-26-000014 Size: 8 KB
+- **4 - Alexander Brian Daniel (0001654009) (Reporting)**
+  - when: 2026-10-27T21:34:01-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1654009/000165400926000014/0001654009-26-000014-index.htm
+  - Filed: 2026-10-27 AccNo: 0001654009-26-000014 Size: 8 KB
+- **4 - Symbotic Inc. (0001837240) (Issuer)**
+  - when: 2026-10-27T21:33:55-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1837240/000150530026000013/0001505300-26-000013-index.htm
+  - Filed: 2026-10-27 AccNo: 0001505300-26-000013 Size: 7 KB
+- **4 - Martins Izilda P (0001505300) (Reporting)**
+  - when: 2026-10-27T21:33:55-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1505300/000150530026000013/0001505300-26-000013-index.htm
+  - Filed: 2026-10-27 AccNo: 0001505300-26-000013 Size: 7 KB
+- **4 - Boyd William M III (0001932973) (Reporting)**
+  - when: 2026-10-27T21:33:50-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1932973/000193297326000024/0001932973-26-000024-index.htm
+  - Filed: 2026-10-27 AccNo: 0001932973-26-000024 Size: 15 KB
+- **4 - Symbotic Inc. (0001837240) (Issuer)**
+  - when: 2026-10-27T21:33:50-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1837240/000193297326000024/0001932973-26-000024-index.htm
+  - Filed: 2026-10-27 AccNo: 0001932973-26-000024 Size: 15 KB
+- **4 - Symbotic Inc. (0001837240) (Issuer)**
+  - when: 2026-10-27T21:33:44-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1837240/000180756126000022/0001807561-26-000022-index.htm
+  - Filed: 2026-10-27 AccNo: 0001807561-26-000022 Size: 11 KB
+- **4 - Freve Maria G (0001807561) (Reporting)**
+  - when: 2026-10-27T21:33:44-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1807561/000180756126000022/0001807561-26-000022-index.htm
+  - Filed: 2026-10-27 AccNo: 0001807561-26-000022 Size: 11 KB
 
 ## federal-register
 - **Implementation of HAVANA Act of 2021**
@@ -164,56 +164,71 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - What GAO Found The National Nuclear Security Administration (NNSA) oversees a $25 billion annual budget and approximately 70,000 management and operating contractor personnel to maintain the U.S. nuclear weapons stockpile and nuclear nonproliferation efforts. NNSA took steps to build its federal workforce to meet mission needs in 2024, with its workforce peaking at 1,991 early in fiscal year 2025. However, since then through the second quarter of fiscal year 2026, NNSA has reduced its federal w
 
 ## courtlistener
-- **Reh v. Dept. of Mental Health & Addiction Services**
+- **People of Guam v. Ricky Santos Cruz**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11046389/people-of-guam-v-ricky-santos-cruz/
+  - IN THE SUPREME COURT OF GUAM PEOPLE OF GUAM, Plaintiff-Appellee, v. RICKY SANTOS CRUZ, Defendant-Appellant. Supreme Court Case No. CRA24-006 Superior Court Case No. CF0120-21 OPINION Cite as: 2026 Guam 13 Original document
+- **Terence L. Rush v. State of Florida**
   - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11045739/reh-v-dept-of-mental-health-addiction-services/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **State v. Clarke**
+  - url: https://www.courtlistener.com/opinion/11046113/terence-l-rush-v-state-of-florida/
+  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2025-1731 Lower Tribunal No. 2012-CF-003180-A-O _____________________________ TERENCE L. RUSH, Appellant, v. Original document
+- **People v. Moore**
   - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11045737/state-v-clarke/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **Greenstein v. Thomas**
+  - url: https://www.courtlistener.com/opinion/11046211/people-v-moore/
+  - People v Moore 2026 NY Slip Op 06258 October 27, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. The People of the State of New York, Respondent, v Anthony Moore, Defendant-Appellant. Decided and Entered: October 27, 2026 Ind No. . 70668/25|. 2025-05232 |Appeal No. 7382| Before: Webber, J.P., Kapnick, Shulman, Pitt-Burke Original document
+- **Charles Issac Fisher, Jr. a/k/a Charles I. Fisher, Jr. a/k/a Charles Fisher v. State of Mississippi**
   - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11042843/greenstein-v-thomas/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **State v. Asbel R.**
+  - url: https://www.courtlistener.com/opinion/11046317/charles-issac-fisher-jr-aka-charles-i-fisher-jr-aka-charles-fisher/
+  - IN THE COURT OF APPEALS OF THE STATE OF MISSISSIPPI NO. 2025-CP-01174-COA CHARLES ISSAC FISHER, JR. A/K/A CHARLES APPELLANT I. FISHER, JR. A/K/A CHARLES FISHER v. STATE OF MISSISSIPPI APPELLEE DATE OF JUDGMENT: 08/27/2025 TRIAL JUDGE: HON. GRADY FRANKLIN TOLLISON III COURT FROM WHICH APPEALED: Original document
+- **Reonard Rashad Tate v. State**
   - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11045738/state-v-asbel-r/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **Charbono v. Board of Education**
+  - url: https://www.courtlistener.com/opinion/11046122/reonard-rashad-tate-v-state/
+  - Court of Appeals of the State of Georgia ATLANTA,____________________ October 27, 2026 The Court of Appeals hereby passes the following order: A27A0696. REONARD RASHAD TATE v. THE STATE. In 2013, Reonard Tate pled guilty to aggravated assault with a deadly weapon and other offenses, and the trial court sentenced him to 20 years in prison. In May 2026, Tate filed a motion for an out-of-time appeal Original document
+- **Pemberton v. Liberty Ashes Inc.**
   - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11045741/charbono-v-board-of-education/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **State v. Evans E.**
+  - url: https://www.courtlistener.com/opinion/11046219/pemberton-v-liberty-ashes-inc/
+  - Pemberton v Liberty Ashes Inc. 2026 NY Slip Op 06255 October 27, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Joshua Pemberton, Plaintiff-Appellant, v Liberty Ashes Inc. et al., Defendants-Respondents. Decided and Entered: October 27, 2026 Index No. 804637/24|Appeal No. 7363|Case No. 2025-04982| Before: Moulton, J.P., Original document
+- **NYCTL 1998-2 Trust v. Bethelite Community Baptist Church**
   - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11045736/state-v-evans-e/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **Citibank, N.A. v. Burke**
+  - url: https://www.courtlistener.com/opinion/11046221/nyctl-1998-2-trust-v-bethelite-community-baptist-church/
+  - NYCTL 1998-2 Trust v Bethelite Community Baptist Church 2026 NY Slip Op 06253 October 27, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. NYCTL 1998-2 Trust et al., Plaintiffs-Respondents, v Bethelite Community Baptist Church, also known as Bethelite Community Church, Inc., Defendant-Respondent, Atlah Worldwide Missionary Original document
+- **Civil Rights Dept. v. City of Torrance**
   - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11045740/citibank-na-v-burke/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **Gloster v. Murray**
-  - when: 2026-10-26T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11045909/gloster-v-murray/
-  - [Cite as Gloster v. Murray, 2026-Ohio-4222.] IN THE COURT OF APPEALS OF OHIO ELEVENTH APPELLATE DISTRICT LAKE COUNTY EUGENE B. GLOSTER, CASE NO. 2026-L-0044 Plaintiff-Appellee, Civil Appeal from the - vs - Court of Common Pleas, Juvenile Original document
-- **United States v. Dan Waeckerle, Jr.**
-  - when: 2026-10-26T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11045885/united-states-v-dan-waeckerle-jr/
-  - In the United States Court of Appeals For the Seventh Circuit ____________________ No. 24-1941 UNITED STATES OF AMERICA, Plaintiff-Appellee, v. DAN R. WAECKERLE, JR., Defendant-Appellant. ____________________ Appeal from the United States District Court for the Original document
-- **Sardinia v. Brown**
-  - when: 2026-10-26T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11045771/sardinia-v-brown/
-  - [Cite as Sardinia v. Brown, 2026-Ohio-4206.] IN THE COURT OF APPEALS TWELFTH APPELLATE DISTRICT OF OHIO BROWN COUNTY VILLAGE OF SARDINIA, : CASE NO. CA2026-01-001 Appellee, : OPINION AND Original document
-- **Jorge Feliciano v. Board of Review**
-  - when: 2026-10-26T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11045755/jorge-feliciano-v-board-of-review/
-  - NOT FOR PUBLICATION WITHOUT THE APPROVAL OF THE APPELLATE DIVISION SUPERIOR COURT OF NEW JERSEY APPELLATE DIVISION DOCKET NO. A-0491-25 JORGE FELICIANO, APPROVED FOR PUBLICATION Appellant, October 26, 2026 v. APPELLATE DIVISION BOARD OF Original document
-- **Khaboshan v. U.S. Department of State**
-  - when: 2026-10-26T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11045835/khaboshan-v-us-department-of-state/
-  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA HASAN NAJAFI KHABOSHAN, et al., Plaintiffs, Civil Action No. 26 - 92 (SLS) v. Judge Sparkle L. Sooknanan U.S. DEPARTMENT OF STATE, et al., Defendants. MEMORANDUM OPINION Hasan Najafi Khaboshan Original document
+  - url: https://www.courtlistener.com/opinion/11046228/civil-rights-dept-v-city-of-torrance/
+  - Filed 9/29/26 Certified for Publication 10/27/26 (order attached) IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA SECOND APPELLATE DISTRICT DIVISION ONE CIVIL RIGHTS DEPARTMENT, B352855 Plaintiff and Respondent. (Los Angeles County Super. Ct. No. 25STCP04155) v. CITY OF TORRANCE, Defendant and Appellant. Original document
+- **Matter of F.L.H. (A.G.L.)**
+  - when: 2026-10-27T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11046233/matter-of-flh-agl/
+  - Matter of F.L.H. (A.G.L.) 2026 NY Slip Op 06245 October 27, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. In the Matter of F.L.H., Petitioner-Respondent, A.G.L. Respondent-Appellant. Decided and Entered: October 27, 2026 Docket No. O-08563/22|Appeal No. 7351|Case No. 2023-05298| Before: Moulton, J.P., Mendez, Gesmer, O'Neill Original document
+- **People v. Salina B.**
+  - when: 2026-10-27T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11046319/people-v-salina-b/
+  - People v Salina B. 2026 NY Slip Op 06235 October 27, 2026 Court of Appeals Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. The People & c., Appellant, v Salina B., Respondent. Decided on October 27, 2026 No. 117 SSM 5 Submitted by Michael Allain, for appellant. Submitted by Paul Skip Laisure, for respondent. [*1] MEMORANDUM: The order of the Appellate Division Original document
+- **Star 2021-Sfr1 Borrower Lp v. Luis Pinto Munoz**
+  - when: 2026-10-27T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11046121/star-2021-sfr1-borrower-lp-v-luis-pinto-munoz/
+  - Court of Appeals of the State of Georgia ATLANTA, October 27, 2026 The Court of Appeals hereby passes the following order A27D0230. STAR 2021-SFR1 BORROWER LP v. LUIS PINTO MUNOZ. Upon consideration of the Application for Discretionary Appeal, it is ordered that it be hereby GRANTED. The Appellant may file a Notice of Appeal within 10 days of the date of this order. The Clerk of State Court is directed to include a copy of Original document
+- **State v. Tahjay Qweshawn Bingham**
+  - when: 2026-10-27T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11046120/state-v-tahjay-qweshawn-bingham/
+  - Court of Appeals of the State of Georgia ATLANTA,____________________ October 27, 2026 The Court of Appeals hereby passes the following order: A27A0442. THE STATE v. TAHJAY QWESHAWN BINGHAM. Tahjay Qweshawn Bingham was charged with rape, and his trial was set for July 14, 2025. The day of trial, Bingham filed a motion in limine to exclude testimony regarding the contents of a videotape that was not Original document
 
 ## uk-legislation
+- **The Air Navigation (Restriction of Flying) (Derry, Londonderry) Regulations 2026**
+  - when: 2026-10-28T04:03:19.283602+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1125
+- **The Victims and Prisoners Act 2024 (Commencement No. 12 and Transitional Provision) Regulations 2026**
+  - when: 2026-10-28T04:03:12+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1126
+  - These Regulations bring into force section 18 of the Victims and Prisoners Act 2024 (c. 21) (“the 2024 Act”). These are the twelfth commencement Regulations made under the 2024 Act.
+- **The Code of Practice (Access and Unfair Practices During the Recognition and Derecognition Process) Order 2026**
+  - when: 2026-10-27T18:29:10+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1129
+  - This Order brings into effect, on 30th October 2026, the Code of Practice issued by the Secretary of State under sections 203(1) and 204(2) of the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) (“the 1992 Act”) on Access and Unfair Practices During the Recognition and Derecognition Process (“the Code of Practice on Access and Unfair Practices During the Recognition and Derecognition Process”), which revises and supersedes the Code of Practice on Access and Unfair Practices dur
+- **The Family Procedure (Amendment No. 2) Rules 2026**
+  - when: 2026-10-27T17:37:40+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1124
+  - These Rules amend the Family Procedure Rules 2010 (S.I. 2010/2955) (“the FPR”).
 - **The Boiler Upgrade Scheme (Amendment to the Energy Act 2008 etc.) Regulations 2026**
   - when: 2026-10-27T04:09:04+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1121
@@ -236,22 +251,7 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
 - **The Air Navigation (Restriction of Flying) (Llanelli, Carmarthenshire) Regulations 2026**
   - when: 2026-10-27T04:03:13+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1120
-- **The Electronic Communications and Wireless Telegraphy (Amendment and Saving Provision) Regulations 2026**
-  - when: 2026-10-26T18:12:41+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1119
-  - These Regulations are made in exercise of the power conferred by regulation 5 of the Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246). They replace technical standards referred to in the Commission Delegated Regulation (EU) 305/2013 to include Next Generation (4G/5G) eCall and make provision for existing standards to be saved until 2G networks cease operation.
-- **The English Devolution and Community Empowerment Act 2026 (Commencement No. 3) Regulations 2026**
-  - when: 2026-10-26T16:20:05+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1127
-  - These Regulations are the third commencement regulations under the English Devolution and Community Empowerment Act 2026 (c. 23) (“the EDCEA 2026”).
-- **The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2026**
-  - when: 2026-10-26T14:47:44+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/288
-  - These Regulations amend the First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Regulations 2017 (S.S.I. 2017/328) (“the principal Regulations”) to reflect the conferral of new functions on the First-tier Tribunal by sections 16 and 17 of the Housing (Scotland) Act 2025 (asp 13) (“the 2025 Act”). Section 14 of the 2025 Act gives local authorities and the Scottish Ministers powers to seek information from a landlord relating to the tenancy of a house included in the landlord
-- **The A7 Trunk Road (Langholm) (Temporary Prohibition on Use of Road) Order 2026**
-  - when: 2026-10-26T10:48:02+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/289
-- **The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) (Precepts) (England) Regulations 2026**
-  - when: 2026-10-26T04:07:23+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1118
-  - The English Devolution and Community Empowerment Act 2026 (c. 23) (“the 2026 Act”) amends the arrangements for the issuing of precepts by mayoral combined authorities and mayoral combined county authorities. Section 12 of the 2026 Act removes the restriction under which precepts may be issued only in respect of mayoral functions.
+- **Correction Slip**
+  - when: 2026-10-27T12:03:56+01:00
+  - url: http://www.legislation.gov.uk/nisr/2026/124/pdfs/nisrcs_20260124_en_001.pdf
+  - Article 2 of this Order amends the Dangerous Dogs Compensation and Exemption Schemes Order (Northern Ireland) 1991 by removing the requirement to have in place third-party liability insurance in respect of Pitbull Terrier, Japanese Tosa, Dogo Argentino and Fila Braziliero dogs designated under Article 25A of the Dogs (Northern Ireland) Order 1983 imposing restrictions on these dogs, and introduces a new exemption condition that safeguards children under the age of 12.
