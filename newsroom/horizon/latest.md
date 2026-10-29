@@ -1,106 +1,106 @@
-# Horizon brief — 2026-10-28
+# Horizon brief — 2026-10-29
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
 ## sec-edgar
-- **4 - Saraci Marsida (0002138895) (Reporting)**
-  - when: 2026-10-27T21:35:07-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2138895/000119312526434846/0001193125-26-434846-index.htm
-  - Filed: 2026-10-27 AccNo: 0001193125-26-434846 Size: 31 KB
-- **4 - Alphabet Inc. (0001652044) (Issuer)**
-  - when: 2026-10-27T21:35:07-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1652044/000119312526434846/0001193125-26-434846-index.htm
-  - Filed: 2026-10-27 AccNo: 0001193125-26-434846 Size: 31 KB
-- **4 - Rogers Chris (0002082930) (Reporting)**
-  - when: 2026-10-27T21:34:18-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2082930/000208293026000020/0002082930-26-000020-index.htm
-  - Filed: 2026-10-27 AccNo: 0002082930-26-000020 Size: 4 KB
-- **4 - Maplebear Inc. (0001579091) (Issuer)**
-  - when: 2026-10-27T21:34:18-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1579091/000208293026000020/0002082930-26-000020-index.htm
-  - Filed: 2026-10-27 AccNo: 0002082930-26-000020 Size: 4 KB
-- **4 - Symbotic Inc. (0001837240) (Issuer)**
-  - when: 2026-10-27T21:34:01-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1837240/000165400926000014/0001654009-26-000014-index.htm
-  - Filed: 2026-10-27 AccNo: 0001654009-26-000014 Size: 8 KB
-- **4 - Alexander Brian Daniel (0001654009) (Reporting)**
-  - when: 2026-10-27T21:34:01-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1654009/000165400926000014/0001654009-26-000014-index.htm
-  - Filed: 2026-10-27 AccNo: 0001654009-26-000014 Size: 8 KB
-- **4 - Symbotic Inc. (0001837240) (Issuer)**
-  - when: 2026-10-27T21:33:55-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1837240/000150530026000013/0001505300-26-000013-index.htm
-  - Filed: 2026-10-27 AccNo: 0001505300-26-000013 Size: 7 KB
-- **4 - Martins Izilda P (0001505300) (Reporting)**
-  - when: 2026-10-27T21:33:55-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1505300/000150530026000013/0001505300-26-000013-index.htm
-  - Filed: 2026-10-27 AccNo: 0001505300-26-000013 Size: 7 KB
-- **4 - Boyd William M III (0001932973) (Reporting)**
-  - when: 2026-10-27T21:33:50-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1932973/000193297326000024/0001932973-26-000024-index.htm
-  - Filed: 2026-10-27 AccNo: 0001932973-26-000024 Size: 15 KB
-- **4 - Symbotic Inc. (0001837240) (Issuer)**
-  - when: 2026-10-27T21:33:50-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1837240/000193297326000024/0001932973-26-000024-index.htm
-  - Filed: 2026-10-27 AccNo: 0001932973-26-000024 Size: 15 KB
-- **4 - Symbotic Inc. (0001837240) (Issuer)**
-  - when: 2026-10-27T21:33:44-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1837240/000180756126000022/0001807561-26-000022-index.htm
-  - Filed: 2026-10-27 AccNo: 0001807561-26-000022 Size: 11 KB
-- **4 - Freve Maria G (0001807561) (Reporting)**
-  - when: 2026-10-27T21:33:44-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1807561/000180756126000022/0001807561-26-000022-index.htm
-  - Filed: 2026-10-27 AccNo: 0001807561-26-000022 Size: 11 KB
+- **4 - Uppal Manpreet (0002056422) (Reporting)**
+  - when: 2026-10-28T21:57:00-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2056422/000110465926119785/0001104659-26-119785-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119785 Size: 5 KB
+- **4 - GridAI Technologies Corp. (0001604191) (Issuer)**
+  - when: 2026-10-28T21:57:00-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604191/000110465926119785/0001104659-26-119785-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119785 Size: 5 KB
+- **4 - Syage Jack (0002014106) (Reporting)**
+  - when: 2026-10-28T21:56:00-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2014106/000110465926119784/0001104659-26-119784-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119784 Size: 5 KB
+- **4 - GridAI Technologies Corp. (0001604191) (Issuer)**
+  - when: 2026-10-28T21:56:00-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604191/000110465926119784/0001104659-26-119784-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119784 Size: 5 KB
+- **4 - Skowron Anna (0002066250) (Reporting)**
+  - when: 2026-10-28T21:54:59-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2066250/000110465926119783/0001104659-26-119783-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119783 Size: 8 KB
+- **4 - GridAI Technologies Corp. (0001604191) (Issuer)**
+  - when: 2026-10-28T21:54:59-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604191/000110465926119783/0001104659-26-119783-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119783 Size: 8 KB
+- **4 - Sawyer Jason David (0002076325) (Reporting)**
+  - when: 2026-10-28T21:53:56-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2076325/000110465926119782/0001104659-26-119782-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119782 Size: 5 KB
+- **4 - GridAI Technologies Corp. (0001604191) (Issuer)**
+  - when: 2026-10-28T21:53:56-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604191/000110465926119782/0001104659-26-119782-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119782 Size: 5 KB
+- **4 - Pursglove Geordan Garrett (0002073519) (Reporting)**
+  - when: 2026-10-28T21:52:55-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2073519/000110465926119781/0001104659-26-119781-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119781 Size: 5 KB
+- **4 - GridAI Technologies Corp. (0001604191) (Issuer)**
+  - when: 2026-10-28T21:52:55-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604191/000110465926119781/0001104659-26-119781-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119781 Size: 5 KB
+- **4 - GridAI Technologies Corp. (0001604191) (Issuer)**
+  - when: 2026-10-28T21:51:50-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604191/000110465926119780/0001104659-26-119780-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119780 Size: 10 KB
+- **4 - BORKOWSKI EDWARD (0001197542) (Reporting)**
+  - when: 2026-10-28T21:51:50-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1197542/000110465926119780/0001104659-26-119780-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119780 Size: 10 KB
 
 ## federal-register
-- **Implementation of HAVANA Act of 2021**
-  - when: 2026-10-27
-  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21923/implementation-of-havana-act-of-2021
-  - Justice Department — Rule — On April 19, 2024, the Department of Justice published an interim final rule to implement the HAVANA Act of 2021. No comments were received on the interim final rule. The HAVANA Act authorizes agency heads to provide payments to certain individuals who have incurred qualifying injuries to the brain. This final rule adopts the interim final rule with minor, non-substantive changes to the titles of certain officials involved in the payment review process and the earlies
-- **Hazardous Materials: Harmonization With International Standards**
-  - when: 2026-10-27
-  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21922/hazardous-materials-harmonization-with-international-standards
-  - Transportation Department, Pipeline and Hazardous Materials Safety Administration — Proposed Rule — PHMSA proposes to update the Hazardous Materials Regulations to adopt certain international regulations and standards related to proper shipping names, hazard classes, packing groups, special provisions, packaging authorizations, air transport quantity limitations, and vessel stowage requirements. These proposed amendments are intended to maintain consistency with the latest international regulati
-- **Bipartisan Safer Communities Act of 2022-Criteria for National Instant Criminal Background Check System (“NICS”) Background Checks of Firearm Handlers**
-  - when: 2026-10-27
-  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21920/bipartisan-safer-communities-act-of-2022-criteria-for-national-instant-criminal-background-check
-  - Justice Department — Rule — The United States Department of Justice ("Department") is amending several of its regulations pertaining to the National Instant Criminal Background Check System ("NICS" or "system") of the Federal Bureau of Investigation ("FBI") to authorize Federal Firearm Licensees ("FFLs" or "licensees") to use NICS for purposes of voluntarily conducting employment background checks relating to certain current or prospective FFL employees. This final rule describes in more detail
-- **Safety Zone; Southern California Annual Firework Events for the Los Angeles-Long Beach Captain of the Port Zone**
-  - when: 2026-10-27
-  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21918/safety-zone-southern-california-annual-firework-events-for-the-los-angeles-long-beach-captain-of-the
-  - Homeland Security Department, Coast Guard — Proposed Rule — The Coast Guard is proposing to amend the Southern California Firework Events for Los Angeles-Long Beach Captain of the Port Zone Annual Safety Zones. The Coast Guard proposes eight new events to be added, thirteen events to be updated, and two events removed. The safety zones are needed to protect waterways users and keep them clear of potentially harmful debris within the fallout zone. This proposed rulemaking would prohibit persons a
-- **Special Conditions: Embraer S.A. Model ERJ 190-400 Airplane; Embraer Enhanced Takeoff System**
-  - when: 2026-10-27
-  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21907/special-conditions-embraer-sa-model-erj-190-400-airplane-embraer-enhanced-takeoff-system
-  - Transportation Department, Federal Aviation Administration — Proposed Rule — This action proposes special conditions for the Embraer S.A. (Embraer) Model ERJ 190-400 series airplane. This airplane will have a novel or unusual design feature when compared to the state of technology envisioned in the airworthiness standards for transport category airplanes. This design feature is a functionality known as the Embraer Enhanced Takeoff System (E\2\TS). The applicable airworthiness regulations do not
-- **Commercial Driver's License: PAM Transport, Inc.; Application for Exemption**
-  - when: 2026-10-27
-  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21906/commercial-drivers-license-pam-transport-inc-application-for-exemption
-  - Transportation Department, Federal Motor Carrier Safety Administration — Notice — FMCSA requests public comment on PAM Transport Inc.'s (PAM) application for an exemption from the requirement that a holder of a commercial learner's permit (CLP) who has successfully passed the commercial driver's license (CDL) skills test but not yet been issued CDL credentials be accompanied by a CDL holder in the front seat, while the commercial motor vehicle (CMV) is driven by the CLP holder. PAM states that t
-- **Government-Owned Inventions; Availability for Licensing**
-  - when: 2026-10-27
-  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21905/government-owned-inventions-availability-for-licensing
-  - Health and Human Services Department, National Institutes of Health — Notice — The invention listed below is owned by an agency of the U.S. Government and is available for licensing to achieve expeditious commercialization of results of federally-funded research and development. Foreign patent applications are filed on selected inventions to extend market coverage for companies and may also be available for licensing.
-- **Submission for OMB Review; 30-Day Comment Request; The Impact of Clinical Research Training and Medical Education at the Clinical Center on Physician Careers in Academia and Clinical Research**
-  - when: 2026-10-27
-  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21904/submission-for-omb-review-30-day-comment-request-the-impact-of-clinical-research-training-and
-  - Health and Human Services Department, National Institutes of Health — Notice — In compliance with the Paperwork Reduction Act of 1995, the National Institutes of Health (NIH) has submitted to the Office of Management and Budget (OMB) a request for review and approval of the information collection listed below.
-- **Center for Scientific Review; Notice of Closed Meetings**
-  - when: 2026-10-27
-  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21903/center-for-scientific-review-notice-of-closed-meetings
+- **Reducing Bureaucracy and Burden for Block Grants**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22123/reducing-bureaucracy-and-burden-for-block-grants
+  - Health and Human Services Department, Children and Families Administration — Proposed Rule — ACF proposes to amend its block grant regulations to modernize requirements, reduce administrative burden on States and Tribal grantees, and improve the clarity and efficiency of program administration. The current regulations include outdated provisions and procedural requirements that no longer reflect statutory authority or agency practice. The proposed revisions are intended to streamline grantee obl
+- **Mandatory Guidelines for Federal Workplace Drug Testing Programs Using Urine (UrMG)**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22122/mandatory-guidelines-for-federal-workplace-drug-testing-programs-using-urine-urmg
+  - Health and Human Services Department — Proposed Rule — The Department of Health and Human Services ("HHS" or "Department") is proposing to revise the Mandatory Guidelines for Federal Workplace Drug Testing Programs using Urine (UrMG), published in the Federal Register on October 12, 2023).
+- **Mandatory Guidelines for Federal Workplace Drug Testing Programs Using Oral Fluid (OFMG)**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22121/mandatory-guidelines-for-federal-workplace-drug-testing-programs-using-oral-fluid-ofmg
+  - Health and Human Services Department — Proposed Rule — The Department of Health and Human Services ("HHS" or "Department") is proposing to revise the Mandatory Guidelines for Federal Workplace Drug Testing Programs using Oral Fluid (OFMG) published on October 12, 2023.
+- **Office of the Director, National Institutes of Health; Notice of Meeting**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22120/office-of-the-director-national-institutes-of-health-notice-of-meeting
   - Health and Human Services Department, National Institutes of Health — Notice
-- **Airworthiness Directives; Ontic Engineering and Manufacturing, Inc. (Type Certificate Previously Held by Swearingen, Fairchild Aircraft, and M7 Aerospace) Airplanes**
-  - when: 2026-10-27
-  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21902/airworthiness-directives-ontic-engineering-and-manufacturing-inc-type-certificate-previously-held-by
-  - Transportation Department, Federal Aviation Administration — Rule — The FAA is adopting a new airworthiness directive (AD) for certain Ontic Engineering and Manufacturing, Inc. Model SA226-T, SA226- AT, SA226-T(B), SA226-TC, SA227-AC (C-26A), SA227-AT, SA227-BC (C-26A), SA227-PC, SA227-CC, SA227-DC (C-26B), and SA227-TT (300) airplanes. This AD was prompted by reports of in-flight pitch trim actuator failures. This AD requires repetitively inspecting the pitch trim actuator for cracked, missing,
-- **Establishment of Federal Advisory Committees-Advisory Council on Health and Human Performance Optimization**
-  - when: 2026-10-27
-  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21900/establishment-of-federal-advisory-committees-advisory-council-on-health-and-human-performance
-  - Defense Department, — Notice — The DoD (referred to herein as "the Department of War" or "DoW") is publishing this notice to announce it is establishing the Advisory Council on Health and Human Performance Optimization ("the Council") as a discretionary Federal advisory committee.
-- **Agency Information Collection Activities: Comment Request: Survey of Earned Doctorates**
-  - when: 2026-10-27
-  - url: https://www.federalregister.gov/documents/2026/10/27/2026-21898/agency-information-collection-activities-comment-request-survey-of-earned-doctorates
-  - National Science Foundation — Notice — The National Center for Science and Engineering Statistics within the National Science Foundation (NSF) is announcing plans to request renewal of the Survey of Earned Doctorates (OMB Control Number 3145-0019) . In accordance with the requirements of the Paperwork Reduction Act of 1995, we are providing opportunity for public comment on this action. After obtaining and considering public comments, NCSES will prepare the submission requesting OMB clearance of
+- **Office of the Director, National Institutes of Health; Notice of Meeting**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22119/office-of-the-director-national-institutes-of-health-notice-of-meeting
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Office of the Director, National Institutes of Health; Notice of Meeting**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22118/office-of-the-director-national-institutes-of-health-notice-of-meeting
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Generic Clearance for Conducting Research Into Company Alternative Reporting Options**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22117/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for
+  - Commerce Department, Census Bureau — Notice
+- **Reducing Bureaucracy and Burden for Child Support Enforcement Programs**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22116/reducing-bureaucracy-and-burden-for-child-support-enforcement-programs
+  - Health and Human Services Department, Children and Families Administration — Rule — This final rule amends the Child Support regulations that were unnecessary or obsolete in the following sections: State Plan Approval and Grant Procedures, State Plan Requirements, Standards for Program Operations, Federal Financial Participation, Program Performance Measures, Standards, Financial Incentives, and Penalties, Computerized Support Enforcement Systems, Annual State Self-Assessment Review and Report,
+- **Eunice Kennedy Shriver National Institute of Child Health & Human Development; Notice of Meeting**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22115/eunice-kennedy-shriver-national-institute-of-child-health-and-human-development-notice-of-meeting
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Fogarty International Center; Notice of Meeting**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22114/fogarty-international-center-notice-of-meeting
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **National Institute of Biomedical Imaging and Bioengineering; Notice of Meeting**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22113/national-institute-of-biomedical-imaging-and-bioengineering-notice-of-meeting
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Eunice Kennedy Shriver National Institute of Child Health & Human Development; Notice of Meeting**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22112/eunice-kennedy-shriver-national-institute-of-child-health-and-human-development-notice-of-meeting
+  - Health and Human Services Department, National Institutes of Health — Notice
 
 ## gao
 - **Professional Standards Update No. 102**
@@ -164,94 +164,93 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - What GAO Found The National Nuclear Security Administration (NNSA) oversees a $25 billion annual budget and approximately 70,000 management and operating contractor personnel to maintain the U.S. nuclear weapons stockpile and nuclear nonproliferation efforts. NNSA took steps to build its federal workforce to meet mission needs in 2024, with its workforce peaking at 1,991 early in fiscal year 2025. However, since then through the second quarter of fiscal year 2026, NNSA has reduced its federal w
 
 ## courtlistener
-- **People of Guam v. Ricky Santos Cruz**
+- **Fusari v. Canfield**
   - when: 2026-10-28T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11046389/people-of-guam-v-ricky-santos-cruz/
-  - IN THE SUPREME COURT OF GUAM PEOPLE OF GUAM, Plaintiff-Appellee, v. RICKY SANTOS CRUZ, Defendant-Appellant. Supreme Court Case No. CRA24-006 Superior Court Case No. CF0120-21 OPINION Cite as: 2026 Guam 13 Original document
-- **Terence L. Rush v. State of Florida**
-  - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11046113/terence-l-rush-v-state-of-florida/
-  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2025-1731 Lower Tribunal No. 2012-CF-003180-A-O _____________________________ TERENCE L. RUSH, Appellant, v. Original document
-- **People v. Moore**
-  - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11046211/people-v-moore/
-  - People v Moore 2026 NY Slip Op 06258 October 27, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. The People of the State of New York, Respondent, v Anthony Moore, Defendant-Appellant. Decided and Entered: October 27, 2026 Ind No. . 70668/25|. 2025-05232 |Appeal No. 7382| Before: Webber, J.P., Kapnick, Shulman, Pitt-Burke Original document
-- **Charles Issac Fisher, Jr. a/k/a Charles I. Fisher, Jr. a/k/a Charles Fisher v. State of Mississippi**
-  - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11046317/charles-issac-fisher-jr-aka-charles-i-fisher-jr-aka-charles-fisher/
-  - IN THE COURT OF APPEALS OF THE STATE OF MISSISSIPPI NO. 2025-CP-01174-COA CHARLES ISSAC FISHER, JR. A/K/A CHARLES APPELLANT I. FISHER, JR. A/K/A CHARLES FISHER v. STATE OF MISSISSIPPI APPELLEE DATE OF JUDGMENT: 08/27/2025 TRIAL JUDGE: HON. GRADY FRANKLIN TOLLISON III COURT FROM WHICH APPEALED: Original document
-- **Reonard Rashad Tate v. State**
-  - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11046122/reonard-rashad-tate-v-state/
-  - Court of Appeals of the State of Georgia ATLANTA,____________________ October 27, 2026 The Court of Appeals hereby passes the following order: A27A0696. REONARD RASHAD TATE v. THE STATE. In 2013, Reonard Tate pled guilty to aggravated assault with a deadly weapon and other offenses, and the trial court sentenced him to 20 years in prison. In May 2026, Tate filed a motion for an out-of-time appeal Original document
-- **Pemberton v. Liberty Ashes Inc.**
-  - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11046219/pemberton-v-liberty-ashes-inc/
-  - Pemberton v Liberty Ashes Inc. 2026 NY Slip Op 06255 October 27, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Joshua Pemberton, Plaintiff-Appellant, v Liberty Ashes Inc. et al., Defendants-Respondents. Decided and Entered: October 27, 2026 Index No. 804637/24|Appeal No. 7363|Case No. 2025-04982| Before: Moulton, J.P., Original document
-- **NYCTL 1998-2 Trust v. Bethelite Community Baptist Church**
-  - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11046221/nyctl-1998-2-trust-v-bethelite-community-baptist-church/
-  - NYCTL 1998-2 Trust v Bethelite Community Baptist Church 2026 NY Slip Op 06253 October 27, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. NYCTL 1998-2 Trust et al., Plaintiffs-Respondents, v Bethelite Community Baptist Church, also known as Bethelite Community Church, Inc., Defendant-Respondent, Atlah Worldwide Missionary Original document
-- **Civil Rights Dept. v. City of Torrance**
-  - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11046228/civil-rights-dept-v-city-of-torrance/
-  - Filed 9/29/26 Certified for Publication 10/27/26 (order attached) IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA SECOND APPELLATE DISTRICT DIVISION ONE CIVIL RIGHTS DEPARTMENT, B352855 Plaintiff and Respondent. (Los Angeles County Super. Ct. No. 25STCP04155) v. CITY OF TORRANCE, Defendant and Appellant. Original document
-- **Matter of F.L.H. (A.G.L.)**
-  - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11046233/matter-of-flh-agl/
-  - Matter of F.L.H. (A.G.L.) 2026 NY Slip Op 06245 October 27, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. In the Matter of F.L.H., Petitioner-Respondent, A.G.L. Respondent-Appellant. Decided and Entered: October 27, 2026 Docket No. O-08563/22|Appeal No. 7351|Case No. 2023-05298| Before: Moulton, J.P., Mendez, Gesmer, O'Neill Original document
-- **People v. Salina B.**
-  - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11046319/people-v-salina-b/
-  - People v Salina B. 2026 NY Slip Op 06235 October 27, 2026 Court of Appeals Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. The People & c., Appellant, v Salina B., Respondent. Decided on October 27, 2026 No. 117 SSM 5 Submitted by Michael Allain, for appellant. Submitted by Paul Skip Laisure, for respondent. [*1] MEMORANDUM: The order of the Appellate Division Original document
-- **Star 2021-Sfr1 Borrower Lp v. Luis Pinto Munoz**
-  - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11046121/star-2021-sfr1-borrower-lp-v-luis-pinto-munoz/
-  - Court of Appeals of the State of Georgia ATLANTA, October 27, 2026 The Court of Appeals hereby passes the following order A27D0230. STAR 2021-SFR1 BORROWER LP v. LUIS PINTO MUNOZ. Upon consideration of the Application for Discretionary Appeal, it is ordered that it be hereby GRANTED. The Appellant may file a Notice of Appeal within 10 days of the date of this order. The Clerk of State Court is directed to include a copy of Original document
-- **State v. Tahjay Qweshawn Bingham**
-  - when: 2026-10-27T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11046120/state-v-tahjay-qweshawn-bingham/
-  - Court of Appeals of the State of Georgia ATLANTA,____________________ October 27, 2026 The Court of Appeals hereby passes the following order: A27A0442. THE STATE v. TAHJAY QWESHAWN BINGHAM. Tahjay Qweshawn Bingham was charged with rape, and his trial was set for July 14, 2025. The day of trial, Bingham filed a motion in limine to exclude testimony regarding the contents of a videotape that was not Original document
+  - url: https://www.courtlistener.com/opinion/11047350/fusari-v-canfield/
+  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT VINCENT FUSARI, Appellant, v. MIRIAM CANFIELD, Appellee. No. 2D2025-2953 October 28, 2026 Appeal from the Circuit Court for Pinellas County; Patricia A. Muscarella, Judge. Vincent Original document
+- **Milonas v. Piro**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11048433/milonas-v-piro/
+  - Milonas v Piro 2026 NY Slip Op 06297 October 28, 2026 Appellate Division, Second Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Regina Milonas, appellant, v Carol A. Piro, respondent. Supreme Court of the State of New York, Appellate Division, Second Judicial Department Decided on October 28, 2026 2025-03421, (Index No. 610763/23) Colleen D. Duffy, J Original document
+- **Revco Solutions Inc. v. Equifax Inc.**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11048368/revco-solutions-inc-v-equifax-inc/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA REVCO SOLUTIONS INC., Petitioner, v. Case No. 1:26-mc-00138 (TNM) EQUIFAX INC., Respondent. MEMORANDUM ORDER A group of debt collectors have sued several credit reporting agencies, including respondent Equifax Inc., in the Eastern Original document
+- **Christopher Tate v. State of Arkansas**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047289/christopher-tate-v-state-of-arkansas/
+  - Cite as 2026 Ark. App. 506 ARKANSAS COURT OF APPEALS DIVISION II No. CR-26-54 Opinion Delivered October 28, 2026 CHRISTOPHER TATE APPEAL FROM THE POPE APPELLANT COUNTY CIRCUIT COURT [NO. 58CR-24-524] V. Original document
+- **Bft Rental, LLC v. City of Fayetteville**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047291/bft-rental-llc-v-city-of-fayetteville/
+  - Cite as 2026 Ark. App. 499 ARKANSAS COURT OF APPEALS DIVISION III No. CV-25-506 BFT RENTAL, LLC Opinion Delivered October 28, 2026 APPELLANT APPEAL FROM THE WASHINGTON COUNTY CIRCUIT COURT V. Original document
+- **Glen A. Gillette, Jr. v. State of Arkansas**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047272/glen-a-gillette-jr-v-state-of-arkansas/
+  - Cite as 2026 Ark. App. 514 ARKANSAS COURT OF APPEALS DIVISION I No. CR-25-546 Opinion Delivered: October 28, 2026 GLEN A. GILLETTE, JR. APPEAL FROM THE CRAIGHEAD APPELLANT COUNTY CIRCUIT COURT, Original document
+- **Yaimi Alvarez v. Raiza Cueto, Etc.**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047354/yaimi-alvarez-v-raiza-cueto-etc/
+  - Third District Court of Appeal State of Florida Opinion filed October 28, 2026. Not final until disposition of timely filed motion for rehearing. ________________ No. 3D24-2310 Lower Tribunal No. 18-14905-FC-04 ________________ Yaimi Alvarez, Appellant Original document
+- **In the Interest of M. S., a Child (Mother)**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047364/in-the-interest-of-m-s-a-child-mother/
+  - FOURTH DIVISION MCFADDEN, P. J., WATKINS and PADGETT, JJ. NOTICE: Motions for reconsideration must be received no later than 4:30 pm on the 10th day after the decision was issued to be deemed timely filed. https://www.gaappeals.gov/rules October 28, 2026 In the Original document
+- **Humane World for Animals v. United States Department of Agriculture**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047645/humane-world-for-animals-v-united-states-department-of-agriculture/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA HUMANE WORLD FOR ANIMALS, et al., Plaintiffs, Civil Action No. 26 - 1372 (SLS) v. Judge Sparkle L. Sooknanan UNITED STATES DEPARTMENT OF AGRICULTURE, et al., Defendants. ORDER Original document
+- **Dept. of Human Services v. S. C. / E. M. A.**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047706/dept-of-human-services-v-s-c-e-m-a/
+  - No. 1033 October 28, 2026 193 IN THE COURT OF APPEALS OF THE STATE OF OREGON In the Matter of O. C., aka O. A., a Child. DEPARTMENT OF HUMAN SERVICES, Petitioner-Respondent, v. S. C. and E. M. A., aka E. A., Appellants. Umatilla County Circuit Original document
+- **M. Q. v. Mar**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047701/m-q-v-mar/
+  - 242 October 28, 2026 No. 1038 IN THE COURT OF APPEALS OF THE STATE OF OREGON M. Q. Petitioner-Respondent, v. DANNI MAR, Respondent-Appellant. Marion County Circuit Court 25PO07705; A188800 Amy M. Queen, Judge. Argued and submitted September 9, 2026. Jason E. Thompson argued the cause for appellant. Also Original document
+- **Dept. of Human Services v. G. G.**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047711/dept-of-human-services-v-g-g/
+  - 142 October 28, 2026 No. 1029 IN THE COURT OF APPEALS OF THE STATE OF OREGON In the Matter of E. G., a Child. DEPARTMENT OF HUMAN SERVICES, Petitioner-Respondent, v. G. G., Appellant. Union County Circuit Court 25JU03637; A189898 Thomas B. Powers, Judge. Submitted August 19 Original document
 
 ## uk-legislation
-- **The Air Navigation (Restriction of Flying) (Derry, Londonderry) Regulations 2026**
-  - when: 2026-10-28T04:03:19.283602+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1125
-- **The Victims and Prisoners Act 2024 (Commencement No. 12 and Transitional Provision) Regulations 2026**
-  - when: 2026-10-28T04:03:12+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1126
-  - These Regulations bring into force section 18 of the Victims and Prisoners Act 2024 (c. 21) (“the 2024 Act”). These are the twelfth commencement Regulations made under the 2024 Act.
-- **The Code of Practice (Access and Unfair Practices During the Recognition and Derecognition Process) Order 2026**
-  - when: 2026-10-27T18:29:10+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1129
-  - This Order brings into effect, on 30th October 2026, the Code of Practice issued by the Secretary of State under sections 203(1) and 204(2) of the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) (“the 1992 Act”) on Access and Unfair Practices During the Recognition and Derecognition Process (“the Code of Practice on Access and Unfair Practices During the Recognition and Derecognition Process”), which revises and supersedes the Code of Practice on Access and Unfair Practices dur
-- **The Family Procedure (Amendment No. 2) Rules 2026**
-  - when: 2026-10-27T17:37:40+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1124
-  - These Rules amend the Family Procedure Rules 2010 (S.I. 2010/2955) (“the FPR”).
-- **The Boiler Upgrade Scheme (Amendment to the Energy Act 2008 etc.) Regulations 2026**
-  - when: 2026-10-27T04:09:04+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1121
-  - These Regulations amend section 100 of The Energy Act 2008 (“the Act”) and make minor amendments to the Boiler Upgrade Scheme (England and Wales) Regulations 2022 (S.I. 2022/565) (“the 2022 Regulations”).
+- **The Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (Commencement No. 2) Regulations 2026**
+  - when: 2026-10-29T08:59:45+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/294
+  - These Regulations bring into force on 30 December 2026 sections 6, 7 and 11 of the Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (“the Act”).
+- **The A96 Trunk Road (Keith) (Temporary Prohibition on Use of Road) Order 2026**
+  - when: 2026-10-29T04:13:47+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/298
+- **The A87 Trunk Road (Balmacara) (Temporary Prohibition on Use of Road) Order 2026**
+  - when: 2026-10-29T04:13:37+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/304
+- **The A9 Trunk Road (Brora) (Temporary Prohibition on Use of Road) Order 2026**
+  - when: 2026-10-29T04:13:36+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/303
+- **The A82 Trunk Road (Spean Bridge) (Temporary Prohibition on Use of Road) Order 2026**
+  - when: 2026-10-29T04:13:27+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/302
+- **The M9/A9 Trunk Road (Thurso) (Temporary Prohibition on Use of Road) Order 2026**
+  - when: 2026-10-29T04:13:26+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/301
+- **The A96 Trunk Road (Nairn) (Temporary Prohibition on Use of Road) Order 2026**
+  - when: 2026-10-29T04:13:14+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/300
+- **The A83 Trunk Road (Ardrishaig) (Temporary Prohibition on Use of Road) (No. 2) Order 2026**
+  - when: 2026-10-29T04:13:14+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/299
 - **The South West Scotland Trunk Roads (Temporary Prohibitions of Traffic and Overtaking and Temporary Speed Restrictions) (No. 10) Order 2026**
-  - when: 2026-10-27T04:09:03+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/291
-- **The South East Scotland Trunk Roads (Temporary Prohibitions of Traffic and Overtaking and Temporary Speed Restrictions) (No. 10) Order 2026**
-  - when: 2026-10-27T04:08:51+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/292
-- **The North West Scotland Trunk Roads (Temporary Prohibitions of Traffic and Overtaking and Temporary Speed Restrictions) (No. 10) Order 2026**
-  - when: 2026-10-27T04:08:41+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/293
-- **The North East Scotland Trunk Roads (Temporary Prohibitions of Traffic and Overtaking and Temporary Speed Restrictions) (No. 10) Order 2026**
-  - when: 2026-10-27T04:08:30+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/290
-- **The Pedicabs (London) (Amendment) Regulations 2026**
-  - when: 2026-10-27T04:03:19.103698+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1122
-- **The Air Navigation (Restriction of Flying) (Llanelli, Carmarthenshire) Regulations 2026**
-  - when: 2026-10-27T04:03:13+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1120
-- **Correction Slip**
-  - when: 2026-10-27T12:03:56+01:00
-  - url: http://www.legislation.gov.uk/nisr/2026/124/pdfs/nisrcs_20260124_en_001.pdf
-  - Article 2 of this Order amends the Dangerous Dogs Compensation and Exemption Schemes Order (Northern Ireland) 1991 by removing the requirement to have in place third-party liability insurance in respect of Pitbull Terrier, Japanese Tosa, Dogo Argentino and Fila Braziliero dogs designated under Article 25A of the Dogs (Northern Ireland) Order 1983 imposing restrictions on these dogs, and introduces a new exemption condition that safeguards children under the age of 12.
+  - when: 2026-10-29T04:13:03+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/297
+- **The Football Governance Act 2025 (Commencement No. 5) Regulations 2026**
+  - when: 2026-10-29T04:03:44+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1135
+  - These Regulations bring into force specified provisions of the Football Governance Act 2025 (c. 21) (“the Act”) on 29th October 2026 and 1st November 2026. Certain provisions came into force on Royal Assent by virtue of section 100(2). They are the fifth set of commencement Regulations made under the Act.
+- **The Wireless Telegraphy (Dynamic Spectrum Access Service) (Frequencies) Regulations 2026**
+  - when: 2026-10-29T04:03:24+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1131
+  - These Regulations specify the frequency band containing the frequencies about which a dynamic spectrum access service, registered by Ofcom under section 53A of the Wireless Telegraphy Act 2006, may provide information relating to their availability for use by wireless telegraphy stations and wireless telegraphy apparatus and the places in which, the power at which, the times at which and any conditions subject to which such stations and apparatus may use them.
+- **The Leasehold and Freehold Reform Act 2024 (Commencement No. 4 and Saving Provision) (England) Regulations 2026**
+  - when: 2026-10-29T04:02:43+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1128
+  - These Regulations bring into force specified provisions of the Leasehold and Freehold Reform Act 2024 (c. 22) (“the Act”) in relation to England.

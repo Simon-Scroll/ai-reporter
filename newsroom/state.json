@@ -22,12 +22,12 @@
     "2026-021-cbp-ice-body-camera-management"
   ],
   "series": [],
-  "last_run": "2026-10-28",
+  "last_run": "2026-10-29",
   "last_mode": "CONTINUE",
-  "last_horizon": "2026-10-28",
+  "last_horizon": "2026-10-29",
   "last_published_at": "2026-10-24",
-  "last_journal": "newsroom/journal/2026-10-28.md",
-  "next_action": "Do not refetch the reviewed NIH sources; when the cadence clears on or after 2026-10-30, run the final skeptic and validation checks and publish if the record remains unchanged.",
-  "handoff": "On October 28 the desk kept 2026-024-nih-foreign-interference-data-continuity active because its same-object test passes and its bounded draft is ready. The October 28 horizon added no NIH crosswalk, brief, historical series, or parked-thread reopen record, so the reviewed NIH sources were not refetched. The October 24 article keeps publication closed until October 30; the next run should check for a genuinely new NIH record, then run final skeptic and validation checks when cadence permits. All ten prior investigations remain parked.",
+  "last_journal": "newsroom/journal/2026-10-29.md",
+  "next_action": "Do not refetch the reviewed NIH sources; on or after 2026-10-30, run the fresh skeptic and validation checks and publish if the record remains unchanged.",
+  "handoff": "On October 29 the desk kept 2026-024-nih-foreign-interference-data-continuity active because its same-object test passes and its bounded draft remains ready. The October 29 horizon added no NIH crosswalk, brief, historical series, or parked-thread reopen record, so the reviewed NIH sources were not refetched. The October 24 article keeps publication closed through October 29; the next run should check for a genuinely new NIH record, then run the fresh skeptic and validation checks on or after October 30. All ten prior investigations remain parked.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }

@@ -1,0 +1,256 @@
+# Horizon brief — 2026-10-29
+
+Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
+
+## sec-edgar
+- **4 - Uppal Manpreet (0002056422) (Reporting)**
+  - when: 2026-10-28T21:57:00-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2056422/000110465926119785/0001104659-26-119785-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119785 Size: 5 KB
+- **4 - GridAI Technologies Corp. (0001604191) (Issuer)**
+  - when: 2026-10-28T21:57:00-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604191/000110465926119785/0001104659-26-119785-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119785 Size: 5 KB
+- **4 - Syage Jack (0002014106) (Reporting)**
+  - when: 2026-10-28T21:56:00-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2014106/000110465926119784/0001104659-26-119784-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119784 Size: 5 KB
+- **4 - GridAI Technologies Corp. (0001604191) (Issuer)**
+  - when: 2026-10-28T21:56:00-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604191/000110465926119784/0001104659-26-119784-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119784 Size: 5 KB
+- **4 - Skowron Anna (0002066250) (Reporting)**
+  - when: 2026-10-28T21:54:59-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2066250/000110465926119783/0001104659-26-119783-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119783 Size: 8 KB
+- **4 - GridAI Technologies Corp. (0001604191) (Issuer)**
+  - when: 2026-10-28T21:54:59-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604191/000110465926119783/0001104659-26-119783-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119783 Size: 8 KB
+- **4 - Sawyer Jason David (0002076325) (Reporting)**
+  - when: 2026-10-28T21:53:56-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2076325/000110465926119782/0001104659-26-119782-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119782 Size: 5 KB
+- **4 - GridAI Technologies Corp. (0001604191) (Issuer)**
+  - when: 2026-10-28T21:53:56-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604191/000110465926119782/0001104659-26-119782-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119782 Size: 5 KB
+- **4 - Pursglove Geordan Garrett (0002073519) (Reporting)**
+  - when: 2026-10-28T21:52:55-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2073519/000110465926119781/0001104659-26-119781-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119781 Size: 5 KB
+- **4 - GridAI Technologies Corp. (0001604191) (Issuer)**
+  - when: 2026-10-28T21:52:55-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604191/000110465926119781/0001104659-26-119781-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119781 Size: 5 KB
+- **4 - GridAI Technologies Corp. (0001604191) (Issuer)**
+  - when: 2026-10-28T21:51:50-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604191/000110465926119780/0001104659-26-119780-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119780 Size: 10 KB
+- **4 - BORKOWSKI EDWARD (0001197542) (Reporting)**
+  - when: 2026-10-28T21:51:50-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1197542/000110465926119780/0001104659-26-119780-index.htm
+  - Filed: 2026-10-28 AccNo: 0001104659-26-119780 Size: 10 KB
+
+## federal-register
+- **Reducing Bureaucracy and Burden for Block Grants**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22123/reducing-bureaucracy-and-burden-for-block-grants
+  - Health and Human Services Department, Children and Families Administration — Proposed Rule — ACF proposes to amend its block grant regulations to modernize requirements, reduce administrative burden on States and Tribal grantees, and improve the clarity and efficiency of program administration. The current regulations include outdated provisions and procedural requirements that no longer reflect statutory authority or agency practice. The proposed revisions are intended to streamline grantee obl
+- **Mandatory Guidelines for Federal Workplace Drug Testing Programs Using Urine (UrMG)**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22122/mandatory-guidelines-for-federal-workplace-drug-testing-programs-using-urine-urmg
+  - Health and Human Services Department — Proposed Rule — The Department of Health and Human Services ("HHS" or "Department") is proposing to revise the Mandatory Guidelines for Federal Workplace Drug Testing Programs using Urine (UrMG), published in the Federal Register on October 12, 2023).
+- **Mandatory Guidelines for Federal Workplace Drug Testing Programs Using Oral Fluid (OFMG)**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22121/mandatory-guidelines-for-federal-workplace-drug-testing-programs-using-oral-fluid-ofmg
+  - Health and Human Services Department — Proposed Rule — The Department of Health and Human Services ("HHS" or "Department") is proposing to revise the Mandatory Guidelines for Federal Workplace Drug Testing Programs using Oral Fluid (OFMG) published on October 12, 2023.
+- **Office of the Director, National Institutes of Health; Notice of Meeting**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22120/office-of-the-director-national-institutes-of-health-notice-of-meeting
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Office of the Director, National Institutes of Health; Notice of Meeting**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22119/office-of-the-director-national-institutes-of-health-notice-of-meeting
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Office of the Director, National Institutes of Health; Notice of Meeting**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22118/office-of-the-director-national-institutes-of-health-notice-of-meeting
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Generic Clearance for Conducting Research Into Company Alternative Reporting Options**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22117/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for
+  - Commerce Department, Census Bureau — Notice
+- **Reducing Bureaucracy and Burden for Child Support Enforcement Programs**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22116/reducing-bureaucracy-and-burden-for-child-support-enforcement-programs
+  - Health and Human Services Department, Children and Families Administration — Rule — This final rule amends the Child Support regulations that were unnecessary or obsolete in the following sections: State Plan Approval and Grant Procedures, State Plan Requirements, Standards for Program Operations, Federal Financial Participation, Program Performance Measures, Standards, Financial Incentives, and Penalties, Computerized Support Enforcement Systems, Annual State Self-Assessment Review and Report,
+- **Eunice Kennedy Shriver National Institute of Child Health & Human Development; Notice of Meeting**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22115/eunice-kennedy-shriver-national-institute-of-child-health-and-human-development-notice-of-meeting
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Fogarty International Center; Notice of Meeting**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22114/fogarty-international-center-notice-of-meeting
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **National Institute of Biomedical Imaging and Bioengineering; Notice of Meeting**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22113/national-institute-of-biomedical-imaging-and-bioengineering-notice-of-meeting
+  - Health and Human Services Department, National Institutes of Health — Notice
+- **Eunice Kennedy Shriver National Institute of Child Health & Human Development; Notice of Meeting**
+  - when: 2026-10-29
+  - url: https://www.federalregister.gov/documents/2026/10/29/2026-22112/eunice-kennedy-shriver-national-institute-of-child-health-and-human-development-notice-of-meeting
+  - Health and Human Services Department, National Institutes of Health — Notice
+
+## gao
+- **Professional Standards Update No. 102**
+  - when: Mon, 26 Oct 2026 12:11:08 -0400
+  - url: https://www.gao.gov/products/e16067
+  - To alert the audit community to changes in professional standards, we periodically issue Professional Standards Updates (PSU). These updates highlight the effective dates of recently issued standards and guidance related to engagements conducted in accordance with Government Auditing Standards. PSUs contain summary information only, and those affected by a change should refer to the respective standard or guidance for details.
+- **State Department: Standards for Overseas Housing Need Review [Reissued with revisions on Oct. 21, 2026]**
+  - when: Mon, 10 Aug 2026 07:28:52 -0400
+  - url: https://www.gao.gov/products/gao-26-107965
+  - pdf: https://www.gao.gov/assets/gao-26-107965.pdf
+  - What GAO Found The Department of State last updated its standards for overseas housing space in 1991, according to State officials. Those standards may no longer align with State’s goal of providing Foreign Service personnel living abroad with housing comparable to the Washington, D.C., metropolitan area. In the last 35 years, median housing costs in the Washington, D.C., area have increased at a faster rate than Foreign Service personnel salaries. In addition, State’s method for measuring over
+- **Textile Circular Economy: Policy Options for the U.S.**
+  - when: Fri, 16 Oct 2026 09:35:25 -0400
+  - url: https://www.gao.gov/products/gao-27-108142
+  - pdf: https://www.gao.gov/assets/gao-27-108142.pdf
+  - What GAO Found Developing a textile circular economy includes repairing, reusing, and recycling textiles and making them last longer. Example of a Circular Economy for Textiles In the U.S., a textile circular economy may create potential benefits and involve challenges, according to reports by federal agencies and organizations and stakeholder interviews. Potential benefits could include creating new jobs and markets related to textile repair and recycling, reducing environmental harm, and
+- **Critical Minerals: Limited Available Information on the Full Extent of Foreign Investment in Mining on Federal Lands**
+  - when: Fri, 16 Oct 2026 07:40:00 -0400
+  - url: https://www.gao.gov/products/gao-27-108094
+  - pdf: https://www.gao.gov/assets/gao-27-108094.pdf
+  - What GAO Found The U.S critical mineral supply chain faces numerous constraints, including the need for substantial capital investment and limited domestic processing capacity. The U.S. exports large quantities of domestically extracted ore to Canada, Mexico, and China, among other countries. Copper Mine on Federal Lands The Bureau of Land Management (BLM) and the Forest Service oversee hardrock mines on federal land. As of February 2026, there were 632 approved hardrock mining plans of ope
+- **Tax Filing: IRS Should Enhance Ghost Preparer Identification and Compliance Efforts in a Comprehensive Preparer Strategy**
+  - when: Fri, 16 Oct 2026 07:28:51 -0400
+  - url: https://www.gao.gov/products/gao-27-108176
+  - pdf: https://www.gao.gov/assets/gao-27-108176.pdf
+  - What GAO Found Ghost preparers are paid tax preparers who do not comply with requirements to identify themselves on tax returns they prepare for others. Ghost preparers may intentionally leave identifying information off to get away with filing fraudulent income tax returns, stealing taxpayers’ refunds, and stealing taxpayers’ identities. Courts have ordered individual ghost preparers to pay millions in restitution to the government, but according to Internal Revenue Service (IRS) officials, th
+- **Research Security: NIH Action Needed to Strengthen Foreign Interference Risk Management**
+  - when: Fri, 16 Oct 2026 08:13:12 -0400
+  - url: https://www.gao.gov/products/gao-27-107848
+  - pdf: https://www.gao.gov/assets/gao-27-107848.pdf
+  - What GAO Found The National Institutes of Health (NIH) funds extramural research through awards to universities and other institutions. Implementation of federal research security requirements helps safeguard this research from foreign interference, including misappropriation and unauthorized access by foreign countries and entities. NIH implemented 14 of the 15 federal research security requirements GAO reviewed that address: (1) disclosure, (2) malign foreign talent recruitment programs, (3)
+- **Federal Real Property: New Occupancy Data Help Agencies Shed Unneeded Office Space But Gaps Limit the Full Picture**
+  - when: Fri, 16 Oct 2026 07:18:45 -0400
+  - url: https://www.gao.gov/products/gao-27-108503
+  - pdf: https://www.gao.gov/assets/gao-27-108503.pdf
+  - What GAO Found Under the Utilizing Space Efficiently and Improving Technologies (USE IT) Act, enacted in January 2025, federal agencies are now required to collect and report occupancy data. This data is used to calculate utilization rates for agencies’ office space in federally owned buildings and leased locations. While 20 of the 23 agencies that responded to GAO’s survey reported using existing badging systems for this purpose, 16 of these 20 agencies reported supplementing that information
+- **National Security: FBI Should Strengthen Partnerships to Combat Non-Traditional Intelligence Collectors**
+  - when: Fri, 16 Oct 2026 07:28:08 -0400
+  - url: https://www.gao.gov/products/gao-27-109057
+  - pdf: https://www.gao.gov/assets/gao-27-109057.pdf
+  - What GAO Found According to the Federal Bureau of Investigation (FBI), non-traditional intelligence collectors (NTCs) are individuals whose primary profession is not intelligence collection, but who actively or passively collect sensitive U.S. information on behalf of foreign entities. For example, researchers and students at universities may act as NTCs if they collect non-public research on behalf of a foreign entity. According to the FBI, unlike intelligence officers, NTCs function independe
+- **Nuclear Waste: Addressing Legal and Regulatory Barriers Could Accelerate Cleanup and Reduce Costs**
+  - when: Fri, 16 Oct 2026 08:05:50 -0400
+  - url: https://www.gao.gov/products/gao-27-107791
+  - pdf: https://www.gao.gov/assets/gao-27-107791.pdf
+  - What GAO Found The Department of Energy’s (DOE) nuclear waste cleanup is proceeding largely under three laws that set cleanup and waste management requirements. Each law has different requirements, applications, and regulators. Selected Cleanup and Waste Management Laws and Regulators for the Department of Energy’s (DOE) Nuclear Waste Cleanup GAO and experts GAO convened with the National Academies of Sciences, Engineering, and Medicine identified several legal and regulatory factors that a
+- **Nuclear Waste: Future Land Use Planning at Selected DOE Cleanup Sites**
+  - when: Fri, 16 Oct 2026 09:42:29 -0400
+  - url: https://www.gao.gov/products/gao-27-108063
+  - pdf: https://www.gao.gov/assets/gao-27-108063.pdf
+  - What GAO Found The Department of Energy (DOE) created initial future land use plans in coordination with local communities as early as 1992 at six cleanup sites GAO selected for review. These plans inform but do not bind assumptions about future land use that DOE and regulators make when selecting a cleanup remedy at a site. The remedy selected during the cleanup process has lasting consequences for how a parcel of land can be used, even after DOE transfers or leases it to another federal agenc
+- **Service Member Records: DOD Needs to Address Improper and Delayed Releasing of Personnel and Health Information**
+  - when: Fri, 16 Oct 2026 10:40:46 -0400
+  - url: https://www.gao.gov/products/gao-27-107784
+  - pdf: https://www.gao.gov/assets/gao-27-107784.pdf
+  - What GAO Found Service members can accrue a large volume of personnel and health records during their military careers. The custodians of these records are the Department of Defense (DOD) and the Department of Veterans Affairs. DOD and the military services developed policies and procedures to properly adhere to federal laws for safeguarding records and timely processing records requests. However, the risk of breaches and delays exists. For example, GAO covertly tested 26 requests for records f
+- **National Nuclear Security Administration: Reductions to Federal Workforce**
+  - when: Fri, 16 Oct 2026 07:24:19 -0400
+  - url: https://www.gao.gov/products/gao-27-109127
+  - pdf: https://www.gao.gov/assets/gao-27-109127.pdf
+  - What GAO Found The National Nuclear Security Administration (NNSA) oversees a $25 billion annual budget and approximately 70,000 management and operating contractor personnel to maintain the U.S. nuclear weapons stockpile and nuclear nonproliferation efforts. NNSA took steps to build its federal workforce to meet mission needs in 2024, with its workforce peaking at 1,991 early in fiscal year 2025. However, since then through the second quarter of fiscal year 2026, NNSA has reduced its federal w
+
+## courtlistener
+- **Fusari v. Canfield**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047350/fusari-v-canfield/
+  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT VINCENT FUSARI, Appellant, v. MIRIAM CANFIELD, Appellee. No. 2D2025-2953 October 28, 2026 Appeal from the Circuit Court for Pinellas County; Patricia A. Muscarella, Judge. Vincent Original document
+- **Milonas v. Piro**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11048433/milonas-v-piro/
+  - Milonas v Piro 2026 NY Slip Op 06297 October 28, 2026 Appellate Division, Second Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Regina Milonas, appellant, v Carol A. Piro, respondent. Supreme Court of the State of New York, Appellate Division, Second Judicial Department Decided on October 28, 2026 2025-03421, (Index No. 610763/23) Colleen D. Duffy, J Original document
+- **Revco Solutions Inc. v. Equifax Inc.**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11048368/revco-solutions-inc-v-equifax-inc/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA REVCO SOLUTIONS INC., Petitioner, v. Case No. 1:26-mc-00138 (TNM) EQUIFAX INC., Respondent. MEMORANDUM ORDER A group of debt collectors have sued several credit reporting agencies, including respondent Equifax Inc., in the Eastern Original document
+- **Christopher Tate v. State of Arkansas**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047289/christopher-tate-v-state-of-arkansas/
+  - Cite as 2026 Ark. App. 506 ARKANSAS COURT OF APPEALS DIVISION II No. CR-26-54 Opinion Delivered October 28, 2026 CHRISTOPHER TATE APPEAL FROM THE POPE APPELLANT COUNTY CIRCUIT COURT [NO. 58CR-24-524] V. Original document
+- **Bft Rental, LLC v. City of Fayetteville**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047291/bft-rental-llc-v-city-of-fayetteville/
+  - Cite as 2026 Ark. App. 499 ARKANSAS COURT OF APPEALS DIVISION III No. CV-25-506 BFT RENTAL, LLC Opinion Delivered October 28, 2026 APPELLANT APPEAL FROM THE WASHINGTON COUNTY CIRCUIT COURT V. Original document
+- **Glen A. Gillette, Jr. v. State of Arkansas**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047272/glen-a-gillette-jr-v-state-of-arkansas/
+  - Cite as 2026 Ark. App. 514 ARKANSAS COURT OF APPEALS DIVISION I No. CR-25-546 Opinion Delivered: October 28, 2026 GLEN A. GILLETTE, JR. APPEAL FROM THE CRAIGHEAD APPELLANT COUNTY CIRCUIT COURT, Original document
+- **Yaimi Alvarez v. Raiza Cueto, Etc.**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047354/yaimi-alvarez-v-raiza-cueto-etc/
+  - Third District Court of Appeal State of Florida Opinion filed October 28, 2026. Not final until disposition of timely filed motion for rehearing. ________________ No. 3D24-2310 Lower Tribunal No. 18-14905-FC-04 ________________ Yaimi Alvarez, Appellant Original document
+- **In the Interest of M. S., a Child (Mother)**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047364/in-the-interest-of-m-s-a-child-mother/
+  - FOURTH DIVISION MCFADDEN, P. J., WATKINS and PADGETT, JJ. NOTICE: Motions for reconsideration must be received no later than 4:30 pm on the 10th day after the decision was issued to be deemed timely filed. https://www.gaappeals.gov/rules October 28, 2026 In the Original document
+- **Humane World for Animals v. United States Department of Agriculture**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047645/humane-world-for-animals-v-united-states-department-of-agriculture/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA HUMANE WORLD FOR ANIMALS, et al., Plaintiffs, Civil Action No. 26 - 1372 (SLS) v. Judge Sparkle L. Sooknanan UNITED STATES DEPARTMENT OF AGRICULTURE, et al., Defendants. ORDER Original document
+- **Dept. of Human Services v. S. C. / E. M. A.**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047706/dept-of-human-services-v-s-c-e-m-a/
+  - No. 1033 October 28, 2026 193 IN THE COURT OF APPEALS OF THE STATE OF OREGON In the Matter of O. C., aka O. A., a Child. DEPARTMENT OF HUMAN SERVICES, Petitioner-Respondent, v. S. C. and E. M. A., aka E. A., Appellants. Umatilla County Circuit Original document
+- **M. Q. v. Mar**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047701/m-q-v-mar/
+  - 242 October 28, 2026 No. 1038 IN THE COURT OF APPEALS OF THE STATE OF OREGON M. Q. Petitioner-Respondent, v. DANNI MAR, Respondent-Appellant. Marion County Circuit Court 25PO07705; A188800 Amy M. Queen, Judge. Argued and submitted September 9, 2026. Jason E. Thompson argued the cause for appellant. Also Original document
+- **Dept. of Human Services v. G. G.**
+  - when: 2026-10-28T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11047711/dept-of-human-services-v-g-g/
+  - 142 October 28, 2026 No. 1029 IN THE COURT OF APPEALS OF THE STATE OF OREGON In the Matter of E. G., a Child. DEPARTMENT OF HUMAN SERVICES, Petitioner-Respondent, v. G. G., Appellant. Union County Circuit Court 25JU03637; A189898 Thomas B. Powers, Judge. Submitted August 19 Original document
+
+## uk-legislation
+- **The Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (Commencement No. 2) Regulations 2026**
+  - when: 2026-10-29T08:59:45+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/294
+  - These Regulations bring into force on 30 December 2026 sections 6, 7 and 11 of the Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (“the Act”).
+- **The A96 Trunk Road (Keith) (Temporary Prohibition on Use of Road) Order 2026**
+  - when: 2026-10-29T04:13:47+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/298
+- **The A87 Trunk Road (Balmacara) (Temporary Prohibition on Use of Road) Order 2026**
+  - when: 2026-10-29T04:13:37+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/304
+- **The A9 Trunk Road (Brora) (Temporary Prohibition on Use of Road) Order 2026**
+  - when: 2026-10-29T04:13:36+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/303
+- **The A82 Trunk Road (Spean Bridge) (Temporary Prohibition on Use of Road) Order 2026**
+  - when: 2026-10-29T04:13:27+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/302
+- **The M9/A9 Trunk Road (Thurso) (Temporary Prohibition on Use of Road) Order 2026**
+  - when: 2026-10-29T04:13:26+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/301
+- **The A96 Trunk Road (Nairn) (Temporary Prohibition on Use of Road) Order 2026**
+  - when: 2026-10-29T04:13:14+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/300
+- **The A83 Trunk Road (Ardrishaig) (Temporary Prohibition on Use of Road) (No. 2) Order 2026**
+  - when: 2026-10-29T04:13:14+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/299
+- **The South West Scotland Trunk Roads (Temporary Prohibitions of Traffic and Overtaking and Temporary Speed Restrictions) (No. 10) Order 2026**
+  - when: 2026-10-29T04:13:03+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/297
+- **The Football Governance Act 2025 (Commencement No. 5) Regulations 2026**
+  - when: 2026-10-29T04:03:44+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1135
+  - These Regulations bring into force specified provisions of the Football Governance Act 2025 (c. 21) (“the Act”) on 29th October 2026 and 1st November 2026. Certain provisions came into force on Royal Assent by virtue of section 100(2). They are the fifth set of commencement Regulations made under the Act.
+- **The Wireless Telegraphy (Dynamic Spectrum Access Service) (Frequencies) Regulations 2026**
+  - when: 2026-10-29T04:03:24+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1131
+  - These Regulations specify the frequency band containing the frequencies about which a dynamic spectrum access service, registered by Ofcom under section 53A of the Wireless Telegraphy Act 2006, may provide information relating to their availability for use by wireless telegraphy stations and wireless telegraphy apparatus and the places in which, the power at which, the times at which and any conditions subject to which such stations and apparatus may use them.
+- **The Leasehold and Freehold Reform Act 2024 (Commencement No. 4 and Saving Provision) (England) Regulations 2026**
+  - when: 2026-10-29T04:02:43+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1128
+  - These Regulations bring into force specified provisions of the Leasehold and Freehold Reform Act 2024 (c. 22) (“the Act”) in relation to England.

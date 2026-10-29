@@ -1,0 +1,50 @@
+date: 2026-10-29
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: confirmed one active ready-to-write NIH investigation, a full ten-thread parked board, and the October 24 publication
+ingest:
+  ran: true
+  result: refreshed the October 29 primary-document horizon; configured feeds completed
+  horizon: newsroom/horizon/2026-10-29/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-024-nih-foreign-interference-data-continuity
+    decision: continue
+    reason: the same-object test already passes and the draft is ready; cadence is the only temporary brake, so unchanged NIH sources were not refetched
+  - id: parked_board
+    decision: remain_parked
+    reason: no October 29 horizon item matched a documented reopen condition; no parked thread was killed or re-queried
+investigations:
+  - id: 2026-024-nih-foreign-interference-data-continuity
+    decision: remain_ready_to_write
+    changed:
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/status.yml
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/traces/2026-10-29.md
+research:
+  primary_documents:
+    - newsroom/horizon/2026-10-29/BRIEF.md
+    - newsroom/drafts/nih-foreign-interference-data-continuity.md
+    - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/factcheck/adversarial-review.md
+  result: no new NIH reconciliation record appeared; the existing bounded public-record continuity finding remains ready
+publication:
+  published: false
+  reason: the October 24 article is inside the six-day cadence interval; earliest permitted publication date is October 30
+validation:
+  run: false
+  reason: no publication was attempted; prior skeptic review and validation remain recorded in the investigation
+journal:
+  - newsroom/journal/2026-10-29.md
+desk_notes:
+  - newsroom/desk/2026-10-29-r1.md
