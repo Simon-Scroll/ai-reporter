@@ -1,9 +1,9 @@
 id: 2026-024-nih-foreign-interference-data-continuity
 opened: 2026-10-25
-updated: 2026-10-29
-status: ready-to-write
-mode: CONTINUE
-next_action: Do not refetch the reviewed NIH sources; when the cadence clears on or after 2026-10-30, run the final skeptic and validation checks and publish if the record remains unchanged.
+updated: 2026-10-30
+status: published
+mode: PUBLISH
+next_action: Monitor for a new NIH crosswalk, case-level record, methodology note, or historical series; do not refetch the reviewed sources without a new primary signal.
 hypothesis: "NIH's public foreign-interference summaries changed their contacted-case and outcome totals between July 2025 and June 2026, but do not publish a row-level crosswalk that shows whether the changes are new cases, resolved reviews, or reclassification; GAO's broader allegations/violations frame may compound the denominator boundary."
 series: null
 part: null

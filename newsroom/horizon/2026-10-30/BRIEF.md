@@ -1,0 +1,260 @@
+# Horizon brief — 2026-10-30
+
+Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
+
+## sec-edgar
+- **SCHEDULE 13D/A - Liu Ming Hui (0002148124) (Filed by)**
+  - when: 2026-10-29T21:51:57-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2148124/000149315226049326/0001493152-26-049326-index.htm
+  - Filed: 2026-10-29 AccNo: 0001493152-26-049326 Size: 21 KB
+- **SCHEDULE 13D/A - EnerSyn Global Inc. (0001897245) (Subject)**
+  - when: 2026-10-29T21:51:57-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1897245/000149315226049326/0001493152-26-049326-index.htm
+  - Filed: 2026-10-29 AccNo: 0001493152-26-049326 Size: 21 KB
+- **4 - Sheena Jonathan (0001646649) (Reporting)**
+  - when: 2026-10-29T21:35:21-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1646649/000164664926000040/0001646649-26-000040-index.htm
+  - Filed: 2026-10-29 AccNo: 0001646649-26-000040 Size: 8 KB
+- **4 - Natera, Inc. (0001604821) (Issuer)**
+  - when: 2026-10-29T21:35:21-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604821/000164664926000040/0001646649-26-000040-index.htm
+  - Filed: 2026-10-29 AccNo: 0001646649-26-000040 Size: 8 KB
+- **4 - Rabinowitz Matthew (0001646382) (Reporting)**
+  - when: 2026-10-29T21:35:19-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1646382/000164638226000026/0001646382-26-000026-index.htm
+  - Filed: 2026-10-29 AccNo: 0001646382-26-000026 Size: 5 KB
+- **4 - Natera, Inc. (0001604821) (Issuer)**
+  - when: 2026-10-29T21:35:19-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604821/000164638226000026/0001646382-26-000026-index.htm
+  - Filed: 2026-10-29 AccNo: 0001646382-26-000026 Size: 5 KB
+- **4 - RABINOWITZ DANIEL (0001857843) (Reporting)**
+  - when: 2026-10-29T21:35:17-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1857843/000185784326000030/0001857843-26-000030-index.htm
+  - Filed: 2026-10-29 AccNo: 0001857843-26-000030 Size: 7 KB
+- **4 - Natera, Inc. (0001604821) (Issuer)**
+  - when: 2026-10-29T21:35:17-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604821/000185784326000030/0001857843-26-000030-index.htm
+  - Filed: 2026-10-29 AccNo: 0001857843-26-000030 Size: 7 KB
+- **4 - Moshkevich Solomon (0002010019) (Reporting)**
+  - when: 2026-10-29T21:35:14-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2010019/000201001926000035/0002010019-26-000035-index.htm
+  - Filed: 2026-10-29 AccNo: 0002010019-26-000035 Size: 7 KB
+- **4 - Natera, Inc. (0001604821) (Issuer)**
+  - when: 2026-10-29T21:35:14-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604821/000201001926000035/0002010019-26-000035-index.htm
+  - Filed: 2026-10-29 AccNo: 0002010019-26-000035 Size: 7 KB
+- **4 - Fesko John (0002010135) (Reporting)**
+  - when: 2026-10-29T21:35:12-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2010135/000201013526000025/0002010135-26-000025-index.htm
+  - Filed: 2026-10-29 AccNo: 0002010135-26-000025 Size: 7 KB
+- **4 - Natera, Inc. (0001604821) (Issuer)**
+  - when: 2026-10-29T21:35:12-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604821/000201013526000025/0002010135-26-000025-index.htm
+  - Filed: 2026-10-29 AccNo: 0002010135-26-000025 Size: 7 KB
+
+## federal-register
+- **Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles**
+  - when: 2026-10-30
+  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22292/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset
+  - Executive Office of the President — Presidential Document
+- **Safety Zone; M/T KALAHARI, Gulf of America, Pascagoula, MS**
+  - when: 2026-10-30
+  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22269/safety-zone-mt-kalahari-gulf-of-america-pascagoula-ms
+  - Homeland Security Department, Coast Guard — Rule — The Coast Guard is establishing a temporary safety zone for navigable waters of the Gulf of America. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with the M/T KALAHARI that will be conducting repairs at anchorage due to both auxiliary boilers being out of service rendering the inert gas system inoperable. Entry of vessels or persons into this zone is prohibited unless speci
+- **Privacy Act of 1974; System of Records**
+  - when: 2026-10-30
+  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22254/privacy-act-of-1974-system-of-records
+  - Veterans Affairs Department — Notice — Pursuant to the Privacy Act of 1974, notice is hereby given that the VA is modifying the system of records entitled, "Individuals Submitting Invoices--Vouchers for Payment and Accounting Transactional Data--VA" (13VA047). This system is used for payment processing, general accounting, benefit payment authorization for the benefit of veterans and their families, and government and commercial service providers for contract and/or reimbursement expenses.
+- **Notice of Public Hearing and Business Meeting November 4, 2026 and December 3, 2026**
+  - when: 2026-10-30
+  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22253/notice-of-public-hearing-and-business-meeting-november-4-2026-and-december-3-2026
+  - Delaware River Basin Commission — Notice
+- **Determination Pursuant to Section 451 of the Foreign Assistance Act of 1961**
+  - when: 2026-10-30
+  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22252/determination-pursuant-to-section-451-of-the-foreign-assistance-act-of-1961
+  - State Department — Notice
+- **Safety Zone; S.S. UNITED STATES Dead Ship Tow, Sector Mobile Captain of the Port Zone, Mobile, AL**
+  - when: 2026-10-30
+  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22249/safety-zone-ss-united-states-dead-ship-tow-sector-mobile-captain-of-the-port-zone-mobile-al
+  - Homeland Security Department, Coast Guard — Rule — The Coast Guard is establishing a temporary moving safety zone around the S.S. UNITED STATES and all vessels involved in its towage through the Mobile River Channel, Mobile Bay, and the Gulf of America. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards created by the dead ship tow. Entry of persons and vessels into this zone is prohibited unless specifically authorized by the Captain of th
+- **Utility Scale Wind Towers From Malaysia: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order**
+  - when: 2026-10-30
+  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22245/utility-scale-wind-towers-from-malaysia-final-results-of-the-expedited-first-sunset-review-of-the
+  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on utility scale wind towers (wind towers) from Malaysia would be likely to lead to continuation or recurrence of countervailable subsidies at the levels indicated in the "Final Results of Sunset Review" section of this notice.
+- **Diamond Sawblades and Parts Thereof From China; Determination**
+  - when: 2026-10-30
+  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22244/diamond-sawblades-and-parts-thereof-from-china-determination
+  - International Trade Commission — Notice
+- **Notification of Citizens Coinage Advisory Committee Public Meeting**
+  - when: 2026-10-30
+  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22243/notification-of-citizens-coinage-advisory-committee-public-meeting
+  - Treasury Department, United States Mint — Notice
+- **Notice of Meeting of the National Parks Overflights Advisory Group**
+  - when: 2026-10-30
+  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22242/notice-of-meeting-of-the-national-parks-overflights-advisory-group
+  - Transportation Department, Federal Aviation Administration — Notice — The Federal Aviation Administration (FAA) and the National Park Service (NPS), in accordance with the National Parks Air Tour Management Act of 2000 (NPATMA), announce the next meeting of the National Parks Overflights Advisory Group (NPOAG). This notification provides the date, location, and agenda for the meeting.
+- **Agency Information Collection Activities; Proposed Collection; Comment Request; CDFI Program and NACA Program Financial Assistance and Technical Assistance Applications**
+  - when: 2026-10-30
+  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22241/agency-information-collection-activities-proposed-collection-comment-request-cdfi-program-and-naca
+  - Treasury Department, Community Development Financial Institutions Fund — Notice — The U.S. Department of the Treasury, as part of its continuing effort to reduce paperwork and respondent burden, invites the general public and other Federal agencies to comment on proposed and/or continuing information collections, as required by the Paperwork Reduction Act of 1995. Currently, the Community Development Financial Institutions Fund (CDFI Fund), U.S. Department of the Treasury, is soliciting comments
+- **Agency Information Collection Activities; Proposed Collection; Comment Request; New Markets Tax Credit Program Community Development Entity (CDE) Certification Application**
+  - when: 2026-10-30
+  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22240/agency-information-collection-activities-proposed-collection-comment-request-new-markets-tax-credit
+  - Treasury Department, Community Development Financial Institutions Fund — Notice — The Department of the Treasury, as part of its continuing effort to reduce paperwork and respondent burden, invites the general public and other Federal agencies to take this opportunity to comment on proposed and/or continuing information collections, as required by the Paperwork Reduction Act of 1995. Currently, the Community Development Financial Institutions Fund (CDFI Fund), Department of the Treasury, is soli
+
+## gao
+- **October 28, 2026 letter commenting on the International Auditing and Assurance Standards Board's July 2026 Exposure Draft: "Proposed International Standard on Auditing for Audits of Financial Statements of Less Complex Entities (Revised)"**
+  - when: Thu, 29 Oct 2026 13:05:10 -0400
+  - url: https://www.gao.gov/products/e16078
+  - This letter provides GAO's comments on the International Auditing and Assurance Standards Board's (IAASB) Proposed International Standard on Auditing for Audits of Financial Statements of Less Complex Entities (Revised) (ISA for LCE). GAO promulgates generally accepted government auditing standards, which provide professional standards for auditors of government entities in the United States.
+- **Professional Standards Update No. 102**
+  - when: Mon, 26 Oct 2026 12:11:08 -0400
+  - url: https://www.gao.gov/products/e16067
+  - To alert the audit community to changes in professional standards, we periodically issue Professional Standards Updates (PSU). These updates highlight the effective dates of recently issued standards and guidance related to engagements conducted in accordance with Government Auditing Standards. PSUs contain summary information only, and those affected by a change should refer to the respective standard or guidance for details.
+- **State Department: Standards for Overseas Housing Need Review [Reissued with revisions on Oct. 21, 2026]**
+  - when: Mon, 10 Aug 2026 07:28:52 -0400
+  - url: https://www.gao.gov/products/gao-26-107965
+  - pdf: https://www.gao.gov/assets/gao-26-107965.pdf
+  - What GAO Found The Department of State last updated its standards for overseas housing space in 1991, according to State officials. Those standards may no longer align with State’s goal of providing Foreign Service personnel living abroad with housing comparable to the Washington, D.C., metropolitan area. In the last 35 years, median housing costs in the Washington, D.C., area have increased at a faster rate than Foreign Service personnel salaries. In addition, State’s method for measuring over
+- **Textile Circular Economy: Policy Options for the U.S.**
+  - when: Fri, 16 Oct 2026 09:35:25 -0400
+  - url: https://www.gao.gov/products/gao-27-108142
+  - pdf: https://www.gao.gov/assets/gao-27-108142.pdf
+  - What GAO Found Developing a textile circular economy includes repairing, reusing, and recycling textiles and making them last longer. Example of a Circular Economy for Textiles In the U.S., a textile circular economy may create potential benefits and involve challenges, according to reports by federal agencies and organizations and stakeholder interviews. Potential benefits could include creating new jobs and markets related to textile repair and recycling, reducing environmental harm, and
+- **Critical Minerals: Limited Available Information on the Full Extent of Foreign Investment in Mining on Federal Lands**
+  - when: Fri, 16 Oct 2026 07:40:00 -0400
+  - url: https://www.gao.gov/products/gao-27-108094
+  - pdf: https://www.gao.gov/assets/gao-27-108094.pdf
+  - What GAO Found The U.S critical mineral supply chain faces numerous constraints, including the need for substantial capital investment and limited domestic processing capacity. The U.S. exports large quantities of domestically extracted ore to Canada, Mexico, and China, among other countries. Copper Mine on Federal Lands The Bureau of Land Management (BLM) and the Forest Service oversee hardrock mines on federal land. As of February 2026, there were 632 approved hardrock mining plans of ope
+- **Tax Filing: IRS Should Enhance Ghost Preparer Identification and Compliance Efforts in a Comprehensive Preparer Strategy**
+  - when: Fri, 16 Oct 2026 07:28:51 -0400
+  - url: https://www.gao.gov/products/gao-27-108176
+  - pdf: https://www.gao.gov/assets/gao-27-108176.pdf
+  - What GAO Found Ghost preparers are paid tax preparers who do not comply with requirements to identify themselves on tax returns they prepare for others. Ghost preparers may intentionally leave identifying information off to get away with filing fraudulent income tax returns, stealing taxpayers’ refunds, and stealing taxpayers’ identities. Courts have ordered individual ghost preparers to pay millions in restitution to the government, but according to Internal Revenue Service (IRS) officials, th
+- **Research Security: NIH Action Needed to Strengthen Foreign Interference Risk Management**
+  - when: Fri, 16 Oct 2026 08:13:12 -0400
+  - url: https://www.gao.gov/products/gao-27-107848
+  - pdf: https://www.gao.gov/assets/gao-27-107848.pdf
+  - What GAO Found The National Institutes of Health (NIH) funds extramural research through awards to universities and other institutions. Implementation of federal research security requirements helps safeguard this research from foreign interference, including misappropriation and unauthorized access by foreign countries and entities. NIH implemented 14 of the 15 federal research security requirements GAO reviewed that address: (1) disclosure, (2) malign foreign talent recruitment programs, (3)
+- **Federal Real Property: New Occupancy Data Help Agencies Shed Unneeded Office Space But Gaps Limit the Full Picture**
+  - when: Fri, 16 Oct 2026 07:18:45 -0400
+  - url: https://www.gao.gov/products/gao-27-108503
+  - pdf: https://www.gao.gov/assets/gao-27-108503.pdf
+  - What GAO Found Under the Utilizing Space Efficiently and Improving Technologies (USE IT) Act, enacted in January 2025, federal agencies are now required to collect and report occupancy data. This data is used to calculate utilization rates for agencies’ office space in federally owned buildings and leased locations. While 20 of the 23 agencies that responded to GAO’s survey reported using existing badging systems for this purpose, 16 of these 20 agencies reported supplementing that information
+- **Private Health Insurance: Market Concentration in 2024 Was Generally Higher Than in 2011**
+  - when: Fri, 16 Oct 2026 10:25:08 -0400
+  - url: https://www.gao.gov/products/gao-27-108927
+  - pdf: https://www.gao.gov/assets/gao-27-108927.pdf
+  - What GAO Found Since 2014, GAO has reported that enrollment in private health insurance plans has been concentrated, meaning a small number of issuers, such as health insurers, enrolled most of the people in a given market. Specifically, GAO considers a market concentrated in a state if three or fewer issuers hold at least 80 percent of the market share of enrollment. For this report, GAO examined the individual (coverage primarily sold to individuals who lack access to group coverage), small-
+- **National Security: FBI Should Strengthen Partnerships to Combat Non-Traditional Intelligence Collectors**
+  - when: Fri, 16 Oct 2026 07:28:08 -0400
+  - url: https://www.gao.gov/products/gao-27-109057
+  - pdf: https://www.gao.gov/assets/gao-27-109057.pdf
+  - What GAO Found According to the Federal Bureau of Investigation (FBI), non-traditional intelligence collectors (NTCs) are individuals whose primary profession is not intelligence collection, but who actively or passively collect sensitive U.S. information on behalf of foreign entities. For example, researchers and students at universities may act as NTCs if they collect non-public research on behalf of a foreign entity. According to the FBI, unlike intelligence officers, NTCs function independe
+- **Nuclear Waste: Addressing Legal and Regulatory Barriers Could Accelerate Cleanup and Reduce Costs**
+  - when: Fri, 16 Oct 2026 08:05:50 -0400
+  - url: https://www.gao.gov/products/gao-27-107791
+  - pdf: https://www.gao.gov/assets/gao-27-107791.pdf
+  - What GAO Found The Department of Energy’s (DOE) nuclear waste cleanup is proceeding largely under three laws that set cleanup and waste management requirements. Each law has different requirements, applications, and regulators. Selected Cleanup and Waste Management Laws and Regulators for the Department of Energy’s (DOE) Nuclear Waste Cleanup GAO and experts GAO convened with the National Academies of Sciences, Engineering, and Medicine identified several legal and regulatory factors that a
+- **Nuclear Waste: Future Land Use Planning at Selected DOE Cleanup Sites**
+  - when: Fri, 16 Oct 2026 09:42:29 -0400
+  - url: https://www.gao.gov/products/gao-27-108063
+  - pdf: https://www.gao.gov/assets/gao-27-108063.pdf
+  - What GAO Found The Department of Energy (DOE) created initial future land use plans in coordination with local communities as early as 1992 at six cleanup sites GAO selected for review. These plans inform but do not bind assumptions about future land use that DOE and regulators make when selecting a cleanup remedy at a site. The remedy selected during the cleanup process has lasting consequences for how a parcel of land can be used, even after DOE transfers or leases it to another federal agenc
+
+## courtlistener
+- **Jonathan Gordon v. State of Florida**
+  - when: 2026-10-29T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11048851/jonathan-gordon-v-state-of-florida/
+  - DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA FOURTH DISTRICT JONATHAN GORDON, Appellant, v. STATE OF FLORIDA, Appellee. No. 4D2023-0485 [October 29, 2026] Appeal from the Circuit Court for the Seventeenth Judicial Circuit, Broward County; Barbara R. Duffy Original document
+- **Victoria Dombrower v. Jennifer Jingco**
+  - when: 2026-10-29T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11049087/victoria-dombrower-v-jennifer-jingco/
+  - Third District Court of Appeal State of Florida Opinion filed October 29, 2026. Not final until disposition of timely filed motion for rehearing. ________________ No. 3D26-1572 Lower Tribunal No. 25-19713-CA-01 ________________ Victoria Dombrower, et al., Appellants, Original document
+- **United States v. Steville Burns**
+  - when: 2026-10-29T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11049226/united-states-v-steville-burns/
+  - United States Court of Appeals For the Eighth Circuit ___________________________ No. 25-2480 ___________________________ United States of America Plaintiff - Appellee v. Steville D. Burns Original document
+- **Loren Bennink v. Cincinnati Bell Tel. Co. LLC**
+  - when: 2026-10-29T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11049621/loren-bennink-v-cincinnati-bell-tel-co-llc/
+  - RECOMMENDED FOR PUBLICATION Pursuant to Sixth Circuit I.O.P. 32.1(b) File Name: 26a0292p.06 UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT ┐ LOREN BENNINK, │ Plaintiff-Appellant Original document
+- **Q.R. v. D.K.**
+  - when: 2026-10-29T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11049609/qr-v-dk/
+  - Q.R. v. D.K., No. 2464, September Term, 2025. Opinion Filed on October 29, 2026, by Albright, J. CHILD CUSTODY > DE FACTO PARENT> LIVED TOGETHER In determining whether one is a de facto parent, the putative de facto parent’s maintenance of a residence other than the one in which they lived with the minor does not preclude putative de facto parent, per se, from establishing that they met the second prong of the test adopted in Conover v. Conover. CHILD CUSTODY > DE FACTO PARENT> LIVED Original document
+- **Emmanuel Cazeau v. State of Florida**
+  - when: 2026-10-29T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11048572/emmanuel-cazeau-v-state-of-florida/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-2897 LT Case No. 2023-CF-001583-A _____________________________ EMMANUEL CAZEAU, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Lake County. James R. Baxley, Judge. Matthew R. McLain, of McLain Law, P.A., Longwood Original document
+- **O'Donnell v. Lee, Lee**
+  - when: 2026-10-29T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11048715/odonnell-v-lee-lee/
+  - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2025-2605 _____________________________ LINDA O’DONNELL, Appellant, v. JAMES E. LEE II, and PAIGE J. LEE, Appellees. _____________________________ On appeal from the Circuit Court for Franklin County. Francis J. Allman, Judge. October 29, 2026 PER CURIAM. AFFIRMED Original document
+- **Ridgeway v. Ohio Bur. of Workers Comp.**
+  - when: 2026-10-29T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11049580/ridgeway-v-ohio-bur-of-workers-comp/
+  - [Cite as Ridgeway v. Ohio Bur. of Workers Comp., 2026-Ohio-4291.] COURT OF APPEALS OF OHIO EIGHTH APPELLATE DISTRICT COUNTY OF CUYAHOGA HOWARD RIDGEWAY, : Plaintiff-Appellant, : No. 116666 v. : OHIO BUREAU OF WORKERS Original document
+- **Parma v. Thompson**
+  - when: 2026-10-29T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11049582/parma-v-thompson/
+  - [Cite as Parma v. Thompson, 2026-Ohio-4281.] COURT OF APPEALS OF OHIO EIGHTH APPELLATE DISTRICT COUNTY OF CUYAHOGA CITY OF PARMA, : Plaintiff-Appellee, : Nos. 116008 v. : ANDRE DEMETRIUS THOMPSON, : Defendant-Appellant Original document
+- **Carlos Antonio Hallowell v. State of Florida**
+  - when: 2026-10-29T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11048575/carlos-antonio-hallowell-v-state-of-florida/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-1683 LT Case No. 2019-CF-001099-A _____________________________ CARLOS ANTONIO HALLOWELL, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ 3.850 Appeal from the Circuit Court for Citrus County. Joel D. Fritton, Judge. Sean W. Landers, of The Baez Law Original document
+- **GUTIERREZ v. STATE OF OKLAHOMA**
+  - when: 2026-10-29T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11049487/gutierrez-v-state-of-oklahoma/
+  - OSCN Found Document:GUTIERREZ v. STATE OF OKLAHOMA GUTIERREZ v. STATE OF OKLAHOMA2026 OK CR 20Case Number: F-2024-355Decided: 10/29/2026Mandate Issued: 10/29/2026THE COURT OF CRIMINAL APPEALS OF THE STATE OF OKLAHOMA Cite as: 2026 OK CR 20, __ P.3d __ JAIME JOSE GUTIERREZ, Appellant, v. THE STATE OF OKLAHOMA, Appellee. O P I N I O N MUSSEMAN, VICE PRESIDING JUDGE: ¶1 Appellant, Jaime Jose Gutierrez, appeals his Judgment and Sentence from the District Court of Texas County, Case Original document
+- **United States v. Harris**
+  - when: 2026-10-29T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11049561/united-states-v-harris/
+  - Case: 25-60017 Document: 120-1 Page: 1 Date Filed: 10/29/2026 United States Court of Appeals for the Fifth Circuit United States Court of Appeals ____________ Fifth Circuit FILED No. 25-60017 October 29, 2026 Original document
+
+## uk-legislation
+- **The A83 Trunk Road (Lochgilphead) (Temporary Prohibition on Use of Road) (No. 2) Order 2026**
+  - when: 2026-10-30T04:09:06+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/316
+- **The A84 Trunk Road (Callander) (Temporary Prohibition on Use of Road) Order 2026**
+  - when: 2026-10-30T04:08:59+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/314
+- **The A83 Trunk Road (Lochgilphead) (Temporary Prohibition on Use of Road) Order 2026**
+  - when: 2026-10-30T04:08:49+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/313
+- **The English Devolution and Community Empowerment Act 2026 (Commencement No. 4) Regulations 2026**
+  - when: 2026-10-30T04:04:24+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1141
+  - These Regulations are the fourth commencement regulations under the English Devolution and Community Empowerment Act 2026 (c. 23).
+- **The Wireless Telegraphy (Exemption) (Amendment) (No. 3) Regulations 2026**
+  - when: 2026-10-30T04:03:53+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1133
+  - These Regulations amend the Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493) (“the 2021 Regulations”). The 2021 Regulations exempt the establishment, installation and use of wireless telegraphy stations or apparatus which comply with certain terms, provisions and limitations, from the requirement to be licensed under section 8(1) of the Wireless Telegraphy Act 2006 (c. 36).
+- **The Wireless Telegraphy (Dynamic Spectrum Access Devices) (Exemption) Regulations 2026**
+  - when: 2026-10-30T04:03:42+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1132
+  - These Regulations exempt the use of dynamic spectrum access devices operating in the radio frequency band 5925 to 7125 MHz from the requirement to be licensed under section 8(1) of the Wireless Telegraphy Act 2006 (c. 36) (“the Act”).
+- **The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026**
+  - when: 2026-10-29T17:41:11+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1139
+  - These Regulations make amendments to the Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026 (S.I. 2026/858) (“the Lifelong Learning Regulations”), the Education (Postgraduate Master’s Degree Loans) Regulations 2016 (S.I. 2016/606), the Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018 (S.I. 2018/599) and the Education (Student Support for Postgraduate Provision) (Amendment)
+- **The Sea Fisheries (Amendment and Transitional Provision) Regulations 2026**
+  - when: 2026-10-29T17:25:44+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1142
+  - These Regulations make amendments to assimilated law in the field of sea fisheries. They also make a transitional provision.
+- **The Central Counterparties (Equivalence) (Indonesia and the People’s Republic of China) Regulations 2026**
+  - when: 2026-10-29T16:55:04+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1134
+  - These Regulations set out the Treasury’s equivalence determinations in respect of the regulatory framework that applies to certain central counterparties (CCPs) that are established in Indonesia and the People’s Republic of China.
+- **The Scottish Local Government Elections (Election Agents, Expenses and Publication of Information) Amendment Order 2026**
+  - when: 2026-10-30T01:10:00+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/318
+  - This Order amends the Representation of the People Act 1983 (“the 1983 Act”) and the Scottish Local Government Elections Order 2011 (“the 2011 Order”).
+- **The Representation of the People (Postal Voting for Local Government Elections) (Scotland) Amendment Regulations 2026**
+  - when: 2026-10-30T01:10:00+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/317
+  - These Regulations amend the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007.
+- **The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) Regulations 2026**
+  - when: 2026-10-29T15:07:56+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1138
+  - These Regulations amend the Local Government Pension Scheme Regulations 2013 (S.I. 2013/2356) (“the 2013 Regulations”).

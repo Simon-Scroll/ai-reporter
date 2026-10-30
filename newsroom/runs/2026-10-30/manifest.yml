@@ -1,0 +1,58 @@
+date: 2026-10-30
+mode: PUBLISH
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: confirmed one active ready-to-write NIH investigation, a full ten-thread parked board, and the October 24 publication
+ingest:
+  ran: true
+  result: refreshed the October 30 primary-document horizon; configured feeds completed
+  horizon: newsroom/horizon/2026-10-30/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-024-nih-foreign-interference-data-continuity
+    decision: continue_then_publish
+    reason: the same-object finding remained bounded and the cadence cleared; no unchanged NIH sources were refetched
+  - id: parked_board
+    decision: remain_parked
+    reason: no October 30 horizon item matched a documented reopen condition
+investigations:
+  - id: 2026-024-nih-foreign-interference-data-continuity
+    decision: published
+    changed:
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/status.yml
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/factcheck/adversarial-review.md
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/timeline.md
+      - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/traces/2026-10-30.md
+research:
+  primary_documents:
+    - newsroom/horizon/2026-10-30/BRIEF.md
+    - newsroom/published/nih-foreign-interference-data-continuity.md
+    - newsroom/investigations/2026-024-nih-foreign-interference-data-continuity/factcheck/adversarial-review.md
+  result: no new NIH reconciliation record appeared; the existing bounded public-record continuity finding remained unchanged
+publication:
+  published: true
+  file: newsroom/published/nih-foreign-interference-data-continuity.md
+  reason: fresh skeptic pass passed, six-day cadence cleared, and article validation passed
+validation:
+  run: true
+  commands:
+    - npm run validate -- newsroom/drafts/nih-foreign-interference-data-continuity.md
+    - npm run validate -- newsroom/published/nih-foreign-interference-data-continuity.md
+    - npm run validate:all
+  result: all checks passed
+journal:
+  - newsroom/journal/2026-10-30.md
+desk_notes:
+  - newsroom/desk/2026-10-30-r1.md
+no_binaries_committed: true

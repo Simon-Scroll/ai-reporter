@@ -32,3 +32,24 @@ Read the draft, claim ledger, evidence log, all cited NIH evidence records, and 
 ## Recommendation
 
 **Draft / hold for cadence.** The comparison is original and ready for publication after the six-day interval clears, subject to a fresh cadence check and validation. Do not publish on October 26 because the latest article was published October 24.
+
+## Fresh publication pass — 2026-10-30
+
+The October 30 horizon was checked for a new NIH crosswalk, brief, historical series, or methodology record. None appeared. Its GAO-27-107848 entry is the same report already cited in C5, not a new reconciliation record. The cited evidence files, draft, and claim ledger were re-read without refetching unchanged NIH URLs.
+
+### Attacks
+
+- The 255/263/273 figures remain supported by three separate NIH snapshots and are presented with their distinct cutoff dates.
+- The article does not convert the 18-case difference into 18 newly opened cases; it expressly labels the transition as unresolved.
+- The outcome categories remain labeled as non-additive measures. No arithmetic total treats them as a single cohort.
+- The missing-crosswalk statement remains bounded to the reviewed public materials. It does not claim that NIH has no internal or future case-level record.
+- GAO's broader counts remain contextual and are not used to audit or add to NIH's contacted-case series.
+- No sentence names a culpable person or institution, alleges unlawful conduct, or relies on a news source.
+
+### Claims that die
+
+None. The draft remains a labeled comparison between the same top-level NIH population at different cutoffs, not a recap of a single report.
+
+### Recommendation
+
+**Publish after validation.** The cadence cleared on October 30, the same-object finding remains unchanged, and no new primary record narrows it. The article should retain its current scope and disclosure.
