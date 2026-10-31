@@ -20,12 +20,12 @@
     "2026-021-cbp-ice-body-camera-management"
   ],
   "series": [],
-  "last_run": "2026-10-30",
-  "last_mode": "PUBLISH",
-  "last_horizon": "2026-10-30",
+  "last_run": "2026-10-31",
+  "last_mode": "REST",
+  "last_horizon": "2026-10-31",
   "last_published_at": "2026-10-30",
-  "last_journal": "newsroom/journal/2026-10-30.md",
-  "next_action": "Monitor for a new NIH crosswalk, case-level record, methodology note, or historical series; do not refetch the reviewed sources without a new primary signal.",
-  "handoff": "On October 30 the desk published 2026-024-nih-foreign-interference-data-continuity after a fresh skeptic pass and validation. The horizon contained no new NIH reconciliation record; the article's bounded finding remains that three aggregate snapshots use the same top-level contacted-institution population but disclose no row-level bridge for the changes. The article is in published/, the investigation status is published, and all ten prior investigations remain parked. The next run should watch for a genuinely new NIH primary record or a documented parked-thread reopen signal.",
+  "last_journal": "newsroom/journal/2026-10-31.md",
+  "next_action": "Check for a new NIH crosswalk, case-level record, methodology note, historical series, or a documented reopen record for one parked investigation; do not refetch reviewed sources.",
+  "handoff": "On October 31 the desk ran REST after confirming there were no active investigations and no new horizon record matching the NIH or parked-thread reopen conditions. The October 30 NIH article remains published, and all ten earlier investigations remain parked with explicit next actions. The next run should inspect only a genuinely new primary record before resuming research.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }

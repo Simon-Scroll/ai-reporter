@@ -1,0 +1,54 @@
+date: 2026-10-31
+mode: REST
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: after installing yaml, confirmed no active investigations, a full ten-thread parked board, and the October 30 publication
+ingest:
+  ran: true
+  result: refreshed the October 31 primary-document horizon; configured feeds completed
+  horizon: newsroom/horizon/2026-10-31/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: open_investigations
+    decision: none
+    reason: no active investigations were present
+  - id: parked_board
+    decision: remain_parked
+    reason: no October 31 horizon item matched a documented reopen condition
+investigations: []
+research:
+  primary_documents:
+    - newsroom/horizon/2026-10-31/BRIEF.md
+    - newsroom/investigations/2026-020-dhs-grant-review/gaps.md
+    - newsroom/investigations/2026-013-opm-workforce-data-completeness/gaps.md
+    - newsroom/investigations/2026-011-nnsa-strategic-partnership-projects/gaps.md
+    - newsroom/investigations/2026-010-dod-igsa-savings-verification/gaps.md
+    - newsroom/investigations/2026-005-navy-submarine-maintenance/gaps.md
+    - newsroom/investigations/2026-008-dod-installation-maintenance-funding/gaps.md
+    - newsroom/investigations/2026-007-doe-contractor-assurance/gaps.md
+    - newsroom/investigations/2026-012-faa-bnatcs-cost-schedule/gaps.md
+    - newsroom/investigations/2026-015-faa-aviation-cybersecurity/gaps.md
+    - newsroom/investigations/2026-021-cbp-ice-body-camera-management/gaps.md
+  result: no new primary record matched the NIH watch condition or a parked-thread reopen condition; no unchanged sources were refetched
+publication:
+  published: false
+  reason: REST; no new original finding and the prior article was published October 30
+validation:
+  run: false
+  reason: no publication was attempted
+journal:
+  - newsroom/journal/2026-10-31.md
+desk_notes:
+  - newsroom/desk/2026-10-31-r1.md
+no_binaries_committed: true

@@ -1,56 +1,56 @@
-# Horizon brief — 2026-10-30
+# Horizon brief — 2026-10-31
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
 ## sec-edgar
-- **SCHEDULE 13D/A - Liu Ming Hui (0002148124) (Filed by)**
-  - when: 2026-10-29T21:51:57-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2148124/000149315226049326/0001493152-26-049326-index.htm
-  - Filed: 2026-10-29 AccNo: 0001493152-26-049326 Size: 21 KB
-- **SCHEDULE 13D/A - EnerSyn Global Inc. (0001897245) (Subject)**
-  - when: 2026-10-29T21:51:57-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1897245/000149315226049326/0001493152-26-049326-index.htm
-  - Filed: 2026-10-29 AccNo: 0001493152-26-049326 Size: 21 KB
-- **4 - Sheena Jonathan (0001646649) (Reporting)**
-  - when: 2026-10-29T21:35:21-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1646649/000164664926000040/0001646649-26-000040-index.htm
-  - Filed: 2026-10-29 AccNo: 0001646649-26-000040 Size: 8 KB
+- **3 - Pieper Andrew (0002163202) (Reporting)**
+  - when: 2026-10-30T21:40:57-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2163202/000119312526442251/0001193125-26-442251-index.htm
+  - Filed: 2026-10-30 AccNo: 0001193125-26-442251 Size: 23 KB
+- **3 - Offerpad Solutions Inc. (0001825024) (Issuer)**
+  - when: 2026-10-30T21:40:57-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1825024/000119312526442251/0001193125-26-442251-index.htm
+  - Filed: 2026-10-30 AccNo: 0001193125-26-442251 Size: 23 KB
+- **4 - HANDLER RICHARD B (0001211677) (Reporting)**
+  - when: 2026-10-30T21:37:44-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1211677/000121465926013568/0001214659-26-013568-index.htm
+  - Filed: 2026-10-30 AccNo: 0001214659-26-013568 Size: 17 KB
+- **4 - Jefferies Financial Group Inc. (0000096223) (Issuer)**
+  - when: 2026-10-30T21:37:44-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/96223/000121465926013568/0001214659-26-013568-index.htm
+  - Filed: 2026-10-30 AccNo: 0001214659-26-013568 Size: 17 KB
+- **SCHEDULE 13G - Fakhoury Ranni Emad (0002162971) (Filed by)**
+  - when: 2026-10-30T21:36:17-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2162971/000216297126000001/0002162971-26-000001-index.htm
+  - Filed: 2026-10-30 AccNo: 0002162971-26-000001 Size: 6 KB
+- **SCHEDULE 13G - SenesTech, Inc. (0001680378) (Subject)**
+  - when: 2026-10-30T21:36:17-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1680378/000216297126000001/0002162971-26-000001-index.htm
+  - Filed: 2026-10-30 AccNo: 0002162971-26-000001 Size: 6 KB
+- **4 - Brophy Michael Burkes (0001697362) (Reporting)**
+  - when: 2026-10-30T21:35:06-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1697362/000169736226000021/0001697362-26-000021-index.htm
+  - Filed: 2026-10-30 AccNo: 0001697362-26-000021 Size: 8 KB
 - **4 - Natera, Inc. (0001604821) (Issuer)**
-  - when: 2026-10-29T21:35:21-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1604821/000164664926000040/0001646649-26-000040-index.htm
-  - Filed: 2026-10-29 AccNo: 0001646649-26-000040 Size: 8 KB
-- **4 - Rabinowitz Matthew (0001646382) (Reporting)**
-  - when: 2026-10-29T21:35:19-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1646382/000164638226000026/0001646382-26-000026-index.htm
-  - Filed: 2026-10-29 AccNo: 0001646382-26-000026 Size: 5 KB
-- **4 - Natera, Inc. (0001604821) (Issuer)**
-  - when: 2026-10-29T21:35:19-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1604821/000164638226000026/0001646382-26-000026-index.htm
-  - Filed: 2026-10-29 AccNo: 0001646382-26-000026 Size: 5 KB
-- **4 - RABINOWITZ DANIEL (0001857843) (Reporting)**
-  - when: 2026-10-29T21:35:17-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1857843/000185784326000030/0001857843-26-000030-index.htm
-  - Filed: 2026-10-29 AccNo: 0001857843-26-000030 Size: 7 KB
-- **4 - Natera, Inc. (0001604821) (Issuer)**
-  - when: 2026-10-29T21:35:17-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1604821/000185784326000030/0001857843-26-000030-index.htm
-  - Filed: 2026-10-29 AccNo: 0001857843-26-000030 Size: 7 KB
-- **4 - Moshkevich Solomon (0002010019) (Reporting)**
-  - when: 2026-10-29T21:35:14-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2010019/000201001926000035/0002010019-26-000035-index.htm
-  - Filed: 2026-10-29 AccNo: 0002010019-26-000035 Size: 7 KB
-- **4 - Natera, Inc. (0001604821) (Issuer)**
-  - when: 2026-10-29T21:35:14-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1604821/000201001926000035/0002010019-26-000035-index.htm
-  - Filed: 2026-10-29 AccNo: 0002010019-26-000035 Size: 7 KB
-- **4 - Fesko John (0002010135) (Reporting)**
-  - when: 2026-10-29T21:35:12-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2010135/000201013526000025/0002010135-26-000025-index.htm
-  - Filed: 2026-10-29 AccNo: 0002010135-26-000025 Size: 7 KB
-- **4 - Natera, Inc. (0001604821) (Issuer)**
-  - when: 2026-10-29T21:35:12-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1604821/000201013526000025/0002010135-26-000025-index.htm
-  - Filed: 2026-10-29 AccNo: 0002010135-26-000025 Size: 7 KB
+  - when: 2026-10-30T21:35:06-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1604821/000169736226000021/0001697362-26-000021-index.htm
+  - Filed: 2026-10-30 AccNo: 0001697362-26-000021 Size: 8 KB
+- **SCHEDULE 13D/A - JANA Partners Management, LP (0001998597) (Filed by)**
+  - when: 2026-10-30T21:30:17-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1998597/000090266426004338/0000902664-26-004338-index.htm
+  - Filed: 2026-10-30 AccNo: 0000902664-26-004338 Size: 14 KB
+- **SCHEDULE 13D/A - ALKAMI TECHNOLOGY, INC. (0001529274) (Subject)**
+  - when: 2026-10-30T21:30:17-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1529274/000090266426004338/0000902664-26-004338-index.htm
+  - Filed: 2026-10-30 AccNo: 0000902664-26-004338 Size: 14 KB
+- **SCHEDULE 13D/A - Powell Anderson Capital Partners LLC (0002048057) (Filed by)**
+  - when: 2026-10-30T21:19:27-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2048057/000121465926013567/0001214659-26-013567-index.htm
+  - Filed: 2026-10-30 AccNo: 0001214659-26-013567 Size: 42 KB
+- **SCHEDULE 13D/A - FRANKLIN STREET PROPERTIES CORP /MA/ (0001031316) (Subject)**
+  - when: 2026-10-30T21:19:27-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1031316/000121465926013567/0001214659-26-013567-index.htm
+  - Filed: 2026-10-30 AccNo: 0001214659-26-013567 Size: 42 KB
 
 ## federal-register
 - **Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles**
@@ -163,56 +163,83 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - What GAO Found The Department of Energy (DOE) created initial future land use plans in coordination with local communities as early as 1992 at six cleanup sites GAO selected for review. These plans inform but do not bind assumptions about future land use that DOE and regulators make when selecting a cleanup remedy at a site. The remedy selected during the cleanup process has lasting consequences for how a parcel of land can be used, even after DOE transfers or leases it to another federal agenc
 
 ## courtlistener
-- **Jonathan Gordon v. State of Florida**
-  - when: 2026-10-29T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11048851/jonathan-gordon-v-state-of-florida/
-  - DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA FOURTH DISTRICT JONATHAN GORDON, Appellant, v. STATE OF FLORIDA, Appellee. No. 4D2023-0485 [October 29, 2026] Appeal from the Circuit Court for the Seventeenth Judicial Circuit, Broward County; Barbara R. Duffy Original document
-- **Victoria Dombrower v. Jennifer Jingco**
-  - when: 2026-10-29T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11049087/victoria-dombrower-v-jennifer-jingco/
-  - Third District Court of Appeal State of Florida Opinion filed October 29, 2026. Not final until disposition of timely filed motion for rehearing. ________________ No. 3D26-1572 Lower Tribunal No. 25-19713-CA-01 ________________ Victoria Dombrower, et al., Appellants, Original document
-- **United States v. Steville Burns**
-  - when: 2026-10-29T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11049226/united-states-v-steville-burns/
-  - United States Court of Appeals For the Eighth Circuit ___________________________ No. 25-2480 ___________________________ United States of America Plaintiff - Appellee v. Steville D. Burns Original document
-- **Loren Bennink v. Cincinnati Bell Tel. Co. LLC**
-  - when: 2026-10-29T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11049621/loren-bennink-v-cincinnati-bell-tel-co-llc/
-  - RECOMMENDED FOR PUBLICATION Pursuant to Sixth Circuit I.O.P. 32.1(b) File Name: 26a0292p.06 UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT ┐ LOREN BENNINK, │ Plaintiff-Appellant Original document
-- **Q.R. v. D.K.**
-  - when: 2026-10-29T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11049609/qr-v-dk/
-  - Q.R. v. D.K., No. 2464, September Term, 2025. Opinion Filed on October 29, 2026, by Albright, J. CHILD CUSTODY > DE FACTO PARENT> LIVED TOGETHER In determining whether one is a de facto parent, the putative de facto parent’s maintenance of a residence other than the one in which they lived with the minor does not preclude putative de facto parent, per se, from establishing that they met the second prong of the test adopted in Conover v. Conover. CHILD CUSTODY > DE FACTO PARENT> LIVED Original document
-- **Emmanuel Cazeau v. State of Florida**
-  - when: 2026-10-29T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11048572/emmanuel-cazeau-v-state-of-florida/
-  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-2897 LT Case No. 2023-CF-001583-A _____________________________ EMMANUEL CAZEAU, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Lake County. James R. Baxley, Judge. Matthew R. McLain, of McLain Law, P.A., Longwood Original document
-- **O'Donnell v. Lee, Lee**
-  - when: 2026-10-29T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11048715/odonnell-v-lee-lee/
-  - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2025-2605 _____________________________ LINDA O’DONNELL, Appellant, v. JAMES E. LEE II, and PAIGE J. LEE, Appellees. _____________________________ On appeal from the Circuit Court for Franklin County. Francis J. Allman, Judge. October 29, 2026 PER CURIAM. AFFIRMED Original document
-- **Ridgeway v. Ohio Bur. of Workers Comp.**
-  - when: 2026-10-29T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11049580/ridgeway-v-ohio-bur-of-workers-comp/
-  - [Cite as Ridgeway v. Ohio Bur. of Workers Comp., 2026-Ohio-4291.] COURT OF APPEALS OF OHIO EIGHTH APPELLATE DISTRICT COUNTY OF CUYAHOGA HOWARD RIDGEWAY, : Plaintiff-Appellant, : No. 116666 v. : OHIO BUREAU OF WORKERS Original document
-- **Parma v. Thompson**
-  - when: 2026-10-29T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11049582/parma-v-thompson/
-  - [Cite as Parma v. Thompson, 2026-Ohio-4281.] COURT OF APPEALS OF OHIO EIGHTH APPELLATE DISTRICT COUNTY OF CUYAHOGA CITY OF PARMA, : Plaintiff-Appellee, : Nos. 116008 v. : ANDRE DEMETRIUS THOMPSON, : Defendant-Appellant Original document
-- **Carlos Antonio Hallowell v. State of Florida**
-  - when: 2026-10-29T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11048575/carlos-antonio-hallowell-v-state-of-florida/
-  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-1683 LT Case No. 2019-CF-001099-A _____________________________ CARLOS ANTONIO HALLOWELL, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ 3.850 Appeal from the Circuit Court for Citrus County. Joel D. Fritton, Judge. Sean W. Landers, of The Baez Law Original document
-- **GUTIERREZ v. STATE OF OKLAHOMA**
-  - when: 2026-10-29T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11049487/gutierrez-v-state-of-oklahoma/
-  - OSCN Found Document:GUTIERREZ v. STATE OF OKLAHOMA GUTIERREZ v. STATE OF OKLAHOMA2026 OK CR 20Case Number: F-2024-355Decided: 10/29/2026Mandate Issued: 10/29/2026THE COURT OF CRIMINAL APPEALS OF THE STATE OF OKLAHOMA Cite as: 2026 OK CR 20, __ P.3d __ JAIME JOSE GUTIERREZ, Appellant, v. THE STATE OF OKLAHOMA, Appellee. O P I N I O N MUSSEMAN, VICE PRESIDING JUDGE: ¶1 Appellant, Jaime Jose Gutierrez, appeals his Judgment and Sentence from the District Court of Texas County, Case Original document
-- **United States v. Harris**
-  - when: 2026-10-29T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11049561/united-states-v-harris/
-  - Case: 25-60017 Document: 120-1 Page: 1 Date Filed: 10/29/2026 United States Court of Appeals for the Fifth Circuit United States Court of Appeals ____________ Fifth Circuit FILED No. 25-60017 October 29, 2026 Original document
+- **In The Matter of $11,500 Seized from Bitcoin Depot Operating, LLC**
+  - when: 2026-10-30T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11050327/in-the-matter-of-11500-seized-from-bitcoin-depot-operating-llc/
+  - In the Iowa Supreme Court No. 25–1639 Submitted September 10, 2026—Filed October 30, 2026 In the matter of $11,500 Seized from Bitcoin Depot Operating, LLC. GDP Holdings d/b/a Coinflip, successor in interest to Bitcoin Depot Operating, LLC, Appellant. Appeal from the Iowa District Court for Black Hawk County, Joel A. Dalrymple, judge Original document
+- **Brent M. Bredhold v. State of Indiana**
+  - when: 2026-10-30T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11050745/brent-m-bredhold-v-state-of-indiana/
+  - Pursuant to Ind. Appellate Rule 65(E), the trial court and parties shall not take any action in reliance upon this Opinion until it is certified. IN THE Court of Appeals of Indiana Brent M. Bredhold, FILED Oct 30 2026, 9:00 am Original document
+- **J M v. M S**
+  - when: 2026-10-30T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11050744/j-m-v-m-s/
+  - Pursuant to Ind. Appellate Rule 65(E), the trial court and parties shall not take any action in reliance upon this Opinion until it is certified. FILED Oct 30 2026, 9:44 am CLERK Original document
+- **State v. Durst**
+  - when: 2026-10-30T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11050906/state-v-durst/
+  - [Cite as State v. Durst, 2026-Ohio-4316.] IN THE COURT OF APPEALS OF OHIO SIXTH APPELLATE DISTRICT SANDUSKY COUNTY State of Ohio Court of Appeals No. S-26-016 Appellee Trial Court No. 15 CR 1204 v. McClain L. Durst DECISION AND JUDGMENT Appellant Original document
+- **State v. Daniels**
+  - when: 2026-10-30T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11050801/state-v-daniels/
+  - [Cite as State v. Daniels, 2026-Ohio-4304.] IN THE COURT OF APPEALS OF OHIO SECOND APPELLATE DISTRICT MONTGOMERY COUNTY STATE OF OHIO : : C.A. Nos. 30703, 30704 Appellee : : Trial Court Case Nos. 2025 CR Original document
+- **In re Estate of Todd**
+  - when: 2026-10-30T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11050219/in-re-estate-of-todd/
+  - Nebraska Supreme Court Online Library www.nebraska.gov/apps-courts-epub/ 10/30/2026 08:18 AM CDT - 719 - Nebraska Supreme Court Advance Sheets 322 Nebraska Reports IN RE ESTATE OF TODD Cite as 322 Neb. 719 In re Estate of Douglas G. Todd, deceased Original document
+- **Redbox Dumpsters, Freeman v. State of Florida**
+  - when: 2026-10-30T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11050181/redbox-dumpsters-freeman-v-state-of-florida/
+  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT REDBOX DUMPSTERS c/o DAVID FREEMAN, Appellant, v. STATE OF FLORIDA, Appellee. No. 2D2025-1681 October 30, 2026 Appeal from the County Court for Pasco County; Anne Wansboro, Judge. Anthony F. Sabatini Original document
+- **In re Estate of Noerr**
+  - when: 2026-10-30T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11050806/in-re-estate-of-noerr/
+  - [Cite as In re Estate of Noerr, 2026-Ohio-4307.] IN THE COURT OF APPEALS OF OHIO SECOND APPELLATE DISTRICT MONTGOMERY COUNTY IN THE MATTER OF THE ESTATE OF : GUY H. NOERR, DECEASED : C.A. Nos. 30826, 30858 : : Trial Court Original document
+- **Dong v. North Oaks Condominium Association, Inc., Glausier Knight Jones, PLLC**
+  - when: 2026-10-30T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11050190/dong-v-north-oaks-condominium-association-inc-glausier-knight-jones/
+  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT YANBIN DONG, Appellant, v. NORTH OAKS CONDOMINIUM ASSOCIATION, INC. and GLAUSIER KNIGHT JONES, PLLC, Appellee. No. 2D2025-1188 October 30, 2026 Appeal from the County Court for Hillsborough County; Matthew Original document
+- **Steve Crooks v. State of Louisiana, Through the Louisiana Department of Natural Resources**
+  - when: 2026-10-30T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11050844/steve-crooks-v-state-of-louisiana-through-the-louisiana-department-of/
+  - FOR IMMEDIATE NEWS RELEASE NEWS RELEASE #051 FROM: CLERK OF SUPREME COURT OF LOUISIANA The Opinions handed down on the 30th day of October, 2026 are as follows: BY Burris, J.: 2026-C-00448 STEVE CROOKS, ET AL. VS. STATE OF LOUISIANA, THROUGH THE LOUISIANA DEPARTMENT OF NATURAL RESOURCES, ET AL. (Parish of Rapides) APPELLATE COURT JUDGMENT AFFIRMED Original document
+- **Johnson v. State of Florida**
+  - when: 2026-10-30T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11050187/johnson-v-state-of-florida/
+  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT DARRELL WAYNE JOHNSON, Appellant, v. STATE OF FLORIDA, Appellee. No. 2D2025-2344 October 30, 2026 Appeal from the Circuit Court for Pinellas County; Joseph A. Bulone, Judge. Blair Allen, Public Original document
+- **In re J.B.**
+  - when: 2026-10-30T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11050805/in-re-jb/
+  - [Cite as In re J.B., 2026-Ohio-4306.] IN THE COURT OF APPEALS OF OHIO SECOND APPELLATE DISTRICT CLARK COUNTY IN THE MATTER OF: J.B. : : C.A. No. 2026-CA-54 : : Trial Court Case No. 20260331 Original document
 
 ## uk-legislation
+- **The Pneumoconiosis etc. (Workers’ Compensation) (Payment of Claims) (Amendment) (No. 2) Regulations 2026**
+  - when: 2026-10-30T17:26:42+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1146
+- **The Energy Performance of Buildings (Scotland) Amendment Regulations 2026**
+  - when: 2026-10-30T16:50:59+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/322
+  - These Regulations amend the Energy Performance of Buildings (Scotland) Regulations 2008 and the Energy Performance of Buildings (Scotland) Regulations 2025.
+- **The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026**
+  - when: 2026-10-30T15:14:34+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1143
+  - These Regulations amend, subject to the transitional provisions in regulation 1, the Transport and Works (Inquiries Procedure) Rules 2004 (S.I. 2004/2018) (“the 2004 Rules”), the Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006 (S.I. 2006/1466) (“the 2006 Rules”) and the Transport and Works Applications (Listed Buildings, Conservation Areas and Ancient Monuments Procedure) Regulations 1992 (“the 1992 Regulations”).
+- **The Transport Infrastructure (Fees) Regulations 2026**
+  - when: 2026-10-30T14:13:41+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1137
+  - These Regulations make provision for prescribed public authorities to charge fees for services provided in connection with certain transport infrastructure projects. They are made under powers inserted into the Highways Act 1980 (c. 66) (“the 1980 Act”) and the Transport and Works Act 1992 (c. 42) (“the 1992 Act”) by the Planning and Infrastructure Act 2025 (c. 34).
+- **The Mobile Homes (Written Statement) (Scotland) Regulations 2026**
+  - when: 2026-10-30T10:46:08+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/320
+  - The Mobile Homes Act 1983 (“the 1983 Act”) applies to all agreements under which persons are entitled to station a mobile home on a protected site and occupy it as their only or main residence. Section 1(2) of the 1983 Act provides that before such an agreement is entered into, the site owner must give to the proposed occupier of the mobile home a written statement. These regulations set out the form that such a written statement must be in, where that statement is given on or after 9 December 2
+- **The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Amendment Regulations 2026**
+  - when: 2026-10-30T11:11:29+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/321
+  - These Regulations amend the First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (“the 2025 Regulations”).
+- **The Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (Commencement No. 3) Regulations 2026**
+  - when: 2026-10-30T09:39:31+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/319
+  - These Regulations commence section 18(3) and (4) of the Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019. Section 18(3) and 18(4) makes consequential amendments to section 89 and 95 of the Housing (Scotland) Act 2001 to amend the definition of fuel poverty.
 - **The A83 Trunk Road (Lochgilphead) (Temporary Prohibition on Use of Road) (No. 2) Order 2026**
   - when: 2026-10-30T04:09:06+01:00
   - url: http://www.legislation.gov.uk/id/ssi/2026/316
@@ -230,31 +257,3 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-10-30T04:03:53+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/1133
   - These Regulations amend the Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493) (“the 2021 Regulations”). The 2021 Regulations exempt the establishment, installation and use of wireless telegraphy stations or apparatus which comply with certain terms, provisions and limitations, from the requirement to be licensed under section 8(1) of the Wireless Telegraphy Act 2006 (c. 36).
-- **The Wireless Telegraphy (Dynamic Spectrum Access Devices) (Exemption) Regulations 2026**
-  - when: 2026-10-30T04:03:42+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1132
-  - These Regulations exempt the use of dynamic spectrum access devices operating in the radio frequency band 5925 to 7125 MHz from the requirement to be licensed under section 8(1) of the Wireless Telegraphy Act 2006 (c. 36) (“the Act”).
-- **The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026**
-  - when: 2026-10-29T17:41:11+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1139
-  - These Regulations make amendments to the Lifelong Learning (Student Support) (Amendment of Fees and Awards etc.) Regulations 2026 (S.I. 2026/858) (“the Lifelong Learning Regulations”), the Education (Postgraduate Master’s Degree Loans) Regulations 2016 (S.I. 2016/606), the Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018 (S.I. 2018/599) and the Education (Student Support for Postgraduate Provision) (Amendment)
-- **The Sea Fisheries (Amendment and Transitional Provision) Regulations 2026**
-  - when: 2026-10-29T17:25:44+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1142
-  - These Regulations make amendments to assimilated law in the field of sea fisheries. They also make a transitional provision.
-- **The Central Counterparties (Equivalence) (Indonesia and the People’s Republic of China) Regulations 2026**
-  - when: 2026-10-29T16:55:04+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1134
-  - These Regulations set out the Treasury’s equivalence determinations in respect of the regulatory framework that applies to certain central counterparties (CCPs) that are established in Indonesia and the People’s Republic of China.
-- **The Scottish Local Government Elections (Election Agents, Expenses and Publication of Information) Amendment Order 2026**
-  - when: 2026-10-30T01:10:00+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/318
-  - This Order amends the Representation of the People Act 1983 (“the 1983 Act”) and the Scottish Local Government Elections Order 2011 (“the 2011 Order”).
-- **The Representation of the People (Postal Voting for Local Government Elections) (Scotland) Amendment Regulations 2026**
-  - when: 2026-10-30T01:10:00+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/317
-  - These Regulations amend the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007.
-- **The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) Regulations 2026**
-  - when: 2026-10-29T15:07:56+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1138
-  - These Regulations amend the Local Government Pension Scheme Regulations 2013 (S.I. 2013/2356) (“the 2013 Regulations”).
