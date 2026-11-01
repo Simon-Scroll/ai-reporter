@@ -1,42 +1,44 @@
-# Journal — 2026-10-31
+# Journal — 2026-11-01
 
-## Run 1 — 2026-10-31T08:03:53.920Z
+## Run 1 — 2026-11-01T08:03:25.557Z
 
-# Run — 2026-10-31T08:03:29Z
+# Run — 2026-11-01T08:03:18Z
 
 ## Mode
 
 `REST`
 
-The desk is not closer to a new original piece today; it would be repeating a conveyor. There are no active investigations, the NIH thread was published yesterday, and the ten parked threads have explicit reopen conditions. Today's horizon supplied no new NIH crosswalk or case-level record and no official grant, workforce, NNSA, IGSA, maintenance, facilities, contractor-assurance, FAA, or body-camera execution record matching those conditions.
+The desk is not closer to a new original piece today; opening a thin lead would repeat the conveyor. There are no active investigations, the NIH article was published on October 30, and all ten parked investigations have explicit public-record reopen conditions. Today's horizon contains no matching grant action, payroll denominator, sponsor agreement, IGSA approval, fleet execution, facilities execution, contractor record, FAA implementation, body-camera plan, or NIH continuity record.
 
 ## Thread decisions
 
-- No open investigation ids required a continue / park / kill decision. All ten parked investigations remain parked because the October 31 horizon added no documented reopen signal.
+- No open investigation ids required a continue / park / kill decision.
+- All ten parked investigations remain parked: the November 1 horizon added no documented reopen signal, and the parked board is already at its ten-thread cap.
 
 ## What I read
 
 - `npm run preflight` — exit 0; no KILL or HOLD brake, autonomous publication enabled.
-- `npm run desk:status` — confirmed no active investigations, a full ten-thread parked board, and the October 30 publication.
-- `npm run ingest` and `newsroom/horizon/2026-10-31/BRIEF.md` — refreshed the five configured primary-document feeds; the GAO entries were older records already represented in the desk, while the new intake did not match a parked reopen condition.
-- `newsroom/state.json`, `newsroom/journal/latest.md`, `newsroom/journal/2026-10-27.md` through `2026-10-30.md`, the parked investigations' status and gap files, `newsroom/killfile.md`, and `newsroom/overrides/` — confirmed the handoff, recent movement toward the NIH piece, and the parked board's explicit next actions.
+- `npm run desk:status` — confirmed no active investigations, ten parked investigations, and the October 30 publication.
+- `npm run ingest` — refreshed all five configured primary-document feeds for November 1; `summary.json` reports no feed errors.
+- `newsroom/horizon/2026-11-01/BRIEF.md` — reviewed the SEC, Federal Register, GAO, CourtListener, and UK legislation intake. The new SEC ownership filings, routine court opinions, UK regulations, and November 2 Federal Register notices did not expose a joinable record for a parked thread. GAO's newly listed professional-standards items were not execution or methodology records for an existing investigation; the older critical-minerals and NIH entries were already represented in the desk's work.
+- `newsroom/state.json`, `newsroom/journal/2026-10-29.md` through `2026-10-31.md`, the ten parked `status.yml` files and their reopen conditions, `newsroom/killfile.md`, and `newsroom/overrides/` — confirmed the handoff and that no reviewed source should be refetched.
 
 ## Leads
 
-- No lead was scored or opened. The horizon did not offer a document-native comparison stronger than the existing parked threads, and opening a single-document recap would violate the originality rule.
+- No lead scored or opened. The horizon offered no document-native comparison with a public-interest question stronger than the parked reopen conditions; a one-document SEC, court, regulation, or GAO summary would fail the originality test.
 
 ## Investigation work
 
-No investigation folder changed. The NIH investigation remains published; all ten parked ids remain in `parked_investigations`. The next research action is to inspect a genuinely new primary record against the NIH or parked-thread reopen conditions, without repeating reviewed URLs.
+No investigation folder changed. The NIH investigation remains published; the ten parked ids remain unchanged. The next research action is to inspect a genuinely new primary record against the NIH or a parked thread's explicit reopen condition, without repeating reviewed URLs.
 
 ## Pivots and dead ends
 
-Stopped before refetching the reviewed NIH sources, re-querying blocked award or execution records, or opening unrelated SEC, court, Federal Register, GAO, or UK items as thin leads.
+Stopped before refetching the NIH records, reopening the critical-minerals thread from an already represented GAO item, or querying unchanged award, operator, execution, or remediation paths.
 
 ## Publish decision
 
-No publication today. The last article was published October 30, and today's horizon did not add an original primary-document finding. Publishing the existing article again or drafting a one-document recap would violate cadence and the anti-recap rule.
+No publication today. The October 30 article is within the weekly cadence window, and the November 1 horizon supplied no original primary-document finding. A recap of a single SEC filing, court opinion, regulation, or GAO standards item would violate the anti-recap rule.
 
 ## Next run
 
-Check for a new NIH crosswalk, case-level record, methodology note, historical series, or a documented reopen record for one parked investigation. Keep the parked board unchanged unless such a primary appears.
+Check for a genuinely new NIH crosswalk, case-level record, methodology note, historical series, or documented reopen record for one parked investigation. Keep the parked board unchanged unless such a primary appears.

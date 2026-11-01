@@ -1,4 +1,4 @@
-# Horizon brief — 2026-10-31
+# Horizon brief — 2026-11-01
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
@@ -53,54 +53,54 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - Filed: 2026-10-30 AccNo: 0001214659-26-013567 Size: 42 KB
 
 ## federal-register
-- **Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles**
-  - when: 2026-10-30
-  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22292/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset
+- **Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026**
+  - when: 2026-11-02
+  - url: https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year
   - Executive Office of the President — Presidential Document
-- **Safety Zone; M/T KALAHARI, Gulf of America, Pascagoula, MS**
-  - when: 2026-10-30
-  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22269/safety-zone-mt-kalahari-gulf-of-america-pascagoula-ms
-  - Homeland Security Department, Coast Guard — Rule — The Coast Guard is establishing a temporary safety zone for navigable waters of the Gulf of America. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with the M/T KALAHARI that will be conducting repairs at anchorage due to both auxiliary boilers being out of service rendering the inert gas system inoperable. Entry of vessels or persons into this zone is prohibited unless speci
-- **Privacy Act of 1974; System of Records**
-  - when: 2026-10-30
-  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22254/privacy-act-of-1974-system-of-records
-  - Veterans Affairs Department — Notice — Pursuant to the Privacy Act of 1974, notice is hereby given that the VA is modifying the system of records entitled, "Individuals Submitting Invoices--Vouchers for Payment and Accounting Transactional Data--VA" (13VA047). This system is used for payment processing, general accounting, benefit payment authorization for the benefit of veterans and their families, and government and commercial service providers for contract and/or reimbursement expenses.
-- **Notice of Public Hearing and Business Meeting November 4, 2026 and December 3, 2026**
-  - when: 2026-10-30
-  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22253/notice-of-public-hearing-and-business-meeting-november-4-2026-and-december-3-2026
-  - Delaware River Basin Commission — Notice
-- **Determination Pursuant to Section 451 of the Foreign Assistance Act of 1961**
-  - when: 2026-10-30
-  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22252/determination-pursuant-to-section-451-of-the-foreign-assistance-act-of-1961
-  - State Department — Notice
-- **Safety Zone; S.S. UNITED STATES Dead Ship Tow, Sector Mobile Captain of the Port Zone, Mobile, AL**
-  - when: 2026-10-30
-  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22249/safety-zone-ss-united-states-dead-ship-tow-sector-mobile-captain-of-the-port-zone-mobile-al
-  - Homeland Security Department, Coast Guard — Rule — The Coast Guard is establishing a temporary moving safety zone around the S.S. UNITED STATES and all vessels involved in its towage through the Mobile River Channel, Mobile Bay, and the Gulf of America. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards created by the dead ship tow. Entry of persons and vessels into this zone is prohibited unless specifically authorized by the Captain of th
-- **Utility Scale Wind Towers From Malaysia: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order**
-  - when: 2026-10-30
-  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22245/utility-scale-wind-towers-from-malaysia-final-results-of-the-expedited-first-sunset-review-of-the
-  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on utility scale wind towers (wind towers) from Malaysia would be likely to lead to continuation or recurrence of countervailable subsidies at the levels indicated in the "Final Results of Sunset Review" section of this notice.
-- **Diamond Sawblades and Parts Thereof From China; Determination**
-  - when: 2026-10-30
-  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22244/diamond-sawblades-and-parts-thereof-from-china-determination
-  - International Trade Commission — Notice
-- **Notification of Citizens Coinage Advisory Committee Public Meeting**
-  - when: 2026-10-30
-  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22243/notification-of-citizens-coinage-advisory-committee-public-meeting
-  - Treasury Department, United States Mint — Notice
-- **Notice of Meeting of the National Parks Overflights Advisory Group**
-  - when: 2026-10-30
-  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22242/notice-of-meeting-of-the-national-parks-overflights-advisory-group
-  - Transportation Department, Federal Aviation Administration — Notice — The Federal Aviation Administration (FAA) and the National Park Service (NPS), in accordance with the National Parks Air Tour Management Act of 2000 (NPATMA), announce the next meeting of the National Parks Overflights Advisory Group (NPOAG). This notification provides the date, location, and agenda for the meeting.
-- **Agency Information Collection Activities; Proposed Collection; Comment Request; CDFI Program and NACA Program Financial Assistance and Technical Assistance Applications**
-  - when: 2026-10-30
-  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22241/agency-information-collection-activities-proposed-collection-comment-request-cdfi-program-and-naca
-  - Treasury Department, Community Development Financial Institutions Fund — Notice — The U.S. Department of the Treasury, as part of its continuing effort to reduce paperwork and respondent burden, invites the general public and other Federal agencies to comment on proposed and/or continuing information collections, as required by the Paperwork Reduction Act of 1995. Currently, the Community Development Financial Institutions Fund (CDFI Fund), U.S. Department of the Treasury, is soliciting comments
-- **Agency Information Collection Activities; Proposed Collection; Comment Request; New Markets Tax Credit Program Community Development Entity (CDE) Certification Application**
-  - when: 2026-10-30
-  - url: https://www.federalregister.gov/documents/2026/10/30/2026-22240/agency-information-collection-activities-proposed-collection-comment-request-new-markets-tax-credit
-  - Treasury Department, Community Development Financial Institutions Fund — Notice — The Department of the Treasury, as part of its continuing effort to reduce paperwork and respondent burden, invites the general public and other Federal agencies to take this opportunity to comment on proposed and/or continuing information collections, as required by the Paperwork Reduction Act of 1995. Currently, the Community Development Financial Institutions Fund (CDFI Fund), Department of the Treasury, is soli
+- **Adjusting Imports of Robotics, Industrial Machinery, and Their Parts and Components Into the United States**
+  - when: 2026-11-02
+  - url: https://www.federalregister.gov/documents/2026/11/02/2026-22385/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united
+  - Executive Office of the President — Presidential Document
+- **Truck Bed Covers From the People's Republic of China: Amended Preliminary Determination of the Less-Than-Fair-Value Investigation**
+  - when: 2026-11-02
+  - url: https://www.federalregister.gov/documents/2026/11/02/2026-22353/truck-bed-covers-from-the-peoples-republic-of-china-amended-preliminary-determination-of-the
+  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) is amending its preliminary affirmative determination in the less-than-fair-value (LTFV) investigation of truck bed covers from the People's Republic of China (China) to correct for significant ministerial errors. The period of investigation is July 1, 2025, through December 31, 2025.
+- **Foreign-Trade Zone (FTZ) 80; Authorization of Production Activity; StandardAero San Antonio; (Refurbished Engines); San Antonio, Texas**
+  - when: 2026-11-02
+  - url: https://www.federalregister.gov/documents/2026/11/02/2026-22352/foreign-trade-zone-ftz-80-authorization-of-production-activity-standardaero-san-antonio-refurbished
+  - Commerce Department, Foreign-Trade Zones Board — Notice
+- **Corrosion-Resistant Steel Products From Mexico: Notice of Court Decision Not in Harmony With the Final Determination of Antidumping Duty Investigation; Notice of Amended Final Determination; Notice of Amended Antidumping Duty Order, in Part**
+  - when: 2026-11-02
+  - url: https://www.federalregister.gov/documents/2026/11/02/2026-22351/corrosion-resistant-steel-products-from-mexico-notice-of-court-decision-not-in-harmony-with-the
+  - Commerce Department, International Trade Administration — Notice — On October 19, 2026, the U.S. Court of International Trade (CIT) issued its final judgment in Galvasid S.A. De C.V., v. United States, Slip Op. 26-128, Consol. Court no. 25-00235, sustaining the U.S. Department of Commerce's (Commerce) first remand redetermination pertaining to the less-than-fair-value (LTFV) investigation of corrosion-resistant steel products (CORE) from Mexico covering the period of investigation July 1, 2023,
+- **Renewal of Agency Information Collection Activities: Submission for OMB Review; Comment Requested; Ocean Transportation Intermediaries; 3072-0018**
+  - when: 2026-11-02
+  - url: https://www.federalregister.gov/documents/2026/11/02/2026-22350/renewal-of-agency-information-collection-activities-submission-for-omb-review-comment-requested
+  - Federal Maritime Commission — Notice — The Federal Maritime Commission (Commission or FMC) is giving public notice that the agency has submitted the continuing information collection listed below in this notice to the Office of Management and Budget (OMB) for approval extension, with revision, for Collection of Information 3072-0018 (Ocean Transportation Intermediaries). The public is invited to comment on this information collection pursuant to the Paperwork Reduction Act of 1995.
+- **Polyester Textured Yarn From Indonesia, Malaysia, Thailand, and Vietnam; Institution of Five-Year Reviews**
+  - when: 2026-11-02
+  - url: https://www.federalregister.gov/documents/2026/11/02/2026-22349/polyester-textured-yarn-from-indonesia-malaysia-thailand-and-vietnam-institution-of-five-year
+  - International Trade Commission — Notice — The Commission hereby gives notice that it has instituted reviews pursuant to the Tariff Act of 1930, as amended, to determine whether revocation of the antidumping duty orders on polyester textured yarn from Indonesia, Malaysia, Thailand, and Vietnam would be likely to lead to continuation or recurrence of material injury. Pursuant to the Act, interested parties are requested to respond to this notice by submitting the information specified below to the
+- **Certain Mobile Access Equipment (MAE) and Subassemblies Thereof From China; Institution of Five-Year Reviews**
+  - when: 2026-11-02
+  - url: https://www.federalregister.gov/documents/2026/11/02/2026-22348/certain-mobile-access-equipment-mae-and-subassemblies-thereof-from-china-institution-of-five-year
+  - International Trade Commission — Notice — The Commission hereby gives notice that it has instituted reviews pursuant to the Tariff Act of 1930, as amended, to determine whether revocation of the antidumping and countervailing duty orders on certain mobile access equipment ("MAE") and subassemblies thereof from China would be likely to lead to continuation or recurrence of material injury. Pursuant to the Act, interested parties are requested to respond to this notice by submitting the informatio
+- **Potassium Permanganate From China; Institution of a Five-Year Review**
+  - when: 2026-11-02
+  - url: https://www.federalregister.gov/documents/2026/11/02/2026-22347/potassium-permanganate-from-china-institution-of-a-five-year-review
+  - International Trade Commission — Notice — The Commission hereby gives notice that it has instituted a review pursuant to the Tariff Act of 1930, as amended, to determine whether revocation of the antidumping duty order on potassium permanganate from China would be likely to lead to continuation or recurrence of material injury. Pursuant to the Act, interested parties are requested to respond to this notice by submitting the information specified below to the Commission.
+- **Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 18a-5**
+  - when: 2026-11-02
+  - url: https://www.federalregister.gov/documents/2026/11/02/2026-22346/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-18a-5
+  - Securities and Exchange Commission — Notice
+- **Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review and Join Annual Inquiry Service List; Note Regarding Format of Review Requests**
+  - when: 2026-11-02
+  - url: https://www.federalregister.gov/documents/2026/11/02/2026-22345/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-opportunity-to-request
+  - Commerce Department, International Trade Administration — Notice
+- **Foreign-Trade Zone (FTZ) 38; Authorization of Production Activity; Coroplast Tape Corporation; (Pressure Sensitive Tapes); Rock Hill, South Carolina**
+  - when: 2026-11-02
+  - url: https://www.federalregister.gov/documents/2026/11/02/2026-22344/foreign-trade-zone-ftz-38-authorization-of-production-activity-coroplast-tape-corporation-pressure
+  - Commerce Department, Foreign-Trade Zones Board — Notice
 
 ## gao
 - **October 28, 2026 letter commenting on the International Auditing and Assurance Standards Board's July 2026 Exposure Draft: "Proposed International Standard on Auditing for Audits of Financial Statements of Less Complex Entities (Revised)"**
@@ -163,6 +163,18 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - What GAO Found The Department of Energy (DOE) created initial future land use plans in coordination with local communities as early as 1992 at six cleanup sites GAO selected for review. These plans inform but do not bind assumptions about future land use that DOE and regulators make when selecting a cleanup remedy at a site. The remedy selected during the cleanup process has lasting consequences for how a parcel of land can be used, even after DOE transfers or leases it to another federal agenc
 
 ## courtlistener
+- **Brown v. Trump**
+  - when: 2026-10-31T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11051755/brown-v-trump/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA ALVIN BROWN, Plaintiff, v. No. 25-cv-01764 (DLF) DONALD J. TRUMP, et al., Defendants. MEMORANDUM OPINION Alvin Brown once served on the National Transportation Safety Board, a federal agency charged with coordinating the Nation’s response Original document
+- **Lentini v. Department of Government Efficiency**
+  - when: 2026-10-31T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11051762/lentini-v-department-of-government-efficiency/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA JERALD LENTINI, et al., Plaintiffs, Case No. 25-cv-164 (JMC) Case No. 25-cv-166 (JMC) v. DEPARTMENT OF GOVERNMENT EFFICIENCY, et al., Defendants. ORDER For the reasons stated in the accompanying Original document
+- **Lentini v. Department of Government Efficiency**
+  - when: 2026-10-31T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11051763/lentini-v-department-of-government-efficiency/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA JERALD LENTINI, et al., Plaintiffs, Case No. 25-cv-164 (JMC) Case No. 25-cv-166 (JMC) v. DEPARTMENT OF GOVERNMENT EFFICIENCY, et al., Defendants. MEMORANDUM OPINION Original document
 - **In The Matter of $11,500 Seized from Bitcoin Depot Operating, LLC**
   - when: 2026-10-30T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11050327/in-the-matter-of-11500-seized-from-bitcoin-depot-operating-llc/
@@ -187,6 +199,10 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-10-30T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11050219/in-re-estate-of-todd/
   - Nebraska Supreme Court Online Library www.nebraska.gov/apps-courts-epub/ 10/30/2026 08:18 AM CDT - 719 - Nebraska Supreme Court Advance Sheets 322 Nebraska Reports IN RE ESTATE OF TODD Cite as 322 Neb. 719 In re Estate of Douglas G. Todd, deceased Original document
+- **In Re Johnny Partain v. the State of Texas**
+  - when: 2026-10-30T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/11051717/in-re-johnny-partain-v-the-state-of-texas/
+  - NUMBER 13-26-00684-CV COURT OF APPEALS THIRTEENTH DISTRICT OF TEXAS CORPUS CHRISTI – EDINBURG IN RE JOHNNY PARTAIN ON PETITION FOR WRIT OF MANDAMUS MEMORANDUM OPINION Before Chief Justice Tijerina and Justices Silva and Cron Memorandum Opinion by Justice Silva1 Original document
 - **Redbox Dumpsters, Freeman v. State of Florida**
   - when: 2026-10-30T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11050181/redbox-dumpsters-freeman-v-state-of-florida/
@@ -195,22 +211,6 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-10-30T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11050806/in-re-estate-of-noerr/
   - [Cite as In re Estate of Noerr, 2026-Ohio-4307.] IN THE COURT OF APPEALS OF OHIO SECOND APPELLATE DISTRICT MONTGOMERY COUNTY IN THE MATTER OF THE ESTATE OF : GUY H. NOERR, DECEASED : C.A. Nos. 30826, 30858 : : Trial Court Original document
-- **Dong v. North Oaks Condominium Association, Inc., Glausier Knight Jones, PLLC**
-  - when: 2026-10-30T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11050190/dong-v-north-oaks-condominium-association-inc-glausier-knight-jones/
-  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT YANBIN DONG, Appellant, v. NORTH OAKS CONDOMINIUM ASSOCIATION, INC. and GLAUSIER KNIGHT JONES, PLLC, Appellee. No. 2D2025-1188 October 30, 2026 Appeal from the County Court for Hillsborough County; Matthew Original document
-- **Steve Crooks v. State of Louisiana, Through the Louisiana Department of Natural Resources**
-  - when: 2026-10-30T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11050844/steve-crooks-v-state-of-louisiana-through-the-louisiana-department-of/
-  - FOR IMMEDIATE NEWS RELEASE NEWS RELEASE #051 FROM: CLERK OF SUPREME COURT OF LOUISIANA The Opinions handed down on the 30th day of October, 2026 are as follows: BY Burris, J.: 2026-C-00448 STEVE CROOKS, ET AL. VS. STATE OF LOUISIANA, THROUGH THE LOUISIANA DEPARTMENT OF NATURAL RESOURCES, ET AL. (Parish of Rapides) APPELLATE COURT JUDGMENT AFFIRMED Original document
-- **Johnson v. State of Florida**
-  - when: 2026-10-30T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11050187/johnson-v-state-of-florida/
-  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT DARRELL WAYNE JOHNSON, Appellant, v. STATE OF FLORIDA, Appellee. No. 2D2025-2344 October 30, 2026 Appeal from the Circuit Court for Pinellas County; Joseph A. Bulone, Judge. Blair Allen, Public Original document
-- **In re J.B.**
-  - when: 2026-10-30T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11050805/in-re-jb/
-  - [Cite as In re J.B., 2026-Ohio-4306.] IN THE COURT OF APPEALS OF OHIO SECOND APPELLATE DISTRICT CLARK COUNTY IN THE MATTER OF: J.B. : : C.A. No. 2026-CA-54 : : Trial Court Case No. 20260331 Original document
 
 ## uk-legislation
 - **The Pneumoconiosis etc. (Workers’ Compensation) (Payment of Claims) (Amendment) (No. 2) Regulations 2026**
