@@ -1,4 +1,4 @@
-# Horizon brief — 2026-11-01
+# Horizon brief — 2026-11-02
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
@@ -163,6 +163,10 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - What GAO Found The Department of Energy (DOE) created initial future land use plans in coordination with local communities as early as 1992 at six cleanup sites GAO selected for review. These plans inform but do not bind assumptions about future land use that DOE and regulators make when selecting a cleanup remedy at a site. The remedy selected during the cleanup process has lasting consequences for how a parcel of land can be used, even after DOE transfers or leases it to another federal agenc
 
 ## courtlistener
+- **In re Commonwealth**
+  - when: 2026-11-02T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11051800/in-re-commonwealth/
+  - E-FILED CNMI SUPREME COURT E-filed: Nov 02 2026 03:11PM Clerk Review: Nov 02 2026 03:11PM Filing ID: 81225426 Case No.: 2025-SCC-0001-CRM Original document
 - **Brown v. Trump**
   - when: 2026-10-31T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11051755/brown-v-trump/
@@ -207,10 +211,6 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-10-30T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/11050181/redbox-dumpsters-freeman-v-state-of-florida/
   - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT REDBOX DUMPSTERS c/o DAVID FREEMAN, Appellant, v. STATE OF FLORIDA, Appellee. No. 2D2025-1681 October 30, 2026 Appeal from the County Court for Pasco County; Anne Wansboro, Judge. Anthony F. Sabatini Original document
-- **In re Estate of Noerr**
-  - when: 2026-10-30T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/11050806/in-re-estate-of-noerr/
-  - [Cite as In re Estate of Noerr, 2026-Ohio-4307.] IN THE COURT OF APPEALS OF OHIO SECOND APPELLATE DISTRICT MONTGOMERY COUNTY IN THE MATTER OF THE ESTATE OF : GUY H. NOERR, DECEASED : C.A. Nos. 30826, 30858 : : Trial Court Original document
 
 ## uk-legislation
 - **The Pneumoconiosis etc. (Workers’ Compensation) (Payment of Claims) (Amendment) (No. 2) Regulations 2026**
