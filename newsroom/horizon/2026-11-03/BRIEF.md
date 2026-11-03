@@ -1,0 +1,259 @@
+# Horizon brief — 2026-11-03
+
+Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
+
+## sec-edgar
+- **4 - Aspen Neuroscience, Inc. (0002124080) (Issuer)**
+  - when: 2026-11-02T21:50:27-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/2124080/000119312526444147/0001193125-26-444147-index.htm
+  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
+- **4 - ARCH Venture Partners X, L.P. (0001782583) (Reporting)**
+  - when: 2026-11-02T21:50:27-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1782583/000119312526444147/0001193125-26-444147-index.htm
+  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
+- **4 - ARCH Venture Partners X, LLC (0001769012) (Reporting)**
+  - when: 2026-11-02T21:50:27-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1769012/000119312526444147/0001193125-26-444147-index.htm
+  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
+- **4 - ARCH Venture Partners X Overage, L.P. (0001768905) (Reporting)**
+  - when: 2026-11-02T21:50:27-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1768905/000119312526444147/0001193125-26-444147-index.htm
+  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
+- **4 - ARCH Venture Fund X Overage, L.P. (0001757017) (Reporting)**
+  - when: 2026-11-02T21:50:27-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1757017/000119312526444147/0001193125-26-444147-index.htm
+  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
+- **4 - ARCH Venture Fund X, L.P. (0001757011) (Reporting)**
+  - when: 2026-11-02T21:50:27-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1757011/000119312526444147/0001193125-26-444147-index.htm
+  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
+- **4 - Burow Kristina (0001569248) (Reporting)**
+  - when: 2026-11-02T21:50:27-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1569248/000119312526444147/0001193125-26-444147-index.htm
+  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
+- **4 - GILLIS STEVEN (0001229592) (Reporting)**
+  - when: 2026-11-02T21:50:27-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1229592/000119312526444147/0001193125-26-444147-index.htm
+  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
+- **4 - NELSEN ROBERT (0001219042) (Reporting)**
+  - when: 2026-11-02T21:50:27-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1219042/000119312526444147/0001193125-26-444147-index.htm
+  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
+- **4 - CRANDELL KEITH (0001219039) (Reporting)**
+  - when: 2026-11-02T21:50:27-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1219039/000119312526444147/0001193125-26-444147-index.htm
+  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
+- **4 - ARCH Venture Partners XIV, LLC (0002148927) (Reporting)**
+  - when: 2026-11-02T21:46:27-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/2148927/000119312526444141/0001193125-26-444141-index.htm
+  - Filed: 2026-11-02 AccNo: 0001193125-26-444141 Size: 11 KB
+- **4 - ARCH Venture Partners XIV, L.P. (0002147717) (Reporting)**
+  - when: 2026-11-02T21:46:27-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/2147717/000119312526444141/0001193125-26-444141-index.htm
+  - Filed: 2026-11-02 AccNo: 0001193125-26-444141 Size: 11 KB
+
+## federal-register
+- **Potential Designation of Passage of an Accredited Investor Exam To Be Developed by FINRA as Qualifying Natural Persons for Accredited Investor Status**
+  - when: 2026-11-03
+  - url: https://www.federalregister.gov/documents/2026/11/03/C1-2026-20310/potential-designation-of-passage-of-an-accredited-investor-exam-to-be-developed-by-finra-as
+  - Securities and Exchange Commission — Notice
+- **Streamlining Contested Adjudications in Licensing Proceedings**
+  - when: 2026-11-03
+  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings
+  - Nuclear Regulatory Commission — Rule — The U.S. Nuclear Regulatory Commission (NRC, agency, or Commission) is revising the agency's rules of practice and procedure to streamline contested adjudications in NRC licensing proceedings in response to the Accelerating Deployment of Versatile, Advanced Nuclear for Clean Energy Act of 2024 (ADVANCE Act) and Executive Order 14300, Ordering the Reform of the Nuclear Regulatory Commission.
+- **Sunshine Act Meetings**
+  - when: 2026-11-03
+  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22441/sunshine-act-meetings
+  - Nuclear Regulatory Commission — Notice
+- **Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Consolidated Annual Report (CAR) for the Carl D. Perkins Career and Technical Education Act of 2006**
+  - when: 2026-11-03
+  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22437/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for
+  - Education Department — Notice — In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a revision of a currently approved information collection request (ICR).
+- **Privacy Act of 1974; System of Records**
+  - when: 2026-11-03
+  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22436/privacy-act-of-1974-system-of-records
+  - Transportation Department, — Notice — In accordance with the Privacy Act of 1974, the United States Department of Transportation (DOT) proposes a new system of records titled, "Department of Transportation, Federal Aviation Administration DOT/FAA 860, Unmanned Aircraft System Beyond Visual Line of Sight Operations--Parts 108/146." This system of records allows the FAA to collect, use, and maintain information from operators, manufacturers and Automated Data Service Providers (ADSPs), to the ext
+- **Phosphate Fertilizers From the Kingdom of Morocco: Final Results of First Full Sunset Review of the Countervailing Duty Order**
+  - when: 2026-11-03
+  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22435/phosphate-fertilizers-from-the-kingdom-of-morocco-final-results-of-first-full-sunset-review-of-the
+  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on phosphate fertilizers (fertilizers) from the Kingdom of Morocco (Morocco) would likely to lead to the continuation or recurrence of a countervailable subsidy at the levels indicated in the "Final Results of Sunset Review" section of this notice.
+- **Foreign-Trade Zone 168; Application for Subzone; Samsung Electro-Mechanics America, Inc.; Wilmer, Texas**
+  - when: 2026-11-03
+  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22434/foreign-trade-zone-168-application-for-subzone-samsung-electro-mechanics-america-inc-wilmer-texas
+  - Commerce Department, Foreign-Trade Zones Board — Notice
+- **Foreign-Trade Zone 266; Approval of Subzone Status; Tekni-Plex Flexibles LLC (dba TekniPlex Healthcare); Madison, Wisconsin**
+  - when: 2026-11-03
+  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22432/foreign-trade-zone-266-approval-of-subzone-status-tekni-plex-flexibles-llc-dba-tekniplex-healthcare
+  - Commerce Department, Foreign-Trade Zones Board — Notice
+- **Certain Softwood Lumber Products From Canada: Notice of NAFTA Panel Decision**
+  - when: 2026-11-03
+  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22431/certain-softwood-lumber-products-from-canada-notice-of-nafta-panel-decision
+  - Commerce Department, International Trade Administration — Notice — On October 19, 2026, the North American Free Trade Agreement (NAFTA) Secretariat issued a Notice of Final Panel Action. The U.S. Department of Commerce (Commerce) is notifying the public that the NAFTA Binational Panel's final judgment is not in harmony with Commerce's final determination in the countervailing duty (CVD) investigation of certain softwood lumber products (lumber) from Canada, and that Commerce is amending the fina
+- **Foreign-Trade Zone (FTZ) 93; Authorization of Limited Production Activity; Alder SOL Holdings LLC dba StayOnline; (Power Cords); Henderson, North Carolina**
+  - when: 2026-11-03
+  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22430/foreign-trade-zone-ftz-93-authorization-of-limited-production-activity-alder-sol-holdings-llc-dba
+  - Commerce Department, Foreign-Trade Zones Board — Notice
+- **Foreign-Trade Zone (FTZ) 22; Authorization of Production AFC Specialty Coatings Group, LLC; (Polymer or Silicone Coated Fabrics); Lake in the Hills, Illinois**
+  - when: 2026-11-03
+  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22429/foreign-trade-zone-ftz-22-authorization-of-production-afc-specialty-coatings-group-llc-polymer-or
+  - Commerce Department, Foreign-Trade Zones Board — Notice
+- **Meeting of National Council on the Humanities**
+  - when: 2026-11-03
+  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22428/meeting-of-national-council-on-the-humanities
+  - National Foundation on the Arts and the Humanities, National Endowment for the Humanities — Notice — Pursuant to the Federal Advisory Committee Act, notice is hereby given that the National Council on the Humanities will meet to advise the Chairman of the National Endowment for the Humanities (NEH) with respect to policies, programs and procedures for carrying out his functions; to review applications for financial assistance under the National Foundation on the Arts and Humanities Act of 1965 a
+
+## gao
+- **October 28, 2026 letter commenting on the International Auditing and Assurance Standards Board's July 2026 Exposure Draft: "Proposed International Standard on Auditing for Audits of Financial Statements of Less Complex Entities (Revised)"**
+  - when: Thu, 29 Oct 2026 13:05:10 -0400
+  - url: https://www.gao.gov/products/e16078
+  - This letter provides GAO's comments on the International Auditing and Assurance Standards Board's (IAASB) Proposed International Standard on Auditing for Audits of Financial Statements of Less Complex Entities (Revised) (ISA for LCE). GAO promulgates generally accepted government auditing standards, which provide professional standards for auditors of government entities in the United States.
+- **Professional Standards Update No. 102**
+  - when: Mon, 26 Oct 2026 12:11:08 -0400
+  - url: https://www.gao.gov/products/e16067
+  - To alert the audit community to changes in professional standards, we periodically issue Professional Standards Updates (PSU). These updates highlight the effective dates of recently issued standards and guidance related to engagements conducted in accordance with Government Auditing Standards. PSUs contain summary information only, and those affected by a change should refer to the respective standard or guidance for details.
+- **State Department: Standards for Overseas Housing Need Review [Reissued with revisions on Oct. 21, 2026]**
+  - when: Mon, 10 Aug 2026 07:28:52 -0400
+  - url: https://www.gao.gov/products/gao-26-107965
+  - pdf: https://www.gao.gov/assets/gao-26-107965.pdf
+  - What GAO Found The Department of State last updated its standards for overseas housing space in 1991, according to State officials. Those standards may no longer align with State’s goal of providing Foreign Service personnel living abroad with housing comparable to the Washington, D.C., metropolitan area. In the last 35 years, median housing costs in the Washington, D.C., area have increased at a faster rate than Foreign Service personnel salaries. In addition, State’s method for measuring over
+- **Textile Circular Economy: Policy Options for the U.S.**
+  - when: Fri, 16 Oct 2026 09:35:25 -0400
+  - url: https://www.gao.gov/products/gao-27-108142
+  - pdf: https://www.gao.gov/assets/gao-27-108142.pdf
+  - What GAO Found Developing a textile circular economy includes repairing, reusing, and recycling textiles and making them last longer. Example of a Circular Economy for Textiles In the U.S., a textile circular economy may create potential benefits and involve challenges, according to reports by federal agencies and organizations and stakeholder interviews. Potential benefits could include creating new jobs and markets related to textile repair and recycling, reducing environmental harm, and
+- **Critical Minerals: Limited Available Information on the Full Extent of Foreign Investment in Mining on Federal Lands**
+  - when: Fri, 16 Oct 2026 07:40:00 -0400
+  - url: https://www.gao.gov/products/gao-27-108094
+  - pdf: https://www.gao.gov/assets/gao-27-108094.pdf
+  - What GAO Found The U.S critical mineral supply chain faces numerous constraints, including the need for substantial capital investment and limited domestic processing capacity. The U.S. exports large quantities of domestically extracted ore to Canada, Mexico, and China, among other countries. Copper Mine on Federal Lands The Bureau of Land Management (BLM) and the Forest Service oversee hardrock mines on federal land. As of February 2026, there were 632 approved hardrock mining plans of ope
+- **Tax Filing: IRS Should Enhance Ghost Preparer Identification and Compliance Efforts in a Comprehensive Preparer Strategy**
+  - when: Fri, 16 Oct 2026 07:28:51 -0400
+  - url: https://www.gao.gov/products/gao-27-108176
+  - pdf: https://www.gao.gov/assets/gao-27-108176.pdf
+  - What GAO Found Ghost preparers are paid tax preparers who do not comply with requirements to identify themselves on tax returns they prepare for others. Ghost preparers may intentionally leave identifying information off to get away with filing fraudulent income tax returns, stealing taxpayers’ refunds, and stealing taxpayers’ identities. Courts have ordered individual ghost preparers to pay millions in restitution to the government, but according to Internal Revenue Service (IRS) officials, th
+- **Research Security: NIH Action Needed to Strengthen Foreign Interference Risk Management**
+  - when: Fri, 16 Oct 2026 08:13:12 -0400
+  - url: https://www.gao.gov/products/gao-27-107848
+  - pdf: https://www.gao.gov/assets/gao-27-107848.pdf
+  - What GAO Found The National Institutes of Health (NIH) funds extramural research through awards to universities and other institutions. Implementation of federal research security requirements helps safeguard this research from foreign interference, including misappropriation and unauthorized access by foreign countries and entities. NIH implemented 14 of the 15 federal research security requirements GAO reviewed that address: (1) disclosure, (2) malign foreign talent recruitment programs, (3)
+- **Federal Real Property: New Occupancy Data Help Agencies Shed Unneeded Office Space But Gaps Limit the Full Picture**
+  - when: Fri, 16 Oct 2026 07:18:45 -0400
+  - url: https://www.gao.gov/products/gao-27-108503
+  - pdf: https://www.gao.gov/assets/gao-27-108503.pdf
+  - What GAO Found Under the Utilizing Space Efficiently and Improving Technologies (USE IT) Act, enacted in January 2025, federal agencies are now required to collect and report occupancy data. This data is used to calculate utilization rates for agencies’ office space in federally owned buildings and leased locations. While 20 of the 23 agencies that responded to GAO’s survey reported using existing badging systems for this purpose, 16 of these 20 agencies reported supplementing that information
+- **Private Health Insurance: Market Concentration in 2024 Was Generally Higher Than in 2011**
+  - when: Fri, 16 Oct 2026 10:25:08 -0400
+  - url: https://www.gao.gov/products/gao-27-108927
+  - pdf: https://www.gao.gov/assets/gao-27-108927.pdf
+  - What GAO Found Since 2014, GAO has reported that enrollment in private health insurance plans has been concentrated, meaning a small number of issuers, such as health insurers, enrolled most of the people in a given market. Specifically, GAO considers a market concentrated in a state if three or fewer issuers hold at least 80 percent of the market share of enrollment. For this report, GAO examined the individual (coverage primarily sold to individuals who lack access to group coverage), small-
+- **National Security: FBI Should Strengthen Partnerships to Combat Non-Traditional Intelligence Collectors**
+  - when: Fri, 16 Oct 2026 07:28:08 -0400
+  - url: https://www.gao.gov/products/gao-27-109057
+  - pdf: https://www.gao.gov/assets/gao-27-109057.pdf
+  - What GAO Found According to the Federal Bureau of Investigation (FBI), non-traditional intelligence collectors (NTCs) are individuals whose primary profession is not intelligence collection, but who actively or passively collect sensitive U.S. information on behalf of foreign entities. For example, researchers and students at universities may act as NTCs if they collect non-public research on behalf of a foreign entity. According to the FBI, unlike intelligence officers, NTCs function independe
+- **Nuclear Waste: Addressing Legal and Regulatory Barriers Could Accelerate Cleanup and Reduce Costs**
+  - when: Fri, 16 Oct 2026 08:05:50 -0400
+  - url: https://www.gao.gov/products/gao-27-107791
+  - pdf: https://www.gao.gov/assets/gao-27-107791.pdf
+  - What GAO Found The Department of Energy’s (DOE) nuclear waste cleanup is proceeding largely under three laws that set cleanup and waste management requirements. Each law has different requirements, applications, and regulators. Selected Cleanup and Waste Management Laws and Regulators for the Department of Energy’s (DOE) Nuclear Waste Cleanup GAO and experts GAO convened with the National Academies of Sciences, Engineering, and Medicine identified several legal and regulatory factors that a
+- **Nuclear Waste: Future Land Use Planning at Selected DOE Cleanup Sites**
+  - when: Fri, 16 Oct 2026 09:42:29 -0400
+  - url: https://www.gao.gov/products/gao-27-108063
+  - pdf: https://www.gao.gov/assets/gao-27-108063.pdf
+  - What GAO Found The Department of Energy (DOE) created initial future land use plans in coordination with local communities as early as 1992 at six cleanup sites GAO selected for review. These plans inform but do not bind assumptions about future land use that DOE and regulators make when selecting a cleanup remedy at a site. The remedy selected during the cleanup process has lasting consequences for how a parcel of land can be used, even after DOE transfers or leases it to another federal agenc
+
+## courtlistener
+- **Rodriguez-Luna v. Commissioner Of Correction**
+  - when: 2026-11-03T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11051889/rodriguez-luna-v-commissioner-of-correction/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **State v. Samuel F.**
+  - when: 2026-11-03T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11051887/state-v-samuel-f/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **Morton v. O'Donnell**
+  - when: 2026-11-03T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11051890/morton-v-odonnell/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **State v. Brown**
+  - when: 2026-11-03T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11051888/state-v-brown/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **Garofalo v. Commissioner of Correction**
+  - when: 2026-11-03T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11051891/garofalo-v-commissioner-of-correction/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **State v. Wright**
+  - when: 2026-11-02T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11052020/state-v-wright/
+  - [Cite as State v. Wright, 2026-Ohio-4331.] IN THE COURT OF APPEALS OF OHIO ELEVENTH APPELLATE DISTRICT ASHTABULA COUNTY STATE OF OHIO, CASE NO. 2026-A-0004 Plaintiff-Appellee, Criminal Appeal from the - vs - Court of Common Pleas KYLE VAUGHN WRIGHT, Original document
+- **State v. Blankenship**
+  - when: 2026-11-02T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11052038/state-v-blankenship/
+  - [Cite as State v. Blankenship, 2026-Ohio-4329.] IN THE COURT OF APPEALS OF OHIO ELEVENTH APPELLATE DISTRICT PORTAGE COUNTY STATE OF OHIO, CASE NO. 2025-P-0033 Plaintiff-Appellee, Criminal Appeal from the - vs - Court of Common Pleas NICHOLAS L. BLANKENSHIP, Original document
+- **ROGER SAXON v. AMGUARD INSURANCE COMPANY**
+  - when: 2026-11-02T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11051941/roger-saxon-v-amguard-insurance-company/
+  - FOURTH DIVISION MCFADDEN, P. J., WATKINS and PADGETT, JJ. NOTICE: Motions for reconsideration must be received no later than 4:30 pm on the 10th day after the decision was issued to be deemed timely filed. https://www.gaappeals.gov/rules November 2, 2026 In the Court Original document
+- **Danitto Simpson v. State of Florida**
+  - when: 2026-11-02T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11051938/danitto-simpson-v-state-of-florida/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-2310 LT Case No. 2023-304309-CFDB _____________________________ DANITTO SIMPSON, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Volusia County. Karen A. Foxman, Judge. Keith Peterson, of Law Offices of Peterson Original document
+- **State of Idaho v. Zachariah John Roger Wood**
+  - when: 2026-11-02T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11051943/state-of-idaho-v-zachariah-john-roger-wood/
+  - IN THE COURT OF APPEALS OF THE STATE OF IDAHO Docket No. 51971 STATE OF IDAHO, ) ) Filed: November 2, 2026 Plaintiff-Respondent, ) ) Melanie Gagnepain, Clerk v. ) ) ZACHARIAH JOHN ROGER WOOD, Original document
+- **Laubach, C. v. Laubach, H.**
+  - when: 2026-11-02T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11051975/laubach-c-v-laubach-h/
+  - J-S20012-26 2026 PA Super 246 CURTIS LAUBACH AND GENEVIEVE : IN THE SUPERIOR COURT OF LAUBACH : PENNSYLVANIA : : v. : : : HOLLY LAUBACH : Original document
+- **Service Employees International Union v. DOJ - United States Department of Justice**
+  - when: 2026-11-02T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11052238/service-employees-international-union-v-doj-united-states-department-of/
+  - FOR PUBLICATION FILED UNITED STATES COURT OF APPEALS NOV 2 2026 MOLLY C. DWYER, CLERK U.S. COURT OF APPEALS FOR THE NINTH CIRCUIT SERVICE EMPLOYEES No. 26-7303 INTERNATIONAL UNION, AFL-CIO; Original document
+
+## uk-legislation
+- **Sovereign Grant Act 2026**
+  - when: 2026-11-02T18:48:18+01:00
+  - url: http://www.legislation.gov.uk/id/ukpga/2026/28
+- **The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) (No. 2) Regulations 2026**
+  - when: 2026-11-02T12:48:26+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1148
+  - Under the Child Maintenance and Other Payments Act 2008 (c. 6) (“the 2008 Act”), lump sum payments may be made to certain persons with diffuse mesothelioma or their dependants. The Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations 2008 (S.I. 2008/1963) (“the 2008 Regulations”) set out the conditions to be met for a lump sum payment to be made, along with the rates of payment.
+- **The Pneumoconiosis etc. (Workers’ Compensation) (Payment of Claims) (Amendment) (No. 2) Regulations 2026**
+  - when: 2026-11-02T09:46:50+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1146
+  - Under the Pneumoconiosis etc. (Workers’ Compensation) Act 1979 (c. 41) (“the 1979 Act”), lump sum payments may be made to certain persons disabled by a disease to which the Act applies, or to dependants of persons who were so disabled before they died. The Pneumoconiosis etc. (Workers’ Compensation) (Payment of Claims) Regulations 1988 (S.I. 1988/668) (“the 1988 Regulations”) prescribe the amount of payments to be made under the 1979 Act, according to the person’s age and level of disablement.
+- **The Energy Performance of Buildings (Scotland) Amendment Regulations 2026**
+  - when: 2026-10-30T16:50:59+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/322
+  - These Regulations amend the Energy Performance of Buildings (Scotland) Regulations 2008 and the Energy Performance of Buildings (Scotland) Regulations 2025.
+- **The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026**
+  - when: 2026-10-30T15:14:34+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1143
+  - These Regulations amend, subject to the transitional provisions in regulation 1, the Transport and Works (Inquiries Procedure) Rules 2004 (S.I. 2004/2018) (“the 2004 Rules”), the Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006 (S.I. 2006/1466) (“the 2006 Rules”) and the Transport and Works Applications (Listed Buildings, Conservation Areas and Ancient Monuments Procedure) Regulations 1992 (“the 1992 Regulations”).
+- **The Transport Infrastructure (Fees) Regulations 2026**
+  - when: 2026-10-30T14:13:41+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1137
+  - These Regulations make provision for prescribed public authorities to charge fees for services provided in connection with certain transport infrastructure projects. They are made under powers inserted into the Highways Act 1980 (c. 66) (“the 1980 Act”) and the Transport and Works Act 1992 (c. 42) (“the 1992 Act”) by the Planning and Infrastructure Act 2025 (c. 34).
+- **The Mobile Homes (Written Statement) (Scotland) Regulations 2026**
+  - when: 2026-10-30T10:46:08+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/320
+  - The Mobile Homes Act 1983 (“the 1983 Act”) applies to all agreements under which persons are entitled to station a mobile home on a protected site and occupy it as their only or main residence. Section 1(2) of the 1983 Act provides that before such an agreement is entered into, the site owner must give to the proposed occupier of the mobile home a written statement. These regulations set out the form that such a written statement must be in, where that statement is given on or after 9 December 2
+- **The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Amendment Regulations 2026**
+  - when: 2026-10-30T11:11:29+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/321
+  - These Regulations amend the First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (“the 2025 Regulations”).
+- **The Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (Commencement No. 3) Regulations 2026**
+  - when: 2026-10-30T09:39:31+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/319
+  - These Regulations commence section 18(3) and (4) of the Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019. Section 18(3) and 18(4) makes consequential amendments to section 89 and 95 of the Housing (Scotland) Act 2001 to amend the definition of fuel poverty.
+- **The A83 Trunk Road (Lochgilphead) (Temporary Prohibition on Use of Road) (No. 2) Order 2026**
+  - when: 2026-10-30T04:09:06+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/316
+- **The A84 Trunk Road (Callander) (Temporary Prohibition on Use of Road) Order 2026**
+  - when: 2026-10-30T04:08:59+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/314
+- **The A83 Trunk Road (Lochgilphead) (Temporary Prohibition on Use of Road) Order 2026**
+  - when: 2026-10-30T04:08:49+01:00
+  - url: http://www.legislation.gov.uk/id/ssi/2026/313
