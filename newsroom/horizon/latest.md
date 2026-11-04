@@ -1,106 +1,106 @@
-# Horizon brief — 2026-11-03
+# Horizon brief — 2026-11-04
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
 ## sec-edgar
-- **4 - Aspen Neuroscience, Inc. (0002124080) (Issuer)**
-  - when: 2026-11-02T21:50:27-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/2124080/000119312526444147/0001193125-26-444147-index.htm
-  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
-- **4 - ARCH Venture Partners X, L.P. (0001782583) (Reporting)**
-  - when: 2026-11-02T21:50:27-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1782583/000119312526444147/0001193125-26-444147-index.htm
-  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
-- **4 - ARCH Venture Partners X, LLC (0001769012) (Reporting)**
-  - when: 2026-11-02T21:50:27-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1769012/000119312526444147/0001193125-26-444147-index.htm
-  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
-- **4 - ARCH Venture Partners X Overage, L.P. (0001768905) (Reporting)**
-  - when: 2026-11-02T21:50:27-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1768905/000119312526444147/0001193125-26-444147-index.htm
-  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
-- **4 - ARCH Venture Fund X Overage, L.P. (0001757017) (Reporting)**
-  - when: 2026-11-02T21:50:27-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1757017/000119312526444147/0001193125-26-444147-index.htm
-  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
-- **4 - ARCH Venture Fund X, L.P. (0001757011) (Reporting)**
-  - when: 2026-11-02T21:50:27-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1757011/000119312526444147/0001193125-26-444147-index.htm
-  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
-- **4 - Burow Kristina (0001569248) (Reporting)**
-  - when: 2026-11-02T21:50:27-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1569248/000119312526444147/0001193125-26-444147-index.htm
-  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
-- **4 - GILLIS STEVEN (0001229592) (Reporting)**
-  - when: 2026-11-02T21:50:27-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1229592/000119312526444147/0001193125-26-444147-index.htm
-  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
-- **4 - NELSEN ROBERT (0001219042) (Reporting)**
-  - when: 2026-11-02T21:50:27-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1219042/000119312526444147/0001193125-26-444147-index.htm
-  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
-- **4 - CRANDELL KEITH (0001219039) (Reporting)**
-  - when: 2026-11-02T21:50:27-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1219039/000119312526444147/0001193125-26-444147-index.htm
-  - Filed: 2026-11-02 AccNo: 0001193125-26-444147 Size: 55 KB
-- **4 - ARCH Venture Partners XIV, LLC (0002148927) (Reporting)**
-  - when: 2026-11-02T21:46:27-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/2148927/000119312526444141/0001193125-26-444141-index.htm
-  - Filed: 2026-11-02 AccNo: 0001193125-26-444141 Size: 11 KB
-- **4 - ARCH Venture Partners XIV, L.P. (0002147717) (Reporting)**
-  - when: 2026-11-02T21:46:27-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/2147717/000119312526444141/0001193125-26-444141-index.htm
-  - Filed: 2026-11-02 AccNo: 0001193125-26-444141 Size: 11 KB
+- **SCHEDULE 13D/A - CVR ENERGY INC (0001376139) (Subject)**
+  - when: 2026-11-03T21:57:23-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1376139/000119312526445965/0001193125-26-445965-index.htm
+  - Filed: 2026-11-03 AccNo: 0001193125-26-445965 Size: 21 KB
+- **SCHEDULE 13D/A - ICAHN CARL C (0000921669) (Filed by)**
+  - when: 2026-11-03T21:57:23-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/921669/000119312526445965/0001193125-26-445965-index.htm
+  - Filed: 2026-11-03 AccNo: 0001193125-26-445965 Size: 21 KB
+- **4 - TRENKLE BRADLEY C (0002028555) (Reporting)**
+  - when: 2026-11-03T21:55:03-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/2028555/000119312526445964/0001193125-26-445964-index.htm
+  - Filed: 2026-11-03 AccNo: 0001193125-26-445964 Size: 4 KB
+- **4 - GARMIN LTD (0001121788) (Issuer)**
+  - when: 2026-11-03T21:55:03-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1121788/000119312526445964/0001193125-26-445964-index.htm
+  - Filed: 2026-11-03 AccNo: 0001193125-26-445964 Size: 4 KB
+- **4 - WEISNER AIMEE S (0001227308) (Reporting)**
+  - when: 2026-11-03T21:53:10-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1227308/000119312526445961/0001193125-26-445961-index.htm
+  - Filed: 2026-11-03 AccNo: 0001193125-26-445961 Size: 6 KB
+- **4 - GLAUKOS Corp (0001192448) (Issuer)**
+  - when: 2026-11-03T21:53:10-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1192448/000119312526445961/0001193125-26-445961-index.htm
+  - Filed: 2026-11-03 AccNo: 0001193125-26-445961 Size: 6 KB
+- **4 - Navratil Tomas (0001920053) (Reporting)**
+  - when: 2026-11-03T21:45:15-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1920053/000119312526445949/0001193125-26-445949-index.htm
+  - Filed: 2026-11-03 AccNo: 0001193125-26-445949 Size: 18 KB
+- **4 - GLAUKOS Corp (0001192448) (Issuer)**
+  - when: 2026-11-03T21:45:15-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1192448/000119312526445949/0001193125-26-445949-index.htm
+  - Filed: 2026-11-03 AccNo: 0001193125-26-445949 Size: 18 KB
+- **4 - Chung Chih-Hsiao (0002116851) (Reporting)**
+  - when: 2026-11-03T21:32:02-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/2116851/000095010326016896/0000950103-26-016896-index.htm
+  - Filed: 2026-11-03 AccNo: 0000950103-26-016896 Size: 8 KB
+- **4 - ASE Technology Holding Co., Ltd. (0001122411) (Issuer)**
+  - when: 2026-11-03T21:32:02-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1122411/000095010326016896/0000950103-26-016896-index.htm
+  - Filed: 2026-11-03 AccNo: 0000950103-26-016896 Size: 8 KB
+- **4 - Repass Wolfe (0002057456) (Reporting)**
+  - when: 2026-11-03T21:30:08-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/2057456/000119312526445931/0001193125-26-445931-index.htm
+  - Filed: 2026-11-03 AccNo: 0001193125-26-445931 Size: 17 KB
+- **4 - Fold Holdings, Inc. (0001889123) (Issuer)**
+  - when: 2026-11-03T21:30:08-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1889123/000119312526445931/0001193125-26-445931-index.htm
+  - Filed: 2026-11-03 AccNo: 0001193125-26-445931 Size: 17 KB
 
 ## federal-register
-- **Potential Designation of Passage of an Accredited Investor Exam To Be Developed by FINRA as Qualifying Natural Persons for Accredited Investor Status**
-  - when: 2026-11-03
-  - url: https://www.federalregister.gov/documents/2026/11/03/C1-2026-20310/potential-designation-of-passage-of-an-accredited-investor-exam-to-be-developed-by-finra-as
-  - Securities and Exchange Commission — Notice
-- **Streamlining Contested Adjudications in Licensing Proceedings**
-  - when: 2026-11-03
-  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings
-  - Nuclear Regulatory Commission — Rule — The U.S. Nuclear Regulatory Commission (NRC, agency, or Commission) is revising the agency's rules of practice and procedure to streamline contested adjudications in NRC licensing proceedings in response to the Accelerating Deployment of Versatile, Advanced Nuclear for Clean Energy Act of 2024 (ADVANCE Act) and Executive Order 14300, Ordering the Reform of the Nuclear Regulatory Commission.
-- **Sunshine Act Meetings**
-  - when: 2026-11-03
-  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22441/sunshine-act-meetings
-  - Nuclear Regulatory Commission — Notice
-- **Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Consolidated Annual Report (CAR) for the Carl D. Perkins Career and Technical Education Act of 2006**
-  - when: 2026-11-03
-  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22437/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for
-  - Education Department — Notice — In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a revision of a currently approved information collection request (ICR).
-- **Privacy Act of 1974; System of Records**
-  - when: 2026-11-03
-  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22436/privacy-act-of-1974-system-of-records
-  - Transportation Department, — Notice — In accordance with the Privacy Act of 1974, the United States Department of Transportation (DOT) proposes a new system of records titled, "Department of Transportation, Federal Aviation Administration DOT/FAA 860, Unmanned Aircraft System Beyond Visual Line of Sight Operations--Parts 108/146." This system of records allows the FAA to collect, use, and maintain information from operators, manufacturers and Automated Data Service Providers (ADSPs), to the ext
-- **Phosphate Fertilizers From the Kingdom of Morocco: Final Results of First Full Sunset Review of the Countervailing Duty Order**
-  - when: 2026-11-03
-  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22435/phosphate-fertilizers-from-the-kingdom-of-morocco-final-results-of-first-full-sunset-review-of-the
-  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on phosphate fertilizers (fertilizers) from the Kingdom of Morocco (Morocco) would likely to lead to the continuation or recurrence of a countervailable subsidy at the levels indicated in the "Final Results of Sunset Review" section of this notice.
-- **Foreign-Trade Zone 168; Application for Subzone; Samsung Electro-Mechanics America, Inc.; Wilmer, Texas**
-  - when: 2026-11-03
-  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22434/foreign-trade-zone-168-application-for-subzone-samsung-electro-mechanics-america-inc-wilmer-texas
-  - Commerce Department, Foreign-Trade Zones Board — Notice
-- **Foreign-Trade Zone 266; Approval of Subzone Status; Tekni-Plex Flexibles LLC (dba TekniPlex Healthcare); Madison, Wisconsin**
-  - when: 2026-11-03
-  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22432/foreign-trade-zone-266-approval-of-subzone-status-tekni-plex-flexibles-llc-dba-tekniplex-healthcare
-  - Commerce Department, Foreign-Trade Zones Board — Notice
-- **Certain Softwood Lumber Products From Canada: Notice of NAFTA Panel Decision**
-  - when: 2026-11-03
-  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22431/certain-softwood-lumber-products-from-canada-notice-of-nafta-panel-decision
-  - Commerce Department, International Trade Administration — Notice — On October 19, 2026, the North American Free Trade Agreement (NAFTA) Secretariat issued a Notice of Final Panel Action. The U.S. Department of Commerce (Commerce) is notifying the public that the NAFTA Binational Panel's final judgment is not in harmony with Commerce's final determination in the countervailing duty (CVD) investigation of certain softwood lumber products (lumber) from Canada, and that Commerce is amending the fina
-- **Foreign-Trade Zone (FTZ) 93; Authorization of Limited Production Activity; Alder SOL Holdings LLC dba StayOnline; (Power Cords); Henderson, North Carolina**
-  - when: 2026-11-03
-  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22430/foreign-trade-zone-ftz-93-authorization-of-limited-production-activity-alder-sol-holdings-llc-dba
-  - Commerce Department, Foreign-Trade Zones Board — Notice
-- **Foreign-Trade Zone (FTZ) 22; Authorization of Production AFC Specialty Coatings Group, LLC; (Polymer or Silicone Coated Fabrics); Lake in the Hills, Illinois**
-  - when: 2026-11-03
-  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22429/foreign-trade-zone-ftz-22-authorization-of-production-afc-specialty-coatings-group-llc-polymer-or
-  - Commerce Department, Foreign-Trade Zones Board — Notice
-- **Meeting of National Council on the Humanities**
-  - when: 2026-11-03
-  - url: https://www.federalregister.gov/documents/2026/11/03/2026-22428/meeting-of-national-council-on-the-humanities
-  - National Foundation on the Arts and the Humanities, National Endowment for the Humanities — Notice — Pursuant to the Federal Advisory Committee Act, notice is hereby given that the National Council on the Humanities will meet to advise the Chairman of the National Endowment for the Humanities (NEH) with respect to policies, programs and procedures for carrying out his functions; to review applications for financial assistance under the National Foundation on the Arts and Humanities Act of 1965 a
+- **Treatment of Emergency Amendments: Paycheck Protection Program Liquidity Facility and Paycheck Protection Program Loans**
+  - when: 2026-11-04
+  - url: https://www.federalregister.gov/documents/2026/11/04/2026-22538/treatment-of-emergency-amendments-paycheck-protection-program-liquidity-facility-and-paycheck
+  - National Credit Union Administration — Rule — The NCUA Board (Board) is issuing a final rule adopting as final the revisions to the capital adequacy rule and the member business lending rule made under an interim final rule (IFR) published in the Federal Register on April 27, 2020.
+- **Member Business Loans; Commercial Lending**
+  - when: 2026-11-04
+  - url: https://www.federalregister.gov/documents/2026/11/04/2026-22537/member-business-loans-commercial-lending
+  - National Credit Union Administration — Rule — The NCUA Board (Board) is amending its regulations governing member business loans and commercial lending. This interim final rule eliminates an outdated, transitional provision that is no longer necessary. This action is necessary to reduce regulatory complexity and improve the clarity of the NCUA's regulations. The intended effect is to enhance clarity and simplify compliance for federally insured credit unions (FICUs).
+- **Statutory Lien**
+  - when: 2026-11-04
+  - url: https://www.federalregister.gov/documents/2026/11/04/2026-22536/statutory-lien
+  - National Credit Union Administration — Rule — On February 25, 2026, NCUA (or `agency') published a proposed rule to solicit comments on the removal of a provision of NCUA regulations regarding federal credit unions' (FCUs) statutory lien authority. Upon further consideration, and based on the comments received, the Board is issuing this final rule, as proposed, to remove the term, "except as otherwise provided by law or except as otherwise provided by federal law." This language does not provide
+- **Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection**
+  - when: 2026-11-04
+  - url: https://www.federalregister.gov/documents/2026/11/04/2026-22535/agency-information-collection-activities-proposed-ecollection-ecomments-requested-safer-skies-state
+  - Justice Department — Notice — The Federal Bureau of Investigation, Department of Justice (DOJ), will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995. The proposed information collection was previously published in the Federal Register on September 1, 2026, 91 FR 56212, allowing a 60-day comment period.
+- **Certain Oil Country Tubular Goods From the United Arab Emirates: Preliminary Affirmative Determination of Sales at Less Than Fair Value**
+  - when: 2026-11-04
+  - url: https://www.federalregister.gov/documents/2026/11/04/2026-22534/certain-oil-country-tubular-goods-from-the-united-arab-emirates-preliminary-affirmative
+  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) preliminarily determines that certain oil country tubular goods (OCTG) from the United Arab Emirates (UAE) are being, or are likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is April 1, 2025, through March 31, 2026. Interested parties are invited to comment on this preliminary determination.
+- **Atlantic Highly Migratory Species; Atlantic Highly Migratory Species Southeast Data, Assessment, and Review Workshops Advisory Panel**
+  - when: 2026-11-04
+  - url: https://www.federalregister.gov/documents/2026/11/04/2026-22533/atlantic-highly-migratory-species-atlantic-highly-migratory-species-southeast-data-assessment-and
+  - Commerce Department, National Oceanic and Atmospheric Administration — Notice — NMFS solicits nominations for the Atlantic Highly Migratory Species (HMS) SouthEast Data, Assessment, and Review (SEDAR) Workshops Advisory Panel, also known as the "SEDAR Pool." The SEDAR Pool is comprised of a group of individuals who, if selected, review data and advise NMFS on the scientific information, data, and models used in stock assessments for oceanic sharks in the Atlantic Ocean, including the Gulf of Ame
+- **Certain Oil Country Tubular Goods From Taiwan: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures**
+  - when: 2026-11-04
+  - url: https://www.federalregister.gov/documents/2026/11/04/2026-22532/certain-oil-country-tubular-goods-from-taiwan-preliminary-affirmative-determination-of-sales-at-less
+  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) preliminarily determines that certain oil country tubular goods (OCTG) from Taiwan are being, or are likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is April 1, 2025, through March 31, 2026. Interested parties are invited to comment on this preliminary determination.
+- **Certain Oil Country Tubular Goods From Austria: Preliminary Affirmative Determination of Sales at Less-Than-Fair-Value, Postponement of Final Determination, and Extension of Provisional Measures**
+  - when: 2026-11-04
+  - url: https://www.federalregister.gov/documents/2026/11/04/2026-22531/certain-oil-country-tubular-goods-from-austria-preliminary-affirmative-determination-of-sales-at
+  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) preliminarily determines that certain oil country tubular goods (OCTG) from Austria are being, or are likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is April 1, 2025, through March 31, 2026. Interested parties are invited to comment on this preliminary determination.
+- **Utility Scale Wind Towers From India, Malaysia, and Spain: Final Results of the Expedited First Sunset Reviews of the Antidumping Duty Orders**
+  - when: 2026-11-04
+  - url: https://www.federalregister.gov/documents/2026/11/04/2026-22530/utility-scale-wind-towers-from-india-malaysia-and-spain-final-results-of-the-expedited-first-sunset
+  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) finds that revocation of the antidumping duty (AD) orders on utility scale wind towers (wind towers) from India, Malaysia, and Spain would be likely to lead to continuation or recurrence of dumping, at the levels indicated in the "Final Results of Sunset Reviews" section of this notice.
+- **Certain Magnesia Carbon Bricks From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Countervailing Duty Order**
+  - when: 2026-11-04
+  - url: https://www.federalregister.gov/documents/2026/11/04/2026-22529/certain-magnesia-carbon-bricks-from-the-peoples-republic-of-china-final-results-of-the-expedited
+  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on Certain Magnesia Carbon Bricks (magnesia bricks) from The People's Republic of China (China) would be likely to lead to continuation or recurrence of countervailable subsidies at the levels indicated in the "Final Results of Sunset Review" section of this notice.
+- **Light-Walled Rectangular Pipe and Tube From the People's Republic of China: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025**
+  - when: 2026-11-04
+  - url: https://www.federalregister.gov/documents/2026/11/04/2026-22528/light-walled-rectangular-pipe-and-tube-from-the-peoples-republic-of-china-preliminary-results-and
+  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) preliminarily determines that Hangzhou Ailong Metal Products Co., Ltd. (Ailong) failed to establish its eligibility for a separate rate and, therefore, is part of the China-wide entity. The period of review (POR) is August 1, 2024, through July 31, 2025. In addition, we are rescinding the review with respect to 39 companies. Interested parties are invited to comment on these preliminary
+- **Utility Scale Wind Towers From India: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order**
+  - when: 2026-11-04
+  - url: https://www.federalregister.gov/documents/2026/11/04/2026-22527/utility-scale-wind-towers-from-india-final-results-of-the-expedited-first-sunset-review-of-the
+  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on utility scale wind towers (wind towers) from India would be likely to lead to continuation or recurrence of countervailable subsidies at the levels indicated in the "Final Results of Sunset Review" section of this notice.
 
 ## gao
 - **October 28, 2026 letter commenting on the International Auditing and Assurance Standards Board's July 2026 Exposure Draft: "Proposed International Standard on Auditing for Audits of Financial Statements of Less Complex Entities (Revised)"**
@@ -163,97 +163,100 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - What GAO Found The Department of Energy (DOE) created initial future land use plans in coordination with local communities as early as 1992 at six cleanup sites GAO selected for review. These plans inform but do not bind assumptions about future land use that DOE and regulators make when selecting a cleanup remedy at a site. The remedy selected during the cleanup process has lasting consequences for how a parcel of land can be used, even after DOE transfers or leases it to another federal agenc
 
 ## courtlistener
-- **Rodriguez-Luna v. Commissioner Of Correction**
+- **Anthony Dewayne Pittman a/k/a Anthony D. Pittman a/k/a Anthony Pittman a/k/a Tiger v. State of Mississippi**
   - when: 2026-11-03T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11051889/rodriguez-luna-v-commissioner-of-correction/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **State v. Samuel F.**
+  - url: https://www.courtlistener.com/opinion/11052930/anthony-dewayne-pittman-aka-anthony-d-pittman-aka-anthony-pittman/
+  - IN THE COURT OF APPEALS OF THE STATE OF MISSISSIPPI NO. 2024-KA-00983-COA ANTHONY DEWAYNE PITTMAN A/K/A APPELLANT ANTHONY D. PITTMAN A/K/A ANTHONY PITTMAN A/K/A TIGER v. STATE OF MISSISSIPPI APPELLEE DATE OF JUDGMENT: 05/23/2024 TRIAL JUDGE: HON. MICHAEL M. TAYLOR COURT FROM WHICH APPEALED: Original document
+- **SMRE ROSWELL SPE LLC v. MARIO VASQUEZ MELGAR**
   - when: 2026-11-03T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11051887/state-v-samuel-f/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **Morton v. O'Donnell**
+  - url: https://www.courtlistener.com/opinion/11053150/smre-roswell-spe-llc-v-mario-vasquez-melgar/
+  - SECOND DIVISION DOYLE, P. J., DAVIS and WHITAKER, JJ. NOTICE: Motions for reconsideration must be received no later than 4:30 pm on the 10th day after the decision was issued to be deemed timely filed. https://www.gaappeals.gov/rules November 3, Original document
+- **Michael James Wappler v. State of Florida**
   - when: 2026-11-03T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11051890/morton-v-odonnell/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **State v. Brown**
+  - url: https://www.courtlistener.com/opinion/11052401/michael-james-wappler-v-state-of-florida/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-2793 LT Case No. 05-2017-CF-50501-A _____________________________ MICHAEL JAMES WAPPLER, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Brevard County. Kathryn Michele Speicher, Judge. Matthew J. Metz, Public Original document
+- **Bruce Leonard and Phyllis Leonard v. the Orthopaedic Institute, P.A. D/B/A the Orthopaedic Institute, Orthopedic Care Partners Holdings, LLC, Orthopedic Care Partners Management, LLC, Lloyd Kim, Jr., M.D., Vijay Babu, M.D., and Noreen Burch, P.A.**
   - when: 2026-11-03T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11051888/state-v-brown/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **Garofalo v. Commissioner of Correction**
+  - url: https://www.courtlistener.com/opinion/11052316/bruce-leonard-and-phyllis-leonard-v-the-orthopaedic-institute-pa-dba/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-2112 LT Case No. 2023-CA-001128 _____________________________ BRUCE LEONARD and PHYLLIS LEONARD, Appellants, v. THE ORTHOPAEDIC INSTITUTE, P.A., d/b/a The Orthopaedic Institute, ORTHOPEDIC CARE PARTNERS HOLDINGS, LLC, ORTHOPEDIC CARE PARTNERS MANAGEMENT, LLC, LLOYD KIM, JR., M.D., VIJAY, BABU Original document
+- **C**
   - when: 2026-11-03T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11051891/garofalo-v-commissioner-of-correction/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **State v. Wright**
-  - when: 2026-11-02T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11052020/state-v-wright/
-  - [Cite as State v. Wright, 2026-Ohio-4331.] IN THE COURT OF APPEALS OF OHIO ELEVENTH APPELLATE DISTRICT ASHTABULA COUNTY STATE OF OHIO, CASE NO. 2026-A-0004 Plaintiff-Appellee, Criminal Appeal from the - vs - Court of Common Pleas KYLE VAUGHN WRIGHT, Original document
-- **State v. Blankenship**
-  - when: 2026-11-02T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11052038/state-v-blankenship/
-  - [Cite as State v. Blankenship, 2026-Ohio-4329.] IN THE COURT OF APPEALS OF OHIO ELEVENTH APPELLATE DISTRICT PORTAGE COUNTY STATE OF OHIO, CASE NO. 2025-P-0033 Plaintiff-Appellee, Criminal Appeal from the - vs - Court of Common Pleas NICHOLAS L. BLANKENSHIP, Original document
-- **ROGER SAXON v. AMGUARD INSURANCE COMPANY**
-  - when: 2026-11-02T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11051941/roger-saxon-v-amguard-insurance-company/
-  - FOURTH DIVISION MCFADDEN, P. J., WATKINS and PADGETT, JJ. NOTICE: Motions for reconsideration must be received no later than 4:30 pm on the 10th day after the decision was issued to be deemed timely filed. https://www.gaappeals.gov/rules November 2, 2026 In the Court Original document
-- **Danitto Simpson v. State of Florida**
-  - when: 2026-11-02T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11051938/danitto-simpson-v-state-of-florida/
-  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-2310 LT Case No. 2023-304309-CFDB _____________________________ DANITTO SIMPSON, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Volusia County. Karen A. Foxman, Judge. Keith Peterson, of Law Offices of Peterson Original document
-- **State of Idaho v. Zachariah John Roger Wood**
-  - when: 2026-11-02T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11051943/state-of-idaho-v-zachariah-john-roger-wood/
-  - IN THE COURT OF APPEALS OF THE STATE OF IDAHO Docket No. 51971 STATE OF IDAHO, ) ) Filed: November 2, 2026 Plaintiff-Respondent, ) ) Melanie Gagnepain, Clerk v. ) ) ZACHARIAH JOHN ROGER WOOD, Original document
-- **Laubach, C. v. Laubach, H.**
-  - when: 2026-11-02T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11051975/laubach-c-v-laubach-h/
-  - J-S20012-26 2026 PA Super 246 CURTIS LAUBACH AND GENEVIEVE : IN THE SUPERIOR COURT OF LAUBACH : PENNSYLVANIA : : v. : : : HOLLY LAUBACH : Original document
+  - url: https://www.courtlistener.com/opinion/11052460/c/
+  - 25-2049 SS&amp;C Technologies Holdings, Inc. v. Arcesium LLC UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT August Term, (Argued: May , Decided: November , ) Docket No. - -cv SS&amp;C TECHNOLOGIES HOLDINGS, INC., ADVENT SOFTWARE, INC., Plaintiff-Counter-Claimants-Counter-Defendants-Appellants Original document
+- **National Tps Alliance v. Mullin**
+  - when: 2026-11-03T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11052694/national-tps-alliance-v-mullin/
+  - FOR PUBLICATION UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT NATIONAL TPS ALLIANCE; No. 25-5724 MARIELA GONZALEZ; FREDDY D.C. No. ARAPE RIVAS; M.H.; CECILIA 3:25-cv-01766- GONZALEZ HERRERA; ALBA EMC PURICA HERNANDEZ; E. R.; Northern District HENDRINA VIVAS CASTILLO; Original document
 - **Service Employees International Union v. DOJ - United States Department of Justice**
-  - when: 2026-11-02T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11052238/service-employees-international-union-v-doj-united-states-department-of/
-  - FOR PUBLICATION FILED UNITED STATES COURT OF APPEALS NOV 2 2026 MOLLY C. DWYER, CLERK U.S. COURT OF APPEALS FOR THE NINTH CIRCUIT SERVICE EMPLOYEES No. 26-7303 INTERNATIONAL UNION, AFL-CIO; Original document
+  - when: 2026-11-03T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11052889/service-employees-international-union-v-doj-united-states-department-of/
+  - FOR PUBLICATION F | L E D UNITED STATES COURT OF APPEALS NOV 3 2026 MOLLY C. DWYER, CLERK SERVICE EMPLOYEES No. 26-7303 INTERNATIONAL UNION, AFL-CIO; AMERICAN FEDERATION OF STATE, COUNTY &amp; MUNICIPAL EMPLOYEES, AFL-CIO; LEAGUE OF UNITED LATIN AMERICAN CITIZENS; NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE, Plaintiffs - Appellees, V. DOJ - UNITED STATES DEPARTMENT OF JUSTICE; TODD BLANCHE, Attorney General, in his official capacity as Attorney General; UNITED STATES DEPARTMENT Original document
+- **People v. Savoy**
+  - when: 2026-11-03T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11053144/people-v-savoy/
+  - Filed 10/30/26 CERTIFIED FOR PUBLICATION IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA FIRST APPELLATE DISTRICT DIVISION THREE THE PEOPLE, Plaintiff and Respondent, A175134 v. (Alameda County FRANK SAVOY, JR., Super. Ct. No. 163568A) Defendant and Appellant. Frank Savoy, Jr. was convicted of murder and Original document
+- **Obdulio Irizarry, Jr. v. State of Florida**
+  - when: 2026-11-03T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11052489/obdulio-irizarry-jr-v-state-of-florida/
+  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2025-3147 Lower Tribunal No. 2020-CF-011987-A-O _____________________________ OBDULIO IRIZARRY, JR., Appellant, v. STATE OF Original document
+- **Neidy Caridad Mendez Gudino v. State of Florida**
+  - when: 2026-11-03T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11052490/neidy-caridad-mendez-gudino-v-state-of-florida/
+  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2025-1706 Lower Tribunal No. 2020-CF-000392 _____________________________ NEIDY CARIDAD MENDEZ GUDINO, Appellant, v. STATE OF FLORIDA, Original document
+- **JILL HOPKINS v. THE HOSPITAL AUTHORITY OF LIBERTY COUNTY**
+  - when: 2026-11-03T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11052639/jill-hopkins-v-the-hospital-authority-of-liberty-county/
+  - FIRST DIVISION BARNES, P. J., MARKLE and HODGES, JJ. NOTICE: Motions for reconsideration must be received no later than 4:30 pm on the 10th day after the decision was issued to be deemed timely filed. https://www.gaappeals.gov/rules November 3, 2026 In the Court Original document
+- **Carlos Reyes Rosado v. State of Florida**
+  - when: 2026-11-03T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11052518/carlos-reyes-rosado-v-state-of-florida/
+  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2025-1034 Lower Tribunal No. 2022-CF-011863-A-O _____________________________ CARLOS REYES ROSADO, Appellant, v. STATE OF FLORIDA, Original document
 
 ## uk-legislation
+- **The Air Navigation (Restriction of Flying) (Birmingham Christmas Market) Regulations 2026**
+  - when: 2026-11-04T04:02:45+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1159
+- **The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2026**
+  - when: 2026-11-03T17:15:27+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1154
+  - These Regulations extend by 12 months the transitional arrangements under Parts 2 and 3 of the Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589) which enable specified categories of Gibraltar-based firms to provide financial services in the United Kingdom and facilitate the access by similar types of UK-based firms to Gibraltar’s financial services market.
+- **The Charities (Russell-Cotes Art Gallery and Museum) Order 2026**
+  - when: 2026-11-03T17:04:59+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1149
+  - This Order gives effect to the scheme (“the scheme”) settled by the Charity Commission for England and Wales in accordance with section 73(1)(a) of the Charities Act 2011 (c. 25) for the administration of the charity known as “Russell-Cotes Art Gallery and Museum” (“the Charity”). Prior to the Order coming into force, the Charity was governed by section 57 of the Bournemouth Borough Council Act 1985 (c. v) and “the Governing Documents” as defined in paragraph 1 of the Schedule to the Order. The
+- **The Crime and Policing Act 2026 (Commencement No. 5) Regulations 2026**
+  - when: 2026-11-03T17:41:13+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1158
+  - These Regulations bring into force specified provisions of the Crime and Policing Act 2026 (c. 20) (“the 2026 Act”). These are the fifth commencement regulations made under the 2026 Act.
+- **The Export Control (Amendment) Regulations 2026**
+  - when: 2026-11-03T16:54:36+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1150
+  - These Regulations amend the Export Control Order 2008 (S.I. 2008/3231) (“the 2008 Order”) and assimilated Council Regulation (EC) No 428/2009 of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items (Recast) (EUR 2009/428) (“the assimilated Dual-Use Regulation”).
+- **The Bus Franchising Assessment (Approved Persons) (England) Regulations 2026**
+  - when: 2026-11-03T16:23:55+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1145
+  - These Regulations specify types of persons as an approved person for the purposes of section 123D of and paragraph 4(7) of Schedule 9A to the Transport Act 2000 (c. 38). Section 123D of that Act provides that an independent approved person must prepare a report on the assessment of a proposed franchising scheme before a franchising authority or authorities can proceed with the scheme. Paragraph 4 of Schedule 9A provides that an independent approved person must prepare a report on the assessment
+- **The Contracts for Difference (Electricity Supplier Obligations) (Amendment) Regulations 2026**
+  - when: 2026-11-03T16:23:48+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1151
+  - These Regulations relate to the levy arrangements that support the Contracts for Difference scheme established under Chapter 2 of Part 2 of the Energy Act 2013 (c. 32) (“the 2013 Act”). Government funds can be paid into the scheme to reduce the amount of the levy. These Regulations amend the Contracts for Difference (Electricity Supplier Obligations) Regulations 2014 so as to broaden the circumstances in which that can happen. They respond to a decision to provide financial assistance under sect
+- **The Control of Asbestos (Amendment etc.) Regulations 2026**
+  - when: 2026-11-03T16:23:45+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1153
+  - These Regulations amend the Control of Asbestos Regulations 2012 (S.I. 2012/632) (“the 2012 Regulations”) to introduce a requirement that the assessment of the cleanliness of the premises, where work relating to asbestos has been carried out, is undertaken by a person who is appointed independently of the person who carried out the work relating to asbestos on those premises.
+- **The Customs (Tariff and Miscellaneous Amendments) (No. 7) Regulations 2026**
+  - when: 2026-11-03T15:52:52+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1155
+  - Regulation 2 amends the definition of “the authorised use document” in regulation 32(2) of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018 (S.I. 2018/1249) to refer to a new version of that document. The new version of that document introduces authorised use measures to reduce the rate of import duty on nine commodity codes relating to steel goods used in the manufacture of bright bar, a precision-finished steel bar product, and wire. Further, it introduces aut
+- **The Planning and Infrastructure Act 2025 (Commencement No. 5) and English Devolution and Community Empowerment Act 2026 (Commencement No. 5) Regulations 2026**
+  - when: 2026-11-03T16:03:20+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1157
+  - These Regulations are the fifth commencement regulations made under the Planning and Infrastructure Act 2025 (c. 34) (“the 2025 Act”) and the fifth commencement regulations made under the English Devolution and Community Empowerment Act 2026 (c. 23) (“the 2026 Act”). These Regulations bring into force provisions relating to spatial development strategies.
+- **The Data-gathering (Ongoing Data: Interest and Payment Card Transactions) Regulations 2026**
+  - when: 2026-11-03T14:15:29+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1152
+  - These Regulations make provision requiring persons of specified description to provide specified data to His Majesty’s Revenue and Customs (“HMRC”) on an ongoing basis.
 - **Sovereign Grant Act 2026**
-  - when: 2026-11-02T18:48:18+01:00
+  - when: 2026-11-03T10:30:54+01:00
   - url: http://www.legislation.gov.uk/id/ukpga/2026/28
-- **The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) (No. 2) Regulations 2026**
-  - when: 2026-11-02T12:48:26+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1148
-  - Under the Child Maintenance and Other Payments Act 2008 (c. 6) (“the 2008 Act”), lump sum payments may be made to certain persons with diffuse mesothelioma or their dependants. The Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations 2008 (S.I. 2008/1963) (“the 2008 Regulations”) set out the conditions to be met for a lump sum payment to be made, along with the rates of payment.
-- **The Pneumoconiosis etc. (Workers’ Compensation) (Payment of Claims) (Amendment) (No. 2) Regulations 2026**
-  - when: 2026-11-02T09:46:50+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1146
-  - Under the Pneumoconiosis etc. (Workers’ Compensation) Act 1979 (c. 41) (“the 1979 Act”), lump sum payments may be made to certain persons disabled by a disease to which the Act applies, or to dependants of persons who were so disabled before they died. The Pneumoconiosis etc. (Workers’ Compensation) (Payment of Claims) Regulations 1988 (S.I. 1988/668) (“the 1988 Regulations”) prescribe the amount of payments to be made under the 1979 Act, according to the person’s age and level of disablement.
-- **The Energy Performance of Buildings (Scotland) Amendment Regulations 2026**
-  - when: 2026-10-30T16:50:59+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/322
-  - These Regulations amend the Energy Performance of Buildings (Scotland) Regulations 2008 and the Energy Performance of Buildings (Scotland) Regulations 2025.
-- **The Transport and Works (Applications, Objections, Listed Buildings, Inquiries and Decisions Procedure) (England and Wales) (Amendment) Regulations 2026**
-  - when: 2026-10-30T15:14:34+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1143
-  - These Regulations amend, subject to the transitional provisions in regulation 1, the Transport and Works (Inquiries Procedure) Rules 2004 (S.I. 2004/2018) (“the 2004 Rules”), the Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006 (S.I. 2006/1466) (“the 2006 Rules”) and the Transport and Works Applications (Listed Buildings, Conservation Areas and Ancient Monuments Procedure) Regulations 1992 (“the 1992 Regulations”).
-- **The Transport Infrastructure (Fees) Regulations 2026**
-  - when: 2026-10-30T14:13:41+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1137
-  - These Regulations make provision for prescribed public authorities to charge fees for services provided in connection with certain transport infrastructure projects. They are made under powers inserted into the Highways Act 1980 (c. 66) (“the 1980 Act”) and the Transport and Works Act 1992 (c. 42) (“the 1992 Act”) by the Planning and Infrastructure Act 2025 (c. 34).
-- **The Mobile Homes (Written Statement) (Scotland) Regulations 2026**
-  - when: 2026-10-30T10:46:08+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/320
-  - The Mobile Homes Act 1983 (“the 1983 Act”) applies to all agreements under which persons are entitled to station a mobile home on a protected site and occupy it as their only or main residence. Section 1(2) of the 1983 Act provides that before such an agreement is entered into, the site owner must give to the proposed occupier of the mobile home a written statement. These regulations set out the form that such a written statement must be in, where that statement is given on or after 9 December 2
-- **The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Amendment Regulations 2026**
-  - when: 2026-10-30T11:11:29+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/321
-  - These Regulations amend the First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (“the 2025 Regulations”).
-- **The Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (Commencement No. 3) Regulations 2026**
-  - when: 2026-10-30T09:39:31+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/319
-  - These Regulations commence section 18(3) and (4) of the Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019. Section 18(3) and 18(4) makes consequential amendments to section 89 and 95 of the Housing (Scotland) Act 2001 to amend the definition of fuel poverty.
-- **The A83 Trunk Road (Lochgilphead) (Temporary Prohibition on Use of Road) (No. 2) Order 2026**
-  - when: 2026-10-30T04:09:06+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/316
-- **The A84 Trunk Road (Callander) (Temporary Prohibition on Use of Road) Order 2026**
-  - when: 2026-10-30T04:08:59+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/314
-- **The A83 Trunk Road (Lochgilphead) (Temporary Prohibition on Use of Road) Order 2026**
-  - when: 2026-10-30T04:08:49+01:00
-  - url: http://www.legislation.gov.uk/id/ssi/2026/313
+  - An Act to specify the amount of the Sovereign Grant for the financial year 2027-28 and the percentage of the income account net surplus of the Crown Estate to be used by the Royal Trustees to determine the amount of the Sovereign Grant in subsequent financial years; to confer a duty and a power on the Treasury to specify the amount of the Sovereign Grant in subsequent financial years in certain circumstances; and for connected purposes.

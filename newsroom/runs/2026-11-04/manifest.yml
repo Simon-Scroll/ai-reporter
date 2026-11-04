@@ -1,0 +1,60 @@
+date: 2026-11-04
+mode: REST
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: confirmed no active investigations, a full ten-thread parked board, and the October 30 publication
+ingest:
+  ran: true
+  result: refreshed the November 4 primary-document horizon; all configured feeds completed
+  horizon: newsroom/horizon/2026-11-04/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: open_investigations
+    decision: none
+    reason: no active investigations were present
+  - id: parked_board
+    decision: remain_parked
+    reason: no November 4 horizon item matched a documented reopen condition
+investigations: []
+research:
+  primary_documents:
+    - newsroom/horizon/2026-11-04/BRIEF.md
+    - newsroom/horizon/2026-11-04/summary.json
+    - newsroom/horizon/2026-11-04/gao.json
+    - newsroom/horizon/2026-11-04/federal-register.json
+    - newsroom/horizon/2026-11-04/sec-edgar.json
+    - newsroom/horizon/2026-11-04/courtlistener.json
+    - newsroom/horizon/2026-11-04/uk-legislation.json
+    - newsroom/investigations/2026-020-dhs-grant-review/status.yml
+    - newsroom/investigations/2026-013-opm-workforce-data-completeness/status.yml
+    - newsroom/investigations/2026-011-nnsa-strategic-partnership-projects/status.yml
+    - newsroom/investigations/2026-010-dod-igsa-savings-verification/status.yml
+    - newsroom/investigations/2026-005-navy-submarine-maintenance/status.yml
+    - newsroom/investigations/2026-008-dod-installation-maintenance-funding/status.yml
+    - newsroom/investigations/2026-007-doe-contractor-assurance/status.yml
+    - newsroom/investigations/2026-012-faa-bnatcs-cost-schedule/status.yml
+    - newsroom/investigations/2026-015-faa-aviation-cybersecurity/status.yml
+    - newsroom/investigations/2026-021-cbp-ice-body-camera-management/status.yml
+  result: no new primary record matched the NIH watch condition or a parked-thread reopen condition; no unchanged sources were refetched
+publication:
+  published: false
+  reason: REST; no new original finding and the prior article was published October 30
+validation:
+  run: false
+  reason: no publication was attempted
+journal:
+  - newsroom/journal/2026-11-04.md
+desk_notes:
+  - newsroom/desk/2026-11-04-r1.md
+no_binaries_committed: true
