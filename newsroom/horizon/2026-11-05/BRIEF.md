@@ -1,0 +1,217 @@
+# Horizon brief — 2026-11-05
+
+Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
+
+## sec-edgar
+Ingest failed: This operation was aborted
+
+## federal-register
+- **Continuation of the National Emergency With Respect to the Threat From Securities Investments That Finance Certain Companies of the People's Republic of China**
+  - when: 2026-11-05
+  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22688/continuation-of-the-national-emergency-with-respect-to-the-threat-from-securities-investments-that
+  - Executive Office of the President — Presidential Document
+- **Continuation of the National Emergency With Respect to the Situation in Nicaragua**
+  - when: 2026-11-05
+  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22687/continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua
+  - Executive Office of the President — Presidential Document
+- **Continuation of the National Emergency With Respect to the Proliferation of Weapons of Mass Destruction**
+  - when: 2026-11-05
+  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22686/continuation-of-the-national-emergency-with-respect-to-the-proliferation-of-weapons-of-mass
+  - Executive Office of the President — Presidential Document
+- **Continuation of the National Emergency With Respect to Iran**
+  - when: 2026-11-05
+  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22685/continuation-of-the-national-emergency-with-respect-to-iran
+  - Executive Office of the President — Presidential Document
+- **Purchasing and Property Management**
+  - when: 2026-11-05
+  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22650/purchasing-and-property-management
+  - Legal Services Corporation — Proposed Rule — This proposed rule revises the Legal Services Corporation's (LSC) definition of "capital improvement" by removing the threshold amount of LSC funds that must be expended on an improvement to real estate for the expenditure to qualify as a capital improvement. The proposed amendment would distinguish the definition of a capital improvement from the monetary thresholds required for prior approval; promote consistent tracking and oversight of LSC funds u
+- **Cost Standards and Procedures; Purchasing and Property Management**
+  - when: 2026-11-05
+  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22649/cost-standards-and-procedures-purchasing-and-property-management
+  - Legal Services Corporation — Rule — This final rule revises the Legal Services Corporation's (LSC or Corporation) regulations governing cost allowability, prior approval requirements, and property and procurement standards applicable to LSC recipients. The final rule clarifies when recipients must obtain prior approval for expenditures of LSC funds; increases the monetary threshold for prior approval; clarifies the treatment of proceeds from fundraising activities supported with LSC funds; provi
+- **Air Plan Revisions; Arizona; Maricopa County Air Quality Department; New Source Review; Emission Reduction Credits**
+  - when: 2026-11-05
+  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22647/air-plan-revisions-arizona-maricopa-county-air-quality-department-new-source-review-emission
+  - Environmental Protection Agency — Rule — The U.S. Environmental Protection Agency (EPA) is taking final action to approve a revision to the Maricopa County Air Quality Department (MCAQD or "Department") portion of the Arizona State Implementation Plan (SIP). This revision establishes a federally enforceable program allowing for the generation of emission reduction credits (ERCs) by retrofitting or replacing existing on-road vehicles with lower emitting vehicles while meeting other Clean Air Act
+- **Accrediting Agencies Currently Undergoing Review for the Purpose of Recognition by the U.S. Secretary of Education**
+  - when: 2026-11-05
+  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22644/accrediting-agencies-currently-undergoing-review-for-the-purpose-of-recognition-by-the-us-secretary
+  - Education Department — Notice — This notice provides information to members of the public on submitting written comments for accrediting agencies currently undergoing review for the purpose of recognition by the Secretary of Education.
+- **Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Cook Inlet EEZ Commercial Salmon Fishery**
+  - when: 2026-11-05
+  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22643/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for
+  - Commerce Department, National Oceanic and Atmospheric Administration — Notice — The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment preceding submission of
+- **Modification of Class D and Class E Airspace Areas; Roberts Field/Redmond Municipal Airport, Redmond, OR**
+  - when: 2026-11-05
+  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22642/modification-of-class-d-and-class-e-airspace-areas-roberts-fieldredmond-municipal-airport-redmond-or
+  - Transportation Department, Federal Aviation Administration — Rule — This action modifies the Class D and Class E airspace areas designated as a surface area, the Class E airspace area designated as an extension to a Class D or Class E surface area, and the Class E airspace area extending upward from 700 feet above the surface at Roberts Field/Redmond Municipal Airport, Redmond, OR. This action supports the safety and management of visual flight rules (VFR) and instrument flight rules (IFR) opera
+- **Caribbean Fishery Management Council's Scientific and Statistical Committee; Public Virtual Meeting**
+  - when: 2026-11-05
+  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22641/caribbean-fishery-management-councils-scientific-and-statistical-committee-public-virtual-meeting
+  - Commerce Department, National Oceanic and Atmospheric Administration — Notice — The Caribbean Fishery Management Council's (Council) Scientific and Statistical Committee (SSC) will hold a 1-day public virtual meeting to address the items contained in the tentative agenda included in the SUPPLEMENTARY INFORMATION.
+- **Pacific Fishery Management Council; Public Meeting**
+  - when: 2026-11-05
+  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22640/pacific-fishery-management-council-public-meeting
+  - Commerce Department, National Oceanic and Atmospheric Administration — Notice — The Groundfish Subcommittee of the Pacific Fishery Management Council's (Pacific Council's) Scientific and Statistical Committee (SSC) will hold a virtual meeting to update the Accepted Practices Guidelines for Groundfish Stock Assessments document. The SSC Groundfish Subcommittee meeting is open to the public.
+
+## gao
+- **October 28, 2026 letter commenting on the International Auditing and Assurance Standards Board's July 2026 Exposure Draft: "Proposed International Standard on Auditing for Audits of Financial Statements of Less Complex Entities (Revised)"**
+  - when: Thu, 29 Oct 2026 13:05:10 -0400
+  - url: https://www.gao.gov/products/e16078
+  - This letter provides GAO's comments on the International Auditing and Assurance Standards Board's (IAASB) Proposed International Standard on Auditing for Audits of Financial Statements of Less Complex Entities (Revised) (ISA for LCE). GAO promulgates generally accepted government auditing standards, which provide professional standards for auditors of government entities in the United States.
+- **Professional Standards Update No. 102**
+  - when: Mon, 26 Oct 2026 12:11:08 -0400
+  - url: https://www.gao.gov/products/e16067
+  - To alert the audit community to changes in professional standards, we periodically issue Professional Standards Updates (PSU). These updates highlight the effective dates of recently issued standards and guidance related to engagements conducted in accordance with Government Auditing Standards. PSUs contain summary information only, and those affected by a change should refer to the respective standard or guidance for details.
+- **State Department: Standards for Overseas Housing Need Review [Reissued with revisions on Oct. 21, 2026]**
+  - when: Mon, 10 Aug 2026 07:28:52 -0400
+  - url: https://www.gao.gov/products/gao-26-107965
+  - pdf: https://www.gao.gov/assets/gao-26-107965.pdf
+  - What GAO Found The Department of State last updated its standards for overseas housing space in 1991, according to State officials. Those standards may no longer align with State’s goal of providing Foreign Service personnel living abroad with housing comparable to the Washington, D.C., metropolitan area. In the last 35 years, median housing costs in the Washington, D.C., area have increased at a faster rate than Foreign Service personnel salaries. In addition, State’s method for measuring over
+- **Textile Circular Economy: Policy Options for the U.S.**
+  - when: Fri, 16 Oct 2026 09:35:25 -0400
+  - url: https://www.gao.gov/products/gao-27-108142
+  - pdf: https://www.gao.gov/assets/gao-27-108142.pdf
+  - What GAO Found Developing a textile circular economy includes repairing, reusing, and recycling textiles and making them last longer. Example of a Circular Economy for Textiles In the U.S., a textile circular economy may create potential benefits and involve challenges, according to reports by federal agencies and organizations and stakeholder interviews. Potential benefits could include creating new jobs and markets related to textile repair and recycling, reducing environmental harm, and
+- **Critical Minerals: Limited Available Information on the Full Extent of Foreign Investment in Mining on Federal Lands**
+  - when: Fri, 16 Oct 2026 07:40:00 -0400
+  - url: https://www.gao.gov/products/gao-27-108094
+  - pdf: https://www.gao.gov/assets/gao-27-108094.pdf
+  - What GAO Found The U.S critical mineral supply chain faces numerous constraints, including the need for substantial capital investment and limited domestic processing capacity. The U.S. exports large quantities of domestically extracted ore to Canada, Mexico, and China, among other countries. Copper Mine on Federal Lands The Bureau of Land Management (BLM) and the Forest Service oversee hardrock mines on federal land. As of February 2026, there were 632 approved hardrock mining plans of ope
+- **Tax Filing: IRS Should Enhance Ghost Preparer Identification and Compliance Efforts in a Comprehensive Preparer Strategy**
+  - when: Fri, 16 Oct 2026 07:28:51 -0400
+  - url: https://www.gao.gov/products/gao-27-108176
+  - pdf: https://www.gao.gov/assets/gao-27-108176.pdf
+  - What GAO Found Ghost preparers are paid tax preparers who do not comply with requirements to identify themselves on tax returns they prepare for others. Ghost preparers may intentionally leave identifying information off to get away with filing fraudulent income tax returns, stealing taxpayers’ refunds, and stealing taxpayers’ identities. Courts have ordered individual ghost preparers to pay millions in restitution to the government, but according to Internal Revenue Service (IRS) officials, th
+- **Research Security: NIH Action Needed to Strengthen Foreign Interference Risk Management**
+  - when: Fri, 16 Oct 2026 08:13:12 -0400
+  - url: https://www.gao.gov/products/gao-27-107848
+  - pdf: https://www.gao.gov/assets/gao-27-107848.pdf
+  - What GAO Found The National Institutes of Health (NIH) funds extramural research through awards to universities and other institutions. Implementation of federal research security requirements helps safeguard this research from foreign interference, including misappropriation and unauthorized access by foreign countries and entities. NIH implemented 14 of the 15 federal research security requirements GAO reviewed that address: (1) disclosure, (2) malign foreign talent recruitment programs, (3)
+- **Federal Real Property: New Occupancy Data Help Agencies Shed Unneeded Office Space But Gaps Limit the Full Picture**
+  - when: Fri, 16 Oct 2026 07:18:45 -0400
+  - url: https://www.gao.gov/products/gao-27-108503
+  - pdf: https://www.gao.gov/assets/gao-27-108503.pdf
+  - What GAO Found Under the Utilizing Space Efficiently and Improving Technologies (USE IT) Act, enacted in January 2025, federal agencies are now required to collect and report occupancy data. This data is used to calculate utilization rates for agencies’ office space in federally owned buildings and leased locations. While 20 of the 23 agencies that responded to GAO’s survey reported using existing badging systems for this purpose, 16 of these 20 agencies reported supplementing that information
+- **Private Health Insurance: Market Concentration in 2024 Was Generally Higher Than in 2011**
+  - when: Fri, 16 Oct 2026 10:25:08 -0400
+  - url: https://www.gao.gov/products/gao-27-108927
+  - pdf: https://www.gao.gov/assets/gao-27-108927.pdf
+  - What GAO Found Since 2014, GAO has reported that enrollment in private health insurance plans has been concentrated, meaning a small number of issuers, such as health insurers, enrolled most of the people in a given market. Specifically, GAO considers a market concentrated in a state if three or fewer issuers hold at least 80 percent of the market share of enrollment. For this report, GAO examined the individual (coverage primarily sold to individuals who lack access to group coverage), small-
+- **National Security: FBI Should Strengthen Partnerships to Combat Non-Traditional Intelligence Collectors**
+  - when: Fri, 16 Oct 2026 07:28:08 -0400
+  - url: https://www.gao.gov/products/gao-27-109057
+  - pdf: https://www.gao.gov/assets/gao-27-109057.pdf
+  - What GAO Found According to the Federal Bureau of Investigation (FBI), non-traditional intelligence collectors (NTCs) are individuals whose primary profession is not intelligence collection, but who actively or passively collect sensitive U.S. information on behalf of foreign entities. For example, researchers and students at universities may act as NTCs if they collect non-public research on behalf of a foreign entity. According to the FBI, unlike intelligence officers, NTCs function independe
+- **Nuclear Waste: Addressing Legal and Regulatory Barriers Could Accelerate Cleanup and Reduce Costs**
+  - when: Fri, 16 Oct 2026 08:05:50 -0400
+  - url: https://www.gao.gov/products/gao-27-107791
+  - pdf: https://www.gao.gov/assets/gao-27-107791.pdf
+  - What GAO Found The Department of Energy’s (DOE) nuclear waste cleanup is proceeding largely under three laws that set cleanup and waste management requirements. Each law has different requirements, applications, and regulators. Selected Cleanup and Waste Management Laws and Regulators for the Department of Energy’s (DOE) Nuclear Waste Cleanup GAO and experts GAO convened with the National Academies of Sciences, Engineering, and Medicine identified several legal and regulatory factors that a
+- **Nuclear Waste: Future Land Use Planning at Selected DOE Cleanup Sites**
+  - when: Fri, 16 Oct 2026 09:42:29 -0400
+  - url: https://www.gao.gov/products/gao-27-108063
+  - pdf: https://www.gao.gov/assets/gao-27-108063.pdf
+  - What GAO Found The Department of Energy (DOE) created initial future land use plans in coordination with local communities as early as 1992 at six cleanup sites GAO selected for review. These plans inform but do not bind assumptions about future land use that DOE and regulators make when selecting a cleanup remedy at a site. The remedy selected during the cleanup process has lasting consequences for how a parcel of land can be used, even after DOE transfers or leases it to another federal agenc
+
+## courtlistener
+- **Order on Motion - State v. Miller**
+  - when: 2026-11-10T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11053720/order-on-motion-state-v-miller/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **Parker v. Merrifield**
+  - when: 2026-11-04T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11054016/parker-v-merrifield/
+  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT CIECRETT L. PARKER, Appellant, v. STEVAN MERRIFIELD, Appellee. No. 2D2026-0761 November 4, 2026 Appeal from the Circuit Court for Manatee County; Edward Nicholas, Judge. Ciecrett Original document
+- **Baker v. Pedro**
+  - when: 2026-11-04T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11054139/baker-v-pedro/
+  - 334 November 4, 2026 No. 1060 IN THE COURT OF APPEALS OF THE STATE OF OREGON ERNEST HAROLD BAKER, III, Petitioner-Appellant, v. David PEDRO, Superintendent, Eastern Oregon Correctional Institution, Defendant-Respondent. Umatilla County Circuit Court 23CV17033; Original document
+- **Whaleco Inc. v. Gluck**
+  - when: 2026-11-04T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11054453/whaleco-inc-v-gluck/
+  - United States Court of Appeals For the First Circuit Nos. 25-1893 25-1894 WHALECO INC., Plaintiff, Appellant/Cross-Appellee, v. JEFFREY GLUCK; GLUCK LAW FIRM, P.C., Defendants, Appellees/Cross-Appellants; ALEC MONOPOLY ART, LLC; ALEC MONOPOLY, LLC; COOKIES SF LLC, Defendants, Appellees. APPEALS FROM THE UNITED Original document
+- **State v. Young**
+  - when: 2026-11-04T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11053739/state-v-young/
+  - IN THE COURT OF APPEALS OF NORTH CAROLINA No. COA24-506 Filed 4 November 2026 Brunswick County, Nos. 19CR053047-090; 19CR053059-090 STATE OF NORTH CAROLINA v. LOGAN NEAL YOUNG Appeal by Defendant from judgment entered 12 April 2023 by Judge Robert C. Roupe in Brunswick County Superior Court. Heard in the Court of Appeals on 17 September 2026. Attorney General Jeff Jackson Original document
+- **Vasquez v. State of Florida**
+  - when: 2026-11-04T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11054092/vasquez-v-state-of-florida/
+  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT STEPHEN JOHN VASQUEZ, Appellant, v. STATE OF FLORIDA, Appellee. No. 2D2026-1843 November 4, 2026 Appeal pursuant to Fla. R. App. P. 9.141(b)(2) from the Circuit Court for Pinellas County; Original document
+- **Rafael Lopes Brasileiro Martim v. Cattleya PTC**
+  - when: 2026-11-04T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11054094/rafael-lopes-brasileiro-martim-v-cattleya-ptc/
+  - Third District Court of Appeal State of Florida Opinion filed November 4, 2026. Not final until disposition of timely filed motion for rehearing. ________________ No. 3D25-2106 Lower Tribunal No. 25-13939-CA-01 ________________ Rafael Lopes Brasileiro Martim, et al., Appellants Original document
+- **Bobby Fitzgerald Hunt Jr. v. State of Iowa**
+  - when: 2026-11-04T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11054219/bobby-fitzgerald-hunt-jr-v-state-of-iowa/
+  - IN THE COURT OF APPEALS OF IOWA _______________ No. 25-2012 Filed November 4, 2026 _______________ Bobby Fitzgerald Hunt Jr., Petitioner, v. State of Iowa, Respondent. _______________ Certiorari to the Iowa District Court for Original document
+- **People v. White**
+  - when: 2026-11-04T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11054379/people-v-white/
+  - People v White 2026 NY Slip Op 06469 November 4, 2026 Appellate Division, Second Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. The People of the State of New York, respondent, v Adam White, appellant. Supreme Court of the State of New York, Appellate Division, Second Judicial Department Decided on November 4, 2026 2022-04491, (Ind. No. 373/21) Colleen Original document
+- **People ex rel. Bright v. Richards**
+  - when: 2026-11-04T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11054401/people-ex-rel-bright-v-richards/
+  - People ex rel. Bright v Richards 2026 NY Slip Op 06449 November 4, 2026 Appellate Division, Second Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. The People of the State of New York, ex rel. Elizabeth Bright, on behalf of Anthony Esposito, petitioner, v Stanley Richards, etc., respondent. Supreme Court of the State of New York, Appellate Division, Second Original document
+- **GERALD W. KELLER v. BRENDA KEMP**
+  - when: 2026-11-04T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11054035/gerald-w-keller-v-brenda-kemp/
+  - Court of Appeals of the State of Georgia ATLANTA,____________________ November 04, 2026 The Court of Appeals hereby passes the following order: A27A0679. KELLER v. KEMP et al. Pro se appellant Gerald Keller has filed a motion to supplement the appellate record in this case, asking that the record be supplemented with, among other things, various filings that the superior court clerk rejected or, in Original document
+- **State v. Cherbonneau**
+  - when: 2026-11-04T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11053988/state-v-cherbonneau/
+  - NOTICE: This opinion is subject to motions for rehearing under Rule 22 as well as formal revision before publication in the New Hampshire Reports. Readers are requested to notify the Reporter, Supreme Court of New Hampshire, One Charles Doe Drive, Concord, New Hampshire 03301, of any editorial errors in order that corrections may be made before the opinion goes to press. Errors may be reported by email at the following address: reporter@courts.state.nh.us. Opinions are available on the Internet by Original document
+
+## uk-legislation
+- **<div xmlns="http://www.w3.org/1999/xhtml">
+						<span xml:lang="en">The Representation of the People (Electoral Registration without Applications) (Electoral Reform) (Wales) Regulations 2026</span> / <span xml:lang="cy">Rheoliadau Cynrychiolaeth y Bobl (Cofrestru Etholiadol heb Geisiadau) (Diwygio Etholiadol) (Cymru) 2026</span>
+					</div>**
+  - when: 2026-11-05T03:01:55.132479Z
+  - url: http://www.legislation.gov.uk/id/wsi/2026/132
+- **The Employment Tribunals Extension of Jurisdiction (Amendment) (Scotland) Order 2026**
+  - when: 2026-11-05T03:07:02Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/327
+  - This Order amends the Employment Tribunals Extension of Jurisdiction (Scotland) Order 1994 (“the 1994 Order”). Article 2 amends article 7 of the 1994 Order to extend the time limit for bringing proceedings before an employment tribunal in Scotland, in respect of employees’ contract of employment claims, from three months to six months. Employees’ contract of employment claims include claims for breach of a contract of employment, or for a sum due under such a contract, where the claim arises or
+- **The A889 Trunk Road (Dalwhinnie) (40mph Speed Limit) Order 2026**
+  - when: 2026-11-05T03:06:52Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/325
+- **The Employment Tribunals (Early Conciliation: Exemptions and Rules of Procedure) (Amendment) Regulations 2026**
+  - when: 2026-11-04T16:02:39Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1144
+  - These Regulations amend the Employment Tribunals (Early Conciliation: Exemptions and Rules of Procedure) Regulations 2014 (“the 2014 Regulations”) to add to the information that prospective claimants must provide to ACAS in order to comply with the requirement to contact ACAS before instituting proceedings in section 18A of the Employment Tribunals Act 1996. These Regulations also clarify the 2014 Regulations and make further provision regarding the early conciliation procedure.
+- **The International Controlled Transaction Reporting Regulations 2026**
+  - when: 2026-11-04T15:56:03Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1156
+  - These Regulations make provision in connection with the provision of information in relation to international controlled transactions.
+- **<div xmlns="http://www.w3.org/1999/xhtml">
+						<span xml:lang="en">The Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 2026</span> / <span xml:lang="cy">Rheoliadau Cyfraniadau Ardrethu Annomestig (Cymru) (Diwygio) 2026</span>
+					</div>**
+  - when: 2026-11-04T11:44:17Z
+  - url: http://www.legislation.gov.uk/id/wsi/2026/131
+  - These Regulations amend the Non-Domestic Rating Contributions (Wales) Regulations 1992 (“the 1992 Regulations”). Mae’r Rheoliadau hyn yn diwygio Rheoliadau Cyfraniadau Ardrethu Annomestig (Cymru) 1992 (“Rheoliadau 1992”).
+- **The Seafarers (Wages and Working Conditions) Regulations 2026**
+  - when: 2026-11-04T10:17:26Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1160
+  - These Regulations are made under the Seafarers (Wages and Working Conditions) Act 2023 (c. 8) (“the Act”).
+- **The Air Navigation (Restriction of Flying) (Birmingham Christmas Market) Regulations 2026**
+  - when: 2026-11-04T03:02:45Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1159
+- **Correction Slip**
+  - when: 2026-11-04T15:44:07Z
+  - url: http://www.legislation.gov.uk/uksi/2026/1021/pdfs/uksics_20261021_en_001.pdf
+  - These Regulations amend the Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) Regulations 2020 (S.I. 2020/1087) (“the 2020 Regulations”), primarily to align with changes made by the Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558) to the disciplinary procedures that apply to members and former members of the territorial police forces in England and Wales and appeals from those procedures.
+- **Correction Slip**
+  - when: 2026-11-04T11:00:16Z
+  - url: http://www.legislation.gov.uk/ssi/2026/115/pdfs/ssics_20260115_en_002.pdf
+  - These Regulations bring into force a number of the provisions of the Housing (Scotland) Act 2025 (“the Act”) on 1 April 2026, 1 August 2026, 6 October 2026 and 1 April 2027.
+- **The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2026**
+  - when: 2026-11-04T10:42:28Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1154
+  - These Regulations extend by 12 months the transitional arrangements under Parts 2 and 3 of the Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589) which enable specified categories of Gibraltar-based firms to provide financial services in the United Kingdom and facilitate the access by similar types of UK-based firms to Gibraltar’s financial services market.
+- **The Charities (Russell-Cotes Art Gallery and Museum) Order 2026**
+  - when: 2026-11-03T16:04:59Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1149
+  - This Order gives effect to the scheme (“the scheme”) settled by the Charity Commission for England and Wales in accordance with section 73(1)(a) of the Charities Act 2011 (c. 25) for the administration of the charity known as “Russell-Cotes Art Gallery and Museum” (“the Charity”). Prior to the Order coming into force, the Charity was governed by section 57 of the Bournemouth Borough Council Act 1985 (c. v) and “the Governing Documents” as defined in paragraph 1 of the Schedule to the Order. The
