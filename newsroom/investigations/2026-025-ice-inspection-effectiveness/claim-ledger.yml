@@ -1,0 +1,45 @@
+claims:
+  - id: C1
+    status: supported
+    claim: "GAO-25-107580 found that DHS inspection entities lacked clear performance goals and measures for assessing the effectiveness of their inspection programs."
+    sources:
+      - "https://www.gao.gov/products/gao-25-107580"
+    locator: "What GAO Found; Recommendations for Executive Action"
+  - id: C2
+    status: supported
+    claim: "GAO-27-109299 reports that the number of ICE detention facilities and the average daily detained population increased while inspection frequency or methods changed, including greater reliance on facility self-inspections."
+    sources:
+      - "https://www.gao.gov/products/gao-27-109299"
+    locator: "Fast Facts; What GAO Found"
+  - id: C3
+    status: supported
+    claim: "GAO-27-109299 says ICE had not used inspection-deficiency and contract-performance evidence to determine the effects of recent inspection changes."
+    sources:
+      - "https://www.gao.gov/products/gao-27-109299"
+    locator: "What GAO Found"
+  - id: C4
+    status: supported
+    claim: "ICE's public detention-management page lists the 2026 National Detention Standards and describes daily on-site compliance reviews as part of its oversight program."
+    sources:
+      - "https://www.ice.gov/detain/detention-management"
+    locator: "Detention Standards; Detention Facility Oversight"
+  - id: C5
+    status: supported
+    claim: "ICE says its 2026 National Detention Standards revised the NDS to streamline standards and align them with current organizational structure and related standards."
+    sources:
+      - "https://www.ice.gov/detain/detention-management/2026"
+    locator: "Opening paragraph"
+  - id: C6
+    status: supported
+    claim: "A July 2026 ODO inspection report for Monroe County Detention Dorm describes annual and biennial inspection methods, including ODO-assisted self-inspections for certain lower-average-daily-population facilities."
+    sources:
+      - "https://www.ice.gov/doclib/foia/odo-compliance-inspections/MonroeCoDetDorm_MonroeMI_Jul14-16_2026.pdf"
+    locator: "Inspection Process section, pp. 2–3"
+  - id: C7
+    status: open
+    claim: "The public record may not provide a common measure connecting ICE's changed inspection methods and stated goals to inspection effectiveness or facility-condition outcomes."
+    sources:
+      - "https://www.gao.gov/products/gao-27-109299"
+      - "https://www.gao.gov/products/gao-25-107580"
+      - "https://www.ice.gov/detain/detention-management"
+    locator: "Comparison to be tested through further retrieval"

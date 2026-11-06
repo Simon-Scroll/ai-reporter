@@ -1,9 +1,56 @@
-# Horizon brief — 2026-11-05
+# Horizon brief — 2026-11-06
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
 ## sec-edgar
-Ingest failed: This operation was aborted
+- **4/A - Gallotta Steven E. (0001826510) (Reporting)**
+  - when: 2026-11-05T21:53:57-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1826510/000119312526450499/0001193125-26-450499-index.htm
+  - Filed: 2026-11-05 AccNo: 0001193125-26-450499 Size: 5 KB
+- **4/A - BCB BANCORP INC (0001228454) (Issuer)**
+  - when: 2026-11-05T21:53:57-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1228454/000119312526450499/0001193125-26-450499-index.htm
+  - Filed: 2026-11-05 AccNo: 0001193125-26-450499 Size: 5 KB
+- **4 - Lehner Edward J. (0001614103) (Reporting)**
+  - when: 2026-11-05T21:52:30-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1614103/000089914026001231/0000899140-26-001231-index.htm
+  - Filed: 2026-11-05 AccNo: 0000899140-26-001231 Size: 5 KB
+- **4 - Ryerson Holding Corp (0001481582) (Issuer)**
+  - when: 2026-11-05T21:52:30-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1481582/000089914026001231/0000899140-26-001231-index.htm
+  - Filed: 2026-11-05 AccNo: 0000899140-26-001231 Size: 5 KB
+- **4/A - Kim Denny (0001628816) (Reporting)**
+  - when: 2026-11-05T21:50:04-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1628816/000119312526450490/0001193125-26-450490-index.htm
+  - Filed: 2026-11-05 AccNo: 0001193125-26-450490 Size: 5 KB
+- **4/A - BCB BANCORP INC (0001228454) (Issuer)**
+  - when: 2026-11-05T21:50:04-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1228454/000119312526450490/0001193125-26-450490-index.htm
+  - Filed: 2026-11-05 AccNo: 0001193125-26-450490 Size: 5 KB
+- **4/A - National Bank Holdings Corp (0001475841) (Issuer)**
+  - when: 2026-11-05T21:42:14-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1475841/000130069526000006/0001300695-26-000006-index.htm
+  - Filed: 2026-11-05 AccNo: 0001300695-26-000006 Size: 5 KB
+- **4/A - Dean Robert E (0001300695) (Reporting)**
+  - when: 2026-11-05T21:42:14-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1300695/000130069526000006/0001300695-26-000006-index.htm
+  - Filed: 2026-11-05 AccNo: 0001300695-26-000006 Size: 5 KB
+- **SCHEDULE 13D/A - NovaBridge Biosciences (0001778016) (Subject)**
+  - when: 2026-11-05T21:41:52-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1778016/000091957426007454/0000919574-26-007454-index.htm
+  - Filed: 2026-11-05 AccNo: 0000919574-26-007454 Size: 12 KB
+- **SCHEDULE 13D/A - HHLR ADVISORS, LTD. (0001762304) (Filed by)**
+  - when: 2026-11-05T21:41:52-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1762304/000091957426007454/0000919574-26-007454-index.htm
+  - Filed: 2026-11-05 AccNo: 0000919574-26-007454 Size: 12 KB
+- **144 - Lehner Edward J. (0001614103) (Reporting)**
+  - when: 2026-11-05T21:39:47-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1614103/000089914026001230/0000899140-26-001230-index.htm
+  - Filed: 2026-11-05 AccNo: 0000899140-26-001230 Size: 5 KB
+- **144 - Ryerson Holding Corp (0001481582) (Subject)**
+  - when: 2026-11-05T21:39:47-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1481582/000089914026001230/0000899140-26-001230-index.htm
+  - Filed: 2026-11-05 AccNo: 0000899140-26-001230 Size: 5 KB
 
 ## federal-register
 - **Continuation of the National Emergency With Respect to the Threat From Securities Investments That Finance Certain Companies of the People's Republic of China**
@@ -56,6 +103,31 @@ Ingest failed: This operation was aborted
   - Commerce Department, National Oceanic and Atmospheric Administration — Notice — The Groundfish Subcommittee of the Pacific Fishery Management Council's (Pacific Council's) Scientific and Statistical Committee (SSC) will hold a virtual meeting to update the Accepted Practices Guidelines for Groundfish Stock Assessments document. The SSC Groundfish Subcommittee meeting is open to the public.
 
 ## gao
+- **Immigration Detention: Changes In Inspections of ICE Facilities Raise Questions About Oversight**
+  - when: Thu, 05 Nov 2026 07:19:18 -0500
+  - url: https://www.gao.gov/products/gao-27-109299
+  - pdf: https://www.gao.gov/assets/gao-27-109299.pdf
+  - What GAO Found Department of Homeland Security (DHS) detention facility inspections have changed at the same time that the number of immigration detention facilities and the size of the detained population have increased. From April 2025 to April 2026, following a January 2025 Executive Order, U.S. Immigration and Customs Enforcement (ICE) added over 40 detention facilities that detain noncitizens for over 72 hours. The average daily population of detained noncitizens grew by over 50 percent, t
+- **Superfund: EPA Should Collect and Use Information on the Effectiveness of Its Recovery of Cleanup Costs**
+  - when: Thu, 05 Nov 2026 07:15:02 -0500
+  - url: https://www.gao.gov/products/gao-27-107925
+  - pdf: https://www.gao.gov/assets/gao-27-107925.pdf
+  - What GAO Found The U.S. Environmental Protection Agency (EPA) uses the Hazardous Substance Superfund Trust Fund to finance cleanup costs at Superfund sites where responsible parties cannot be found or cannot pay. In fiscal years 2006 through 2024, the Trust Fund received about $34 billion in constant 2024 dollars, mostly from General Fund transfers. Congress appropriated about $32.8 billion from the Trust Fund for the Superfund program over this period. Revenue from the reinstated Superfund tax
+- **International Collaboration: Federal Banking Agencies Actively Participated in Standard-Setting Bodies**
+  - when: Thu, 05 Nov 2026 07:11:03 -0500
+  - url: https://www.gao.gov/products/gao-27-108190
+  - pdf: https://www.gao.gov/assets/gao-27-108190.pdf
+  - What GAO Found The Federal Deposit Insurance Corporation, Board of Governors of the Federal Reserve System, and Office of the Comptroller of the Currency help develop financial standards by participating in international standard-setting bodies, such as the Basel Committee on Banking Supervision. These banking agencies also conduct joint work with or provide technical assistance to certain bodies in which they are not members. Federal Banking Agencies’ Participation in Key International Standa
+- **District of Columbia Charter Schools: Key Changes Made to Academic Accountability System**
+  - when: Thu, 05 Nov 2026 07:16:01 -0500
+  - url: https://www.gao.gov/products/gao-27-109048
+  - pdf: https://www.gao.gov/assets/gao-27-109048.pdf
+  - What GAO Found The DC Public Charter School Board (PCSB) uses a multi-step process, including interviews and public hearings, to screen applicants. PCSB also requires applicants to meet several decision criteria (see figure). In the past 5 years PCSB has made a few key changes to the charter school application process. Changes include requiring that charters fill a demonstrated need and that prospective schools complete a preapplication process. Additionally, PCSB has shifted the application ti
+- **U.S. Patent and Trademark Office: Patent Backlog Reduction Efforts Pose Risks to Examiner Retention and Examination Quality**
+  - when: Thu, 05 Nov 2026 07:21:13 -0500
+  - url: https://www.gao.gov/products/gao-27-108491
+  - pdf: https://www.gao.gov/assets/gao-27-108491.pdf
+  - What GAO Found The backlog of unexamined patent applications awaiting an initial decision from the United States Patent and Trademark Office (USPTO) rose to about 838,000 applications in January 2025. In September 2025, the USPTO announced a goal to reduce the backlog to under 599,000 applications but did not specify a time frame for reaching it. The backlog was last at that level in 2020. To reduce the backlog, the USPTO is requiring patent examiners to review more applications, has decreased
 - **October 28, 2026 letter commenting on the International Auditing and Assurance Standards Board's July 2026 Exposure Draft: "Proposed International Standard on Auditing for Audits of Financial Statements of Less Complex Entities (Revised)"**
   - when: Thu, 29 Oct 2026 13:05:10 -0400
   - url: https://www.gao.gov/products/e16078
@@ -69,149 +141,123 @@ Ingest failed: This operation was aborted
   - url: https://www.gao.gov/products/gao-26-107965
   - pdf: https://www.gao.gov/assets/gao-26-107965.pdf
   - What GAO Found The Department of State last updated its standards for overseas housing space in 1991, according to State officials. Those standards may no longer align with State’s goal of providing Foreign Service personnel living abroad with housing comparable to the Washington, D.C., metropolitan area. In the last 35 years, median housing costs in the Washington, D.C., area have increased at a faster rate than Foreign Service personnel salaries. In addition, State’s method for measuring over
-- **Textile Circular Economy: Policy Options for the U.S.**
-  - when: Fri, 16 Oct 2026 09:35:25 -0400
-  - url: https://www.gao.gov/products/gao-27-108142
-  - pdf: https://www.gao.gov/assets/gao-27-108142.pdf
-  - What GAO Found Developing a textile circular economy includes repairing, reusing, and recycling textiles and making them last longer. Example of a Circular Economy for Textiles In the U.S., a textile circular economy may create potential benefits and involve challenges, according to reports by federal agencies and organizations and stakeholder interviews. Potential benefits could include creating new jobs and markets related to textile repair and recycling, reducing environmental harm, and
-- **Critical Minerals: Limited Available Information on the Full Extent of Foreign Investment in Mining on Federal Lands**
-  - when: Fri, 16 Oct 2026 07:40:00 -0400
-  - url: https://www.gao.gov/products/gao-27-108094
-  - pdf: https://www.gao.gov/assets/gao-27-108094.pdf
-  - What GAO Found The U.S critical mineral supply chain faces numerous constraints, including the need for substantial capital investment and limited domestic processing capacity. The U.S. exports large quantities of domestically extracted ore to Canada, Mexico, and China, among other countries. Copper Mine on Federal Lands The Bureau of Land Management (BLM) and the Forest Service oversee hardrock mines on federal land. As of February 2026, there were 632 approved hardrock mining plans of ope
-- **Tax Filing: IRS Should Enhance Ghost Preparer Identification and Compliance Efforts in a Comprehensive Preparer Strategy**
-  - when: Fri, 16 Oct 2026 07:28:51 -0400
-  - url: https://www.gao.gov/products/gao-27-108176
-  - pdf: https://www.gao.gov/assets/gao-27-108176.pdf
-  - What GAO Found Ghost preparers are paid tax preparers who do not comply with requirements to identify themselves on tax returns they prepare for others. Ghost preparers may intentionally leave identifying information off to get away with filing fraudulent income tax returns, stealing taxpayers’ refunds, and stealing taxpayers’ identities. Courts have ordered individual ghost preparers to pay millions in restitution to the government, but according to Internal Revenue Service (IRS) officials, th
-- **Research Security: NIH Action Needed to Strengthen Foreign Interference Risk Management**
-  - when: Fri, 16 Oct 2026 08:13:12 -0400
-  - url: https://www.gao.gov/products/gao-27-107848
-  - pdf: https://www.gao.gov/assets/gao-27-107848.pdf
-  - What GAO Found The National Institutes of Health (NIH) funds extramural research through awards to universities and other institutions. Implementation of federal research security requirements helps safeguard this research from foreign interference, including misappropriation and unauthorized access by foreign countries and entities. NIH implemented 14 of the 15 federal research security requirements GAO reviewed that address: (1) disclosure, (2) malign foreign talent recruitment programs, (3)
-- **Federal Real Property: New Occupancy Data Help Agencies Shed Unneeded Office Space But Gaps Limit the Full Picture**
-  - when: Fri, 16 Oct 2026 07:18:45 -0400
-  - url: https://www.gao.gov/products/gao-27-108503
-  - pdf: https://www.gao.gov/assets/gao-27-108503.pdf
-  - What GAO Found Under the Utilizing Space Efficiently and Improving Technologies (USE IT) Act, enacted in January 2025, federal agencies are now required to collect and report occupancy data. This data is used to calculate utilization rates for agencies’ office space in federally owned buildings and leased locations. While 20 of the 23 agencies that responded to GAO’s survey reported using existing badging systems for this purpose, 16 of these 20 agencies reported supplementing that information
+- **Critical Minerals: BLM Should Ensure Individuals and Businesses Meet Citizenship Requirements for Hardrock Mining Claims**
+  - when: Fri, 16 Oct 2026 07:40:59 -0400
+  - url: https://www.gao.gov/products/gao-27-108196
+  - pdf: https://www.gao.gov/assets/gao-27-108196.pdf
+  - What GAO Found The Department of the Interior’s Bureau of Land Management (BLM) administers mining claims that grant the exclusive right to extract critical and other hardrock minerals from most federal lands. U.S. mining laws include citizenship requirements for individuals and business entities holding such claims, known as mining claimants. Under these laws, mining claimants generally must be U.S. citizens, which can include individuals as well as business entities incorporated in a U.S. sta
 - **Private Health Insurance: Market Concentration in 2024 Was Generally Higher Than in 2011**
   - when: Fri, 16 Oct 2026 10:25:08 -0400
   - url: https://www.gao.gov/products/gao-27-108927
   - pdf: https://www.gao.gov/assets/gao-27-108927.pdf
   - What GAO Found Since 2014, GAO has reported that enrollment in private health insurance plans has been concentrated, meaning a small number of issuers, such as health insurers, enrolled most of the people in a given market. Specifically, GAO considers a market concentrated in a state if three or fewer issuers hold at least 80 percent of the market share of enrollment. For this report, GAO examined the individual (coverage primarily sold to individuals who lack access to group coverage), small-
-- **National Security: FBI Should Strengthen Partnerships to Combat Non-Traditional Intelligence Collectors**
-  - when: Fri, 16 Oct 2026 07:28:08 -0400
-  - url: https://www.gao.gov/products/gao-27-109057
-  - pdf: https://www.gao.gov/assets/gao-27-109057.pdf
-  - What GAO Found According to the Federal Bureau of Investigation (FBI), non-traditional intelligence collectors (NTCs) are individuals whose primary profession is not intelligence collection, but who actively or passively collect sensitive U.S. information on behalf of foreign entities. For example, researchers and students at universities may act as NTCs if they collect non-public research on behalf of a foreign entity. According to the FBI, unlike intelligence officers, NTCs function independe
-- **Nuclear Waste: Addressing Legal and Regulatory Barriers Could Accelerate Cleanup and Reduce Costs**
-  - when: Fri, 16 Oct 2026 08:05:50 -0400
-  - url: https://www.gao.gov/products/gao-27-107791
-  - pdf: https://www.gao.gov/assets/gao-27-107791.pdf
-  - What GAO Found The Department of Energy’s (DOE) nuclear waste cleanup is proceeding largely under three laws that set cleanup and waste management requirements. Each law has different requirements, applications, and regulators. Selected Cleanup and Waste Management Laws and Regulators for the Department of Energy’s (DOE) Nuclear Waste Cleanup GAO and experts GAO convened with the National Academies of Sciences, Engineering, and Medicine identified several legal and regulatory factors that a
-- **Nuclear Waste: Future Land Use Planning at Selected DOE Cleanup Sites**
-  - when: Fri, 16 Oct 2026 09:42:29 -0400
-  - url: https://www.gao.gov/products/gao-27-108063
-  - pdf: https://www.gao.gov/assets/gao-27-108063.pdf
-  - What GAO Found The Department of Energy (DOE) created initial future land use plans in coordination with local communities as early as 1992 at six cleanup sites GAO selected for review. These plans inform but do not bind assumptions about future land use that DOE and regulators make when selecting a cleanup remedy at a site. The remedy selected during the cleanup process has lasting consequences for how a parcel of land can be used, even after DOE transfers or leases it to another federal agenc
+- **Tax Filing: IRS Should Enhance Ghost Preparer Identification and Compliance Efforts in a Comprehensive Preparer Strategy**
+  - when: Fri, 16 Oct 2026 07:28:51 -0400
+  - url: https://www.gao.gov/products/gao-27-108176
+  - pdf: https://www.gao.gov/assets/gao-27-108176.pdf
+  - What GAO Found Ghost preparers are paid tax preparers who do not comply with requirements to identify themselves on tax returns they prepare for others. Ghost preparers may intentionally leave identifying information off to get away with filing fraudulent income tax returns, stealing taxpayers’ refunds, and stealing taxpayers’ identities. Courts have ordered individual ghost preparers to pay millions in restitution to the government, but according to Internal Revenue Service (IRS) officials, th
+- **Critical Minerals: Limited Available Information on the Full Extent of Foreign Investment in Mining on Federal Lands**
+  - when: Fri, 16 Oct 2026 07:40:00 -0400
+  - url: https://www.gao.gov/products/gao-27-108094
+  - pdf: https://www.gao.gov/assets/gao-27-108094.pdf
+  - What GAO Found The U.S critical mineral supply chain faces numerous constraints, including the need for substantial capital investment and limited domestic processing capacity. The U.S. exports large quantities of domestically extracted ore to Canada, Mexico, and China, among other countries. Copper Mine on Federal Lands The Bureau of Land Management (BLM) and the Forest Service oversee hardrock mines on federal land. As of February 2026, there were 632 approved hardrock mining plans of ope
 
 ## courtlistener
 - **Order on Motion - State v. Miller**
   - when: 2026-11-10T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11053720/order-on-motion-state-v-miller/
   - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **Parker v. Merrifield**
-  - when: 2026-11-04T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11054016/parker-v-merrifield/
-  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT CIECRETT L. PARKER, Appellant, v. STEVAN MERRIFIELD, Appellee. No. 2D2026-0761 November 4, 2026 Appeal from the Circuit Court for Manatee County; Edward Nicholas, Judge. Ciecrett Original document
-- **Baker v. Pedro**
-  - when: 2026-11-04T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11054139/baker-v-pedro/
-  - 334 November 4, 2026 No. 1060 IN THE COURT OF APPEALS OF THE STATE OF OREGON ERNEST HAROLD BAKER, III, Petitioner-Appellant, v. David PEDRO, Superintendent, Eastern Oregon Correctional Institution, Defendant-Respondent. Umatilla County Circuit Court 23CV17033; Original document
-- **Whaleco Inc. v. Gluck**
-  - when: 2026-11-04T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11054453/whaleco-inc-v-gluck/
-  - United States Court of Appeals For the First Circuit Nos. 25-1893 25-1894 WHALECO INC., Plaintiff, Appellant/Cross-Appellee, v. JEFFREY GLUCK; GLUCK LAW FIRM, P.C., Defendants, Appellees/Cross-Appellants; ALEC MONOPOLY ART, LLC; ALEC MONOPOLY, LLC; COOKIES SF LLC, Defendants, Appellees. APPEALS FROM THE UNITED Original document
-- **State v. Young**
-  - when: 2026-11-04T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11053739/state-v-young/
-  - IN THE COURT OF APPEALS OF NORTH CAROLINA No. COA24-506 Filed 4 November 2026 Brunswick County, Nos. 19CR053047-090; 19CR053059-090 STATE OF NORTH CAROLINA v. LOGAN NEAL YOUNG Appeal by Defendant from judgment entered 12 April 2023 by Judge Robert C. Roupe in Brunswick County Superior Court. Heard in the Court of Appeals on 17 September 2026. Attorney General Jeff Jackson Original document
-- **Vasquez v. State of Florida**
-  - when: 2026-11-04T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11054092/vasquez-v-state-of-florida/
-  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT STEPHEN JOHN VASQUEZ, Appellant, v. STATE OF FLORIDA, Appellee. No. 2D2026-1843 November 4, 2026 Appeal pursuant to Fla. R. App. P. 9.141(b)(2) from the Circuit Court for Pinellas County; Original document
-- **Rafael Lopes Brasileiro Martim v. Cattleya PTC**
-  - when: 2026-11-04T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11054094/rafael-lopes-brasileiro-martim-v-cattleya-ptc/
-  - Third District Court of Appeal State of Florida Opinion filed November 4, 2026. Not final until disposition of timely filed motion for rehearing. ________________ No. 3D25-2106 Lower Tribunal No. 25-13939-CA-01 ________________ Rafael Lopes Brasileiro Martim, et al., Appellants Original document
-- **Bobby Fitzgerald Hunt Jr. v. State of Iowa**
-  - when: 2026-11-04T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11054219/bobby-fitzgerald-hunt-jr-v-state-of-iowa/
-  - IN THE COURT OF APPEALS OF IOWA _______________ No. 25-2012 Filed November 4, 2026 _______________ Bobby Fitzgerald Hunt Jr., Petitioner, v. State of Iowa, Respondent. _______________ Certiorari to the Iowa District Court for Original document
-- **People v. White**
-  - when: 2026-11-04T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11054379/people-v-white/
-  - People v White 2026 NY Slip Op 06469 November 4, 2026 Appellate Division, Second Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. The People of the State of New York, respondent, v Adam White, appellant. Supreme Court of the State of New York, Appellate Division, Second Judicial Department Decided on November 4, 2026 2022-04491, (Ind. No. 373/21) Colleen Original document
-- **People ex rel. Bright v. Richards**
-  - when: 2026-11-04T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11054401/people-ex-rel-bright-v-richards/
-  - People ex rel. Bright v Richards 2026 NY Slip Op 06449 November 4, 2026 Appellate Division, Second Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. The People of the State of New York, ex rel. Elizabeth Bright, on behalf of Anthony Esposito, petitioner, v Stanley Richards, etc., respondent. Supreme Court of the State of New York, Appellate Division, Second Original document
-- **GERALD W. KELLER v. BRENDA KEMP**
-  - when: 2026-11-04T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11054035/gerald-w-keller-v-brenda-kemp/
-  - Court of Appeals of the State of Georgia ATLANTA,____________________ November 04, 2026 The Court of Appeals hereby passes the following order: A27A0679. KELLER v. KEMP et al. Pro se appellant Gerald Keller has filed a motion to supplement the appellate record in this case, asking that the record be supplemented with, among other things, various filings that the superior court clerk rejected or, in Original document
-- **State v. Cherbonneau**
-  - when: 2026-11-04T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11053988/state-v-cherbonneau/
-  - NOTICE: This opinion is subject to motions for rehearing under Rule 22 as well as formal revision before publication in the New Hampshire Reports. Readers are requested to notify the Reporter, Supreme Court of New Hampshire, One Charles Doe Drive, Concord, New Hampshire 03301, of any editorial errors in order that corrections may be made before the opinion goes to press. Errors may be reported by email at the following address: reporter@courts.state.nh.us. Opinions are available on the Internet by Original document
+- **In re G.K.**
+  - when: 2026-11-05T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11055772/in-re-gk/
+  - [Cite as In re G.K., 2026-Ohio-4379.] COURT OF APPEALS OF OHIO EIGHTH APPELLATE DISTRICT COUNTY OF CUYAHOGA IN RE G.K., ET AL. : No. 116462 Minor Children : [Appeal by Father] : JOURNAL ENTRY AND OPINION JUDGMENT: Original document
+- **Anil v. City of New York**
+  - when: 2026-11-05T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11055937/anil-v-city-of-new-york/
+  - Anil v City of New York 2026 NY Slip Op 06519 November 5, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Merih Anil, Plaintiff-Appellant-Respondent, v The City of New York et al., Defendants-Respondents-Appellants. Decided and Entered: November 05, 2026 Index No. 157736/22|Appeal No. 7445 & M-0575|Case No. 2025-7882| Before: Original document
+- **People v. Mendes**
+  - when: 2026-11-05T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11055890/people-v-mendes/
+  - People v Mendes 2026 NY Slip Op 06530 November 5, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. The People of the State of New York, Respondent, v Frederick Mendes, Defendant-Appellant. Decided and Entered: November 05, 2026 Ind No. 2262/11|2262/11|Appeal No. 7441|Case No. 2017-02041| Before: Scarpulla, J.P., Kapnick, Rosado Original document
+- **State v. Calloway**
+  - when: 2026-11-05T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11055768/state-v-calloway/
+  - [Cite as State v. Calloway, 2026-Ohio-4375.] COURT OF APPEALS OF OHIO EIGHTH APPELLATE DISTRICT COUNTY OF CUYAHOGA STATE OF OHIO, : Plaintiff-Appellee, : No. 116196 v. : DEMETRIUS CALLOWAY, Original document
+- **Sam's Excavating Unlimited, Inc. v. Smith**
+  - when: 2026-11-05T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11055885/sams-excavating-unlimited-inc-v-smith/
+  - [Cite as Sam&#x27;s Excavating Unlimited, Inc. v. Smith, 2026-Ohio-4394.] IN THE OHIO COURT OF APPEALS FIFTH APPELLATE DISTRICT FAIRFIELD COUNTY, OHIO SAM’S EXCAVATING UNLIMITED, INC Case No. 2026 CA 00014 Plaintiff-Appellee Opinion And Judgment Entry v. Original document
+- **United States v. Thompson**
+  - when: 2026-11-05T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11055941/united-states-v-thompson/
+  - This opinion is subject to revision before publication. UNITED STATES COURT OF APPEALS FOR THE ARMED FORCES _______________ UNITED STATES Appellee v. Phillip E. THOMPSON Jr., Specialist United States Army, Appellant No. 25-0254 Crim. App. No. 20190525 Argued April 15, 2026—Decided November 5, 2026 Military Judges: Original document
+- **People of Michigan v. Jordan Scott Coverdale**
+  - when: 2026-11-05T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11055968/people-of-michigan-v-jordan-scott-coverdale/
+  - Original document
+- **Jason Fyk v. a & P Home Investment LLC**
+  - when: 2026-11-05T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11055198/jason-fyk-v-a-p-home-investment-llc/
+  - DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA FOURTH DISTRICT JASON FYK, Appellant, v. A &amp; P HOME INVESTMENT LLC, Appellee. No. 4D2025-2416 [November 5, 2026] Appeal from the Circuit Court for the Seventeenth Judicial Circuit, Broward County; Michele Original document
+- **State v. Terrell**
+  - when: 2026-11-05T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11055762/state-v-terrell/
+  - [Cite as State v. Terrell, 2026-Ohio-4374.] COURT OF APPEALS OF OHIO EIGHTH APPELLATE DISTRICT COUNTY OF CUYAHOGA STATE OF OHIO, : Plaintiff-Appellee, : No. 116190 v. : DERRICK TERRELL, Original document
+- **Pizzarotti, LLC v. MDB Dev. Corp.**
+  - when: 2026-11-05T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11055876/pizzarotti-llc-v-mdb-dev-corp/
+  - Pizzarotti, LLC v MDB Dev. Corp. 2026 NY Slip Op 06539 November 5, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Pizzarotti, LLC, Plaintiff-Appellant, v MDB Development Corp., Defendant-Respondent. Decided and Entered: November 05, 2026 Index No. 650809/19|Appeal No. 7414|Case No. 2025-07989| Before: Scarpulla, J.P., Gesmer Original document
+- **People v. Kemp**
+  - when: 2026-11-05T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11055908/people-v-kemp/
+  - People v Kemp 2026 NY Slip Op 06532 November 5, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. The People of the State of New York, Respondent, v Samson Kemp, Defendant-Appellant. Decided and Entered: November 05, 2026 Ind No. 73516/23|73516/23|Appeal No. 7427|Case No. 2025-01824| Before: Scarpulla, J.P., Gesmer, Rodriguez Original document
 
 ## uk-legislation
 - **<div xmlns="http://www.w3.org/1999/xhtml">
-						<span xml:lang="en">The Representation of the People (Electoral Registration without Applications) (Electoral Reform) (Wales) Regulations 2026</span> / <span xml:lang="cy">Rheoliadau Cynrychiolaeth y Bobl (Cofrestru Etholiadol heb Geisiadau) (Diwygio Etholiadol) (Cymru) 2026</span>
+						<span xml:lang="en">The Non-Domestic Rating (Description and Value of Differential Multipliers) (Amendment) (Wales) Regulations 2026</span> / <span xml:lang="cy">Rheoliadau Ardrethu Annomestig (Disgrifiad o Luosyddion Gwahaniaethol a Gwerth Lluosyddion Gwahaniaethol) (Diwygio) (Cymru) 2026</span>
 					</div>**
-  - when: 2026-11-05T03:01:55.132479Z
-  - url: http://www.legislation.gov.uk/id/wsi/2026/132
-- **The Employment Tribunals Extension of Jurisdiction (Amendment) (Scotland) Order 2026**
-  - when: 2026-11-05T03:07:02Z
-  - url: http://www.legislation.gov.uk/id/ssi/2026/327
-  - This Order amends the Employment Tribunals Extension of Jurisdiction (Scotland) Order 1994 (“the 1994 Order”). Article 2 amends article 7 of the 1994 Order to extend the time limit for bringing proceedings before an employment tribunal in Scotland, in respect of employees’ contract of employment claims, from three months to six months. Employees’ contract of employment claims include claims for breach of a contract of employment, or for a sum due under such a contract, where the claim arises or
-- **The A889 Trunk Road (Dalwhinnie) (40mph Speed Limit) Order 2026**
-  - when: 2026-11-05T03:06:52Z
-  - url: http://www.legislation.gov.uk/id/ssi/2026/325
-- **The Employment Tribunals (Early Conciliation: Exemptions and Rules of Procedure) (Amendment) Regulations 2026**
-  - when: 2026-11-04T16:02:39Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1144
-  - These Regulations amend the Employment Tribunals (Early Conciliation: Exemptions and Rules of Procedure) Regulations 2014 (“the 2014 Regulations”) to add to the information that prospective claimants must provide to ACAS in order to comply with the requirement to contact ACAS before instituting proceedings in section 18A of the Employment Tribunals Act 1996. These Regulations also clarify the 2014 Regulations and make further provision regarding the early conciliation procedure.
-- **The International Controlled Transaction Reporting Regulations 2026**
-  - when: 2026-11-04T15:56:03Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1156
-  - These Regulations make provision in connection with the provision of information in relation to international controlled transactions.
-- **<div xmlns="http://www.w3.org/1999/xhtml">
-						<span xml:lang="en">The Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 2026</span> / <span xml:lang="cy">Rheoliadau Cyfraniadau Ardrethu Annomestig (Cymru) (Diwygio) 2026</span>
-					</div>**
-  - when: 2026-11-04T11:44:17Z
-  - url: http://www.legislation.gov.uk/id/wsi/2026/131
-  - These Regulations amend the Non-Domestic Rating Contributions (Wales) Regulations 1992 (“the 1992 Regulations”). Mae’r Rheoliadau hyn yn diwygio Rheoliadau Cyfraniadau Ardrethu Annomestig (Cymru) 1992 (“Rheoliadau 1992”).
-- **The Seafarers (Wages and Working Conditions) Regulations 2026**
-  - when: 2026-11-04T10:17:26Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1160
-  - These Regulations are made under the Seafarers (Wages and Working Conditions) Act 2023 (c. 8) (“the Act”).
-- **The Air Navigation (Restriction of Flying) (Birmingham Christmas Market) Regulations 2026**
-  - when: 2026-11-04T03:02:45Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1159
-- **Correction Slip**
-  - when: 2026-11-04T15:44:07Z
-  - url: http://www.legislation.gov.uk/uksi/2026/1021/pdfs/uksics_20261021_en_001.pdf
-  - These Regulations amend the Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) Regulations 2020 (S.I. 2020/1087) (“the 2020 Regulations”), primarily to align with changes made by the Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558) to the disciplinary procedures that apply to members and former members of the territorial police forces in England and Wales and appeals from those procedures.
-- **Correction Slip**
-  - when: 2026-11-04T11:00:16Z
-  - url: http://www.legislation.gov.uk/ssi/2026/115/pdfs/ssics_20260115_en_002.pdf
-  - These Regulations bring into force a number of the provisions of the Housing (Scotland) Act 2025 (“the Act”) on 1 April 2026, 1 August 2026, 6 October 2026 and 1 April 2027.
-- **The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2026**
-  - when: 2026-11-04T10:42:28Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1154
-  - These Regulations extend by 12 months the transitional arrangements under Parts 2 and 3 of the Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589) which enable specified categories of Gibraltar-based firms to provide financial services in the United Kingdom and facilitate the access by similar types of UK-based firms to Gibraltar’s financial services market.
-- **The Charities (Russell-Cotes Art Gallery and Museum) Order 2026**
-  - when: 2026-11-03T16:04:59Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1149
-  - This Order gives effect to the scheme (“the scheme”) settled by the Charity Commission for England and Wales in accordance with section 73(1)(a) of the Charities Act 2011 (c. 25) for the administration of the charity known as “Russell-Cotes Art Gallery and Museum” (“the Charity”). Prior to the Order coming into force, the Charity was governed by section 57 of the Bournemouth Borough Council Act 1985 (c. v) and “the Governing Documents” as defined in paragraph 1 of the Schedule to the Order. The
+  - when: 2026-11-06T03:02:10Z
+  - url: http://www.legislation.gov.uk/id/wsi/2026/133
+  - In relation to Wales, the non-domestic rating multiplier for each chargeable financial year is calculated in accordance with Part A2 of Schedule 7 to the Local Government Finance Act 1988 (“the 1988 Act”). O ran Cymru, cyfrifir y lluosydd ardrethu annomestig ar gyfer pob blwyddyn ariannol y codir swm ynglŷn â hi yn unol â Rhan A2 o Atodlen 7 i Ddeddf Cyllid Llywodraeth Leol 1988 (“Deddf 1988”).
+- **The Parking and Waiting Restrictions (Newtownabbey) (Amendment) Order (Northern Ireland) 2026**
+  - when: 2026-11-06T03:01:52Z
+  - url: http://www.legislation.gov.uk/id/nisr/2026/185
+- **The Air Navigation (Restriction of Flying) (Hampstead) Regulations 2026**
+  - when: 2026-11-05T17:13:57.338507Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1169
+- **The Registration of Births and Deaths (England and Wales) (Specified Requirements) Regulations 2026**
+  - when: 2026-11-05T14:28:04Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1168
+  - Under the Births and Deaths Registration Act 1953, certain people are required to attend the register office to give information about a birth, death or still-birth, and physically sign the register. Section 38B of that Act allows the Minister to specify requirements and to provide that the duty to sign the register has effect as a duty to comply with those specified requirements. If the requirements are complied with, the person will be taken to have signed the register and, where relevant, do
+- **The Strategic Planning Authorities (Spatial Development Strategy) Regulations 2026**
+  - when: 2026-11-05T14:12:45Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1162
+  - Part 1A of the Planning and Compulsory Purchase Act 2004 (c. 5) (inserted by section 58 of the Planning and Infrastructure Act 2025 (c. 34)) requires strategic planning authorities to prepare a spatial development strategy (“SDS”) for their area. These Regulations make provision as to the procedure to be followed in connection with the preparation of a SDS.
+- **The Strategic Planning (Consequential and Miscellaneous Amendments) Regulations 2026**
+  - when: 2026-11-05T13:31:45Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1164
+  - These Regulations revoke and amend secondary legislation relating to strategic planning.
+- **The Strategic Planning (Costs of Public Examinations) (Standard Daily Amount) (England) Regulations 2026**
+  - when: 2026-11-05T13:31:39Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1163
+  - These Regulations, which apply in relation to England only, apply where the Secretary of State is authorised to recover costs arising in connection with a public examination under section 12I or 12P(6)(a) of the Planning and Compulsory Purchase Act 2004 (c. 5).
+- **The Spatial Development Strategy (Examination Procedure) Rules 2026**
+  - when: 2026-11-05T13:31:35Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1161
+  - Part 1A of the Planning and Compulsory Purchase Act 2004 (c. 5) (inserted by section 58 of the Planning and Infrastructure Act 2025 (c. 34)) requires strategic planning authorities to prepare a spatial development strategy. Unless the Secretary of State directs otherwise, a draft spatial development strategy must be subject to an examination.
+- **The Data (Use and Access) Act 2025 (Commencement No. 10) Regulations 2026**
+  - when: 2026-11-05T13:41:51Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1167
+  - These Regulations bring into force sections 61 to 65 of the Data (Use and Access) Act 2025 (c. 18) (“the 2025 Act”). Regulation 2(1) brings the provisions specified in that regulation into force on 9th November 2026. Regulation 2(2) brings section 61(3) of the 2025 Act into force at 12.01 am on that date. These are the 10th commencement regulations made under the 2025 Act.
+- **The Building Safety Levy (Scotland) Act 2026 (Commencement No. 1) Regulations 2026**
+  - when: 2026-11-05T11:47:58Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/324
+  - These Regulations bring into force sections 6, 7, 9, 10(3) and (4), 11, 12(2) to (4), 15(6) and (7), 18, 19, 22, 23, 24(2), 30(1), 31 and 32 of the Building Safety Levy (Scotland) Act 2026 (“the Act”) on 1 December 2026. This brings into force all the powers to make regulations under the Act.
+- **The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2026**
+  - when: 2026-11-05T11:07:24Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/329
+  - This Order amends the Provision of Early Learning and Childcare (Specified Children) (Scotland) Order 2014 (“the 2014 Order”). The 2014 Order specifies those children who are eligible pre-school children for the purposes of section 47(2)(c)(ii) of the Children and Young People (Scotland) Act 2014 and who are therefore entitled to the mandatory amount of early learning and childcare (as defined in section 48 of that Act).
+- **The Trusts and Succession (Scotland) Act 2024 (Commencement No. 2 and Saving and Transitory Provision) Regulations 2026**
+  - when: 2026-11-05T09:58:25Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/323
+  - These Regulations bring certain provisions of the Trusts and Succession (Scotland) Act 2024 (“the Act”) into force on 14 December 2026.

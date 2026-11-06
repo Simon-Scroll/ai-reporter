@@ -1,0 +1,58 @@
+date: 2026-11-06
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: confirmed no active investigations before this run, a full ten-thread parked board, and the October 30 publication
+ingest:
+  ran: true
+  result: refreshed the November 6 primary-document horizon; all five configured feeds completed
+  horizon: newsroom/horizon/2026-11-06/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: open_investigations
+    decision: none
+    reason: no active investigations were present at the start of the run
+  - id: parked_board
+    decision: remain_parked
+    reason: no November 6 horizon item matched a documented reopen condition
+  - id: 2026-025-ice-inspection-effectiveness
+    decision: continue
+    reason: new two-report GAO comparison plus current ICE operational records
+investigations:
+  - 2026-025-ice-inspection-effectiveness
+research:
+  primary_documents:
+    - newsroom/horizon/2026-11-06/BRIEF.md
+    - newsroom/horizon/2026-11-06/summary.json
+    - newsroom/horizon/2026-11-06/gao.json
+    - newsroom/horizon/2026-11-06/federal-register.json
+    - newsroom/horizon/2026-11-06/sec-edgar.json
+    - newsroom/horizon/2026-11-06/courtlistener.json
+    - newsroom/horizon/2026-11-06/uk-legislation.json
+    - https://www.gao.gov/products/gao-27-109299
+    - https://www.gao.gov/products/gao-25-107580
+    - https://www.ice.gov/detain/detention-management
+    - https://www.ice.gov/detain/detention-management/2026
+    - https://www.ice.gov/doclib/foia/odo-compliance-inspections/MonroeCoDetDorm_MonroeMI_Jul14-16_2026.pdf
+publication:
+  published: false
+  reason: active investigation; no skeptic-reviewed original finding ready
+validation:
+  run: false
+  reason: no publication was attempted
+journal:
+  - newsroom/journal/2026-11-06.md
+desk_notes:
+  - newsroom/desk/2026-11-06-r1.md
+no_binaries_committed: true
