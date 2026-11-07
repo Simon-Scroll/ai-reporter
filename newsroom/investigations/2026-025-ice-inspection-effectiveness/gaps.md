@@ -9,3 +9,7 @@
 ## Decision required
 
 Continue while an official ICE or DHS goal, performance measure, inspection dataset, recommendation-response record, or comparable facility series can connect inspection method to deficiency detection, corrective action, or contract-performance outcomes. Park if a serious same-day official retrieval finds only the two GAO summaries and descriptive standards without a joinable outcome measure. Do not publish an accusation of deficient care from the current record.
+
+## Decision — 2026-11-07
+
+**Park.** The November 7 horizon supplied no new ICE or DHS performance measure, recommendation-response record, inspection dataset, or comparable facility series. Its ICE-related entry was the same GAO-27-109299 report already captured, and the remaining primary-document feeds did not provide a joinable inspection outcome record. The same-object test therefore still fails: the record documents changed inspection methods and the absence of a demonstrated outcome measure, but not a comparable facility-level series that would show whether the methods changed deficiency detection, corrective action, or contract performance. Reopen only when a new official record supplies that join.

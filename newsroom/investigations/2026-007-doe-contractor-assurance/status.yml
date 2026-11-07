@@ -1,11 +1,11 @@
 id: 2026-007-doe-contractor-assurance
 opened: 2026-09-02
-updated: 2026-09-03
-status: parked
-mode: PARK
-next_action: Reopen only when an official DOE contract, clause, performance evaluation, fee decision, or site oversight record for the three GAO-sampled contracts becomes publicly retrievable; do not repeat the unchanged contract-record retrieval.
+updated: 2026-11-07
+status: killed
+mode: KILL
+next_action: Do not reopen without a new hypothesis and a new first primary document exposing a contract-level DOE assurance record.
 hypothesis: "DOE's contractor-assurance system may be formally required but operationally weak because contract incentives and performance evaluations do not translate CAS performance into clear, measurable consequences."
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
-last_decision: park
+last_decision: kill

@@ -1,108 +1,113 @@
-# Horizon brief — 2026-11-06
+# Horizon brief — 2026-11-07
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
 ## sec-edgar
-- **4/A - Gallotta Steven E. (0001826510) (Reporting)**
-  - when: 2026-11-05T21:53:57-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1826510/000119312526450499/0001193125-26-450499-index.htm
-  - Filed: 2026-11-05 AccNo: 0001193125-26-450499 Size: 5 KB
-- **4/A - BCB BANCORP INC (0001228454) (Issuer)**
-  - when: 2026-11-05T21:53:57-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1228454/000119312526450499/0001193125-26-450499-index.htm
-  - Filed: 2026-11-05 AccNo: 0001193125-26-450499 Size: 5 KB
-- **4 - Lehner Edward J. (0001614103) (Reporting)**
-  - when: 2026-11-05T21:52:30-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1614103/000089914026001231/0000899140-26-001231-index.htm
-  - Filed: 2026-11-05 AccNo: 0000899140-26-001231 Size: 5 KB
-- **4 - Ryerson Holding Corp (0001481582) (Issuer)**
-  - when: 2026-11-05T21:52:30-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1481582/000089914026001231/0000899140-26-001231-index.htm
-  - Filed: 2026-11-05 AccNo: 0000899140-26-001231 Size: 5 KB
-- **4/A - Kim Denny (0001628816) (Reporting)**
-  - when: 2026-11-05T21:50:04-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1628816/000119312526450490/0001193125-26-450490-index.htm
-  - Filed: 2026-11-05 AccNo: 0001193125-26-450490 Size: 5 KB
-- **4/A - BCB BANCORP INC (0001228454) (Issuer)**
-  - when: 2026-11-05T21:50:04-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1228454/000119312526450490/0001193125-26-450490-index.htm
-  - Filed: 2026-11-05 AccNo: 0001193125-26-450490 Size: 5 KB
-- **4/A - National Bank Holdings Corp (0001475841) (Issuer)**
-  - when: 2026-11-05T21:42:14-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1475841/000130069526000006/0001300695-26-000006-index.htm
-  - Filed: 2026-11-05 AccNo: 0001300695-26-000006 Size: 5 KB
-- **4/A - Dean Robert E (0001300695) (Reporting)**
-  - when: 2026-11-05T21:42:14-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1300695/000130069526000006/0001300695-26-000006-index.htm
-  - Filed: 2026-11-05 AccNo: 0001300695-26-000006 Size: 5 KB
-- **SCHEDULE 13D/A - NovaBridge Biosciences (0001778016) (Subject)**
-  - when: 2026-11-05T21:41:52-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1778016/000091957426007454/0000919574-26-007454-index.htm
-  - Filed: 2026-11-05 AccNo: 0000919574-26-007454 Size: 12 KB
-- **SCHEDULE 13D/A - HHLR ADVISORS, LTD. (0001762304) (Filed by)**
-  - when: 2026-11-05T21:41:52-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1762304/000091957426007454/0000919574-26-007454-index.htm
-  - Filed: 2026-11-05 AccNo: 0000919574-26-007454 Size: 12 KB
-- **144 - Lehner Edward J. (0001614103) (Reporting)**
-  - when: 2026-11-05T21:39:47-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1614103/000089914026001230/0000899140-26-001230-index.htm
-  - Filed: 2026-11-05 AccNo: 0000899140-26-001230 Size: 5 KB
-- **144 - Ryerson Holding Corp (0001481582) (Subject)**
-  - when: 2026-11-05T21:39:47-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1481582/000089914026001230/0000899140-26-001230-index.htm
-  - Filed: 2026-11-05 AccNo: 0000899140-26-001230 Size: 5 KB
+- **4 - MAXFIELD JOSHUA H (0002027497) (Reporting)**
+  - when: 2026-11-06T21:55:03-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/2027497/000119312526452288/0001193125-26-452288-index.htm
+  - Filed: 2026-11-06 AccNo: 0001193125-26-452288 Size: 5 KB
+- **4 - GARMIN LTD (0001121788) (Issuer)**
+  - when: 2026-11-06T21:55:03-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1121788/000119312526452288/0001193125-26-452288-index.htm
+  - Filed: 2026-11-06 AccNo: 0001193125-26-452288 Size: 5 KB
+- **4 - Barrocas Mark (0001987144) (Reporting)**
+  - when: 2026-11-06T21:54:24-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1987144/000090883426000509/0000908834-26-000509-index.htm
+  - Filed: 2026-11-06 AccNo: 0000908834-26-000509 Size: 16 KB
+- **4 - SharkNinja, Inc. (0001957132) (Issuer)**
+  - when: 2026-11-06T21:54:24-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1957132/000090883426000509/0000908834-26-000509-index.htm
+  - Filed: 2026-11-06 AccNo: 0000908834-26-000509 Size: 16 KB
+- **SCHEDULE 13D/A - SALEM INVESTMENT PARTNERS V, LIMITED PARTNERSHIP (0001832887) (Filed by)**
+  - when: 2026-11-06T21:48:25-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1832887/000143774926035657/0001437749-26-035657-index.htm
+  - Filed: 2026-11-06 AccNo: 0001437749-26-035657 Size: 27 KB
+- **SCHEDULE 13D/A - Guerrilla RF, Inc. (0001832487) (Subject)**
+  - when: 2026-11-06T21:48:25-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1832487/000143774926035657/0001437749-26-035657-index.htm
+  - Filed: 2026-11-06 AccNo: 0001437749-26-035657 Size: 27 KB
+- **SCHEDULE 13D/A - Bodford Alvin M. (0001891890) (Filed by)**
+  - when: 2026-11-06T21:46:42-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1891890/000143774926035656/0001437749-26-035656-index.htm
+  - Filed: 2026-11-06 AccNo: 0001437749-26-035656 Size: 15 KB
+- **SCHEDULE 13D/A - Guerrilla RF, Inc. (0001832487) (Subject)**
+  - when: 2026-11-06T21:46:42-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1832487/000143774926035656/0001437749-26-035656-index.htm
+  - Filed: 2026-11-06 AccNo: 0001437749-26-035656 Size: 15 KB
+- **4 - FuboTV Inc. (0001484769) (Issuer)**
+  - when: 2026-11-06T21:43:23-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1484769/000149315226050582/0001493152-26-050582-index.htm
+  - Filed: 2026-11-06 AccNo: 0001493152-26-050582 Size: 10 KB
+- **4 - LEFF DANIEL V (0001277070) (Reporting)**
+  - when: 2026-11-06T21:43:23-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1277070/000149315226050582/0001493152-26-050582-index.htm
+  - Filed: 2026-11-06 AccNo: 0001493152-26-050582 Size: 10 KB
+- **4 - Headley Jonathan Scott (0002094170) (Reporting)**
+  - when: 2026-11-06T21:43:05-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/2094170/000149315226050581/0001493152-26-050581-index.htm
+  - Filed: 2026-11-06 AccNo: 0001493152-26-050581 Size: 7 KB
+- **4 - FuboTV Inc. (0001484769) (Issuer)**
+  - when: 2026-11-06T21:43:05-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1484769/000149315226050581/0001493152-26-050581-index.htm
+  - Filed: 2026-11-06 AccNo: 0001493152-26-050581 Size: 7 KB
 
 ## federal-register
-- **Continuation of the National Emergency With Respect to the Threat From Securities Investments That Finance Certain Companies of the People's Republic of China**
-  - when: 2026-11-05
-  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22688/continuation-of-the-national-emergency-with-respect-to-the-threat-from-securities-investments-that
+- **The American Declaration of Freedom in Space**
+  - when: 2026-11-06
+  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space
   - Executive Office of the President — Presidential Document
-- **Continuation of the National Emergency With Respect to the Situation in Nicaragua**
-  - when: 2026-11-05
-  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22687/continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua
+- **Anti-Communism Week, 2026**
+  - when: 2026-11-06
+  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22787/anti-communism-week-2026
   - Executive Office of the President — Presidential Document
-- **Continuation of the National Emergency With Respect to the Proliferation of Weapons of Mass Destruction**
-  - when: 2026-11-05
-  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22686/continuation-of-the-national-emergency-with-respect-to-the-proliferation-of-weapons-of-mass
-  - Executive Office of the President — Presidential Document
-- **Continuation of the National Emergency With Respect to Iran**
-  - when: 2026-11-05
-  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22685/continuation-of-the-national-emergency-with-respect-to-iran
-  - Executive Office of the President — Presidential Document
-- **Purchasing and Property Management**
-  - when: 2026-11-05
-  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22650/purchasing-and-property-management
-  - Legal Services Corporation — Proposed Rule — This proposed rule revises the Legal Services Corporation's (LSC) definition of "capital improvement" by removing the threshold amount of LSC funds that must be expended on an improvement to real estate for the expenditure to qualify as a capital improvement. The proposed amendment would distinguish the definition of a capital improvement from the monetary thresholds required for prior approval; promote consistent tracking and oversight of LSC funds u
-- **Cost Standards and Procedures; Purchasing and Property Management**
-  - when: 2026-11-05
-  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22649/cost-standards-and-procedures-purchasing-and-property-management
-  - Legal Services Corporation — Rule — This final rule revises the Legal Services Corporation's (LSC or Corporation) regulations governing cost allowability, prior approval requirements, and property and procurement standards applicable to LSC recipients. The final rule clarifies when recipients must obtain prior approval for expenditures of LSC funds; increases the monetary threshold for prior approval; clarifies the treatment of proceeds from fundraising activities supported with LSC funds; provi
-- **Air Plan Revisions; Arizona; Maricopa County Air Quality Department; New Source Review; Emission Reduction Credits**
-  - when: 2026-11-05
-  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22647/air-plan-revisions-arizona-maricopa-county-air-quality-department-new-source-review-emission
-  - Environmental Protection Agency — Rule — The U.S. Environmental Protection Agency (EPA) is taking final action to approve a revision to the Maricopa County Air Quality Department (MCAQD or "Department") portion of the Arizona State Implementation Plan (SIP). This revision establishes a federally enforceable program allowing for the generation of emission reduction credits (ERCs) by retrofitting or replacing existing on-road vehicles with lower emitting vehicles while meeting other Clean Air Act
-- **Accrediting Agencies Currently Undergoing Review for the Purpose of Recognition by the U.S. Secretary of Education**
-  - when: 2026-11-05
-  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22644/accrediting-agencies-currently-undergoing-review-for-the-purpose-of-recognition-by-the-us-secretary
-  - Education Department — Notice — This notice provides information to members of the public on submitting written comments for accrediting agencies currently undergoing review for the purpose of recognition by the Secretary of Education.
-- **Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Cook Inlet EEZ Commercial Salmon Fishery**
-  - when: 2026-11-05
-  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22643/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for
-  - Commerce Department, National Oceanic and Atmospheric Administration — Notice — The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment preceding submission of
-- **Modification of Class D and Class E Airspace Areas; Roberts Field/Redmond Municipal Airport, Redmond, OR**
-  - when: 2026-11-05
-  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22642/modification-of-class-d-and-class-e-airspace-areas-roberts-fieldredmond-municipal-airport-redmond-or
-  - Transportation Department, Federal Aviation Administration — Rule — This action modifies the Class D and Class E airspace areas designated as a surface area, the Class E airspace area designated as an extension to a Class D or Class E surface area, and the Class E airspace area extending upward from 700 feet above the surface at Roberts Field/Redmond Municipal Airport, Redmond, OR. This action supports the safety and management of visual flight rules (VFR) and instrument flight rules (IFR) opera
-- **Caribbean Fishery Management Council's Scientific and Statistical Committee; Public Virtual Meeting**
-  - when: 2026-11-05
-  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22641/caribbean-fishery-management-councils-scientific-and-statistical-committee-public-virtual-meeting
-  - Commerce Department, National Oceanic and Atmospheric Administration — Notice — The Caribbean Fishery Management Council's (Council) Scientific and Statistical Committee (SSC) will hold a 1-day public virtual meeting to address the items contained in the tentative agenda included in the SUPPLEMENTARY INFORMATION.
-- **Pacific Fishery Management Council; Public Meeting**
-  - when: 2026-11-05
-  - url: https://www.federalregister.gov/documents/2026/11/05/2026-22640/pacific-fishery-management-council-public-meeting
-  - Commerce Department, National Oceanic and Atmospheric Administration — Notice — The Groundfish Subcommittee of the Pacific Fishery Management Council's (Pacific Council's) Scientific and Statistical Committee (SSC) will hold a virtual meeting to update the Accepted Practices Guidelines for Groundfish Stock Assessments document. The SSC Groundfish Subcommittee meeting is open to the public.
+- **Amendments to the “Small Business” and “Small Organization” Definitions for Investment Companies and Investment Advisers for Purposes of the Regulatory Flexibility Act**
+  - when: 2026-11-06
+  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22741/amendments-to-the-small-business-and-small-organization-definitions-for-investment-companies-and
+  - Securities and Exchange Commission — Rule — The Securities and Exchange Commission (the "Commission" or the "SEC") is amending the definitions of "small business" and "small organization" (collectively, "small entities") that are used in connection with Commission rulemaking under the Investment Company Act of 1940 (the "Investment Company Act") and the Investment Advisers Act of 1940 (the "Advisers Act"). These definitions concern regulatory requirements applicable to registered investment comp
+- **Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots**
+  - when: 2026-11-06
+  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment
+  - Health and Human Services Department, Centers for Medicare & Medicaid Services — Rule — This final rule with comment period revises the Medicare Hospital Outpatient Prospective Payment System (OPPS) and the Medicare Ambulatory Surgical Center (ASC) payment system for calendar year 2027 based on our continuing experience with these systems. We also describe the changes to the amounts and factors used to determine the payment rates for Medicare services paid under the OPPS and those paid under the
+- **Heightened Requirements for Foreign Importers of Record**
+  - when: 2026-11-06
+  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22735/heightened-requirements-for-foreign-importers-of-record
+  - Homeland Security Department, U.S. Customs and Border Protection — Rule — This document amends the U.S. Customs and Border Protection (CBP) regulations, consistent with Section 2 of Executive Order 14411, "Strengthening Customs Enforcement," by establishing new requirements for foreign importers of record (IORs) when making entry, and corresponding responsibilities for licensed customs brokers with regard to their clients. The new regulations also set forth consequences for foreign IORs and cust
+- **Drawbridge Operation Regulation; Harlem River, Between the Boroughs of Manhattan and the Bronx, New York City, New York**
+  - when: 2026-11-06
+  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22734/drawbridge-operation-regulation-harlem-river-between-the-boroughs-of-manhattan-and-the-bronx-new
+  - Homeland Security Department, Coast Guard — Proposed Rule — The Coast Guard proposes to temporarily modify the operating regulation that governs the Macombs Dam Bridge across the Harlem River, mile 3.2, between the Boroughs of Manhattan and the Bronx, New York City, New York. The bridge owner, New York City Department of Transportation (NYCDOT), submitted a request on August 31, 2026, to allow the bridge to remain in the closed position from February 1, 2027, through November 30, 2027, and facil
+- **Document Image System (DIS) Pilot for Used Self-Propelled Vehicles Export Document Submission: Renewal of Test**
+  - when: 2026-11-06
+  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22728/document-image-system-dis-pilot-for-used-self-propelled-vehicles-export-document-submission-renewal
+  - Homeland Security Department, U.S. Customs and Border Protection — Notice — This notice announces that U.S. Customs and Border Protection (CBP) is renewing the Document Image System (DIS) Pilot for Used Self- Propelled Vehicles (USPV) Export Document Submission (DIS USPV Test) for an additional two years. This voluntary pilot evaluates the feasibility of using the DIS to allow participants to submit the required vehicle ownership documentation for USPVs to CBP. This notice includes a description
+- **Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Application Process To Waive the Import Qualification Criteria Measures To Restrict Stockpiling of Polysilicon and Polysilicon Derivatives**
+  - when: 2026-11-06
+  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22726/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for
+  - Commerce Department, Industry and Security Bureau — Notice — The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment on the OMB approved emergency collection f
+- **Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Section 232 National Security Adjustments to Imports of Specialty Pharmaceuticals and Associated Ingredients**
+  - when: 2026-11-06
+  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22725/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for
+  - Commerce Department, Industry and Security Bureau — Notice — The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment on the OMB approved emergency collection f
+- **Records Governing Off-the-Record Communications; Public Notice**
+  - when: 2026-11-06
+  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22724/records-governing-off-the-record-communications-public-notice
+  - Energy Department, Federal Energy Regulatory Commission — Notice
+- **Filing Process and Data Collection for the Electric Quarterly Report Notice of Technical Conference**
+  - when: 2026-11-06
+  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22723/filing-process-and-data-collection-for-the-electric-quarterly-report-notice-of-technical-conference
+  - Energy Department, Federal Energy Regulatory Commission — Notice
+- **Columbia Gulf Transmission, LLC; Notice of Application and Establishing Intervention Deadline**
+  - when: 2026-11-06
+  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22722/columbia-gulf-transmission-llc-notice-of-application-and-establishing-intervention-deadline
+  - Energy Department, Federal Energy Regulatory Commission — Notice
 
 ## gao
+- **Democracy Assistance: State Department Should Improve Congressional Notification of Its Use of Certain Legal Authorities**
+  - when: Fri, 06 Nov 2026 07:13:23 -0500
+  - url: https://www.gao.gov/products/gao-27-107900
+  - pdf: https://www.gao.gov/assets/gao-27-107900.pdf
+  - What GAO Found Federal law contains certain provisions, known as notwithstanding authorities, that allow agencies to provide funding that would otherwise be restricted. Historically, the annual appropriations act has required agencies to notify Congress if they intend to use a notwithstanding authority to provide assistance in countries where U.S. law prohibits U.S. funding. In fiscal years (FY) 2023 and 2024, the joint explanatory statement (JES) accompanying the act included additional direct
 - **Immigration Detention: Changes In Inspections of ICE Facilities Raise Questions About Oversight**
   - when: Thu, 05 Nov 2026 07:19:18 -0500
   - url: https://www.gao.gov/products/gao-27-109299
@@ -156,63 +161,65 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - url: https://www.gao.gov/products/gao-27-108176
   - pdf: https://www.gao.gov/assets/gao-27-108176.pdf
   - What GAO Found Ghost preparers are paid tax preparers who do not comply with requirements to identify themselves on tax returns they prepare for others. Ghost preparers may intentionally leave identifying information off to get away with filing fraudulent income tax returns, stealing taxpayers’ refunds, and stealing taxpayers’ identities. Courts have ordered individual ghost preparers to pay millions in restitution to the government, but according to Internal Revenue Service (IRS) officials, th
-- **Critical Minerals: Limited Available Information on the Full Extent of Foreign Investment in Mining on Federal Lands**
-  - when: Fri, 16 Oct 2026 07:40:00 -0400
-  - url: https://www.gao.gov/products/gao-27-108094
-  - pdf: https://www.gao.gov/assets/gao-27-108094.pdf
-  - What GAO Found The U.S critical mineral supply chain faces numerous constraints, including the need for substantial capital investment and limited domestic processing capacity. The U.S. exports large quantities of domestically extracted ore to Canada, Mexico, and China, among other countries. Copper Mine on Federal Lands The Bureau of Land Management (BLM) and the Forest Service oversee hardrock mines on federal land. As of February 2026, there were 632 approved hardrock mining plans of ope
 
 ## courtlistener
 - **Order on Motion - State v. Miller**
   - when: 2026-11-10T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11053720/order-on-motion-state-v-miller/
   - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **In re G.K.**
-  - when: 2026-11-05T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11055772/in-re-gk/
-  - [Cite as In re G.K., 2026-Ohio-4379.] COURT OF APPEALS OF OHIO EIGHTH APPELLATE DISTRICT COUNTY OF CUYAHOGA IN RE G.K., ET AL. : No. 116462 Minor Children : [Appeal by Father] : JOURNAL ENTRY AND OPINION JUDGMENT: Original document
-- **Anil v. City of New York**
-  - when: 2026-11-05T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11055937/anil-v-city-of-new-york/
-  - Anil v City of New York 2026 NY Slip Op 06519 November 5, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Merih Anil, Plaintiff-Appellant-Respondent, v The City of New York et al., Defendants-Respondents-Appellants. Decided and Entered: November 05, 2026 Index No. 157736/22|Appeal No. 7445 & M-0575|Case No. 2025-7882| Before: Original document
-- **People v. Mendes**
-  - when: 2026-11-05T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11055890/people-v-mendes/
-  - People v Mendes 2026 NY Slip Op 06530 November 5, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. The People of the State of New York, Respondent, v Frederick Mendes, Defendant-Appellant. Decided and Entered: November 05, 2026 Ind No. 2262/11|2262/11|Appeal No. 7441|Case No. 2017-02041| Before: Scarpulla, J.P., Kapnick, Rosado Original document
-- **State v. Calloway**
-  - when: 2026-11-05T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11055768/state-v-calloway/
-  - [Cite as State v. Calloway, 2026-Ohio-4375.] COURT OF APPEALS OF OHIO EIGHTH APPELLATE DISTRICT COUNTY OF CUYAHOGA STATE OF OHIO, : Plaintiff-Appellee, : No. 116196 v. : DEMETRIUS CALLOWAY, Original document
-- **Sam's Excavating Unlimited, Inc. v. Smith**
-  - when: 2026-11-05T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11055885/sams-excavating-unlimited-inc-v-smith/
-  - [Cite as Sam&#x27;s Excavating Unlimited, Inc. v. Smith, 2026-Ohio-4394.] IN THE OHIO COURT OF APPEALS FIFTH APPELLATE DISTRICT FAIRFIELD COUNTY, OHIO SAM’S EXCAVATING UNLIMITED, INC Case No. 2026 CA 00014 Plaintiff-Appellee Opinion And Judgment Entry v. Original document
-- **United States v. Thompson**
-  - when: 2026-11-05T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11055941/united-states-v-thompson/
-  - This opinion is subject to revision before publication. UNITED STATES COURT OF APPEALS FOR THE ARMED FORCES _______________ UNITED STATES Appellee v. Phillip E. THOMPSON Jr., Specialist United States Army, Appellant No. 25-0254 Crim. App. No. 20190525 Argued April 15, 2026—Decided November 5, 2026 Military Judges: Original document
-- **People of Michigan v. Jordan Scott Coverdale**
-  - when: 2026-11-05T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11055968/people-of-michigan-v-jordan-scott-coverdale/
-  - Original document
-- **Jason Fyk v. a & P Home Investment LLC**
-  - when: 2026-11-05T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11055198/jason-fyk-v-a-p-home-investment-llc/
-  - DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA FOURTH DISTRICT JASON FYK, Appellant, v. A &amp; P HOME INVESTMENT LLC, Appellee. No. 4D2025-2416 [November 5, 2026] Appeal from the Circuit Court for the Seventeenth Judicial Circuit, Broward County; Michele Original document
-- **State v. Terrell**
-  - when: 2026-11-05T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11055762/state-v-terrell/
-  - [Cite as State v. Terrell, 2026-Ohio-4374.] COURT OF APPEALS OF OHIO EIGHTH APPELLATE DISTRICT COUNTY OF CUYAHOGA STATE OF OHIO, : Plaintiff-Appellee, : No. 116190 v. : DERRICK TERRELL, Original document
-- **Pizzarotti, LLC v. MDB Dev. Corp.**
-  - when: 2026-11-05T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11055876/pizzarotti-llc-v-mdb-dev-corp/
-  - Pizzarotti, LLC v MDB Dev. Corp. 2026 NY Slip Op 06539 November 5, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Pizzarotti, LLC, Plaintiff-Appellant, v MDB Development Corp., Defendant-Respondent. Decided and Entered: November 05, 2026 Index No. 650809/19|Appeal No. 7414|Case No. 2025-07989| Before: Scarpulla, J.P., Gesmer Original document
-- **People v. Kemp**
-  - when: 2026-11-05T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11055908/people-v-kemp/
-  - People v Kemp 2026 NY Slip Op 06532 November 5, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. The People of the State of New York, Respondent, v Samson Kemp, Defendant-Appellant. Decided and Entered: November 05, 2026 Ind No. 73516/23|73516/23|Appeal No. 7427|Case No. 2025-01824| Before: Scarpulla, J.P., Gesmer, Rodriguez Original document
+- **Little Brownie Properties, Inc. v. Rop Holding Group, Inc.**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056633/little-brownie-properties-inc-v-rop-holding-group-inc/
+  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2025-0018 Lower Tribunal Nos. 2008-CA-003909 and 2015-CA-000309 _____________________________ LITTLE BROWNIE PROPERTIES, INC., Appellant, v. ROP HOLDING GROUP, INC., Original document
+- **State v. Hawley**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056862/state-v-hawley/
+  - [Cite as State v. Hawley, 2026-Ohio-4411.] IN THE OHIO COURT OF APPEALS FIFTH APPELLATE DISTRICT FAIRFIELD COUNTY, OHIO STATE OF OHIO, Case No. 26 CA 018 Plaintiff - Appellee Opinion &amp; Judgment Entry -vs- Appeal from the Court of Common Pleas Original document
+- **Gerald Buchheit v. Cara Siciliano**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056661/gerald-buchheit-v-cara-siciliano/
+  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2025-0337 Lower Tribunal No. 2024-DR-032922 _____________________________ GERALD BUCHHEIT, Appellant, v. CARA SICILIANO, Original document
+- **State v. Schuler**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056702/state-v-schuler/
+  - [Cite as State v. Schuler, 2026-Ohio-4403.] IN THE COURT OF APPEALS OF OHIO SECOND APPELLATE DISTRICT MONTGOMERY COUNTY STATE OF OHIO : : C.A. No. 30791 Appellee : : Trial Court Case No. 2025 CR 00462 v Original document
+- **Karen Worthy v. Eastern Property Management LLC**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056665/karen-worthy-v-eastern-property-management-llc/
+  - Court of Appeals of the State of Georgia ATLANTA,____________________ November 06, 2026 The Court of Appeals hereby passes the following order: A27D0265. KAREN WORTHY v. EASTERN PROPERTY MANAGEMENT LLC. On October 15, 2026, the Fulton County Magistrate Court entered an order granting plaintiff Eastern Property Management LLC a writ of possession and awarding the plaintiff past-due rent and court Original document
+- **S. H. v. Department of Children and Families, Statewide**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056619/s-h-v-department-of-children-and-families-statewide/
+  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT In the Interest of S.S., A.H., and G.M., children. S.H., Appellant, v. DEPARTMENT OF CHILDREN AND FAMILIES and STATEWIDE GUARDIAN AD LITEM OFFICE, Appellees. No. 2D2026-0759 Original document
+- **Placido Perez-Hernandez v. Commonwealth of Kentucky**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056637/placido-perez-hernandez-v-commonwealth-of-kentucky/
+  - RENDERED: NOVEMBER 6, 2026; 10:00 A.M. TO BE PUBLISHED Commonwealth of Kentucky Court of Appeals NO. 2024-CA-1461-MR PLACIDO PEREZ-HERNANDEZ APPELLANT APPEAL FROM LOGAN CIRCUIT COURT v. HONORABLE JOE W. HENDRICKS, JR., JUDGE ACTION NO. 22-CR-00232 COMMONWEALTH OF KENTUCKY Original document
+- **Saxon v. Bay Ranch Mobile Village, LLP, Bay Ranch Mobile Home Park**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056618/saxon-v-bay-ranch-mobile-village-llp-bay-ranch-mobile-home-park/
+  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT ANDREW CALHOUN SAXON, Appellant, v. BAY RANCH MOBILE VILLAGE, LLP d/b/a BAY RANCH MOBILE HOME PARK, Appellee. No. 2D2026-1143 November 6, 2026 Appeal pursuant to Fla. R. App. P. 9.130 from the Original document
+- **Alpha Connect Corporation, d/b/a Alpha Connect, and Gerald King v. Stephen Mangina**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056604/alpha-connect-corporation-dba-alpha-connect-and-gerald-king-v-stephen/
+  - Rel: November 6, 2026 Notice: This opinion is subject to formal revision before publication in the advance sheets of Southern Reporter. Readers are requested to notify the Reporter of Decisions, Alabama Appellate Courts, 300 Dexter Avenue, Montgomery, Alabama 36104-3741 ((334) 229-0650), of any typographical or other errors, in order that corrections may be made before the opinion is printed in Southern Reporter. SUPREME COURT OF ALABAMA OCTOBER TERM Original document
+- **Lacy v. State of Florida**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056623/lacy-v-state-of-florida/
+  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT BRIAN C. LACY, Appellant, v. STATE OF FLORIDA, Appellee. No. 2D2025-3347 November 6, 2026 Appeal pursuant to Fla. R. App. P. 9.141(b)(2) from the Circuit Court for Sarasota County; Original document
+- **In re Maughan**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056672/in-re-maughan/
+  - IN THE SUPREME COURT OF THE STATE OF KANSAS No. 130,376 In the Matter of CARL F.A. MAUGHAN, Respondent. ORIGINAL PROCEEDING IN DISCIPLINE Original proceeding in discipline. Oral argument held September 17, 2026. Opinion filed November 6, 2026. One-year suspension. Alice Walker, Deputy Disciplinary Administrator, argued Original document
 
 ## uk-legislation
+- **The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026**
+  - when: 2026-11-06T15:55:23Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1171
+- **Administrative and Financial Provisions Act (Northern Ireland) 2026**
+  - when: 2026-11-06T16:06:12Z
+  - url: http://www.legislation.gov.uk/id/nia/2026/10
+  - An Act to make further provision with respect to the administration and financing of public services in Northern Ireland, in particular, measures to provide powers to undertake certain activities, to enable charging for certain activities and to modify arrangements for financial governance.
 - **<div xmlns="http://www.w3.org/1999/xhtml">
 						<span xml:lang="en">The Non-Domestic Rating (Description and Value of Differential Multipliers) (Amendment) (Wales) Regulations 2026</span> / <span xml:lang="cy">Rheoliadau Ardrethu Annomestig (Disgrifiad o Luosyddion Gwahaniaethol a Gwerth Lluosyddion Gwahaniaethol) (Diwygio) (Cymru) 2026</span>
 					</div>**
@@ -222,6 +229,14 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
 - **The Parking and Waiting Restrictions (Newtownabbey) (Amendment) Order (Northern Ireland) 2026**
   - when: 2026-11-06T03:01:52Z
   - url: http://www.legislation.gov.uk/id/nisr/2026/185
+- **Correction slip**
+  - when: 2026-11-06T13:37:13Z
+  - url: http://www.legislation.gov.uk/ukpga/2025/8/pdfs/ukpgacs_20250008_en_002.pdf
+  - An Act to make provision about finance.
+- **Correction slip**
+  - when: 2026-11-06T14:22:17Z
+  - url: http://www.legislation.gov.uk/uksi/2011/1055/pdfs/uksics_20111055_en_001.pdf
+  - These Regulations, made under sections 51(3), 52(1) and 52(3) of the Immigration, Asylum and Nationality Act 2006, specify fees relating to immigration and nationality. They follow on from the Immigration and Nationality (Fees) Order 2011, which sets out the applications, services and processes related to immigration and nationality in respect of which fees may be specified in regulations.
 - **The Air Navigation (Restriction of Flying) (Hampstead) Regulations 2026**
   - when: 2026-11-05T17:13:57.338507Z
   - url: http://www.legislation.gov.uk/id/uksi/2026/1169
@@ -245,19 +260,3 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-11-05T13:31:35Z
   - url: http://www.legislation.gov.uk/id/uksi/2026/1161
   - Part 1A of the Planning and Compulsory Purchase Act 2004 (c. 5) (inserted by section 58 of the Planning and Infrastructure Act 2025 (c. 34)) requires strategic planning authorities to prepare a spatial development strategy. Unless the Secretary of State directs otherwise, a draft spatial development strategy must be subject to an examination.
-- **The Data (Use and Access) Act 2025 (Commencement No. 10) Regulations 2026**
-  - when: 2026-11-05T13:41:51Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1167
-  - These Regulations bring into force sections 61 to 65 of the Data (Use and Access) Act 2025 (c. 18) (“the 2025 Act”). Regulation 2(1) brings the provisions specified in that regulation into force on 9th November 2026. Regulation 2(2) brings section 61(3) of the 2025 Act into force at 12.01 am on that date. These are the 10th commencement regulations made under the 2025 Act.
-- **The Building Safety Levy (Scotland) Act 2026 (Commencement No. 1) Regulations 2026**
-  - when: 2026-11-05T11:47:58Z
-  - url: http://www.legislation.gov.uk/id/ssi/2026/324
-  - These Regulations bring into force sections 6, 7, 9, 10(3) and (4), 11, 12(2) to (4), 15(6) and (7), 18, 19, 22, 23, 24(2), 30(1), 31 and 32 of the Building Safety Levy (Scotland) Act 2026 (“the Act”) on 1 December 2026. This brings into force all the powers to make regulations under the Act.
-- **The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2026**
-  - when: 2026-11-05T11:07:24Z
-  - url: http://www.legislation.gov.uk/id/ssi/2026/329
-  - This Order amends the Provision of Early Learning and Childcare (Specified Children) (Scotland) Order 2014 (“the 2014 Order”). The 2014 Order specifies those children who are eligible pre-school children for the purposes of section 47(2)(c)(ii) of the Children and Young People (Scotland) Act 2014 and who are therefore entitled to the mandatory amount of early learning and childcare (as defined in section 48 of that Act).
-- **The Trusts and Succession (Scotland) Act 2024 (Commencement No. 2 and Saving and Transitory Provision) Regulations 2026**
-  - when: 2026-11-05T09:58:25Z
-  - url: http://www.legislation.gov.uk/id/ssi/2026/323
-  - These Regulations bring certain provisions of the Trusts and Succession (Scotland) Act 2024 (“the Act”) into force on 14 December 2026.

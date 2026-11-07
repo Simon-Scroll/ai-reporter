@@ -1,0 +1,56 @@
+date: 2026-11-07
+mode: REST
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; dependencies audited with no vulnerabilities
+desk_status:
+  ran: true
+  result: confirmed one active ICE inspection thread and a full ten-thread parked board before this run's decision
+ingest:
+  ran: true
+  result: refreshed the November 7 primary-document horizon; all five configured feeds completed
+  horizon: newsroom/horizon/2026-11-07/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-025-ice-inspection-effectiveness
+    decision: park
+    reason: no new official ICE/DHS outcome record appeared; continuing would repeat yesterday's retrieval and the same-object test still fails
+  - id: parked_board
+    decision: remain_parked
+    reason: no November 7 horizon item matched a documented reopen condition after the capacity correction
+  - id: 2026-007-doe-contractor-assurance
+    decision: kill
+    reason: weakest parked path at the cap; no new DOE contract-level primary record since September 3 and no viable public retrieval path remains
+investigations:
+  - 2026-025-ice-inspection-effectiveness
+  - 2026-007-doe-contractor-assurance
+research:
+  primary_documents:
+    - newsroom/horizon/2026-11-07/BRIEF.md
+    - newsroom/horizon/2026-11-07/summary.json
+    - newsroom/horizon/2026-11-07/gao.json
+    - newsroom/horizon/2026-11-07/federal-register.json
+    - newsroom/horizon/2026-11-07/sec-edgar.json
+    - newsroom/horizon/2026-11-07/courtlistener.json
+    - newsroom/horizon/2026-11-07/uk-legislation.json
+  result: no new ICE/DHS performance measure, recommendation-response record, inspection dataset, or comparable facility series
+publication:
+  published: false
+  reason: no skeptic-reviewed original finding ready; the October 30 publication remains within the six-day cadence window
+validation:
+  run: false
+  reason: no publication was attempted
+journal:
+  - newsroom/journal/2026-11-07.md
+desk_notes:
+  - newsroom/desk/2026-11-07-r1.md
+  - newsroom/desk/2026-11-07-r2.md
+no_binaries_committed: true

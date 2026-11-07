@@ -12,3 +12,7 @@ Parked. Yesterday's next action was to retrieve the same three contract and perf
 ## Decision required
 
 Continue while contract clauses, performance-evaluation records, or official site oversight documents can be retrieved publicly. Park after two runs with the same retrieval action or three consecutive continue decisions without a new primary excerpt. Kill if the only possible output is a recap of GAO-26-107850 or if no contract-level public path remains.
+
+## 2026-11-07 kill decision
+
+**Killed to make room at the parked cap.** The thread has remained parked since September 3, and the November 7 horizon supplied no new DOE contract, clause, performance evaluation, fee decision, or site-oversight record for the three GAO-sampled contracts. The remaining target records are contract-level materials with no viable public retrieval path in the desk's reviewed sources, so the thread cannot move beyond GAO's own summary. Do not reopen without a new hypothesis and a new first primary document.
