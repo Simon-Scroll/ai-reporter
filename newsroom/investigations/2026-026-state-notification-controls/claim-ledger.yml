@@ -1,0 +1,26 @@
+claims:
+  - id: C1
+    status: supported
+    claim: "GAO reviewed 37 State congressional notifications for FY2023 and FY2024 funding and found that only one included details about the provisions of law being notwithstood, while all 37 included information on the authority and a program-activity justification under GAO's review method."
+    sources:
+      - "https://files.gao.gov/assets/gao-27-107900.pdf"
+    locator: "pp. 15–17, Table 2"
+  - id: C2
+    status: supported
+    claim: "GAO's Appendix II reproduces CN 24-210 as a State notification for $1,800,000 in FY2023 ESF-PSF for Mozambique, citing sections 7015(c), 7015(h)(2)(D), and 7032(b)(1), and describing radio programming, creative industries, local institutions, civil society, and staffing support."
+    sources:
+      - "https://files.gao.gov/assets/gao-27-107900.pdf"
+    locator: "Appendix II, pp. 39–41, Table 3"
+  - id: C3
+    status: supported
+    claim: "State's FY2025 PSF report lists CN 24-210 under Mozambique and State/AF with a $1,797,808 current allocation, $1,797,808 obligated, and $564,649 expended as of September 30, 2025."
+    sources:
+      - "https://www.state.gov/wp-content/uploads/2026/04/Report-Prevention-and-Stabilization-Fund-Obligations-and-Expenditures-for-Fiscal-Year-2025-Acc.pdf"
+    locator: "Tab 3, Table 6, Mozambique / State/AF / CN 24-210 row"
+  - id: C4
+    status: open
+    claim: "The public record may not preserve a reproducible link from the authority and activity described in CN 24-210 to the later financial execution record, and the 2026 notification process may or may not have repaired that link."
+    sources:
+      - "https://files.gao.gov/assets/gao-27-107900.pdf"
+      - "https://www.state.gov/wp-content/uploads/2026/04/Report-Prevention-and-Stabilization-Fund-Obligations-and-Expenditures-for-Fiscal-Year-2025-Acc.pdf"
+    locator: "Comparison to be tested through current State guidance and FY2026 records"

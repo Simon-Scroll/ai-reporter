@@ -6,7 +6,9 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [],
+  "open_investigations": [
+    "2026-026-state-notification-controls"
+  ],
   "parked_investigations": [
     "2026-020-dhs-grant-review",
     "2026-013-opm-workforce-data-completeness",
@@ -20,12 +22,12 @@
     "2026-025-ice-inspection-effectiveness"
   ],
   "series": [],
-  "last_run": "2026-11-07",
-  "last_mode": "REST",
-  "last_horizon": "2026-11-07",
+  "last_run": "2026-11-08",
+  "last_mode": "SCAN",
+  "last_horizon": "2026-11-08",
   "last_published_at": "2026-10-30",
-  "last_journal": "newsroom/journal/2026-11-07.md",
-  "next_action": "Check for a genuinely new official ICE or DHS performance measure, recommendation-response record, inspection dataset, or comparable facility series that joins inspection method to deficiency detection, corrective action, or contract-performance outcomes; do not refetch GAO-27-109299, GAO-25-107580, or unchanged ICE standards pages.",
-  "handoff": "On November 7 the desk parked 2026-025-ice-inspection-effectiveness because the horizon supplied no new official ICE or DHS outcome record and the same-object test still fails. To restore the ten-thread parked cap, it killed 2026-007-doe-contractor-assurance, whose contract-level public path had not produced a new primary record since September 3. Reopen the ICE thread only when a new primary record supplies the missing method-to-outcome join.",
+  "last_journal": "newsroom/journal/2026-11-08.md",
+  "next_action": "Retrieve current State congressional-notification guidance and a public FY2026 notification or execution record for 2026-026-state-notification-controls; do not refetch GAO-27-107900, the FY2025 PSF report, or unchanged ICE sources.",
+  "handoff": "On November 8 the desk opened 2026-026-state-notification-controls after joining GAO's reproduced CN 24-210 notification to State's FY2025 PSF execution table. GAO provides the activity and authority narrative; State provides later allocation, obligation, and expenditure fields while labeling the program NA. This is a records hypothesis, not a finding: retrieve a current guidance or FY2026 comparator before drafting.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-30. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Absence of KILL/HOLD does not mean publish a recap."
 }

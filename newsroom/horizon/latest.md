@@ -1,4 +1,4 @@
-# Horizon brief — 2026-11-07
+# Horizon brief — 2026-11-08
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
@@ -167,6 +167,10 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-11-10T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11053720/order-on-motion-state-v-miller/
   - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **United States v. Barrett**
+  - when: 2026-11-07T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11057615/united-states-v-barrett/
+  - GQnited States Court of Appeals for the Fifth Circuit United States Court of Appeals Fifth Circuit FILED No. 25-30155 October 28, 2026 Thomas B. Plunkett, III Clerk UNITED STATES OF AMERICA, Plaintiff—Appellee, versus JERAD M. BARRETT, Defendant — Appellant. Appeal from the United States District Court for the Eastern District of Louisiana USDC No. 2:23-CR-238-1 PUBLISHED ORDER Before GRAVES, Ho, and DOUGLAS, Circuit Judges. PER CURIAM: This panel previously GRANTED Appellee’s motion to Original document
 - **Little Brownie Properties, Inc. v. Rop Holding Group, Inc.**
   - when: 2026-11-06T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11056633/little-brownie-properties-inc-v-rop-holding-group-inc/
@@ -207,10 +211,6 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-11-06T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11056623/lacy-v-state-of-florida/
   - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT BRIAN C. LACY, Appellant, v. STATE OF FLORIDA, Appellee. No. 2D2025-3347 November 6, 2026 Appeal pursuant to Fla. R. App. P. 9.141(b)(2) from the Circuit Court for Sarasota County; Original document
-- **In re Maughan**
-  - when: 2026-11-06T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11056672/in-re-maughan/
-  - IN THE SUPREME COURT OF THE STATE OF KANSAS No. 130,376 In the Matter of CARL F.A. MAUGHAN, Respondent. ORIGINAL PROCEEDING IN DISCIPLINE Original proceeding in discipline. Oral argument held September 17, 2026. Opinion filed November 6, 2026. One-year suspension. Alice Walker, Deputy Disciplinary Administrator, argued Original document
 
 ## uk-legislation
 - **The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026**

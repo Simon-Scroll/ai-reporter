@@ -1,0 +1,47 @@
+date: 2026-11-08
+mode: SCAN
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; yaml dependency repaired and audit reported no vulnerabilities
+desk_status:
+  ran: true
+  result: confirmed no active investigations and a full ten-thread parked board before today's scan
+ingest:
+  ran: true
+  result: refreshed the November 8 primary-document horizon; all five configured feeds completed
+  horizon: newsroom/horizon/2026-11-08/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: parked_board
+    decision: remain_parked
+    reason: no November 8 horizon item matched a documented reopen condition
+investigations:
+  - 2026-026-state-notification-controls
+research:
+  primary_documents:
+    - newsroom/horizon/2026-11-08/BRIEF.md
+    - newsroom/horizon/2026-11-08/summary.json
+    - newsroom/horizon/2026-11-08/gao.json
+    - https://files.gao.gov/assets/gao-27-107900.pdf
+    - https://www.state.gov/wp-content/uploads/2026/04/Report-Prevention-and-Stabilization-Fund-Obligations-and-Expenditures-for-Fiscal-Year-2025-Acc.pdf
+    - https://www.state.gov/fy24-state-and-foreign-operations-appropriations-act-sfoaa-reports
+  result: opened a bounded two-primary comparison on CN 24-210 and identified a current State record still needed
+publication:
+  published: false
+  reason: no current comparator or skeptic-reviewed original finding ready
+validation:
+  run: false
+  reason: no publication was attempted
+journal:
+  - newsroom/journal/2026-11-08.md
+desk_notes:
+  - newsroom/desk/2026-11-08-r1.md
+no_binaries_committed: true
