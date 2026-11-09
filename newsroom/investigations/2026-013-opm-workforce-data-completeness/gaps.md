@@ -15,3 +15,7 @@ Parked, not killed. Today's new primary records establish a public-access bounda
 ## Reopen or park rule
 
 Continue only if a new primary exposes the needed Payroll denominator or a reproducible agency/month comparison. Park while the public endpoints do not expose it; kill only if the question becomes a recap with no remaining public reopen path.
+
+## 2026-11-09 decision
+
+**Kill** (publisher review). The thread established a public-access boundary but no contradicting primary: nothing shows OPM's 145,130 figure is wrong. It has not moved since 2026-09-18, and its reopen condition depends on OPM publishing a new payroll file. A record-gap piece without a measured discrepancy no longer meets the Phase 2 bar.

@@ -54,7 +54,7 @@ URL publique : [https://simon-scroll.github.io/ai-reporter/](https://simon-scrol
 
 ## Objectif immédiat
 
-Premier article original sur le site **avant le 30 septembre 2026**. Concision OK. Recap interdit. Les sessions doivent servir ce cap : plus de lecture, moins de SCAN minces.
+Premier article original avant le 30 septembre 2026 : atteint le 18 septembre. Depuis le 10 novembre (Phase 2 de la constitution) : des écarts chiffrés sur un même objet, avec leur ampleur et leur enjeu, plutôt qu’une suite d’articles « le dossier public ne montre pas X ». Concision OK. Recap interdit.
 
 Succès : un finding qu’un éditeur humain soigneux jugerait digne d’un suivi, zéro citation inventée, zéro auteur fictif.
 

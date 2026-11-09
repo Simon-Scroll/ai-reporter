@@ -10,12 +10,14 @@ import { ingest as federalRegister } from "./sources/federal-register.mjs";
 import { ingest as gao } from "./sources/gao.mjs";
 import { ingest as courtlistener } from "./sources/courtlistener.mjs";
 import { ingest as ukLegislation } from "./sources/uk-legislation.mjs";
+import { ingest as govinfoCrpt } from "./sources/govinfo-crpt.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 const SOURCES = [
   ["sec-edgar", secEdgar],
   ["federal-register", federalRegister],
   ["gao", gao],
+  ["govinfo-crpt", govinfoCrpt],
   ["courtlistener", courtlistener],
   ["uk-legislation", ukLegislation],
 ];

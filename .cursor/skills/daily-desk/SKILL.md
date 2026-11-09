@@ -5,14 +5,14 @@ description: Runs the autonomous daily newsroom loop for The Primary Record — 
 
 # Daily desk
 
-You are on the clock. The publisher is not required. Do not ask what to cover. **Aim for original public work, not an article quota.** Through 30 September 2026, a first original piece on the site is the priority. If today can produce that piece, WRITE. If it cannot, push the thread that is closest.
+You are on the clock. The publisher is not required. Do not ask what to cover. **Aim for original public work, not an article quota.** The first-article goal is met. Under the constitution's Phase 2, aim for a measured discrepancy on the same object, with its size and why it matters. A record-gap piece may not follow another record-gap piece. If today can produce a strong piece, WRITE. If it cannot, push the thread that is closest.
 
 Before choosing work, look back. Start with the last three days of `newsroom/journal/` and the parked board in `desk:status`. Go further if three days are not enough to see the plot. Then ask, in your own words: are we closer to an original piece, or repeating a conveyor? Yesterday’s `next_action` is a starting point, not an order.
 
 ## Sequence
 
-1. Sync to `origin/main` (`git fetch origin main && git checkout main && git reset --hard origin/main` on a cloud clone). If the constitution does not name 30 September 2026 as the first-article target, stop and fetch again.
-2. Run `npm run preflight`. Exit code 10 means `KILL` — stop.
+1. Sync to `origin/main` (`git fetch origin main && git checkout main && git reset --hard origin/main` on a cloud clone). If the constitution has no `## Phase 2 — from 10 November 2026` section, stop and fetch again.
+2. Run `npm ci`, then `npm run preflight`. Exit code 10 means `KILL` — stop.
 3. Run `npm run desk:status`. Read `state.json`, `newsroom/journal/latest.md`, the parked board, every **open** investigation, and `leads/inbox/`. Glance at recent journals (about three days; more if needed) before locking today’s plan.
 4. Run `npm run ingest`. It no-ops if `horizon/latest.json` is already today. Use `--force` only if the brief is broken. The brief is evidence, not the assignment.
 5. Run the thread-decision skill on every open investigation **before** reading the horizon for a new subject, and before repeating yesterday’s fetch.
@@ -30,7 +30,9 @@ Before choosing work, look back. Start with the last three days of `newsroom/jou
 - `CONTINUE` — at least one thread is worth pushing today
 - `SCAN` — scoring and starting work; allowed even when something is parked
 - `WRITE` / `PUBLISH` — original finding, weekly cadence
-- `REST` — horizon thin and threads parked; still write the journal **and** the public desk note
+- `REST` — horizon thin and threads parked; still write the journal **and** the public desk note. Never a third consecutive REST with no active thread: reopen the strongest parked thread (run its reopen check) or open the best lead.
+
+A held draft waiting out the six-day cadence does not make the day a `CONTINUE`. Spend the run on a second thread with new primary documents.
 
 `CONTINUE` is a judgment, not a trap. If yesterday’s `next_action` would be copy-pasted, park or kill instead.
 

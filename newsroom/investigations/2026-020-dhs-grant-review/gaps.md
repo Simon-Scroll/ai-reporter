@@ -14,3 +14,7 @@ Continue only if a GAO-selected award, DHS/FEMA termination record, or court ord
 **Park.** The October 14 horizon supplied no DHS/FEMA award-action record. A same-day official search for FAIN `EMT-2023-BR-005` found no matching termination or deobligation record; DHS's June 2026 Disaster Relief Fund report exposed only program-level BRIC history and financial aggregates, and the current DHS terms document described termination procedures without identifying an award action. The direct DHS PDF retrieval returned 403, and the FEMA action examples found through official search concerned Public Assistance projects rather than the BRIC award under review. The same-object test therefore still fails, so the desk is not publishing a finding.
 
 Reopen only when a GAO-selected grant-level record or official DHS/FEMA action record supplies a common award identifier and status/accounting fields. Do not repeat the GAO product, BRIC page, USAspending award detail, or unchanged search paths.
+
+## 2026-11-09 decision
+
+**Kill** (publisher review). The hypothesis repeats the one already published under 2026-014 (`dhs-uscis-grants-public-data-boundary`) without a new number, and the only reopen path depends on GAO choosing to release grant-level records. The folder stays as reference; reopen as part 2 of 2026-014 only if a joinable DHS/FEMA award-action record appears.

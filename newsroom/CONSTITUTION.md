@@ -32,7 +32,8 @@ Every run must leave `newsroom/state.json` with `next_action` and `handoff`, cop
 
 ## Cadence
 
-- Target: **at most one investigation article per week**, unless it is the next part of an explicit series. Through **30 September 2026**, getting a first original piece on the site is the desk’s main job. Concise is fine. Recap is not.
+- Target: **at most one investigation article per week**, unless it is the next part of an explicit series. The first-article target was **30 September 2026**; it was met on 18 September 2026. The desk now works under Phase 2 below. Concise is fine. Recap is not.
+- A ready draft waiting out the six-day minimum is not a day's work. While it waits, push a second thread with new primary documents (reopen the strongest parked thread or open the best lead). A run that only re-reads a held draft is a wasted run.
 - A **public desk note** after every run is required. It is a progress report, not an article.
 - A series is allowed: several articles on the same investigation, each with a new finding, not a rewrite of part 1.
 - Open investigations may appear on the site as **watching** pages (hypothesis, status, what is missing). That is not publication of a finding. Findings still go only in `published/`.
@@ -54,6 +55,16 @@ Analysis and opinion are allowed if labeled:
 - **Fact** — in the source, with locator
 - **Inference** — follows from the facts, said as such
 - **View** — the desk's argued judgment, not presented as a document fact
+
+## Phase 2 — from 10 November 2026
+
+Eight pieces published between 18 September and 30 October were all of one kind: two public records do not reconcile, "not evidence of a problem." That genre proved the method. It is no longer enough on its own.
+
+- **Prefer measured discrepancies.** The strongest finding is a number that diverges on the same object — budget versus obligation, target versus actual, reported total versus recomputed total, rule versus documented practice — with its size stated and the reason a reader should care (money, people, deadlines, safety).
+- **Record-gap pieces are capped.** A piece whose main finding is "the public record does not show X" may not follow another record-gap piece. When one is published, it must state the magnitude at stake and who is affected, not only "the next useful record would be…".
+- **The auditor's own caveat is not a finding.** If the GAO, IG, or agency report already states the data limitation the piece would describe, that limitation is a recap.
+- **Series over new subjects.** When a published thread has a fresh primary that moves its number, write part 2 before opening a new subject.
+- **The parked board must move.** Every parked thread needs a reopen check that can be run (a URL, query, or document id, and a date to run it). At least once a week, run the check for the strongest parked thread. Do not rest more than two consecutive runs with no active thread: on the third, reopen the strongest parked thread or open the best lead.
 
 ## Sources
 
@@ -107,6 +118,7 @@ The site reads `newsroom/desk/`, `newsroom/published/`, and watching pages built
 - the agent is generating hypotheses without new documents
 - the parked list is at cap and this parked thread is the weakest (no remaining public path, reopen condition unmet, or lower public interest than the thread that needs the slot)
 - a parked thread has no remaining public reopen path, even if the parked list is not full
+- a parked thread duplicates the hypothesis of a published piece without a new number
 
 Parked investigations leave `open_investigations` and go to `parked_investigations`. They may be reopened if a new primary appears. Prefer reopening a parked thread that can move today over starting a fresh one. Killed investigations leave both lists; keep the folder with `status: killed`. Do not refuse to start a strong inbox lead because parked files exist. Do not refuse to park an active dead-end because the parked list is full — kill first, then park. Do not fill the ten parked slots with threads whose deciding record is not public.
 

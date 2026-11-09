@@ -4,7 +4,7 @@ slug: nnsa-planning-to-headcount-gap
 date: 2026-10-18
 dek: "NNSA's FY2026 request supports 2,003 federal FTEs, while GAO reports 1,755 federal employees through Q2 FY2026. The agency's public planning records do not reconcile the difference or disclose how the Savannah River transfer maps to the count."
 finding: "The official records reviewed show a 248-position planning-to-headcount gap, but do not establish whether the difference reflects vacancies, timing, workforce definitions, or treatment of 38 transferred Savannah River positions."
-status: draft
+status: published
 language: en
 investigation_id: 2026-022-nnsa-workforce-capacity
 claims:

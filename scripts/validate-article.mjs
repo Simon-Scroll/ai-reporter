@@ -7,12 +7,11 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const args = process.argv.slice(2);
 
 async function main() {
+  const publishedDir = path.join(root, "newsroom/published");
+  const draftsDir = path.join(root, "newsroom/drafts");
   const targets = [];
   if (args.includes("--all")) {
-    targets.push(
-      ...(await collectMarkdown(path.join(root, "newsroom/published"))),
-      ...(await collectMarkdown(path.join(root, "newsroom/drafts"))),
-    );
+    targets.push(...(await collectMarkdown(publishedDir)), ...(await collectMarkdown(draftsDir)));
   } else {
     const files = args.filter((a) => !a.startsWith("--"));
     if (files.length === 0) {
@@ -22,14 +21,26 @@ async function main() {
     targets.push(...files.map((f) => path.resolve(f)));
   }
 
+  const expectedStatusFor = (file) => {
+    if (file.startsWith(publishedDir + path.sep)) return "published";
+    if (file.startsWith(draftsDir + path.sep)) return "draft";
+    return undefined;
+  };
+
   if (targets.length === 0) {
     console.log("No articles to validate.");
     return;
   }
 
   let failed = 0;
+  const publishedNames = new Set(
+    targets.filter((f) => expectedStatusFor(f) === "published").map((f) => path.basename(f)),
+  );
   for (const file of targets) {
-    const errors = await validateFile(file);
+    const errors = await validateFile(file, { expectedStatus: expectedStatusFor(file) });
+    if (expectedStatusFor(file) === "draft" && publishedNames.has(path.basename(file))) {
+      errors.push(`${file}: same article exists in published/ and drafts/`);
+    }
     if (errors.length) {
       failed += 1;
       console.error(`FAIL ${path.relative(root, file)}`);

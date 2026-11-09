@@ -1,11 +1,11 @@
 id: 2026-020-dhs-grant-review
 opened: 2026-10-13
-updated: 2026-10-14
-status: parked
-mode: PARK
+updated: 2026-11-09
+status: killed
+mode: KILL
 next_action: Reopen only when a GAO-selected grant-level record or official DHS/FEMA award action exposes a joinable award identifier with termination, pause, reinstatement, or deobligation status; do not repeat the GAO product, BRIC page, or USAspending award retrievals.
 hypothesis: "DHS's 2025 grant review left a reproducible gap between component-level termination accounting and the public award records used to audit it, while FEMA's 2026 rolling-termination process may repeat the same weakness without a documented lessons-learned control."
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
-last_decision: park
+last_decision: kill

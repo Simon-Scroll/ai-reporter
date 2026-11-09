@@ -153,11 +153,17 @@ export function validateArticle(data, body, filePath = "article.md") {
   return errors;
 }
 
-export async function validateFile(filePath) {
+export async function validateFile(filePath, { expectedStatus } = {}) {
   const raw = await readFile(filePath, "utf8");
   const parsed = parseArticle(raw, filePath);
   if (!parsed.ok) return parsed.errors;
-  return validateArticle(parsed.data, parsed.body, filePath);
+  const errors = validateArticle(parsed.data, parsed.body, filePath);
+  if (expectedStatus && parsed.data.status !== expectedStatus) {
+    errors.push(
+      `${filePath}: status is '${parsed.data.status}' but files in this folder must be '${expectedStatus}' (the site hides anything else)`,
+    );
+  }
+  return errors;
 }
 
 export async function collectMarkdown(dir) {
