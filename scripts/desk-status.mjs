@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { readFile } from "node:fs/promises";
+import { readFile, readdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -39,6 +39,47 @@ async function parkedBoard(ids) {
   return lines.join("\n");
 }
 
+const WATCH_DAYS = 7;
+
+async function publishedWatch(today) {
+  const slugs = new Map();
+  const publishedDir = path.join(root, "newsroom/published");
+  if (existsSync(publishedDir)) {
+    for (const name of await readdir(publishedDir)) {
+      if (!name.endsWith(".md")) continue;
+      const raw = await readFile(path.join(publishedDir, name), "utf8");
+      const id = raw.match(/^investigation_id:\s*(\S+)/m)?.[1];
+      const date = raw.match(/^date:\s*(\S+)/m)?.[1];
+      if (id) slugs.set(id, { slug: name.replace(/\.md$/, ""), date });
+    }
+  }
+
+  const rows = [];
+  const investigationsDir = path.join(root, "newsroom/investigations");
+  for (const id of await readdir(investigationsDir)) {
+    const statusPath = path.join(investigationsDir, id, "status.yml");
+    if (!existsSync(statusPath)) continue;
+    const status = parseYaml(await readFile(statusPath, "utf8")) ?? {};
+    if (status.status !== "published") continue;
+    const checked = String(status.updated || status.opened || "");
+    const age = Math.floor((Date.parse(today) - Date.parse(checked)) / 86400000);
+    rows.push({ id, checked, age, next: status.next_action, article: slugs.get(id) });
+  }
+  if (!rows.length) return "(none)";
+
+  rows.sort((a, b) => b.age - a.age);
+  const lines = rows.map((r) => {
+    const due = Number.isFinite(r.age) && r.age >= WATCH_DAYS ? "DUE · " : "";
+    const article = r.article ? `${r.article.slug} (${r.article.date})` : "no file in published/";
+    return `- ${due}${r.id} → ${article}; last checked ${r.checked} (${r.age} days)\n  watch: ${oneLine(r.next, 220)}`;
+  });
+  lines.push(
+    "",
+    `Once a week, run the watch check for the top DUE line with a real retrieval. If a new primary moves the number, write the next part as a series. If nothing changed, set that status.yml \`updated\` to today and say so in the journal.`,
+  );
+  return lines.join("\n");
+}
+
 async function main() {
   const statePath = path.join(root, "newsroom/state.json");
   const state = JSON.parse(await readFile(statePath, "utf8"));
@@ -62,6 +103,8 @@ async function main() {
     "Parked board",
     `${await parkedBoard(state.parked_investigations || [])}\n\nLook back before choosing work (about three days of journal; further if the plot is unclear).`,
   );
+
+  print("Published watch (follow-ups)", await publishedWatch(new Date().toISOString().slice(0, 10)));
 
   const violations = slotViolations(state);
   if (violations.length) {

@@ -1,0 +1,43 @@
+name: desk-watchdog
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check today's journal and desk note
+        id: check
+        run: |
+          today=$(date -u +%F)
+          missing=""
+          [ -f "newsroom/journal/$today.md" ] || missing="$missing journal"
+          ls newsroom/desk/ | grep -q "^$today" || missing="$missing desk-note"
+          echo "today=$today" >> "$GITHUB_OUTPUT"
+          echo "missing=$missing" >> "$GITHUB_OUTPUT"
+          if [ -n "$missing" ]; then echo "Missing for $today:$missing"; else echo "Desk ran on $today."; fi
+      - name: Open an issue when the desk did not run
+        if: steps.check.outputs.missing != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TODAY: ${{ steps.check.outputs.today }}
+          MISSING: ${{ steps.check.outputs.missing }}
+        run: |
+          title="Desk did not run on $TODAY"
+          if gh issue list --state open --search "in:title \"$title\"" --json number --jq 'length' | grep -qv '^0$'; then
+            echo "Issue already open."
+            exit 0
+          fi
+          last=$(git log -1 --format='%cs %s' -- newsroom/journal)
+          gh issue create --title "$title" --body "By 12:00 UTC on $TODAY, main had no:$MISSING.
+
+          Last journal commit: $last
+
+          Check that the Cursor Automation is enabled and look at its last run."

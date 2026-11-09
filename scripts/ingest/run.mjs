@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { mkdir, writeFile, readFile } from "node:fs/promises";
+import { mkdir, writeFile, readFile, readdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -32,14 +32,40 @@ function stamp() {
   return utcStamp();
 }
 
+const EMAIL = /[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}/g;
+
+function redact(item) {
+  return item.summary ? { ...item, summary: item.summary.replace(EMAIL, "[email removed]") } : item;
+}
+
+async function previousUrls(name, day) {
+  const horizonDir = path.join(root, "newsroom/horizon");
+  const days = (await readdir(horizonDir))
+    .filter((d) => /^\d{4}-\d{2}-\d{2}$/.test(d) && d < day)
+    .sort()
+    .reverse();
+  for (const d of days) {
+    const file = path.join(horizonDir, d, `${name}.json`);
+    if (!existsSync(file)) continue;
+    try {
+      const items = JSON.parse(await readFile(file, "utf8"));
+      return { since: d, urls: new Set(items.map((i) => i.url)) };
+    } catch {
+      continue;
+    }
+  }
+  return { since: null, urls: new Set() };
+}
+
 function toBrief(bundles) {
   const lines = [
     `# Horizon brief — ${stamp()}`,
     "",
     "Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.",
+    "Items marked NEW were not in the previous brief for that source; the rest were already seen.",
     "",
   ];
-  for (const { name, items, error } of bundles) {
+  for (const { name, items, error, since } of bundles) {
     lines.push(`## ${name}`);
     if (error) {
       lines.push(`Ingest failed: ${error}`);
@@ -51,8 +77,12 @@ function toBrief(bundles) {
       lines.push("");
       continue;
     }
-    for (const item of items.slice(0, 12)) {
-      lines.push(`- **${item.title || "(untitled)"}**`);
+    const fresh = items.filter((i) => i.is_new).length;
+    lines.push(`${fresh} new of ${items.length}${since ? ` since ${since}` : ""}.`);
+    lines.push("");
+    const ordered = [...items.filter((i) => i.is_new), ...items.filter((i) => !i.is_new)];
+    for (const item of ordered.slice(0, 12)) {
+      lines.push(`- ${item.is_new ? "NEW · " : ""}**${item.title || "(untitled)"}**`);
       if (item.published) lines.push(`  - when: ${item.published}`);
       if (item.url) lines.push(`  - url: ${item.url}`);
       if (item.pdf_url) lines.push(`  - pdf: ${item.pdf_url}`);
@@ -91,8 +121,11 @@ async function main() {
   const bundles = [];
   for (const [name, fn] of SOURCES) {
     try {
-      const items = (await fn({ userAgent: ua })).filter((item) => item.title && item.url);
-      bundles.push({ name, items });
+      const prev = await previousUrls(name, day);
+      const items = (await fn({ userAgent: ua }))
+        .filter((item) => item.title && item.url)
+        .map((item) => ({ ...redact(item), is_new: !prev.urls.has(item.url) }));
+      bundles.push({ name, items, since: prev.since });
       await writeFile(path.join(outDir, `${name}.json`), JSON.stringify(items, null, 2));
       console.log(`${name}: ${items.length} items`);
     } catch (err) {
@@ -111,6 +144,7 @@ async function main() {
     sources: bundles.map((b) => ({
       name: b.name,
       count: b.items.length,
+      new: b.items.filter((i) => i.is_new).length,
       error: b.error ?? null,
     })),
   };

@@ -13,12 +13,14 @@
     "validate:all": "node scripts/validate-article.mjs --all",
     "preflight": "node scripts/preflight.mjs",
     "desk:status": "node scripts/desk-status.mjs",
+    "fetch-doc": "node scripts/fetch-doc.mjs",
     "test": "node --test scripts/*.test.mjs",
     "site:dev": "npm --prefix site run dev",
     "site:build": "npm --prefix site run build",
     "gate": "node scripts/preflight.mjs && node scripts/validate-article.mjs --all"
   },
   "dependencies": {
+    "pdfjs-dist": "^4.10.38",
     "yaml": "^2.8.1"
   }
 }

@@ -62,4 +62,4 @@ This is not a conclusion about Nevada Gold Mines LLC or any other named entity. 
 
 The next useful public record would be an official crosswalk or data dictionary showing whether those omitted ownership and citizenship dimensions exist in another retrievable BLM record. Until then, the public layer reproduces the operational identity of a mining-plan record, but not the ownership test applied in the GAO comparisons.
 
-*This investigation was produced by an autonomous AI reporter. A named human is the publisher of record.*
+*This investigation was produced by an autonomous AI reporter, published without a required human edit. A named human is the publisher of record.*

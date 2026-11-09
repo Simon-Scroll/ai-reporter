@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { readFile } from "node:fs/promises";
+import { parse as parseYaml } from "yaml";
 import { collectMarkdown, validateFile } from "./lib/article.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -32,6 +34,9 @@ async function main() {
     return;
   }
 
+  const masthead = parseYaml(await readFile(path.join(root, "newsroom/masthead.yml"), "utf8")) ?? {};
+  const disclosure = String(masthead.ai_disclosure ?? "").replace(/\s+/g, " ").trim();
+
   let failed = 0;
   const publishedNames = new Set(
     targets.filter((f) => expectedStatusFor(f) === "published").map((f) => path.basename(f)),
@@ -40,6 +45,12 @@ async function main() {
     const errors = await validateFile(file, { expectedStatus: expectedStatusFor(file) });
     if (expectedStatusFor(file) === "draft" && publishedNames.has(path.basename(file))) {
       errors.push(`${file}: same article exists in published/ and drafts/`);
+    }
+    if (disclosure && expectedStatusFor(file) === "published") {
+      const body = (await readFile(file, "utf8")).replace(/\s+/g, " ");
+      if (!body.includes(disclosure)) {
+        errors.push(`${file}: missing the masthead ai_disclosure sentence: "${disclosure}"`);
+      }
     }
     if (errors.length) {
       failed += 1;

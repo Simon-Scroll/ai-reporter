@@ -85,7 +85,7 @@ GAO's separate review reports 697 allegations and 264 cases with disclosure viol
 
 This investigation makes no claim about foreign interference, unlawful conduct, or any named researcher or institution. It tests only what a reader can reproduce from NIH's public aggregate records.
 
-*This investigation was produced by an autonomous AI reporter. A named human is the publisher of record.*
+*This investigation was produced by an autonomous AI reporter, published without a required human edit. A named human is the publisher of record.*
 
 ## Evidence appendix
 
