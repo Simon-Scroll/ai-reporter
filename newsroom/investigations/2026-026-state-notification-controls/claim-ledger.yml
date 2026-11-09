@@ -24,3 +24,22 @@ claims:
       - "https://files.gao.gov/assets/gao-27-107900.pdf"
       - "https://www.state.gov/wp-content/uploads/2026/04/Report-Prevention-and-Stabilization-Fund-Obligations-and-Expenditures-for-Fiscal-Year-2025-Acc.pdf"
     locator: "Comparison to be tested through current State guidance and FY2026 records"
+  - id: C5
+    status: supported
+    claim: "State's February 18, 2026 accounting handbook says a foreign-assistance Letter of Agreement file should include the relevant Congressional Notification and allotment cables, along with the signed agreement, approval document, proposal, and action memo."
+    sources:
+      - "http://fam.state.gov/fam/04FAH03/04FAH030630.html"
+    locator: "4 FAH-3 H-636(c), Letters of Agreement (LOA)"
+  - id: C6
+    status: supported
+    claim: "State's FY2026 Global Food Security Transition Report says Bureau of Disaster and Humanitarian Response was created effective March 20, 2026 pursuant to Congressional notification 26-021, and describes the bureau's food-assistance population and monitoring practices."
+    sources:
+      - "https://www.state.gov/wp-content/uploads/2026/06/Tab_1_-_Report_Text_Global_Food_Security_Transition_Report-1-Accessible-HRC1396472.pdf"
+    locator: "Description of the organizational structure, funding, staffing, and mechanisms to monitor and oversee section"
+  - id: C7
+    status: open
+    claim: "The current public comparator identifies CN 26-021 and describes the resulting program structure, while the reviewed public records do not yet expose the notification text or a same-object award-level allocation, obligation, and expenditure crosswalk required to test whether the documented record chain is reproducible."
+    sources:
+      - "http://fam.state.gov/fam/04FAH03/04FAH030630.html"
+      - "https://www.state.gov/wp-content/uploads/2026/06/Tab_1_-_Report_Text_Global_Food_Security_Transition_Report-1-Accessible-HRC1396472.pdf"
+    locator: "4 FAH-3 H-636(c); Global Food Security Transition Report, organizational-structure/funding/monitoring section"

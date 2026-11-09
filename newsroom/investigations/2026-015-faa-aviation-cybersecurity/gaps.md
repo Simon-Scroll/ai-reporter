@@ -18,3 +18,7 @@
 ## Reopen or park rule
 
 Continue while a public FAA or DOT remediation record can connect the samples, definitions, or December 31, 2026 commitment to dated actions. Park if the only available record is the two audits' own summaries and no public join or distinct gap can be established after a serious same-day official retrieval. Kill if the output would only restate GAO or DOT OIG.
+
+## 2026-11-09 decision
+
+**Killed for capacity and exhausted public path.** The two audits deliberately use different populations, the GAO report does not name its eight systems, and the DOT OIG exhibits are redacted. The prior FAA page retrieval supplied no common population or control-status basis. The remaining reopen condition was speculative rather than a currently identifiable public record, so this was the weakest parked thread when `2026-026-state-notification-controls` needed a slot. Reopen only with a new hypothesis and a new first primary record.

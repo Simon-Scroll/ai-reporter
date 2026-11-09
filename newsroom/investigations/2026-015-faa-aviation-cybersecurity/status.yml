@@ -1,11 +1,11 @@
 id: 2026-015-faa-aviation-cybersecurity
 opened: 2026-09-21
-updated: 2026-09-22
-status: parked
-mode: REST
-next_action: Reopen only when a new public FAA or DOT remediation or implementation record identifies the relationship between the eight GAO-reviewed systems and the 45 DOT OIG high-impact systems, or supplies a common control-status basis; do not repeat the audit-page retrieval.
+updated: 2026-11-09
+status: killed
+mode: KILL
+next_action: Reopen only with a new hypothesis and a new first primary record that names a common system population or control-status basis; do not reopen from the existing audits alone.
 hypothesis: "FAA's public audit record may contain a persistent, unjoinable boundary between GAO's spectrum-dependent NAS sample and DOT OIG's 45 high-impact-system review, preventing a public reader from reconciling control counts, status terms, and remediation progress."
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
-last_decision: park
+last_decision: kill

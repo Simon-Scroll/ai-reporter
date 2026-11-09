@@ -1,0 +1,262 @@
+# Horizon brief — 2026-11-09
+
+Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
+
+## sec-edgar
+- **4 - MAXFIELD JOSHUA H (0002027497) (Reporting)**
+  - when: 2026-11-06T21:55:03-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/2027497/000119312526452288/0001193125-26-452288-index.htm
+  - Filed: 2026-11-06 AccNo: 0001193125-26-452288 Size: 5 KB
+- **4 - GARMIN LTD (0001121788) (Issuer)**
+  - when: 2026-11-06T21:55:03-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1121788/000119312526452288/0001193125-26-452288-index.htm
+  - Filed: 2026-11-06 AccNo: 0001193125-26-452288 Size: 5 KB
+- **4 - Barrocas Mark (0001987144) (Reporting)**
+  - when: 2026-11-06T21:54:24-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1987144/000090883426000509/0000908834-26-000509-index.htm
+  - Filed: 2026-11-06 AccNo: 0000908834-26-000509 Size: 16 KB
+- **4 - SharkNinja, Inc. (0001957132) (Issuer)**
+  - when: 2026-11-06T21:54:24-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1957132/000090883426000509/0000908834-26-000509-index.htm
+  - Filed: 2026-11-06 AccNo: 0000908834-26-000509 Size: 16 KB
+- **SCHEDULE 13D/A - SALEM INVESTMENT PARTNERS V, LIMITED PARTNERSHIP (0001832887) (Filed by)**
+  - when: 2026-11-06T21:48:25-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1832887/000143774926035657/0001437749-26-035657-index.htm
+  - Filed: 2026-11-06 AccNo: 0001437749-26-035657 Size: 27 KB
+- **SCHEDULE 13D/A - Guerrilla RF, Inc. (0001832487) (Subject)**
+  - when: 2026-11-06T21:48:25-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1832487/000143774926035657/0001437749-26-035657-index.htm
+  - Filed: 2026-11-06 AccNo: 0001437749-26-035657 Size: 27 KB
+- **SCHEDULE 13D/A - Bodford Alvin M. (0001891890) (Filed by)**
+  - when: 2026-11-06T21:46:42-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1891890/000143774926035656/0001437749-26-035656-index.htm
+  - Filed: 2026-11-06 AccNo: 0001437749-26-035656 Size: 15 KB
+- **SCHEDULE 13D/A - Guerrilla RF, Inc. (0001832487) (Subject)**
+  - when: 2026-11-06T21:46:42-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1832487/000143774926035656/0001437749-26-035656-index.htm
+  - Filed: 2026-11-06 AccNo: 0001437749-26-035656 Size: 15 KB
+- **4 - FuboTV Inc. (0001484769) (Issuer)**
+  - when: 2026-11-06T21:43:23-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1484769/000149315226050582/0001493152-26-050582-index.htm
+  - Filed: 2026-11-06 AccNo: 0001493152-26-050582 Size: 10 KB
+- **4 - LEFF DANIEL V (0001277070) (Reporting)**
+  - when: 2026-11-06T21:43:23-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1277070/000149315226050582/0001493152-26-050582-index.htm
+  - Filed: 2026-11-06 AccNo: 0001493152-26-050582 Size: 10 KB
+- **4 - Headley Jonathan Scott (0002094170) (Reporting)**
+  - when: 2026-11-06T21:43:05-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/2094170/000149315226050581/0001493152-26-050581-index.htm
+  - Filed: 2026-11-06 AccNo: 0001493152-26-050581 Size: 7 KB
+- **4 - FuboTV Inc. (0001484769) (Issuer)**
+  - when: 2026-11-06T21:43:05-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1484769/000149315226050581/0001493152-26-050581-index.htm
+  - Filed: 2026-11-06 AccNo: 0001493152-26-050581 Size: 7 KB
+
+## federal-register
+- **Agency Information Collection Activities: Submission to OMB for Review and Approval: Public Comment Request; Organ Procurement and Transplantation Network Board of Directors and Committee Member Applications and Forms**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/C1-2026-21857/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment
+  - Health and Human Services Department, Health Resources and Services Administration — Notice
+- **Electronic Export Manifest for Truck Cargo Test**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/C1-2026-19414/electronic-export-manifest-for-truck-cargo-test
+  - Homeland Security Department, U.S. Customs and Border Protection — Notice
+- **Privacy Act of 1974; System of Records**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22837/privacy-act-of-1974-system-of-records
+  - Personnel Management Office — Notice — In accordance with the Privacy Act of 1974, the Office of Personnel Management (OPM) proposes to modify and republish in full a system of records previously titled "OPM/Central-21, Federal Employee Viewpoint Survey" which will be renamed "OPM/Central-21, Annual Employee Survey." The modification is necessary to reflect the replacement of OPM's centrally administered Federal Employee Viewpoint Survey (FEVS) with the Annual Employee Survey (AES). Under the re
+- **Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From India: Initiation of Countervailing Duty Investigation**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22836/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-india-initiation-of
+  - Commerce Department, International Trade Administration — Notice
+- **Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From Georgia and India: Initiation of Less-Than-Fair-Value Investigations**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22835/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-georgia-and-india-initiation-of
+  - Commerce Department, International Trade Administration — Notice
+- **President's Military Spouse Commission; Notice of Federal Advisory Committee Meeting**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22834/presidents-military-spouse-commission-notice-of-federal-advisory-committee-meeting
+  - Defense Department, — Notice — The Department of War (formerly the DoD) is publishing this notice to announce that the following Federal Advisory Committee meeting of the President's Military Spouse Commission ("the Commission") will take place.
+- **Television Broadcasting Services Odessa, Texas**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22833/television-broadcasting-services-odessa-texas
+  - Federal Communications Commission — Proposed Rule — This document proposes to amend the Table of TV Allotments (Table) of the Federal Communications Commission's (Commission) rules in response to a petition for rulemaking filed by Gray Television Licensee, LLC (Gray), the licensee of KOSA-TV (KOSA-TV), Odessa, Texas (Odessa). Gray held a construction permit to construct a facility on UHF channel 31 at Odessa, and now requests that the Bureau substitute VHF channel 7 for UHF channel 31 in the Tab
+- **United States of America, et al. v. RealPage, Inc., et al.; Response of the United States to Public Comments**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22832/united-states-of-america-et-al-v-realpage-inc-et-al-response-of-the-united-states-to-public-comments
+  - Justice Department, Antitrust Division — Notice
+- **Security Zones; Protection of Military Cargo, Captain of the Port Zone Puget Sound, WA**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22831/security-zones-protection-of-military-cargo-captain-of-the-port-zone-puget-sound-wa
+  - Homeland Security Department, Coast Guard — Rule — The Coast Guard will enforce security zones for the Protection of Military Cargo from November 8 through November 12, 2026, to provide for the security of life and vessels on navigable waterways during this event. Our regulation for Protection of Military Cargo within the Captain of the Port Zone Puget Sound, WA identifies the security zones for this event in the Blair Waterway and Sitcum Waterway in Commencement Bay, WA. During the enforcement
+- **Amendment of Class D and Establishment of Class E Airspace; Chandler and Phoenix, AZ**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22830/amendment-of-class-d-and-establishment-of-class-e-airspace-chandler-and-phoenix-az
+  - Transportation Department, Federal Aviation Administration — Rule — This action corrects a final rule published by the FAA in the Federal Register on October 30, 2026, amending the Class D airspace and establishing Class E airspace at Chandler and Phoenix, AZ. Specifically, this action corrects a statement in the preamble of the rule for greater clarity.
+- **Qualification of Drivers; Exemption Applications; Epilepsy and Seizure Disorders**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22829/qualification-of-drivers-exemption-applications-epilepsy-and-seizure-disorders
+  - Transportation Department, Federal Motor Carrier Safety Administration — Notice — FMCSA announces its decision to deny applications from 16 individuals who requested an exemption from the Federal Motor Carrier Safety Regulations (FMCSRs) prohibiting persons with a clinical diagnosis of epilepsy or any other condition that is likely to cause a loss of consciousness or any loss of ability to operate a commercial motor vehicle (CMV) from operating CMVs in interstate commerce.
+- **Sunshine Act Meeting**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22828/sunshine-act-meeting
+  - Consumer Product Safety Commission — Notice
+
+## gao
+- **Democracy Assistance: State Department Should Improve Congressional Notification of Its Use of Certain Legal Authorities**
+  - when: Fri, 06 Nov 2026 07:13:23 -0500
+  - url: https://www.gao.gov/products/gao-27-107900
+  - pdf: https://www.gao.gov/assets/gao-27-107900.pdf
+  - What GAO Found Federal law contains certain provisions, known as notwithstanding authorities, that allow agencies to provide funding that would otherwise be restricted. Historically, the annual appropriations act has required agencies to notify Congress if they intend to use a notwithstanding authority to provide assistance in countries where U.S. law prohibits U.S. funding. In fiscal years (FY) 2023 and 2024, the joint explanatory statement (JES) accompanying the act included additional direct
+- **Immigration Detention: Changes In Inspections of ICE Facilities Raise Questions About Oversight**
+  - when: Thu, 05 Nov 2026 07:19:18 -0500
+  - url: https://www.gao.gov/products/gao-27-109299
+  - pdf: https://www.gao.gov/assets/gao-27-109299.pdf
+  - What GAO Found Department of Homeland Security (DHS) detention facility inspections have changed at the same time that the number of immigration detention facilities and the size of the detained population have increased. From April 2025 to April 2026, following a January 2025 Executive Order, U.S. Immigration and Customs Enforcement (ICE) added over 40 detention facilities that detain noncitizens for over 72 hours. The average daily population of detained noncitizens grew by over 50 percent, t
+- **Superfund: EPA Should Collect and Use Information on the Effectiveness of Its Recovery of Cleanup Costs**
+  - when: Thu, 05 Nov 2026 07:15:02 -0500
+  - url: https://www.gao.gov/products/gao-27-107925
+  - pdf: https://www.gao.gov/assets/gao-27-107925.pdf
+  - What GAO Found The U.S. Environmental Protection Agency (EPA) uses the Hazardous Substance Superfund Trust Fund to finance cleanup costs at Superfund sites where responsible parties cannot be found or cannot pay. In fiscal years 2006 through 2024, the Trust Fund received about $34 billion in constant 2024 dollars, mostly from General Fund transfers. Congress appropriated about $32.8 billion from the Trust Fund for the Superfund program over this period. Revenue from the reinstated Superfund tax
+- **International Collaboration: Federal Banking Agencies Actively Participated in Standard-Setting Bodies**
+  - when: Thu, 05 Nov 2026 07:11:03 -0500
+  - url: https://www.gao.gov/products/gao-27-108190
+  - pdf: https://www.gao.gov/assets/gao-27-108190.pdf
+  - What GAO Found The Federal Deposit Insurance Corporation, Board of Governors of the Federal Reserve System, and Office of the Comptroller of the Currency help develop financial standards by participating in international standard-setting bodies, such as the Basel Committee on Banking Supervision. These banking agencies also conduct joint work with or provide technical assistance to certain bodies in which they are not members. Federal Banking Agencies’ Participation in Key International Standa
+- **District of Columbia Charter Schools: Key Changes Made to Academic Accountability System**
+  - when: Thu, 05 Nov 2026 07:16:01 -0500
+  - url: https://www.gao.gov/products/gao-27-109048
+  - pdf: https://www.gao.gov/assets/gao-27-109048.pdf
+  - What GAO Found The DC Public Charter School Board (PCSB) uses a multi-step process, including interviews and public hearings, to screen applicants. PCSB also requires applicants to meet several decision criteria (see figure). In the past 5 years PCSB has made a few key changes to the charter school application process. Changes include requiring that charters fill a demonstrated need and that prospective schools complete a preapplication process. Additionally, PCSB has shifted the application ti
+- **U.S. Patent and Trademark Office: Patent Backlog Reduction Efforts Pose Risks to Examiner Retention and Examination Quality**
+  - when: Thu, 05 Nov 2026 07:21:13 -0500
+  - url: https://www.gao.gov/products/gao-27-108491
+  - pdf: https://www.gao.gov/assets/gao-27-108491.pdf
+  - What GAO Found The backlog of unexamined patent applications awaiting an initial decision from the United States Patent and Trademark Office (USPTO) rose to about 838,000 applications in January 2025. In September 2025, the USPTO announced a goal to reduce the backlog to under 599,000 applications but did not specify a time frame for reaching it. The backlog was last at that level in 2020. To reduce the backlog, the USPTO is requiring patent examiners to review more applications, has decreased
+- **October 28, 2026 letter commenting on the International Auditing and Assurance Standards Board's July 2026 Exposure Draft: "Proposed International Standard on Auditing for Audits of Financial Statements of Less Complex Entities (Revised)"**
+  - when: Thu, 29 Oct 2026 13:05:10 -0400
+  - url: https://www.gao.gov/products/e16078
+  - This letter provides GAO's comments on the International Auditing and Assurance Standards Board's (IAASB) Proposed International Standard on Auditing for Audits of Financial Statements of Less Complex Entities (Revised) (ISA for LCE). GAO promulgates generally accepted government auditing standards, which provide professional standards for auditors of government entities in the United States.
+- **Professional Standards Update No. 102**
+  - when: Mon, 26 Oct 2026 12:11:08 -0400
+  - url: https://www.gao.gov/products/e16067
+  - To alert the audit community to changes in professional standards, we periodically issue Professional Standards Updates (PSU). These updates highlight the effective dates of recently issued standards and guidance related to engagements conducted in accordance with Government Auditing Standards. PSUs contain summary information only, and those affected by a change should refer to the respective standard or guidance for details.
+- **State Department: Standards for Overseas Housing Need Review [Reissued with revisions on Oct. 21, 2026]**
+  - when: Mon, 10 Aug 2026 07:28:52 -0400
+  - url: https://www.gao.gov/products/gao-26-107965
+  - pdf: https://www.gao.gov/assets/gao-26-107965.pdf
+  - What GAO Found The Department of State last updated its standards for overseas housing space in 1991, according to State officials. Those standards may no longer align with State’s goal of providing Foreign Service personnel living abroad with housing comparable to the Washington, D.C., metropolitan area. In the last 35 years, median housing costs in the Washington, D.C., area have increased at a faster rate than Foreign Service personnel salaries. In addition, State’s method for measuring over
+- **Critical Minerals: BLM Should Ensure Individuals and Businesses Meet Citizenship Requirements for Hardrock Mining Claims**
+  - when: Fri, 16 Oct 2026 07:40:59 -0400
+  - url: https://www.gao.gov/products/gao-27-108196
+  - pdf: https://www.gao.gov/assets/gao-27-108196.pdf
+  - What GAO Found The Department of the Interior’s Bureau of Land Management (BLM) administers mining claims that grant the exclusive right to extract critical and other hardrock minerals from most federal lands. U.S. mining laws include citizenship requirements for individuals and business entities holding such claims, known as mining claimants. Under these laws, mining claimants generally must be U.S. citizens, which can include individuals as well as business entities incorporated in a U.S. sta
+- **Private Health Insurance: Market Concentration in 2024 Was Generally Higher Than in 2011**
+  - when: Fri, 16 Oct 2026 10:25:08 -0400
+  - url: https://www.gao.gov/products/gao-27-108927
+  - pdf: https://www.gao.gov/assets/gao-27-108927.pdf
+  - What GAO Found Since 2014, GAO has reported that enrollment in private health insurance plans has been concentrated, meaning a small number of issuers, such as health insurers, enrolled most of the people in a given market. Specifically, GAO considers a market concentrated in a state if three or fewer issuers hold at least 80 percent of the market share of enrollment. For this report, GAO examined the individual (coverage primarily sold to individuals who lack access to group coverage), small-
+- **Tax Filing: IRS Should Enhance Ghost Preparer Identification and Compliance Efforts in a Comprehensive Preparer Strategy**
+  - when: Fri, 16 Oct 2026 07:28:51 -0400
+  - url: https://www.gao.gov/products/gao-27-108176
+  - pdf: https://www.gao.gov/assets/gao-27-108176.pdf
+  - What GAO Found Ghost preparers are paid tax preparers who do not comply with requirements to identify themselves on tax returns they prepare for others. Ghost preparers may intentionally leave identifying information off to get away with filing fraudulent income tax returns, stealing taxpayers’ refunds, and stealing taxpayers’ identities. Courts have ordered individual ghost preparers to pay millions in restitution to the government, but according to Internal Revenue Service (IRS) officials, th
+
+## courtlistener
+- **Order on Motion - State v. Miller**
+  - when: 2026-11-10T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11053720/order-on-motion-state-v-miller/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **United States v. Barrett**
+  - when: 2026-11-07T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11057615/united-states-v-barrett/
+  - GQnited States Court of Appeals for the Fifth Circuit United States Court of Appeals Fifth Circuit FILED No. 25-30155 October 28, 2026 Thomas B. Plunkett, III Clerk UNITED STATES OF AMERICA, Plaintiff—Appellee, versus JERAD M. BARRETT, Defendant — Appellant. Appeal from the United States District Court for the Eastern District of Louisiana USDC No. 2:23-CR-238-1 PUBLISHED ORDER Before GRAVES, Ho, and DOUGLAS, Circuit Judges. PER CURIAM: This panel previously GRANTED Appellee’s motion to Original document
+- **Little Brownie Properties, Inc. v. Rop Holding Group, Inc.**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056633/little-brownie-properties-inc-v-rop-holding-group-inc/
+  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2025-0018 Lower Tribunal Nos. 2008-CA-003909 and 2015-CA-000309 _____________________________ LITTLE BROWNIE PROPERTIES, INC., Appellant, v. ROP HOLDING GROUP, INC., Original document
+- **State v. Hawley**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056862/state-v-hawley/
+  - [Cite as State v. Hawley, 2026-Ohio-4411.] IN THE OHIO COURT OF APPEALS FIFTH APPELLATE DISTRICT FAIRFIELD COUNTY, OHIO STATE OF OHIO, Case No. 26 CA 018 Plaintiff - Appellee Opinion &amp; Judgment Entry -vs- Appeal from the Court of Common Pleas Original document
+- **Gerald Buchheit v. Cara Siciliano**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056661/gerald-buchheit-v-cara-siciliano/
+  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2025-0337 Lower Tribunal No. 2024-DR-032922 _____________________________ GERALD BUCHHEIT, Appellant, v. CARA SICILIANO, Original document
+- **State v. Schuler**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056702/state-v-schuler/
+  - [Cite as State v. Schuler, 2026-Ohio-4403.] IN THE COURT OF APPEALS OF OHIO SECOND APPELLATE DISTRICT MONTGOMERY COUNTY STATE OF OHIO : : C.A. No. 30791 Appellee : : Trial Court Case No. 2025 CR 00462 v Original document
+- **Karen Worthy v. Eastern Property Management LLC**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056665/karen-worthy-v-eastern-property-management-llc/
+  - Court of Appeals of the State of Georgia ATLANTA,____________________ November 06, 2026 The Court of Appeals hereby passes the following order: A27D0265. KAREN WORTHY v. EASTERN PROPERTY MANAGEMENT LLC. On October 15, 2026, the Fulton County Magistrate Court entered an order granting plaintiff Eastern Property Management LLC a writ of possession and awarding the plaintiff past-due rent and court Original document
+- **S. H. v. Department of Children and Families, Statewide**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056619/s-h-v-department-of-children-and-families-statewide/
+  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT In the Interest of S.S., A.H., and G.M., children. S.H., Appellant, v. DEPARTMENT OF CHILDREN AND FAMILIES and STATEWIDE GUARDIAN AD LITEM OFFICE, Appellees. No. 2D2026-0759 Original document
+- **Saxon v. Bay Ranch Mobile Village, LLP, Bay Ranch Mobile Home Park**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056618/saxon-v-bay-ranch-mobile-village-llp-bay-ranch-mobile-home-park/
+  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT ANDREW CALHOUN SAXON, Appellant, v. BAY RANCH MOBILE VILLAGE, LLP d/b/a BAY RANCH MOBILE HOME PARK, Appellee. No. 2D2026-1143 November 6, 2026 Appeal pursuant to Fla. R. App. P. 9.130 from the Original document
+- **Placido Perez-Hernandez v. Commonwealth of Kentucky**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056637/placido-perez-hernandez-v-commonwealth-of-kentucky/
+  - RENDERED: NOVEMBER 6, 2026; 10:00 A.M. TO BE PUBLISHED Commonwealth of Kentucky Court of Appeals NO. 2024-CA-1461-MR PLACIDO PEREZ-HERNANDEZ APPELLANT APPEAL FROM LOGAN CIRCUIT COURT v. HONORABLE JOE W. HENDRICKS, JR., JUDGE ACTION NO. 22-CR-00232 COMMONWEALTH OF KENTUCKY Original document
+- **Alpha Connect Corporation, d/b/a Alpha Connect, and Gerald King v. Stephen Mangina**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056604/alpha-connect-corporation-dba-alpha-connect-and-gerald-king-v-stephen/
+  - Rel: November 6, 2026 Notice: This opinion is subject to formal revision before publication in the advance sheets of Southern Reporter. Readers are requested to notify the Reporter of Decisions, Alabama Appellate Courts, 300 Dexter Avenue, Montgomery, Alabama 36104-3741 ((334) 229-0650), of any typographical or other errors, in order that corrections may be made before the opinion is printed in Southern Reporter. SUPREME COURT OF ALABAMA OCTOBER TERM Original document
+- **Lacy v. State of Florida**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056623/lacy-v-state-of-florida/
+  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT BRIAN C. LACY, Appellant, v. STATE OF FLORIDA, Appellee. No. 2D2025-3347 November 6, 2026 Appeal pursuant to Fla. R. App. P. 9.141(b)(2) from the Circuit Court for Sarasota County; Original document
+
+## uk-legislation
+- **The Air Departure Tax (Administration) (Scotland) Amendment Regulations 2026**
+  - when: 2026-11-09T03:06:20Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/330
+  - These Regulations amend the provisions concerning the administration of Air Departure Tax (“ADT”) in Part 4 (Payment, collection and management of tax) of the Air Departure Tax (Scotland) Act 2017 (“the 2017 Act”). In addition, these Regulations make amendments to section 44 (interpretation) and schedules 2 (minor and consequential modifications to Revenue Scotland and Tax Powers Act 2014) and 3 (index of defined expressions) of the 2017 Act, which are consequential upon the amendments made to P
+- **The Children’s Wellbeing and Schools Act 2026 (Commencement No. 1) Regulations 2026**
+  - when: 2026-11-09T03:00:49Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1165
+  - These Regulations are the fourth set of commencement regulations bringing into force provisions of the Children’s Wellbeing and Schools Act 2026 (c. 21) (“the Act”). They are the first set of regulations commencing provisions of the Act which substantively relate to a territory other than England, namely section 10 which relates to social care in England and Wales.
+- **The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026**
+  - when: 2026-11-06T15:55:23Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1171
+- **Administrative and Financial Provisions Act (Northern Ireland) 2026**
+  - when: 2026-11-06T16:06:12Z
+  - url: http://www.legislation.gov.uk/id/nia/2026/10
+  - An Act to make further provision with respect to the administration and financing of public services in Northern Ireland, in particular, measures to provide powers to undertake certain activities, to enable charging for certain activities and to modify arrangements for financial governance.
+- **<div xmlns="http://www.w3.org/1999/xhtml">
+						<span xml:lang="en">The Non-Domestic Rating (Description and Value of Differential Multipliers) (Amendment) (Wales) Regulations 2026</span> / <span xml:lang="cy">Rheoliadau Ardrethu Annomestig (Disgrifiad o Luosyddion Gwahaniaethol a Gwerth Lluosyddion Gwahaniaethol) (Diwygio) (Cymru) 2026</span>
+					</div>**
+  - when: 2026-11-06T03:02:10Z
+  - url: http://www.legislation.gov.uk/id/wsi/2026/133
+  - In relation to Wales, the non-domestic rating multiplier for each chargeable financial year is calculated in accordance with Part A2 of Schedule 7 to the Local Government Finance Act 1988 (“the 1988 Act”). O ran Cymru, cyfrifir y lluosydd ardrethu annomestig ar gyfer pob blwyddyn ariannol y codir swm ynglŷn â hi yn unol â Rhan A2 o Atodlen 7 i Ddeddf Cyllid Llywodraeth Leol 1988 (“Deddf 1988”).
+- **The Parking and Waiting Restrictions (Newtownabbey) (Amendment) Order (Northern Ireland) 2026**
+  - when: 2026-11-06T03:01:52Z
+  - url: http://www.legislation.gov.uk/id/nisr/2026/185
+- **Correction slip**
+  - when: 2026-11-06T13:37:13Z
+  - url: http://www.legislation.gov.uk/ukpga/2025/8/pdfs/ukpgacs_20250008_en_002.pdf
+  - An Act to make provision about finance.
+- **Correction slip**
+  - when: 2026-11-06T14:22:17Z
+  - url: http://www.legislation.gov.uk/uksi/2011/1055/pdfs/uksics_20111055_en_001.pdf
+  - These Regulations, made under sections 51(3), 52(1) and 52(3) of the Immigration, Asylum and Nationality Act 2006, specify fees relating to immigration and nationality. They follow on from the Immigration and Nationality (Fees) Order 2011, which sets out the applications, services and processes related to immigration and nationality in respect of which fees may be specified in regulations.
+- **The Air Navigation (Restriction of Flying) (Hampstead) Regulations 2026**
+  - when: 2026-11-05T17:13:57.338507Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1169
+- **The Registration of Births and Deaths (England and Wales) (Specified Requirements) Regulations 2026**
+  - when: 2026-11-09T00:10:00Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1168
+  - Under the Births and Deaths Registration Act 1953, certain people are required to attend the register office to give information about a birth, death or still-birth, and physically sign the register. Section 38B of that Act allows the Minister to specify requirements and to provide that the duty to sign the register has effect as a duty to comply with those specified requirements. If the requirements are complied with, the person will be taken to have signed the register and, where relevant, do
+- **The Strategic Planning Authorities (Spatial Development Strategy) Regulations 2026**
+  - when: 2026-11-05T14:12:45Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1162
+  - Part 1A of the Planning and Compulsory Purchase Act 2004 (c. 5) (inserted by section 58 of the Planning and Infrastructure Act 2025 (c. 34)) requires strategic planning authorities to prepare a spatial development strategy (“SDS”) for their area. These Regulations make provision as to the procedure to be followed in connection with the preparation of a SDS.
+- **The Strategic Planning (Consequential and Miscellaneous Amendments) Regulations 2026**
+  - when: 2026-11-05T13:31:45Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1164
+  - These Regulations revoke and amend secondary legislation relating to strategic planning.

@@ -1,11 +1,11 @@
 id: 2026-026-state-notification-controls
 opened: 2026-11-08
-updated: 2026-11-08
-status: active
-mode: SCAN
-next_action: Retrieve current State congressional-notification guidance and a public FY 2026 notification or execution record, then test whether the authority-to-activity-to-execution crosswalk is reproducible; do not refetch GAO-27-107900 or the FY2025 PSF report.
+updated: 2026-11-09
+status: parked
+mode: PARK
+next_action: Reopen only when a public State notification, award file, or execution record supplies a common identifier and comparable authority, activity, and financial fields; do not refetch the FY2025 PSF table, 4 FAH-3 H-636, or the Global Food Security report without a new record.
 hypothesis: "State's congressional-notification process may identify legal authorities and broad program narratives without preserving a public, reproducible link from the authority to the specific activity and later financial execution."
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
-last_decision: continue
+last_decision: park

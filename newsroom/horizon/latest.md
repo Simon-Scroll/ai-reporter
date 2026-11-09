@@ -1,4 +1,4 @@
-# Horizon brief — 2026-11-08
+# Horizon brief — 2026-11-09
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
@@ -53,54 +53,54 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - Filed: 2026-11-06 AccNo: 0001493152-26-050581 Size: 7 KB
 
 ## federal-register
-- **The American Declaration of Freedom in Space**
-  - when: 2026-11-06
-  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space
-  - Executive Office of the President — Presidential Document
-- **Anti-Communism Week, 2026**
-  - when: 2026-11-06
-  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22787/anti-communism-week-2026
-  - Executive Office of the President — Presidential Document
-- **Amendments to the “Small Business” and “Small Organization” Definitions for Investment Companies and Investment Advisers for Purposes of the Regulatory Flexibility Act**
-  - when: 2026-11-06
-  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22741/amendments-to-the-small-business-and-small-organization-definitions-for-investment-companies-and
-  - Securities and Exchange Commission — Rule — The Securities and Exchange Commission (the "Commission" or the "SEC") is amending the definitions of "small business" and "small organization" (collectively, "small entities") that are used in connection with Commission rulemaking under the Investment Company Act of 1940 (the "Investment Company Act") and the Investment Advisers Act of 1940 (the "Advisers Act"). These definitions concern regulatory requirements applicable to registered investment comp
-- **Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots**
-  - when: 2026-11-06
-  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment
-  - Health and Human Services Department, Centers for Medicare & Medicaid Services — Rule — This final rule with comment period revises the Medicare Hospital Outpatient Prospective Payment System (OPPS) and the Medicare Ambulatory Surgical Center (ASC) payment system for calendar year 2027 based on our continuing experience with these systems. We also describe the changes to the amounts and factors used to determine the payment rates for Medicare services paid under the OPPS and those paid under the
-- **Heightened Requirements for Foreign Importers of Record**
-  - when: 2026-11-06
-  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22735/heightened-requirements-for-foreign-importers-of-record
-  - Homeland Security Department, U.S. Customs and Border Protection — Rule — This document amends the U.S. Customs and Border Protection (CBP) regulations, consistent with Section 2 of Executive Order 14411, "Strengthening Customs Enforcement," by establishing new requirements for foreign importers of record (IORs) when making entry, and corresponding responsibilities for licensed customs brokers with regard to their clients. The new regulations also set forth consequences for foreign IORs and cust
-- **Drawbridge Operation Regulation; Harlem River, Between the Boroughs of Manhattan and the Bronx, New York City, New York**
-  - when: 2026-11-06
-  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22734/drawbridge-operation-regulation-harlem-river-between-the-boroughs-of-manhattan-and-the-bronx-new
-  - Homeland Security Department, Coast Guard — Proposed Rule — The Coast Guard proposes to temporarily modify the operating regulation that governs the Macombs Dam Bridge across the Harlem River, mile 3.2, between the Boroughs of Manhattan and the Bronx, New York City, New York. The bridge owner, New York City Department of Transportation (NYCDOT), submitted a request on August 31, 2026, to allow the bridge to remain in the closed position from February 1, 2027, through November 30, 2027, and facil
-- **Document Image System (DIS) Pilot for Used Self-Propelled Vehicles Export Document Submission: Renewal of Test**
-  - when: 2026-11-06
-  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22728/document-image-system-dis-pilot-for-used-self-propelled-vehicles-export-document-submission-renewal
-  - Homeland Security Department, U.S. Customs and Border Protection — Notice — This notice announces that U.S. Customs and Border Protection (CBP) is renewing the Document Image System (DIS) Pilot for Used Self- Propelled Vehicles (USPV) Export Document Submission (DIS USPV Test) for an additional two years. This voluntary pilot evaluates the feasibility of using the DIS to allow participants to submit the required vehicle ownership documentation for USPVs to CBP. This notice includes a description
-- **Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Application Process To Waive the Import Qualification Criteria Measures To Restrict Stockpiling of Polysilicon and Polysilicon Derivatives**
-  - when: 2026-11-06
-  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22726/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for
-  - Commerce Department, Industry and Security Bureau — Notice — The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment on the OMB approved emergency collection f
-- **Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Section 232 National Security Adjustments to Imports of Specialty Pharmaceuticals and Associated Ingredients**
-  - when: 2026-11-06
-  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22725/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for
-  - Commerce Department, Industry and Security Bureau — Notice — The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment on the OMB approved emergency collection f
-- **Records Governing Off-the-Record Communications; Public Notice**
-  - when: 2026-11-06
-  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22724/records-governing-off-the-record-communications-public-notice
-  - Energy Department, Federal Energy Regulatory Commission — Notice
-- **Filing Process and Data Collection for the Electric Quarterly Report Notice of Technical Conference**
-  - when: 2026-11-06
-  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22723/filing-process-and-data-collection-for-the-electric-quarterly-report-notice-of-technical-conference
-  - Energy Department, Federal Energy Regulatory Commission — Notice
-- **Columbia Gulf Transmission, LLC; Notice of Application and Establishing Intervention Deadline**
-  - when: 2026-11-06
-  - url: https://www.federalregister.gov/documents/2026/11/06/2026-22722/columbia-gulf-transmission-llc-notice-of-application-and-establishing-intervention-deadline
-  - Energy Department, Federal Energy Regulatory Commission — Notice
+- **Agency Information Collection Activities: Submission to OMB for Review and Approval: Public Comment Request; Organ Procurement and Transplantation Network Board of Directors and Committee Member Applications and Forms**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/C1-2026-21857/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment
+  - Health and Human Services Department, Health Resources and Services Administration — Notice
+- **Electronic Export Manifest for Truck Cargo Test**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/C1-2026-19414/electronic-export-manifest-for-truck-cargo-test
+  - Homeland Security Department, U.S. Customs and Border Protection — Notice
+- **Privacy Act of 1974; System of Records**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22837/privacy-act-of-1974-system-of-records
+  - Personnel Management Office — Notice — In accordance with the Privacy Act of 1974, the Office of Personnel Management (OPM) proposes to modify and republish in full a system of records previously titled "OPM/Central-21, Federal Employee Viewpoint Survey" which will be renamed "OPM/Central-21, Annual Employee Survey." The modification is necessary to reflect the replacement of OPM's centrally administered Federal Employee Viewpoint Survey (FEVS) with the Annual Employee Survey (AES). Under the re
+- **Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From India: Initiation of Countervailing Duty Investigation**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22836/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-india-initiation-of
+  - Commerce Department, International Trade Administration — Notice
+- **Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From Georgia and India: Initiation of Less-Than-Fair-Value Investigations**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22835/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-georgia-and-india-initiation-of
+  - Commerce Department, International Trade Administration — Notice
+- **President's Military Spouse Commission; Notice of Federal Advisory Committee Meeting**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22834/presidents-military-spouse-commission-notice-of-federal-advisory-committee-meeting
+  - Defense Department, — Notice — The Department of War (formerly the DoD) is publishing this notice to announce that the following Federal Advisory Committee meeting of the President's Military Spouse Commission ("the Commission") will take place.
+- **Television Broadcasting Services Odessa, Texas**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22833/television-broadcasting-services-odessa-texas
+  - Federal Communications Commission — Proposed Rule — This document proposes to amend the Table of TV Allotments (Table) of the Federal Communications Commission's (Commission) rules in response to a petition for rulemaking filed by Gray Television Licensee, LLC (Gray), the licensee of KOSA-TV (KOSA-TV), Odessa, Texas (Odessa). Gray held a construction permit to construct a facility on UHF channel 31 at Odessa, and now requests that the Bureau substitute VHF channel 7 for UHF channel 31 in the Tab
+- **United States of America, et al. v. RealPage, Inc., et al.; Response of the United States to Public Comments**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22832/united-states-of-america-et-al-v-realpage-inc-et-al-response-of-the-united-states-to-public-comments
+  - Justice Department, Antitrust Division — Notice
+- **Security Zones; Protection of Military Cargo, Captain of the Port Zone Puget Sound, WA**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22831/security-zones-protection-of-military-cargo-captain-of-the-port-zone-puget-sound-wa
+  - Homeland Security Department, Coast Guard — Rule — The Coast Guard will enforce security zones for the Protection of Military Cargo from November 8 through November 12, 2026, to provide for the security of life and vessels on navigable waterways during this event. Our regulation for Protection of Military Cargo within the Captain of the Port Zone Puget Sound, WA identifies the security zones for this event in the Blair Waterway and Sitcum Waterway in Commencement Bay, WA. During the enforcement
+- **Amendment of Class D and Establishment of Class E Airspace; Chandler and Phoenix, AZ**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22830/amendment-of-class-d-and-establishment-of-class-e-airspace-chandler-and-phoenix-az
+  - Transportation Department, Federal Aviation Administration — Rule — This action corrects a final rule published by the FAA in the Federal Register on October 30, 2026, amending the Class D airspace and establishing Class E airspace at Chandler and Phoenix, AZ. Specifically, this action corrects a statement in the preamble of the rule for greater clarity.
+- **Qualification of Drivers; Exemption Applications; Epilepsy and Seizure Disorders**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22829/qualification-of-drivers-exemption-applications-epilepsy-and-seizure-disorders
+  - Transportation Department, Federal Motor Carrier Safety Administration — Notice — FMCSA announces its decision to deny applications from 16 individuals who requested an exemption from the Federal Motor Carrier Safety Regulations (FMCSRs) prohibiting persons with a clinical diagnosis of epilepsy or any other condition that is likely to cause a loss of consciousness or any loss of ability to operate a commercial motor vehicle (CMV) from operating CMVs in interstate commerce.
+- **Sunshine Act Meeting**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22828/sunshine-act-meeting
+  - Consumer Product Safety Commission — Notice
 
 ## gao
 - **Democracy Assistance: State Department Should Improve Congressional Notification of Its Use of Certain Legal Authorities**
@@ -195,14 +195,14 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-11-06T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11056619/s-h-v-department-of-children-and-families-statewide/
   - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT In the Interest of S.S., A.H., and G.M., children. S.H., Appellant, v. DEPARTMENT OF CHILDREN AND FAMILIES and STATEWIDE GUARDIAN AD LITEM OFFICE, Appellees. No. 2D2026-0759 Original document
-- **Placido Perez-Hernandez v. Commonwealth of Kentucky**
-  - when: 2026-11-06T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11056637/placido-perez-hernandez-v-commonwealth-of-kentucky/
-  - RENDERED: NOVEMBER 6, 2026; 10:00 A.M. TO BE PUBLISHED Commonwealth of Kentucky Court of Appeals NO. 2024-CA-1461-MR PLACIDO PEREZ-HERNANDEZ APPELLANT APPEAL FROM LOGAN CIRCUIT COURT v. HONORABLE JOE W. HENDRICKS, JR., JUDGE ACTION NO. 22-CR-00232 COMMONWEALTH OF KENTUCKY Original document
 - **Saxon v. Bay Ranch Mobile Village, LLP, Bay Ranch Mobile Home Park**
   - when: 2026-11-06T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11056618/saxon-v-bay-ranch-mobile-village-llp-bay-ranch-mobile-home-park/
   - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT ANDREW CALHOUN SAXON, Appellant, v. BAY RANCH MOBILE VILLAGE, LLP d/b/a BAY RANCH MOBILE HOME PARK, Appellee. No. 2D2026-1143 November 6, 2026 Appeal pursuant to Fla. R. App. P. 9.130 from the Original document
+- **Placido Perez-Hernandez v. Commonwealth of Kentucky**
+  - when: 2026-11-06T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11056637/placido-perez-hernandez-v-commonwealth-of-kentucky/
+  - RENDERED: NOVEMBER 6, 2026; 10:00 A.M. TO BE PUBLISHED Commonwealth of Kentucky Court of Appeals NO. 2024-CA-1461-MR PLACIDO PEREZ-HERNANDEZ APPELLANT APPEAL FROM LOGAN CIRCUIT COURT v. HONORABLE JOE W. HENDRICKS, JR., JUDGE ACTION NO. 22-CR-00232 COMMONWEALTH OF KENTUCKY Original document
 - **Alpha Connect Corporation, d/b/a Alpha Connect, and Gerald King v. Stephen Mangina**
   - when: 2026-11-06T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11056604/alpha-connect-corporation-dba-alpha-connect-and-gerald-king-v-stephen/
@@ -213,6 +213,14 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT BRIAN C. LACY, Appellant, v. STATE OF FLORIDA, Appellee. No. 2D2025-3347 November 6, 2026 Appeal pursuant to Fla. R. App. P. 9.141(b)(2) from the Circuit Court for Sarasota County; Original document
 
 ## uk-legislation
+- **The Air Departure Tax (Administration) (Scotland) Amendment Regulations 2026**
+  - when: 2026-11-09T03:06:20Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/330
+  - These Regulations amend the provisions concerning the administration of Air Departure Tax (“ADT”) in Part 4 (Payment, collection and management of tax) of the Air Departure Tax (Scotland) Act 2017 (“the 2017 Act”). In addition, these Regulations make amendments to section 44 (interpretation) and schedules 2 (minor and consequential modifications to Revenue Scotland and Tax Powers Act 2014) and 3 (index of defined expressions) of the 2017 Act, which are consequential upon the amendments made to P
+- **The Children’s Wellbeing and Schools Act 2026 (Commencement No. 1) Regulations 2026**
+  - when: 2026-11-09T03:00:49Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1165
+  - These Regulations are the fourth set of commencement regulations bringing into force provisions of the Children’s Wellbeing and Schools Act 2026 (c. 21) (“the Act”). They are the first set of regulations commencing provisions of the Act which substantively relate to a territory other than England, namely section 10 which relates to social care in England and Wales.
 - **The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026**
   - when: 2026-11-06T15:55:23Z
   - url: http://www.legislation.gov.uk/id/uksi/2026/1171
@@ -241,7 +249,7 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-11-05T17:13:57.338507Z
   - url: http://www.legislation.gov.uk/id/uksi/2026/1169
 - **The Registration of Births and Deaths (England and Wales) (Specified Requirements) Regulations 2026**
-  - when: 2026-11-05T14:28:04Z
+  - when: 2026-11-09T00:10:00Z
   - url: http://www.legislation.gov.uk/id/uksi/2026/1168
   - Under the Births and Deaths Registration Act 1953, certain people are required to attend the register office to give information about a birth, death or still-birth, and physically sign the register. Section 38B of that Act allows the Minister to specify requirements and to provide that the duty to sign the register has effect as a duty to comply with those specified requirements. If the requirements are complied with, the person will be taken to have signed the register and, where relevant, do
 - **The Strategic Planning Authorities (Spatial Development Strategy) Regulations 2026**
@@ -252,11 +260,3 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-11-05T13:31:45Z
   - url: http://www.legislation.gov.uk/id/uksi/2026/1164
   - These Regulations revoke and amend secondary legislation relating to strategic planning.
-- **The Strategic Planning (Costs of Public Examinations) (Standard Daily Amount) (England) Regulations 2026**
-  - when: 2026-11-05T13:31:39Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1163
-  - These Regulations, which apply in relation to England only, apply where the Secretary of State is authorised to recover costs arising in connection with a public examination under section 12I or 12P(6)(a) of the Planning and Compulsory Purchase Act 2004 (c. 5).
-- **The Spatial Development Strategy (Examination Procedure) Rules 2026**
-  - when: 2026-11-05T13:31:35Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1161
-  - Part 1A of the Planning and Compulsory Purchase Act 2004 (c. 5) (inserted by section 58 of the Planning and Infrastructure Act 2025 (c. 34)) requires strategic planning authorities to prepare a spatial development strategy. Unless the Secretary of State directs otherwise, a draft spatial development strategy must be subject to an examination.

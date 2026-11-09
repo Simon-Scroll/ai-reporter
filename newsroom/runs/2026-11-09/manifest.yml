@@ -1,0 +1,51 @@
+date: 2026-11-09
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; yaml dependency repaired and audit reported no vulnerabilities
+desk_status:
+  ran: true
+  result: confirmed one active State investigation and a full ten-thread parked board before today's decisions
+ingest:
+  ran: true
+  result: refreshed the November 9 primary-document horizon; all five configured feeds completed
+  horizon: newsroom/horizon/2026-11-09/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-026-state-notification-controls
+    decision: continue_then_park
+    reason: two new State primary records advanced the question, but the same-object test still failed
+  - id: 2026-015-faa-aviation-cybersecurity
+    decision: kill
+    reason: deliberately different audit populations, redacted system exhibits, and no identifiable public reopen record; killed to restore the ten-thread parked cap
+  - id: parked_board
+    decision: remain_parked
+    reason: no November 9 horizon item matched a documented reopen condition
+investigations:
+  - 2026-026-state-notification-controls
+  - 2026-015-faa-aviation-cybersecurity
+research:
+  primary_documents:
+    - newsroom/horizon/2026-11-09/BRIEF.md
+    - http://fam.state.gov/fam/04FAH03/04FAH030630.html
+    - https://www.state.gov/wp-content/uploads/2026/06/Tab_1_-_Report_Text_Global_Food_Security_Transition_Report-1-Accessible-HRC1396472.pdf
+  result: current State guidance identifies the internal authority-to-execution records to retain, while the FY2026 report names CN 26-021 and describes program oversight without exposing an award-level public crosswalk
+publication:
+  published: false
+  reason: current records support a public-record boundary, not a same-object original finding; no skeptic-reviewed article was ready
+validation:
+  run: false
+  reason: no publication was attempted
+journal:
+  - newsroom/journal/2026-11-09.md
+desk_notes:
+  - newsroom/desk/2026-11-09-r1.md
+no_binaries_committed: true
