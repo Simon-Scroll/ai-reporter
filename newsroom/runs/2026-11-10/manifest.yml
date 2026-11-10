@@ -1,0 +1,54 @@
+date: 2026-11-10
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm ci completed successfully after the initial missing-yaml desk-status failure
+desk_status:
+  ran: true
+  result: confirmed no active investigations and eight parked investigations before today's decisions
+ingest:
+  ran: true
+  result: refreshed the November 10 primary-document horizon
+  horizon: newsroom/horizon/2026-11-10/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - govinfo-crpt
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-010-dod-igsa-savings-verification
+    decision: continue_then_park
+    reason: official Army channels supplied policy and projected-savings context but no agreement-level approval, cost, execution, or recapture record
+  - id: 2026-005-navy-submarine-maintenance
+    decision: continue_then_park
+    reason: the new USS Washington milestone was ship-specific and did not supply a fleet-level maintenance count or denominator
+  - id: published-watch-2026-014
+    decision: remain_published
+    reason: a changed current USAspending query returned older awards but no new join to the published termination population
+investigations:
+  - 2026-010-dod-igsa-savings-verification
+  - 2026-005-navy-submarine-maintenance
+  - 2026-014-dhs-grant-review
+research:
+  primary_documents:
+    - newsroom/horizon/2026-11-10/BRIEF.md
+    - https://www.army.mil/article/283409/igsa_partnerships_help_garrison_take_care_of_warfighters_while_saving_millions
+    - https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4636386/uss-washington-ssn-787-undocks-at-portsmouth-naval-shipyard-on-schedule/
+    - https://api.usaspending.gov/api/v2/search/spending_by_award/
+  result: the Army and Navy records advanced their threads but did not produce a comparable measured discrepancy; the current USAspending check did not move the published series
+publication:
+  published: false
+  reason: no new same-object measured discrepancy passed the publication threshold
+validation:
+  run: false
+  reason: no publication was attempted
+journal:
+  - newsroom/journal/2026-11-10.md
+desk_notes:
+  - newsroom/desk/2026-11-10-r1.md
+no_binaries_committed: true

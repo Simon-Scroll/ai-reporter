@@ -1,0 +1,337 @@
+# Horizon brief — 2026-11-10
+
+Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
+Items marked NEW were not in the previous brief for that source; the rest were already seen.
+
+## sec-edgar
+25 new of 25 since 2026-11-09.
+
+- NEW · **SCHEDULE 13D/A - Toronto Dominion Investments, Inc. (0001344146) (Filed by)**
+  - when: 2026-11-09T21:59:46-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1344146/000205259526000113/0002052595-26-000113-index.htm
+  - Filed: 2026-11-09 AccNo: 0002052595-26-000113 Size: 418 KB
+- NEW · **SCHEDULE 13D/A - BLACKROCK MUNIYIELD QUALITY FUND III, INC. (0000883412) (Subject)**
+  - when: 2026-11-09T21:59:46-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/883412/000205259526000113/0002052595-26-000113-index.htm
+  - Filed: 2026-11-09 AccNo: 0002052595-26-000113 Size: 418 KB
+- NEW · **4 - DiPerna Paul (0001506126) (Reporting)**
+  - when: 2026-11-09T21:57:43-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1506126/000121390026117704/0001213900-26-117704-index.htm
+  - Filed: 2026-11-09 AccNo: 0001213900-26-117704 Size: 6 KB
+- NEW · **4 - Modular Medical, Inc. (0001074871) (Issuer)**
+  - when: 2026-11-09T21:57:43-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1074871/000121390026117704/0001213900-26-117704-index.htm
+  - Filed: 2026-11-09 AccNo: 0001213900-26-117704 Size: 6 KB
+- NEW · **4 - Anevski Peter (0001576147) (Reporting)**
+  - when: 2026-11-09T21:57:19-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1576147/000155130626000176/0001551306-26-000176-index.htm
+  - Filed: 2026-11-09 AccNo: 0001551306-26-000176 Size: 17 KB
+- NEW · **4 - Progyny, Inc. (0001551306) (Issuer)**
+  - when: 2026-11-09T21:57:19-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1551306/000155130626000176/0001551306-26-000176-index.htm
+  - Filed: 2026-11-09 AccNo: 0001551306-26-000176 Size: 17 KB
+- NEW · **4 - Schmid Kevin (0001395775) (Reporting)**
+  - when: 2026-11-09T21:56:43-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1395775/000121390026117702/0001213900-26-117702-index.htm
+  - Filed: 2026-11-09 AccNo: 0001213900-26-117702 Size: 6 KB
+- NEW · **4 - Modular Medical, Inc. (0001074871) (Issuer)**
+  - when: 2026-11-09T21:56:43-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1074871/000121390026117702/0001213900-26-117702-index.htm
+  - Filed: 2026-11-09 AccNo: 0001213900-26-117702 Size: 6 KB
+- NEW · **144 - Klaviyo, Inc. (0001835830) (Subject)**
+  - when: 2026-11-09T21:55:51-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1835830/000119312526454188/0001193125-26-454188-index.htm
+  - Filed: 2026-11-09 AccNo: 0001193125-26-454188 Size: 5 KB
+- NEW · **144 - Summit Partners Co-Invest (Kiwi), LP (0001830877) (Reporting)**
+  - when: 2026-11-09T21:55:51-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1830877/000119312526454188/0001193125-26-454188-index.htm
+  - Filed: 2026-11-09 AccNo: 0001193125-26-454188 Size: 5 KB
+- NEW · **144 - Klaviyo, Inc. (0001835830) (Subject)**
+  - when: 2026-11-09T21:55:37-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1835830/000119312526454187/0001193125-26-454187-index.htm
+  - Filed: 2026-11-09 AccNo: 0001193125-26-454187 Size: 5 KB
+- NEW · **144 - SUMMIT INVESTORS GE IX/VC IV, LLC (0001654074) (Reporting)**
+  - when: 2026-11-09T21:55:37-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1654074/000119312526454187/0001193125-26-454187-index.htm
+  - Filed: 2026-11-09 AccNo: 0001193125-26-454187 Size: 5 KB
+
+## federal-register
+0 new of 20 since 2026-11-09.
+
+- **Agency Information Collection Activities: Submission to OMB for Review and Approval: Public Comment Request; Organ Procurement and Transplantation Network Board of Directors and Committee Member Applications and Forms**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/C1-2026-21857/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment
+  - Health and Human Services Department, Health Resources and Services Administration — Notice
+- **Electronic Export Manifest for Truck Cargo Test**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/C1-2026-19414/electronic-export-manifest-for-truck-cargo-test
+  - Homeland Security Department, U.S. Customs and Border Protection — Notice
+- **Privacy Act of 1974; System of Records**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22837/privacy-act-of-1974-system-of-records
+  - Personnel Management Office — Notice — In accordance with the Privacy Act of 1974, the Office of Personnel Management (OPM) proposes to modify and republish in full a system of records previously titled "OPM/Central-21, Federal Employee Viewpoint Survey" which will be renamed "OPM/Central-21, Annual Employee Survey." The modification is necessary to reflect the replacement of OPM's centrally administered Federal Employee Viewpoint Survey (FEVS) with the Annual Employee Survey (AES). Under the re
+- **Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From India: Initiation of Countervailing Duty Investigation**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22836/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-india-initiation-of
+  - Commerce Department, International Trade Administration — Notice
+- **Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From Georgia and India: Initiation of Less-Than-Fair-Value Investigations**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22835/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-georgia-and-india-initiation-of
+  - Commerce Department, International Trade Administration — Notice
+- **President's Military Spouse Commission; Notice of Federal Advisory Committee Meeting**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22834/presidents-military-spouse-commission-notice-of-federal-advisory-committee-meeting
+  - Defense Department, — Notice — The Department of War (formerly the DoD) is publishing this notice to announce that the following Federal Advisory Committee meeting of the President's Military Spouse Commission ("the Commission") will take place.
+- **Television Broadcasting Services Odessa, Texas**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22833/television-broadcasting-services-odessa-texas
+  - Federal Communications Commission — Proposed Rule — This document proposes to amend the Table of TV Allotments (Table) of the Federal Communications Commission's (Commission) rules in response to a petition for rulemaking filed by Gray Television Licensee, LLC (Gray), the licensee of KOSA-TV (KOSA-TV), Odessa, Texas (Odessa). Gray held a construction permit to construct a facility on UHF channel 31 at Odessa, and now requests that the Bureau substitute VHF channel 7 for UHF channel 31 in the Tab
+- **United States of America, et al. v. RealPage, Inc., et al.; Response of the United States to Public Comments**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22832/united-states-of-america-et-al-v-realpage-inc-et-al-response-of-the-united-states-to-public-comments
+  - Justice Department, Antitrust Division — Notice
+- **Security Zones; Protection of Military Cargo, Captain of the Port Zone Puget Sound, WA**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22831/security-zones-protection-of-military-cargo-captain-of-the-port-zone-puget-sound-wa
+  - Homeland Security Department, Coast Guard — Rule — The Coast Guard will enforce security zones for the Protection of Military Cargo from November 8 through November 12, 2026, to provide for the security of life and vessels on navigable waterways during this event. Our regulation for Protection of Military Cargo within the Captain of the Port Zone Puget Sound, WA identifies the security zones for this event in the Blair Waterway and Sitcum Waterway in Commencement Bay, WA. During the enforcement
+- **Amendment of Class D and Establishment of Class E Airspace; Chandler and Phoenix, AZ**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22830/amendment-of-class-d-and-establishment-of-class-e-airspace-chandler-and-phoenix-az
+  - Transportation Department, Federal Aviation Administration — Rule — This action corrects a final rule published by the FAA in the Federal Register on October 30, 2026, amending the Class D airspace and establishing Class E airspace at Chandler and Phoenix, AZ. Specifically, this action corrects a statement in the preamble of the rule for greater clarity.
+- **Qualification of Drivers; Exemption Applications; Epilepsy and Seizure Disorders**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22829/qualification-of-drivers-exemption-applications-epilepsy-and-seizure-disorders
+  - Transportation Department, Federal Motor Carrier Safety Administration — Notice — FMCSA announces its decision to deny applications from 16 individuals who requested an exemption from the Federal Motor Carrier Safety Regulations (FMCSRs) prohibiting persons with a clinical diagnosis of epilepsy or any other condition that is likely to cause a loss of consciousness or any loss of ability to operate a commercial motor vehicle (CMV) from operating CMVs in interstate commerce.
+- **Sunshine Act Meeting**
+  - when: 2026-11-09
+  - url: https://www.federalregister.gov/documents/2026/11/09/2026-22828/sunshine-act-meeting
+  - Consumer Product Safety Commission — Notice
+
+## gao
+6 new of 20 since 2026-11-09.
+
+- NEW · **Social Security Administration: Actions Needed to Improve Data Exchanges for Beneficiaries in Foster Care**
+  - when: Mon, 09 Nov 2026 07:14:24 -0500
+  - url: https://www.gao.gov/products/gao-27-108035
+  - pdf: https://www.gao.gov/assets/gao-27-108035.pdf
+  - What GAO Found For children receiving Social Security benefits (beneficiaries), such as disability benefits, the Social Security Administration (SSA) typically assigns representative payees (payee) to manage those benefits. When children enter or exit foster care, SSA may need to change the payee. Since 2018, SSA has encouraged states to set up data exchanges to submit monthly data on children in foster care to help SSA identify when these beneficiaries need a new payee. Twenty-five states were
+- NEW · **F-35 Program: DOD Needs to Strengthen Oversight of Tens of Billions of Dollars in Parts**
+  - when: Mon, 09 Nov 2026 07:06:00 -0500
+  - url: https://www.gao.gov/products/gao-27-108713
+  - pdf: https://www.gao.gov/assets/gao-27-108713.pdf
+  - What GAO Found The Department of Defense (DOD) continues to face challenges in accounting for F-35 parts, such as engines and tires. The F-35 program includes approximately 26 million F-35 parts, valued at approximately $31 billion and held at over 700 contractor- and government-managed facilities around the world. Although these are DOD-owned parts, DOD does not maintain complete records of the parts. Specifically, GAO found that DOD has not established procedures that ensure its own records
+- NEW · **Department of Agriculture: Little Transparency on Whether Key Issues Were Analyzed Before Reorganization Decision**
+  - when: Mon, 09 Nov 2026 07:59:55 -0500
+  - url: https://www.gao.gov/products/gao-27-108734
+  - pdf: https://www.gao.gov/assets/gao-27-108734.pdf
+  - What GAO Found In July 2025, the U.S. Department of Agriculture (USDA) announced a plan to reorganize the department, including relocating thousands of staff positions from the National Capital Region to five hub locations across the country. In the spring of 2026, all eight USDA mission areas and several agencies announced reorganization plans, including relocating certain agency functions. The department’s actions are the subject of federal litigation seeking to stop USDA from implementing it
+- NEW · **Financial Audit: Bureau of the Fiscal Service’s FY 2026 and FY 2025 Schedules of Federal Debt**
+  - when: Mon, 09 Nov 2026 07:15:17 -0500
+  - url: https://www.gao.gov/products/gao-27-108795
+  - pdf: https://www.gao.gov/assets/gao-27-108795.pdf
+  - What GAO Found GAO found (1) the Bureau of the Fiscal Service’s Schedules of Federal Debt for fiscal years 2026 and 2025 are fairly presented in all material respects and (2) Fiscal Service maintained, in all material respects, effective internal control over financial reporting relevant to the Schedule of Federal Debt as of September 30, 2026. GAO’s tests of selected provisions of applicable laws, regulations, contracts, and grant agreements related to the Schedule of Federal Debt disclosed no
+- NEW · **Opioid Overdose Reversal Medications: Medicare and Medicaid Enrollees Generally Had Coverage in Selected Recent Years**
+  - when: Mon, 09 Nov 2026 07:20:15 -0500
+  - url: https://www.gao.gov/products/gao-27-108163
+  - pdf: https://www.gao.gov/assets/gao-27-108163.pdf
+  - What GAO Found Naloxone and nalmefene, the two types of opioid overdose reversal medications, are available as both injections and nasal sprays and as generic and brand versions. Naloxone is also available in low and high doses. Low-dose naloxone nasal sprays have been available for over-the-counter (OTC) use since 2023. GAO’s analysis of federal data show that all enrollees of Medicare Part D and Medicaid had coverage of some form of naloxone in 2025 and 2024, respectively, while coverage of n
+- NEW · **Small Business Administration: Opportunities Exist to Improve Improper Payment Estimation and Recovery Processes**
+  - when: Mon, 09 Nov 2026 08:53:39 -0500
+  - url: https://www.gao.gov/products/gao-27-107701
+  - pdf: https://www.gao.gov/assets/gao-27-107701.pdf
+  - What GAO Found GAO analyzed the Small Business Administration’s (SBA) methods for estimating improper payments for fiscal years 2020 through 2024 for the Paycheck Protection Program (PPP) and the COVID-19 Economic Injury Disaster Loan (EIDL), 7(a) loan guaranty, and standard EIDL programs. SBA’s estimates met the Office of Management and Budget’s basic statistical requirements. However, SBA did not document the basis for key decisions it made to develop those estimates. This includes the basis
+- **Democracy Assistance: State Department Should Improve Congressional Notification of Its Use of Certain Legal Authorities**
+  - when: Fri, 06 Nov 2026 07:13:23 -0500
+  - url: https://www.gao.gov/products/gao-27-107900
+  - pdf: https://www.gao.gov/assets/gao-27-107900.pdf
+  - What GAO Found Federal law contains certain provisions, known as notwithstanding authorities, that allow agencies to provide funding that would otherwise be restricted. Historically, the annual appropriations act has required agencies to notify Congress if they intend to use a notwithstanding authority to provide assistance in countries where U.S. law prohibits U.S. funding. In fiscal years (FY) 2023 and 2024, the joint explanatory statement (JES) accompanying the act included additional direct
+- **U.S. Patent and Trademark Office: Patent Backlog Reduction Efforts Pose Risks to Examiner Retention and Examination Quality**
+  - when: Thu, 05 Nov 2026 07:21:13 -0500
+  - url: https://www.gao.gov/products/gao-27-108491
+  - pdf: https://www.gao.gov/assets/gao-27-108491.pdf
+  - What GAO Found The backlog of unexamined patent applications awaiting an initial decision from the United States Patent and Trademark Office (USPTO) rose to about 838,000 applications in January 2025. In September 2025, the USPTO announced a goal to reduce the backlog to under 599,000 applications but did not specify a time frame for reaching it. The backlog was last at that level in 2020. To reduce the backlog, the USPTO is requiring patent examiners to review more applications, has decreased
+- **Superfund: EPA Should Collect and Use Information on the Effectiveness of Its Recovery of Cleanup Costs**
+  - when: Thu, 05 Nov 2026 07:15:02 -0500
+  - url: https://www.gao.gov/products/gao-27-107925
+  - pdf: https://www.gao.gov/assets/gao-27-107925.pdf
+  - What GAO Found The U.S. Environmental Protection Agency (EPA) uses the Hazardous Substance Superfund Trust Fund to finance cleanup costs at Superfund sites where responsible parties cannot be found or cannot pay. In fiscal years 2006 through 2024, the Trust Fund received about $34 billion in constant 2024 dollars, mostly from General Fund transfers. Congress appropriated about $32.8 billion from the Trust Fund for the Superfund program over this period. Revenue from the reinstated Superfund tax
+- **International Collaboration: Federal Banking Agencies Actively Participated in Standard-Setting Bodies**
+  - when: Thu, 05 Nov 2026 07:11:03 -0500
+  - url: https://www.gao.gov/products/gao-27-108190
+  - pdf: https://www.gao.gov/assets/gao-27-108190.pdf
+  - What GAO Found The Federal Deposit Insurance Corporation, Board of Governors of the Federal Reserve System, and Office of the Comptroller of the Currency help develop financial standards by participating in international standard-setting bodies, such as the Basel Committee on Banking Supervision. These banking agencies also conduct joint work with or provide technical assistance to certain bodies in which they are not members. Federal Banking Agencies’ Participation in Key International Standa
+- **District of Columbia Charter Schools: Key Changes Made to Academic Accountability System**
+  - when: Thu, 05 Nov 2026 07:16:01 -0500
+  - url: https://www.gao.gov/products/gao-27-109048
+  - pdf: https://www.gao.gov/assets/gao-27-109048.pdf
+  - What GAO Found The DC Public Charter School Board (PCSB) uses a multi-step process, including interviews and public hearings, to screen applicants. PCSB also requires applicants to meet several decision criteria (see figure). In the past 5 years PCSB has made a few key changes to the charter school application process. Changes include requiring that charters fill a demonstrated need and that prospective schools complete a preapplication process. Additionally, PCSB has shifted the application ti
+- **Immigration Detention: Changes In Inspections of ICE Facilities Raise Questions About Oversight**
+  - when: Thu, 05 Nov 2026 07:19:18 -0500
+  - url: https://www.gao.gov/products/gao-27-109299
+  - pdf: https://www.gao.gov/assets/gao-27-109299.pdf
+  - What GAO Found Department of Homeland Security (DHS) detention facility inspections have changed at the same time that the number of immigration detention facilities and the size of the detained population have increased. From April 2025 to April 2026, following a January 2025 Executive Order, U.S. Immigration and Customs Enforcement (ICE) added over 40 detention facilities that detain noncitizens for over 72 hours. The average daily population of detained noncitizens grew by over 50 percent, t
+
+## govinfo-crpt
+20 new of 20.
+
+- NEW · **H. Rept. 119-867 — REINFORCING UNDERSERVED, RURAL, AND LOCAL HEALTHCARE ACT**
+  - when: 2026-11-02
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt867
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt867/pdf/CRPT-119hrpt867.pdf
+  - Committee on Education and Workforce
+- NEW · **H. Rept. 119-868 — VALUING EMPLOYEE STOCK TODAY ACT**
+  - when: 2026-11-02
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt868
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt868/pdf/CRPT-119hrpt868.pdf
+  - Committee on Education and Workforce
+- NEW · **H. Rept. 119-853 — MARINER EXAM MODERNIZATION ACT**
+  - when: 2026-10-29
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt853
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt853/pdf/CRPT-119hrpt853.pdf
+  - Committee on Transportation and Infrastructure
+- NEW · **H. Rept. 119-864 — CROSSETT EXPERIMENTAL FOREST ACT OF 2026**
+  - when: 2026-10-29
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt864
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt864/pdf/CRPT-119hrpt864.pdf
+  - Committee on Natural Resources
+- NEW · **H. Rept. 119-855 — TO AMEND THE NATIONAL TRAILS SYSTEM ACT TO DIRECT THE SECRETARY OF THE INTERIOR TO CONDUCT A STUDY ON THE FEASIBILITY OF DESIGNATING THE BAY AREA RIDGE NATIONAL SCENIC TRAIL, AND FOR OTHER PURPOSES**
+  - when: 2026-10-29
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt855
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt855/pdf/CRPT-119hrpt855.pdf
+  - Committee on Natural Resources
+- NEW · **H. Rept. 119-866 — THEODORE ROOSEVELT PRESIDENTIAL LIBRARY ACT**
+  - when: 2026-10-29
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt866
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt866/pdf/CRPT-119hrpt866.pdf
+  - Committee on Natural Resources
+- NEW · **H. Rept. 119-862 — EARTH MRI REAUTHORIZATION ACT OF 2026**
+  - when: 2026-10-29
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt862
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt862/pdf/CRPT-119hrpt862.pdf
+  - Committee on Natural Resources
+- NEW · **H. Rept. 119-857 — RESPONSIBLE CORMORANT MANAGEMENT AND CONTROL ACT OF 2026**
+  - when: 2026-10-29
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt857
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt857/pdf/CRPT-119hrpt857.pdf
+  - Committee on Natural Resources
+- NEW · **H. Rept. 119-863 — SOUTH DAKOTA WATER FEASIBILITY STUDIES ACT**
+  - when: 2026-10-29
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt863
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt863/pdf/CRPT-119hrpt863.pdf
+  - Committee on Natural Resources
+- NEW · **H. Rept. 119-865 — TECHNICAL CORRECTION TO THE SHOSHONE-PAIUTE TRIBES OF THE DUCK VALLEY RESERVATION WATER RIGHTS SETTLEMENT ACT OF 2025**
+  - when: 2026-10-29
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt865
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt865/pdf/CRPT-119hrpt865.pdf
+  - Committee on Natural Resources
+- NEW · **H. Rept. 119-861 — MODERNIZING ACCESS TO TALENTS, CREDENTIALS, AND HIRING ACT OF 2026**
+  - when: 2026-10-29
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt861
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt861/pdf/CRPT-119hrpt861.pdf
+  - Committee on Education and Workforce
+- NEW · **H. Rept. 119-860 — COMMON SENSE 250 ACT OF 2026**
+  - when: 2026-10-29
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt860
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt860/pdf/CRPT-119hrpt860.pdf
+  - Committee on Natural Resources
+
+## courtlistener
+19 new of 20 since 2026-11-09.
+
+- NEW · **Marcus v. Cassara**
+  - when: 2026-11-10T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11057734/marcus-v-cassara/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- NEW · **Fernandez v. Commissioner of Correction**
+  - when: 2026-11-10T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11057736/fernandez-v-commissioner-of-correction/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- NEW · **Day Kimball Healthcare, Inc. v. Dept. of Public Health**
+  - when: 2026-11-10T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11057737/day-kimball-healthcare-inc-v-dept-of-public-health/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- NEW · **Krasko v. Konkos**
+  - when: 2026-11-10T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11057735/krasko-v-konkos/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- NEW · **PA Game Commission, Aplt. v. Thomas Proctor Heirs Trust**
+  - when: 2026-11-09T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11057927/pa-game-commission-aplt-v-thomas-proctor-heirs-trust/
+  - IN THE SUPREME COURT OF PENNSYLVANIA MIDDLE DISTRICT COMMONWEALTH OF PENNSYLVANIA, : No. 57 MAP 2026 PENNSYLVANIA GAME COMMISSION, : : Appellant : : : v. Original document
+- NEW · **Elisabeth Callaham v. John Callaham**
+  - when: 2026-11-09T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11057806/elisabeth-callaham-v-john-callaham/
+  - Court of Appeals of the State of Georgia ATLANTA,____________________ November 09, 2026 The Court of Appeals hereby passes the following order: A27A0625. ELISABETH CALLAHAM v. JOHN CALLAHAM. Elisabeth Callaham filed both a pro se application for discretionary review and a notice of appeal from the trial court’s judgment and decree of divorce. We dismissed the application for failure to comply with Original document
+- NEW · **State v. Claar**
+  - when: 2026-11-09T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11057911/state-v-claar/
+  - [Cite as State v. Claar, 2026-Ohio-4436.] IN THE COURT OF APPEALS OF OHIO ELEVENTH APPELLATE DISTRICT GEAUGA COUNTY STATE OF OHIO, CASE NO. 2026-G-0008 Plaintiff-Appellee, Criminal Appeal from the - vs - Court of Common Pleas MATTHEW J. CLAAR, Original document
+- NEW · **State v. Tran**
+  - when: 2026-11-09T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11057902/state-v-tran/
+  - [Cite as State v. Tran, 2026-Ohio-4430.] IN THE COURT OF APPEALS OF OHIO SIXTH APPELLATE DISTRICT ERIE COUNTY State of Ohio Court of Appeals No. {22}E-25-037 Appellee Trial Court No. 2023 CR 0353 v. Dung Tran DECISION AND JUDGMENT Appellant Original document
+- NEW · **State v. Wilkins**
+  - when: 2026-11-09T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11057848/state-v-wilkins/
+  - [Cite as State v. Wilkins, 2026-Ohio-4420.] STATE OF OHIO ) IN THE COURT OF APPEALS )ss: NINTH JUDICIAL DISTRICT COUNTY OF LORAIN ) STATE OF OHIO C.A. No. 24CA012158 Appellee v. APPEAL FROM JUDGMENT ENTERED IN THE Original document
+- NEW · **Gottlieb v. National Student Loan Data System**
+  - when: 2026-11-09T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11057796/gottlieb-v-national-student-loan-data-system/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA ) SEAN GOTTLIEB, ) ) Plaintiff, ) ) v. ) Civil Action No. 24 -cv- 3644 (TSC) ) NATIONAL STUDENT Original document
+- NEW · **State v. Jones**
+  - when: 2026-11-09T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11057907/state-v-jones/
+  - [Cite as State v. Jones, 2026-Ohio-4435.] IN THE COURT OF APPEALS OF OHIO ELEVENTH APPELLATE DISTRICT GEAUGA COUNTY STATE OF OHIO, CASE NO. 2026-G-0003 Plaintiff-Appellee, Criminal Appeal from the - vs - Court of Common Pleas TREY LA MONTRE JONES, Original document
+- NEW · **State v. Miller**
+  - when: 2026-11-09T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11057980/state-v-miller/
+  - [Cite as State v. Miller, 2026-Ohio-4454.] IN THE COURT OF APPEALS OF OHIO THIRD APPELLATE DISTRICT MERCER COUNTY STATE OF OHIO, CASE NO. 10-26-03 PLAINTIFF-APPELLEE, v. DOUGLAS E. MILLER, OPINION AND JUDGMENT ENTRY DEFENDANT-APPELLANT Original document
+
+## uk-legislation
+6 new of 20 since 2026-11-09.
+
+- NEW · **The Air Navigation (Restriction of Flying) (Tilbury Docks, Essex) Regulations 2026**
+  - when: 2026-11-10T03:04:11Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1170
+- NEW · **The Air Departure Tax (Scotland) Amendment Regulations 2026**
+  - when: 2026-11-09T12:48:03Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/333
+  - These Regulations amend the Air Departure Tax (Scotland) Act 2017 (“the 2017 Act”) to make provision concerning who is a non-chargeable passenger in respect of certain flights which begin or end at an airport in a designated area of Scotland and related consequential amendments to the 2017 Act. In addition, these Regulations amend section 9 of the 2017 Act (aircraft used under public service obligation).
+- NEW · **The Registration of Births and Deaths (Amendment) Regulations 2026**
+  - when: 2026-11-09T12:32:50Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1172
+  - These Regulations amend the Registration of Births and Deaths Regulations 1987 (S.I. 1987/2088) (“the 1987 Regulations”) and the Registration of Births and Deaths (Welsh Language) Regulations 1987 (S.I. 1987/2089) (“the Welsh Language Regulations”).
+- NEW · **The A702 Trunk Road (Biggar) (20mph and 30mph Speed Limits) Order 2026**
+  - when: 2026-11-09T09:18:25Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/331
+- NEW · **The A75 Trunk Road (Glasgow Road Roundabout, Cuckoo Bridge) (30mph Speed Limit) Order 2026**
+  - when: 2026-11-09T09:18:20Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/332
+- NEW · **Correction Slip**
+  - when: 2026-11-09T09:18:52Z
+  - url: http://www.legislation.gov.uk/uksi/2026/1056/pdfs/uksics_20261056_en_001.pdf
+  - This Order amends the Town and Country Planning (General Permitted Development) (England) Order 2015 (S.I. 2015/596) (“the GPDO”). The GPDO provides, for the purposes of section 59 of the Town and Country Planning Act 1990 (c. 8), for the grant of planning permission for certain classes of development without the requirement for a planning application to be made under Part 3 of that Act. The classes of permission, known as “permitted development rights” together with their accompanying condition
+- **The Air Departure Tax (Administration) (Scotland) Amendment Regulations 2026**
+  - when: 2026-11-09T03:06:20Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/330
+  - These Regulations amend the provisions concerning the administration of Air Departure Tax (“ADT”) in Part 4 (Payment, collection and management of tax) of the Air Departure Tax (Scotland) Act 2017 (“the 2017 Act”). In addition, these Regulations make amendments to section 44 (interpretation) and schedules 2 (minor and consequential modifications to Revenue Scotland and Tax Powers Act 2014) and 3 (index of defined expressions) of the 2017 Act, which are consequential upon the amendments made to P
+- **The Children’s Wellbeing and Schools Act 2026 (Commencement No. 1) Regulations 2026**
+  - when: 2026-11-09T03:00:49Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1165
+  - These Regulations are the fourth set of commencement regulations bringing into force provisions of the Children’s Wellbeing and Schools Act 2026 (c. 21) (“the Act”). They are the first set of regulations commencing provisions of the Act which substantively relate to a territory other than England, namely section 10 which relates to social care in England and Wales.
+- **The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026**
+  - when: 2026-11-06T15:55:23Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1171
+- **Administrative and Financial Provisions Act (Northern Ireland) 2026**
+  - when: 2026-11-06T16:06:12Z
+  - url: http://www.legislation.gov.uk/id/nia/2026/10
+  - An Act to make further provision with respect to the administration and financing of public services in Northern Ireland, in particular, measures to provide powers to undertake certain activities, to enable charging for certain activities and to modify arrangements for financial governance.
+- **<div xmlns="http://www.w3.org/1999/xhtml">
+						<span xml:lang="en">The Non-Domestic Rating (Description and Value of Differential Multipliers) (Amendment) (Wales) Regulations 2026</span> / <span xml:lang="cy">Rheoliadau Ardrethu Annomestig (Disgrifiad o Luosyddion Gwahaniaethol a Gwerth Lluosyddion Gwahaniaethol) (Diwygio) (Cymru) 2026</span>
+					</div>**
+  - when: 2026-11-06T03:02:10Z
+  - url: http://www.legislation.gov.uk/id/wsi/2026/133
+  - In relation to Wales, the non-domestic rating multiplier for each chargeable financial year is calculated in accordance with Part A2 of Schedule 7 to the Local Government Finance Act 1988 (“the 1988 Act”). O ran Cymru, cyfrifir y lluosydd ardrethu annomestig ar gyfer pob blwyddyn ariannol y codir swm ynglŷn â hi yn unol â Rhan A2 o Atodlen 7 i Ddeddf Cyllid Llywodraeth Leol 1988 (“Deddf 1988”).
+- **The Parking and Waiting Restrictions (Newtownabbey) (Amendment) Order (Northern Ireland) 2026**
+  - when: 2026-11-06T03:01:52Z
+  - url: http://www.legislation.gov.uk/id/nisr/2026/185

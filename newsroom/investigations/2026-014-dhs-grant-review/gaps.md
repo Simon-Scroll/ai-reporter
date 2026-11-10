@@ -8,3 +8,7 @@
 ## Public finding
 
 The primary documents now support a concise, labeled finding: GAO's 2025 USCIS termination population cannot be joined to the public USAspending record through the tested official query. Older Citizenship and Integration records are returned, but the same query returns none when the period begins in 2025, even when the end date is extended through September 18, 2026. The reconciling award-level identifiers, status history, or reporting explanation remain public-record gaps.
+
+## 2026-11-10 watch check
+
+A changed current query used the broader keyword `Citizenship` and extended the period through November 10, 2026. It returned 19 older `22CICET` and `23CICET` awards and no newer 2025- or 2026-prefixed result. This does not supply the 111 USCIS identifiers or explain the mismatch, so the follow-up does not move to a new series part. Continue to wait for award identifiers, transaction histories, or an official reporting explanation; do not repeat the same query without a changed filter question.

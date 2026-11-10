@@ -1,6 +1,6 @@
 id: 2026-005-navy-submarine-maintenance
 opened: 2026-08-30
-updated: 2026-09-08
+updated: 2026-11-10
 status: parked
 mode: PARK
 next_action: Reopen only when a new public Navy or NAVSEA fleet-level execution record supplies a dated SSN maintenance-or-awaiting-maintenance count or stable denominator.
