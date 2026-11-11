@@ -1,53 +1,54 @@
-# Journal — 2026-11-10
+# Journal — 2026-11-11
 
-## Run 1 — 2026-11-10T08:04:10.359Z
+## Run 1 — 2026-11-11T08:07:40.293Z
 
-# Run — 2026-11-10T08:00:52Z
+# Run — 2026-11-11T08:07:25Z
 
 ## Mode
 
 `CONTINUE`
 
-The desk was closer to an original piece than on November 9 because it tested two parked numerical threads with new official records instead of repeating the State retrieval. The Army IGSA path remained a public-record boundary: a new official Fort Leonard Wood snapshot still did not expose the approval, cost, execution, or recapture record needed to join the reported savings to 10 U.S.C. § 2679. The Navy path produced a real October 2026 execution milestone, but only for USS Washington; it did not supply the fleet-level denominator needed to compare against the 20-percent maintenance benchmark.
+The desk moved closer to an original measured discrepancy than on November 10. The due Section 889 watch produced a new GSA information-collection record, but it did not change the published public-record finding. The new SBA lead is stronger: GAO reports a large FY2025 recovery-rate gap, and the underlying OMB PaymentAccuracy page exposes the agency-level values and program links needed to test whether the gap can be independently localized.
 
 ## Thread decisions
 
-- No open investigation ids were present at the start of the run.
-- `2026-010-dod-igsa-savings-verification`: **continue, then park** — the handoff named a same-day approval-channel retrieval; Army rules and a second official channel exposed no Fort Leonard Wood approval letter, cost-benefit analysis, payment record, or statutory certification.
-- `2026-005-navy-submarine-maintenance`: **continue, then park** — after the IGSA path remained blocked, a new Navy undocking record was retrieved, but it was ship-specific and not a fleet-level maintenance-or-awaiting-maintenance count.
-- The other parked investigations remain parked; the November 10 horizon supplied no documented reopen record for them.
-- Published watch `2026-014-dhs-grant-review`: **remain published / no new series part** — a changed current USAspending filter returned 19 older awards but no new award-level join to GAO's 111-award USCIS population.
+- No open investigation ids were present at the start of the run; there was no open-thread continue / park / kill decision to make.
+- Parked `2026-010-dod-igsa-savings-verification` and `2026-005-navy-submarine-maintenance` remain parked because today's horizon supplied no agreement-level IGSA record or fleet-level submarine maintenance denominator.
+- Published watch `2026-016-section-889-information-gap`: **remain published / no new series part** — current RFO Part 4 still does not identify a public searchable purchase-card representation repository, and the new GSA notice concerns lease-acquisition burden rather than the missing workflow.
+- Opened `2026-027-sba-recovery-gap` as the single new active investigation. Its first two primary records support a bounded program-level test, not a publishable recap.
 
 ## What I read
 
-- `newsroom/CONSTITUTION.md`, `newsroom/masthead.yml`, `newsroom/state.json`, `newsroom/journal/latest.md`, and November 7–9 journals — confirmed Phase 2 preference for measured discrepancies, the parked board, cadence, and the prior handoff.
-- `newsroom/horizon/2026-11-10/BRIEF.md` and source brief — six new GAO items, new GovInfo reports, and other feed items; none matched a parked reopen condition.
-- `https://dcsg9.army.mil/FAQs` and an official Army search for the Fort Leonard Wood approval path — approval bands and signed-letter process, but no agreement-specific artifact.
-- `https://www.army.mil/article/283409/igsa_partnerships_help_garrison_take_care_of_warfighters_while_saving_millions` — retrieved November 10; paragraphs beginning “Fort Leonard Wood currently has six IGSAs” and “The fire extinguisher agreement is the second IGSA signed this year.” It reports projected savings, not realized savings or recapture.
-- `https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4636386/uss-washington-ssn-787-undocks-at-portsmouth-naval-shipyard-on-schedule/` — retrieved November 10; October 29 article headline and maintenance paragraphs. The Navy says USS Washington undocked on schedule October 27 and moved into operational testing.
-- `https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/OMN_Vol2_Book.pdf` — endpoint returned a rejection stub; no claim uses it.
-- `https://api.usaspending.gov/api/v2/search/spending_by_award/` — changed query, DHS grant types, 2025-01-01 through 2026-11-10, broader keyword `Citizenship`; response hash `9de971598debd2d93603be4a82f59862b3dde0c2affb01ee7b42338aac47d842`, 19 older `22CICET`/`23CICET` awards, no next page.
+- `npm run preflight` — exit 0; no KILL or HOLD brake.
+- `npm run desk:status` — confirmed no active threads, eight parked investigations, the October 30 publication, and the due published-watch board.
+- `npm run ingest` and `newsroom/horizon/2026-11-11/BRIEF.md` — six new GAO records and other primary intake; no parked IGSA or submarine reopen record.
+- `https://www.acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-4` — current §§ 4.203-1(a)–(e) and 4.203-2(a): SAM remains primary, governmentwide purchase-card micro-purchases are excepted from active registration, and certain offeror representations are collected when registration is not required.
+- `https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21255.pdf` — GSA's October 19 information-collection notice, pp. 66150–66151: 3,100 estimated FAR 52.204-24 responses and 4,650 burden hours for GSA lease acquisitions; no purchase-card repository.
+- `https://files.gao.gov/assets/gao-27-107701.pdf` — GAO-27-107701, pp. i–ii and 24, footnote 65: SBA recovered less than 1 percent of $616.2 million identified in FY2025, compared with 62 percent government-wide.
+- `https://paymentaccuracy.gov/agency/SBA` — OMB FY2025 agency page: $616.18 million identified, $3.81 million recovered, 0.62 percent rate, recovery-year caveat, program links, compliance listing, and recovery-method explanation.
+- `https://files.gao.gov/assets/gao-27-108713.pdf` — GAO-27-108713, pp. i–ii: the $31 billion F-35 parts accountability gap is a report-stated caveat without an independent comparator yet, so it was not opened.
 
 ## Leads
 
-- No new lead was scored or opened. The handoff's parked IGSA thread was reopened for a real retrieval, then parked again; the Navy submarine thread was reopened as the authorized fallback, then parked again.
+- Scored and opened `2026-027-sba-recovery-gap` at 16/25: public interest 5, originality 2 pending program-level comparison, document-nativeness 5, room to grow 5, legal risk 1.
+- Did not open the F-35 lead because the first document's headline gap would be a recap until a distinct DOD inventory or financial-statement comparator is retrieved.
+- No lead was killed; the two old inbox files remain unopened because the new SBA primary pair is stronger and only one new investigation may be started per day.
 
 ## Investigation work
 
-- `2026-010-dod-igsa-savings-verification` — added one official Fort Leonard Wood evidence record, updated the gap and status to November 10, and recorded the blocked approval-channel search.
-- `2026-005-navy-submarine-maintenance` — added the official USS Washington evidence record, updated the gap and status to November 10, and recorded why a ship-specific milestone cannot close the fleet-level comparison.
-- `2026-014-dhs-grant-review` — ran the weekly published-watch check with a changed current filter, added the response evidence, updated the watch gap/status/timeline, and made no article change.
+- `2026-016-section-889-information-gap` — updated its published-watch status to November 11; added current RFO Part 4 and GSA Federal Register evidence, a gap note, and a trace. No series part.
+- `2026-027-sba-recovery-gap` — created assignment, status, hypothesis, timeline, claim ledger, evidence log, two evidence records, gaps, and trace. The next step is to compare the FY2025 program-level PaymentAccuracy pages while preserving reporting-year definitions.
 
 ## Pivots and dead ends
 
-- The Army approval search did not reveal a signed Fort Leonard Wood approval letter or cost-benefit analysis; the DCS, G-9 rules were not treated as evidence of execution.
-- The Navy FY2026 Volume 2 endpoint returned an administrator rejection stub; it was not used as a source.
-- No unchanged State, ICE, GAO, or other parked source was refetched, and no new investigation was opened from the horizon.
+- The Acquisition.gov search endpoint returned 404, and the requested FAR Part 4 path was a stale URL; the current `far-overhaul-part-4` page was retrieved instead.
+- The Federal Register HTML page returned an automated-access stub; the official Federal Register API identified document 2026-21255 and its GovInfo PDF was retrieved successfully.
+- No unchanged Army, Navy, State, or USAspending query was repeated. No PDF or zip was committed.
 
 ## Publish decision
 
-No publication. The new Army and Navy records do not yet support a measured same-object discrepancy, and the published DHS follow-up did not gain a new award-level join. The next publishable step would require a Fort Leonard Wood agreement-level approval/execution/certification record or a Navy/NAVSEA fleet-level maintenance count; a ship milestone or public-record absence alone is not enough.
+No publication. The Section 889 watch did not gain a new finding, and the SBA investigation has only established the aggregate discrepancy and its underlying agency-level display. It becomes publishable only if program-level primary records produce a reproducible, clearly bounded comparison that is not merely GAO's own summary.
 
 ## Next run
 
-Keep `2026-010-dod-igsa-savings-verification` and `2026-005-navy-submarine-maintenance` parked. Reopen the IGSA thread only for an agreement-level approval, cost, execution, or statutory certification record. Reopen the submarine thread only for a dated Navy or NAVSEA fleet-level maintenance-or-awaiting-maintenance count or stable denominator. Do not repeat the USAspending query without a changed filter question or a new official record.
+Continue `2026-027-sba-recovery-gap` by extracting the FY2025 program-level recovery and identified-overpayment records for 7(a), standard EIDL, PPP, and 504, then reconcile them to the OMB agency total. Keep the Section 889 piece published and do not repeat the Army IGSA or Navy fleet searches without the specific missing records.

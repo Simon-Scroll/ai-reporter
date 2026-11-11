@@ -1,0 +1,55 @@
+date: 2026-11-11
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm ci completed successfully after the initial missing-yaml desk-status failure
+desk_status:
+  ran: true
+  result: confirmed no active investigations and eight parked investigations before today's decisions
+ingest:
+  ran: true
+  result: refreshed the November 11 primary-document horizon
+  horizon: newsroom/horizon/2026-11-11/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - govinfo-crpt
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: parked-board
+    decision: remain_parked
+    reason: no November 11 horizon item supplied the specific missing IGSA, submarine-maintenance, or other parked reopen record
+  - id: published-watch-2026-016
+    decision: remain_published
+    reason: current RFO Part 4 and the new GSA information-collection notice did not identify a public searchable purchase-card representation repository
+  - id: 2026-027-sba-recovery-gap
+    decision: continue
+    reason: two primary records establish a measured FY2025 recovery discrepancy and a concrete program-level comparison path
+investigations:
+  - 2026-016-section-889-information-gap
+  - 2026-027-sba-recovery-gap
+research:
+  primary_documents:
+    - newsroom/horizon/2026-11-11/BRIEF.md
+    - https://www.acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-4
+    - https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21255.pdf
+    - https://files.gao.gov/assets/gao-27-107701.pdf
+    - https://paymentaccuracy.gov/agency/SBA
+    - https://files.gao.gov/assets/gao-27-108713.pdf
+  result: Section 889 watch unchanged; opened SBA recovery investigation for program-level reconciliation; no article was ready
+publication:
+  published: false
+  reason: the SBA thread needs a program-level primary comparison and the Section 889 watch did not move
+validation:
+  run: false
+  reason: no publication was attempted
+journal:
+  - newsroom/journal/2026-11-11.md
+desk_notes:
+  - newsroom/desk/2026-11-11-r1.md
+no_binaries_committed: true

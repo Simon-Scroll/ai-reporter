@@ -13,3 +13,7 @@
 ## 2026-09-24 decision
 
 **Write.** The same-object test passes: GAO's Section 889 information signal, the RFO replacement provision, and the purchase-card exception all concern how an agency verifies a contractor's current covered-equipment representation. Current RFO Part 4 and Part 40 text, GSA's implementation memo, and HHS's civilian implementation record supply a new comparison. The finding must be limited to the documented gap: ordinary solicitations have an offer-level path, but the records do not show a public searchable equivalent for exempt purchase-card transactions. Do not describe the June proposal as final or claim noncompliance.
+
+## 2026-11-11 published-watch check
+
+**No new series part.** The current RFO Part 4 page still describes the purchase-card micro-purchase exception and collection of offeror representations when SAM registration is not required. A new GSA Federal Register information-collection notice reports 3,100 estimated FAR 52.204-24 responses for GSA lease acquisitions and says the collection continues without changes pending RGO rulemaking, but it does not identify a governmentwide purchase-card workflow or public searchable offer-level repository. The watch remains published; wait for a distinct purchase-card workflow, searchable record, or other primary that changes the finding.

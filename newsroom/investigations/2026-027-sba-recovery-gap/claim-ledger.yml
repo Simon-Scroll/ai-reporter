@@ -1,0 +1,28 @@
+claims:
+  - id: C1
+    status: supported
+    claim: "GAO reports that SBA recovered less than 1 percent of $616.2 million in overpayments identified across its programs in fiscal year 2025, compared with 62 percent government-wide."
+    sources:
+      - "https://files.gao.gov/assets/gao-27-107701.pdf"
+    locator: "pp. i–ii, 24, and footnote 65"
+  - id: C2
+    status: supported
+    claim: "OMB's FY2025 PaymentAccuracy page for SBA reports $616.18 million identified through recovery activities, $3.81 million recovered, and a 0.62 percent recovery rate."
+    sources:
+      - "https://paymentaccuracy.gov/agency/SBA"
+    locator: "FY2025 Recovery information; Identification and recovery of overpayments table"
+  - id: C3
+    status: open
+    claim: "The agency-level recovery gap can be reproduced from program-level primary records and localized to programs or recovery methods without mixing reporting-year definitions."
+    sources:
+      - "https://paymentaccuracy.gov/agency/SBA"
+      - "https://paymentaccuracy.gov/program/sba-7-a-loan-guarantees-approvals"
+      - "https://paymentaccuracy.gov/program/sba-7-a-loan-guarantees-purchases"
+      - "https://paymentaccuracy.gov/program/sba-disaster-assistance-loans"
+    locator: "Program-level FY2025 recovery tables to be compared"
+  - id: C4
+    status: open
+    claim: "SBA's public program-level compliance and recovery-audit explanations identify a documented control or reporting difference that helps explain the recovery rate."
+    sources:
+      - "https://paymentaccuracy.gov/agency/SBA"
+    locator: "FY2025 compliance, recovery-audit, and supplemental payment-integrity sections"

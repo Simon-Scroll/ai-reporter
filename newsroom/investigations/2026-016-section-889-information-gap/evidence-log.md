@@ -55,3 +55,19 @@
 - Locator: FAR Class Deviation 2025-09 Amendment 2, §§ 1, 4, 7.A–E, and 9.
 - Excerpt: HHS directs all divisions to use the RFO model text for applicable actions and tells contracting officers that SAM updates may lag policy updates; they are to rely on representations from offers based on the solicitation, while entities cannot remove the displaced representations from SAM.
 - Boundary: HHS demonstrates one civilian implementation path; it does not prove that every civilian agency or purchase-card action creates a public searchable record.
+
+## E8 — Current RFO FAR Part 4 check
+
+- URL: https://www.acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-4
+- Retrieved: 2026-11-11
+- Locator: §§ 4.203-1(a)–(e) and 4.203-2(a).
+- Excerpt: The current model text still makes SAM the primary method for entity-level representations, excepts governmentwide commercial purchase-card micro-purchases from active SAM registration, and directs the contracting officer to collect certain offeror information when registration is not required.
+- Boundary: The current text still does not identify a public searchable repository for those records.
+
+## E9 — GSA Section 889 information collection
+
+- URL: https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21255.pdf
+- Retrieved: 2026-11-11
+- Locator: Federal Register, vol. 91, no. 200, October 19, 2026, pp. 66150–66151, sections B–C.
+- Excerpt: GSA says it is extending OMB Control No. 3090-0322 without changes until the RGO rulemaking is completed. For GSA lease acquisitions it estimates 3,100 responses and 4,650 burden hours for FAR 52.204-24, and 62 responses and 93 burden hours for FAR 52.204-25.
+- Boundary: The notice concerns GSA lease acquisitions and does not identify a governmentwide purchase-card workflow or public searchable repository.
