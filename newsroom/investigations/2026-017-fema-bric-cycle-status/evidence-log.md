@@ -79,3 +79,12 @@
 - Locator: “Archived: August 22, 2026,” “Expected awards,” and “History” fields.
 - Excerpt: The listing remains archived, shows “Expected awards” as “$--,” and displays no current-cycle selection or award result.
 - Boundary: The public listing cannot establish whether FEMA took an action inside FEMA GO that is not reflected there.
+
+## E11 — FEMA BRIC program page, rechecked November 12
+
+- URL: https://www.fema.gov/grants/mitigation/learn/building-resilient-infrastructure-communities
+- Retrieved: 2026-11-12
+- SHA-256: 0e4367a11244da72f1e741a60de5e2cdca5a317f4b3e96db6bd6a893db03d76f
+- Locator: “Fiscal Years 2024/2025 Funding Opportunity: Application Period Closed” section; page last updated September 3, 2026.
+- Excerpt: FEMA says the July 23, 2026 application deadline has passed, it is “currently reviewing submissions,” and selections will be announced after review is complete. The page says $1 billion was available for the cycle.
+- Boundary: The page still supplies no common completion date, award date, or record-level status history. It does not establish delay or nonperformance.

@@ -6,6 +6,7 @@
 - FEMA's announcement says the redesign should move money faster, but it does not state a deadline by which awards must be made.
 - GAO's report includes older-cycle results and selected June 2026 aggregate updates, but not a record-level comparison to the September 2026 API response.
 - FEMA's current BRIC page now says the agency is still reviewing submissions and will announce selections after review is complete, but it supplies no common completion date, award date, or record-level status history.
+- On November 12, the same official page still said FEMA was reviewing submissions and that selections would be announced after review; it added no award, selection, or status-history record.
 
 ## Decision required
 

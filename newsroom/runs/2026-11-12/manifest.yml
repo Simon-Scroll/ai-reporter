@@ -1,0 +1,57 @@
+date: 2026-11-12
+mode: REST
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm ci completed successfully after the initial missing-yaml desk-status failure
+desk_status:
+  ran: true
+  result: confirmed one active SBA investigation, eight parked investigations, the October 30 publication, and the due FEMA BRIC watch
+ingest:
+  ran: true
+  result: refreshed the November 12 primary-document horizon
+  horizon: newsroom/horizon/2026-11-12/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - govinfo-crpt
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-027-sba-recovery-gap
+    decision: continue_then_park
+    reason: six new program-level pages were retrieved, but they report PIIA estimates rather than recovery-activities amounts and fail the same-object test for the agency total
+  - id: parked-board
+    decision: remain_parked
+    reason: no November 12 horizon item supplied a specific reopen record
+  - id: published-watch-2026-017
+    decision: remain_published
+    reason: FEMA still reports review in progress and no selection, award, or status-history record
+investigations:
+  - 2026-027-sba-recovery-gap
+  - 2026-017-fema-bric-cycle-status
+research:
+  primary_documents:
+    - newsroom/horizon/2026-11-12/BRIEF.md
+    - https://paymentaccuracy.gov/program/sba-7-a-loan-guarantees-approvals
+    - https://paymentaccuracy.gov/program/sba-7-a-loan-guarantees-purchases
+    - https://paymentaccuracy.gov/program/sba-disaster-assistance-loans
+    - https://paymentaccuracy.gov/program/sba-504-certified-development-loans-approvals
+    - https://paymentaccuracy.gov/program/sba-paycheck-protection-program-ppp-loan-forgiveness
+    - https://paymentaccuracy.gov/program/sba-paycheck-protection-program-ppp-loan-guaranty-purchases
+    - https://www.fema.gov/grants/mitigation/learn/building-resilient-infrastructure-communities
+  result: SBA thread parked after a scope comparison; FEMA watch unchanged; no article was ready
+publication:
+  published: false
+  reason: no same-object discrepancy or new series finding survived the primary-record comparison
+validation:
+  run: false
+  reason: no publication was attempted
+journal:
+  - newsroom/journal/2026-11-12.md
+desk_notes:
+  - newsroom/desk/2026-11-12-r1.md
+no_binaries_committed: true

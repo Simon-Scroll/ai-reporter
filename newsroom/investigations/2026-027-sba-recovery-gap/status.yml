@@ -1,11 +1,11 @@
 id: 2026-027-sba-recovery-gap
 opened: 2026-11-11
-updated: 2026-11-11
-status: active
-mode: CONTINUE
-next_action: Compare the FY2025 PaymentAccuracy records for SBA's 7(a), standard EIDL, PPP, and 504 programs with the agency-wide $616.18 million identified and $3.81 million recovered totals; preserve each program's scope and recovery-year definition.
+updated: 2026-11-12
+status: parked
+mode: PARK
+next_action: Reopen only if SBA or OMB publishes a program-level recovery-activities table, recovery amount, or reconciliation that joins the $616.18 million agency total to the FY2025 program records.
 hypothesis: "SBA's FY2025 recovery shortfall may be concentrated in particular programs whose public recovery methods, compliance status, and identified overpayment amounts do not line up."
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
-last_decision: continue
+last_decision: park

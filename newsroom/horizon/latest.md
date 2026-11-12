@@ -1,141 +1,141 @@
-# Horizon brief — 2026-11-11
+# Horizon brief — 2026-11-12
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 Items marked NEW were not in the previous brief for that source; the rest were already seen.
 
 ## sec-edgar
-25 new of 25 since 2026-11-10.
+0 new of 25 since 2026-11-11.
 
-- NEW · **SCHEDULE 13G/A - Paul R. Ried Financial Group, LLC (0002033053) (Filed by)**
+- **SCHEDULE 13G/A - Paul R. Ried Financial Group, LLC (0002033053) (Filed by)**
   - when: 2026-11-10T21:59:33-05:00
   - url: https://www.sec.gov/Archives/edgar/data/2033053/000203305326000012/0002033053-26-000012-index.htm
   - Filed: 2026-11-10 AccNo: 0002033053-26-000012 Size: 6 KB
-- NEW · **SCHEDULE 13G/A - MFS Active Exchange Traded Funds Trust (0002018846) (Subject)**
+- **SCHEDULE 13G/A - MFS Active Exchange Traded Funds Trust (0002018846) (Subject)**
   - when: 2026-11-10T21:59:33-05:00
   - url: https://www.sec.gov/Archives/edgar/data/2018846/000203305326000012/0002033053-26-000012-index.htm
   - Filed: 2026-11-10 AccNo: 0002033053-26-000012 Size: 6 KB
-- NEW · **4 - LanzaTech Global, Inc. (0001843724) (Issuer)**
+- **4 - LanzaTech Global, Inc. (0001843724) (Issuer)**
   - when: 2026-11-10T21:59:02-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1843724/000119312526456010/0001193125-26-456010-index.htm
   - Filed: 2026-11-10 AccNo: 0001193125-26-456010 Size: 6 KB
-- NEW · **4 - KHOSLA VINOD (0001032453) (Reporting)**
+- **4 - KHOSLA VINOD (0001032453) (Reporting)**
   - when: 2026-11-10T21:59:02-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1032453/000119312526456010/0001193125-26-456010-index.htm
   - Filed: 2026-11-10 AccNo: 0001193125-26-456010 Size: 6 KB
-- NEW · **4 - Hoge Brett Widney (0001966393) (Reporting)**
+- **4 - Hoge Brett Widney (0001966393) (Reporting)**
   - when: 2026-11-10T21:56:20-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1966393/000149315226051085/0001493152-26-051085-index.htm
   - Filed: 2026-11-10 AccNo: 0001493152-26-051085 Size: 4 KB
-- NEW · **4 - Newton Golf Company, Inc. (0001934245) (Issuer)**
+- **4 - Newton Golf Company, Inc. (0001934245) (Issuer)**
   - when: 2026-11-10T21:56:20-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1934245/000149315226051085/0001493152-26-051085-index.htm
   - Filed: 2026-11-10 AccNo: 0001493152-26-051085 Size: 4 KB
-- NEW · **SCHEDULE 13D/A - Hoge Brett Widney (0001966393) (Filed by)**
+- **SCHEDULE 13D/A - Hoge Brett Widney (0001966393) (Filed by)**
   - when: 2026-11-10T21:53:34-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1966393/000149315226051080/0001493152-26-051080-index.htm
   - Filed: 2026-11-10 AccNo: 0001493152-26-051080 Size: 20 KB
-- NEW · **SCHEDULE 13D/A - Newton Golf Company, Inc. (0001934245) (Subject)**
+- **SCHEDULE 13D/A - Newton Golf Company, Inc. (0001934245) (Subject)**
   - when: 2026-11-10T21:53:34-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1934245/000149315226051080/0001493152-26-051080-index.htm
   - Filed: 2026-11-10 AccNo: 0001493152-26-051080 Size: 20 KB
-- NEW · **SCHEDULE 13G/A - Paul R. Ried Financial Group, LLC (0002033053) (Filed by)**
+- **SCHEDULE 13G/A - Paul R. Ried Financial Group, LLC (0002033053) (Filed by)**
   - when: 2026-11-10T21:53:23-05:00
   - url: https://www.sec.gov/Archives/edgar/data/2033053/000203305326000011/0002033053-26-000011-index.htm
   - Filed: 2026-11-10 AccNo: 0002033053-26-000011 Size: 6 KB
-- NEW · **SCHEDULE 13G/A - SPROTT FUNDS TRUST (0001728683) (Subject)**
+- **SCHEDULE 13G/A - SPROTT FUNDS TRUST (0001728683) (Subject)**
   - when: 2026-11-10T21:53:23-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1728683/000203305326000011/0002033053-26-000011-index.htm
   - Filed: 2026-11-10 AccNo: 0002033053-26-000011 Size: 6 KB
-- NEW · **SCHEDULE 13G/A - Aveanna Healthcare Holdings, Inc. (0001832332) (Subject)**
+- **SCHEDULE 13G/A - Aveanna Healthcare Holdings, Inc. (0001832332) (Subject)**
   - when: 2026-11-10T21:51:05-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1832332/000119312526456006/0001193125-26-456006-index.htm
   - Filed: 2026-11-10 AccNo: 0001193125-26-456006 Size: 19 KB
-- NEW · **SCHEDULE 13G/A - J.H. Whitney VII, L.P. (0001483044) (Filed by)**
+- **SCHEDULE 13G/A - J.H. Whitney VII, L.P. (0001483044) (Filed by)**
   - when: 2026-11-10T21:51:05-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1483044/000119312526456006/0001193125-26-456006-index.htm
   - Filed: 2026-11-10 AccNo: 0001193125-26-456006 Size: 19 KB
 
 ## federal-register
-20 new of 20 since 2026-11-10.
+20 new of 20 since 2026-11-11.
 
-- NEW · **Imposition of Special Measure Prohibiting the Transmittal of Funds Involving MEXC Global**
-  - when: 2026-11-10
-  - url: https://www.federalregister.gov/documents/2026/11/10/2026-22962/imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-mexc-global
-  - Treasury Department, Financial Crimes Enforcement Network — Rule — FinCEN is issuing notice of an order, pursuant to section 9714(a) of the Combating Russian Money Laundering Act (Pub. L. 116- 283), as amended by section 6106(b) of the National Defense Authorization Act for Fiscal Year 2022 (Pub. L. 117-81), finding that MEXC Global--including any of its subsidiaries, branches, and offices, as well as any successor entities, operating in any jurisdiction outside of the United States--is a financ
-- NEW · **Inspection Programs for Single-Engine Turbine-Powered Airplanes and Unmanned Aircraft; and Miscellaneous Maintenance-Related Updates**
-  - when: 2026-11-10
-  - url: https://www.federalregister.gov/documents/2026/11/10/2026-22953/inspection-programs-for-single-engine-turbine-powered-airplanes-and-unmanned-aircraft-and
-  - Transportation Department, Federal Aviation Administration — Rule — The final rule updates the maintenance inspection requirements for single-engine turbine-powered airplanes and unmanned aircraft. Aircraft owners and operators now have more inspection program options to choose from and more relaxed mechanical reliability reporting requirements. It also clarifies various maintenance-related regulations. This final rule relieves aircraft owners, operators, maintenance providers, and FAA of certai
-- NEW · **Special Conditions: Gulfstream Aerospace Corporation, Model GVII-G400 Airplane; Flight Envelope Protection: Takeoff Stall Protection**
-  - when: 2026-11-10
-  - url: https://www.federalregister.gov/documents/2026/11/10/2026-22951/special-conditions-gulfstream-aerospace-corporation-model-gvii-g400-airplane-flight-envelope
-  - Transportation Department, Federal Aviation Administration — Rule — These special conditions are issued for the Gulfstream Aerospace Corporation (Gulfstream) Model GVII-G400 airplane. This airplane will have a novel or unusual design feature when compared to the state of technology envisioned in the airworthiness standards for transport category airplanes. This design feature is an envelope protection function to protect the airplane from over- and rapid- rotation on takeoff. The applicable airw
-- NEW · **Modification to Work Requirements for Able-Bodied Adults**
-  - when: 2026-11-10
-  - url: https://www.federalregister.gov/documents/2026/11/10/2026-22944/modification-to-work-requirements-for-able-bodied-adults
-  - Agriculture Department, Food and Nutrition Administration — Proposed Rule — The proposed rule would codify USDA's regulatory implementation of provisions of the One Big Beautiful Bill Act of 2025 (OBBB) changing the three-month time limit for certain participants subject to work requirements in the Supplemental Nutrition Assistance Program (SNAP). These changes include modifying the list of exceptions from the time limit for certain populations; updating requirements for areas to qualify for wai
-- NEW · **Certain Magnesia Carbon Bricks From the People's Republic of China: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders**
-  - when: 2026-11-10
-  - url: https://www.federalregister.gov/documents/2026/11/10/2026-22943/certain-magnesia-carbon-bricks-from-the-peoples-republic-of-china-initiation-of-circumvention
-  - Commerce Department, International Trade Administration — Notice — In response to a request from the Magnesia Carbon Bricks Fair Trade Committee (the Committee) (the requester), the U.S. Department of Commerce (Commerce) is initiating a country-wide circumvention inquiry to determine whether imports of certain refractory bricks containing alumina in an amount greater than zero but less than five percent by weight (bricks with trace alumina) from the People's Republic of China (China) are circumv
-- NEW · **Polytetramethylene Ether Glycol From the People's Republic of China: Preliminary Affirmative Determination of Sales at Less Than Fair Value**
-  - when: 2026-11-10
-  - url: https://www.federalregister.gov/documents/2026/11/10/2026-22942/polytetramethylene-ether-glycol-from-the-peoples-republic-of-china-preliminary-affirmative
-  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) preliminarily determines that polytetramethylene ether glycol (PTMEG) from the People's Republic of China (China) is being, or is likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is October 1, 2025, through March 31, 2026. Interested parties are invited to comment on this preliminary determination.
-- NEW · **Polytetramethylene Ether Glycol From the Republic of Korea: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures**
-  - when: 2026-11-10
-  - url: https://www.federalregister.gov/documents/2026/11/10/2026-22941/polytetramethylene-ether-glycol-from-the-republic-of-korea-preliminary-affirmative-determination-of
-  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) preliminarily determines that polytetramethylene ether glycol (PTMEG) from the Republic of Korea (Korea) is being, or is likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is April 1, 2025, through March 31, 2026. Interested parties are invited to comment on this preliminary determination.
-- NEW · **Polytetramethylene Ether Glycol From Taiwan: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures**
-  - when: 2026-11-10
-  - url: https://www.federalregister.gov/documents/2026/11/10/2026-22940/polytetramethylene-ether-glycol-from-taiwan-preliminary-affirmative-determination-of-sales-at-less
-  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) preliminarily determines that polytetramethylene ether glycol (PTMEG) from Taiwan is being, or is likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is April 1, 2025, through March 31, 2026. Interested parties are invited to comment on this preliminary determination.
-- NEW · **Polytetramethylene Ether Glycol From the Socialist Republic of Vietnam: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures**
-  - when: 2026-11-10
-  - url: https://www.federalregister.gov/documents/2026/11/10/2026-22939/polytetramethylene-ether-glycol-from-the-socialist-republic-of-vietnam-preliminary-affirmative
-  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) preliminarily determines that polytetramethylene ether glycol (PTMEG) from the Socialist Republic of Vietnam (Vietnam) is being, or is likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is October 1, 2025, through March 31, 2026. Interested parties are invited to comment on this preliminary determination.
-- NEW · **Tin Mill Products From Taiwan: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures**
-  - when: 2026-11-10
-  - url: https://www.federalregister.gov/documents/2026/11/10/2026-22938/tin-mill-products-from-taiwan-preliminary-affirmative-determination-of-sales-at-less-than-fair-value
-  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) preliminarily determines that tin mill products (tin mill) from Taiwan are being, or are likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is April 1, 2025, through March 31, 2026. Interested parties are invited to comment on this preliminary determination.
-- NEW · **Tin Mill Products From the Republic of Türkiye: Preliminary Affirmative Determination of Sales at Less Than Fair Value, and Preliminary Affirmative Determination of Critical Circumstances, in Part**
-  - when: 2026-11-10
-  - url: https://www.federalregister.gov/documents/2026/11/10/2026-22937/tin-mill-products-from-the-republic-of-trkiye-preliminary-affirmative-determination-of-sales-at-less
-  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) preliminarily determines that tin mill products from the Republic of T[uuml]rkiye (T[uuml]rkiye) are being, or are likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is April 1, 2025, through March 31, 2026. Interested parties are invited to comment on this preliminary determination.
-- NEW · **Supplemental Nutrition Assistance Program: Reforming Categorical Eligibility**
-  - when: 2026-11-10
-  - url: https://www.federalregister.gov/documents/2026/11/10/2026-22936/supplemental-nutrition-assistance-program-reforming-categorical-eligibility
-  - Agriculture Department, Food and Nutrition Administration — Proposed Rule — Under section 5(a) of the Food and Nutrition Act of 2008, households in which each member receives benefits under a State program funded by Temporary Assistance for Needy Families (TANF) are categorically eligible for the Supplemental Nutrition Assistance Program (SNAP). Current SNAP regulations consider TANF benefits to include both cash assistance and non-cash or in-kind benefits or services from TANF-funded programs.
+- NEW · **Notice of OFAC Sanctions Actions**
+  - when: 2026-11-12
+  - url: https://www.federalregister.gov/documents/2026/11/12/C1-2026-22802/notice-of-ofac-sanctions-actions
+  - Treasury Department, Foreign Assets Control Office — Notice
+- NEW · **AP1000 Design Certification Renewal**
+  - when: 2026-11-12
+  - url: https://www.federalregister.gov/documents/2026/11/12/C1-2026-21030/ap1000-design-certification-renewal
+  - Nuclear Regulatory Commission — Rule
+- NEW · **Establishment of the Oval Office National Monument**
+  - when: 2026-11-12
+  - url: https://www.federalregister.gov/documents/2026/11/12/2026-23113/establishment-of-the-oval-office-national-monument
+  - Executive Office of the President — Presidential Document
+- NEW · **Direct Sale of Public Land for Affordable Housing Purposes in Clark County, Nevada**
+  - when: 2026-11-12
+  - url: https://www.federalregister.gov/documents/2026/11/12/2026-23080/direct-sale-of-public-land-for-affordable-housing-purposes-in-clark-county-nevada
+  - Interior Department, Land Management Bureau — Notice — The Bureau of Land Management (BLM) proposes to sell a 10-acre parcel of public land located in Clark County, Nevada, under the authority of section 203 of the Federal Land Policy and Management Act of 1976, as amended (FLPMA); applicable BLM land sale regulations; and the Southern Nevada Public Land Management Act of 1998, as amended (SNPLMA). The BLM intends to conduct a direct sale of the parcel to Clark County, a political subdivision of
+- NEW · **Notice of Availability of the Draft Environmental Assessment and Finding of No Significant Impact for Reconstruction of the Fort Hancock-El Porvenir International Bridge, Rio Grande Rectification Project, Hudspeth County, Texas**
+  - when: 2026-11-12
+  - url: https://www.federalregister.gov/documents/2026/11/12/2026-23077/notice-of-availability-of-the-draft-environmental-assessment-and-finding-of-no-significant-impact
+  - International Boundary and Water Commission, United States and Mexico — Notice — The USIBWC hereby gives notice that the Draft Environmental Assessment (EA) and Finding of No Significant Impact (FONSI) for the Reconstruction of the Fort Hancock-El Porvenir International Bridge, Rio Grande Rectification Project, Hudspeth County, Texas is available.
+- NEW · **Schedules of Controlled Substances: Placement of Oveporexton in Schedule IV**
+  - when: 2026-11-12
+  - url: https://www.federalregister.gov/documents/2026/11/12/2026-23075/schedules-of-controlled-substances-placement-of-oveporexton-in-schedule-iv
+  - Justice Department, Drug Enforcement Administration — Rule — On August 5, 2026, the United States Food and Drug Administration (FDA) approved a new drug application for Orzeyful (oveporexton) for the treatment of narcolepsy type 1 in adults. The Department of Health and Human Services (HHS) provided the Drug Enforcement Administration (DEA) with a scheduling recommendation to place oveporexton, chemically known as N-[(2S,3R)-2-[[3-(3,5- difluorophenyl)-2-fluorophenyl]methyl]-4,4-difluoro-1-(2-hy
+- NEW · **Airworthiness Directives; Dassault Aviation Airplanes**
+  - when: 2026-11-12
+  - url: https://www.federalregister.gov/documents/2026/11/12/2026-23074/airworthiness-directives-dassault-aviation-airplanes
+  - Transportation Department, Federal Aviation Administration — Proposed Rule — The FAA proposes to adopt a new airworthiness directive (AD) for all Dassault Aviation Model MYSTERE-FALCON 50, FALCON 2000, and FALCON 2000EX airplanes. This proposed AD was prompted by a reported quality escape and a determination that high-temperature oxidation of main landing gear (MLG) upper and lower torque links may have occurred during manufacturing. This proposed AD would require replacing any affected MLG with
+- NEW · **Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments**
+  - when: 2026-11-12
+  - url: https://www.federalregister.gov/documents/2026/11/12/2026-23073/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures
+  - Transportation Department, Federal Aviation Administration — Rule — This rule amends, suspends, or removes Standard Instrument Approach Procedures (SIAPs) and associated Takeoff Minimums and Obstacle Departure Procedures for operations at certain airports. These regulatory actions are needed because of the adoption of new or revised criteria, or because of changes occurring in the National Airspace System, such as the commissioning of new navigational facilities, adding new obstacles, or changin
+- NEW · **Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments**
+  - when: 2026-11-12
+  - url: https://www.federalregister.gov/documents/2026/11/12/2026-23072/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures
+  - Transportation Department, Federal Aviation Administration — Rule — This rule establishes, amends, suspends, or removes Standard Instrument Approach Procedures (SIAPS) and associated Takeoff Minimums and Obstacle Departure procedures (ODPs) for operations at certain airports. These regulatory actions are needed because of the adoption of new or revised criteria, or because of changes occurring in the National Airspace System, such as the commissioning of new navigational facilities, adding new o
+- NEW · **Airworthiness Directives; Diamond Aircraft Industries GmbH Airplanes**
+  - when: 2026-11-12
+  - url: https://www.federalregister.gov/documents/2026/11/12/2026-23068/airworthiness-directives-diamond-aircraft-industries-gmbh-airplanes
+  - Transportation Department, Federal Aviation Administration — Proposed Rule — The FAA proposes to adopt a new airworthiness directive (AD) for all Diamond Aircraft Industries GmbH (DAI) Model DA 50 C airplanes. This proposed AD was prompted by reports of flap actuator failures. This proposed AD would require inspecting for displacement of the black slide grommet and inspecting the rod end bearing for a tight fit of the flap actuator. This proposed AD would also require modification of the flap ac
+- NEW · **Hazardous Materials: Information Collection Activities**
+  - when: 2026-11-12
+  - url: https://www.federalregister.gov/documents/2026/11/12/2026-23067/hazardous-materials-information-collection-activities
+  - Transportation Department, Pipeline and Hazardous Materials Safety Administration — Notice — In accordance with the Paperwork Reduction Act of 1995, PHMSA invites comments on two Office of Management and Budget (OMB) control numbers pertaining to hazardous materials transportation. PHMSA intends to request renewal and extension for these two control numbers from OMB.
+- NEW · **Western Pacific Fishery Management Council; Public Meetings**
+  - when: 2026-11-12
+  - url: https://www.federalregister.gov/documents/2026/11/12/2026-23066/western-pacific-fishery-management-council-public-meetings
+  - Commerce Department, National Oceanic and Atmospheric Administration — Notice — The Western Pacific Fishery Management Council (Council) will hold its Pelagic Plan Team (PPT), Hawaii Archipelago Fishery Ecosystem Plan (FEP) Advisory Panel (AP), Mariana Archipelago FEP Guam AP, American Samoa FEP AP, Mariana Archipelago FEP Commonwealth of the Northern Mariana Islands (CNMI) AP and Social Science Planning Committee (SSPC) meetings to discuss and make recommendations on fishery management issues i
 
 ## gao
-6 new of 20 since 2026-11-10.
+0 new of 20 since 2026-11-11.
 
-- NEW · **IRS Taxpayer Services: Challenges in Measuring the Benefits of Customer Service Investments**
+- **IRS Taxpayer Services: Challenges in Measuring the Benefits of Customer Service Investments**
   - when: Tue, 10 Nov 2026 07:12:56 -0500
   - url: https://www.gao.gov/products/gao-27-108701
   - pdf: https://www.gao.gov/assets/gao-27-108701.pdf
   - What GAO Found The Internal Revenue Service (IRS) invests in services to help taxpayers meet their tax obligations, such as in preparing and filing tax returns. IRS provides services through its website, telephone assistance, correspondence, and in-person assistance centers. Taxpayer services offer potential benefits, such as increasing tax compliance and reducing taxpayer burden that, if measured, could help inform investment decisions (see figure). Measuring benefits is difficult because of c
-- NEW · **401(k) Plan Investments: DOL Can Take Steps to Prepare for Expected Private Equity Growth**
+- **401(k) Plan Investments: DOL Can Take Steps to Prepare for Expected Private Equity Growth**
   - when: Tue, 10 Nov 2026 12:54:05 -0500
   - url: https://www.gao.gov/products/gao-27-106779
   - pdf: https://www.gao.gov/assets/gao-27-106779.pdf
   - What GAO Found Private equity is one type of investment within a broad, undefined category called alternative assets. It differs from publicly traded equity in who can invest in it, how it is valued, and what disclosures are required, among other things. GAO’s review of selected research papers that analyzed private equity investment fund performance found no consensus on the performance of private equity relative to publicly traded equity, which is an important consideration when making invest
-- NEW · **Veteran Lending: Early Planning Is Critical to Assessing VA’s New Foreclosure Avoidance Program**
+- **Veteran Lending: Early Planning Is Critical to Assessing VA’s New Foreclosure Avoidance Program**
   - when: Tue, 10 Nov 2026 07:06:50 -0500
   - url: https://www.gao.gov/products/gao-27-108908
   - pdf: https://www.gao.gov/assets/gao-27-108908.pdf
   - What GAO Found The Department of Veterans Affairs’ (VA) Partial Claim Program is intended to help borrowers with VA-guaranteed loans avoid foreclosure. Under this new program, VA reimburses the loan servicer for a borrower’s missed payments and certain fees, allowing the borrower to become current on the loan. The borrower repays that amount—the partial claim—without interest when they sell or refinance the home, when they pay off the loan, or when the loan reaches maturity. The servicer collec
-- NEW · **Housing Construction Innovations: Technologies and Policy Options to Help Increase Supply and Affordability**
+- **Housing Construction Innovations: Technologies and Policy Options to Help Increase Supply and Affordability**
   - when: Tue, 10 Nov 2026 07:01:12 -0500
   - url: https://www.gao.gov/products/gao-27-108037
   - pdf: https://www.gao.gov/assets/gao-27-108037.pdf
   - What GAO Found Numerous housing construction technologies could help improve production, reduce costs, and potentially increase supply and affordability. Some technologies are mature but not widely adopted, and others are new or emerging. These technologies can be grouped into three categories: planning and design, construction means and methods, and building materials and components. Examples are shown in the figure below. Examples of housing construction technologies Benefits of housing c
-- NEW · **Grants Management: GAO's Fraud Risk Framework Could Provide Roadmap for Enhancing States' Subrecipient Oversight**
+- **Grants Management: GAO's Fraud Risk Framework Could Provide Roadmap for Enhancing States' Subrecipient Oversight**
   - when: Tue, 10 Nov 2026 06:58:11 -0500
   - url: https://www.gao.gov/products/gao-27-108450
   - pdf: https://www.gao.gov/assets/gao-27-108450.pdf
   - What GAO Found Federal regulations assign most oversight responsibility for grant funds that are passed through as a subaward to prime recipients, such as states. This oversight is essential for reducing the risk of fraud and ensuring program goals are met. Nonfederal entities, such as states, that expend over $1 million in federal awards during a fiscal year are required to have a single audit. GAO reviewed a nongeneralizable random sample of single audit findings from 2020 through 2024 and i
-- NEW · **Multilateral Banks: Treasury Should Improve Consistency and Transparency of Decisions on Projects Affecting U.S. Producers**
+- **Multilateral Banks: Treasury Should Improve Consistency and Transparency of Decisions on Projects Affecting U.S. Producers**
   - when: Tue, 10 Nov 2026 07:06:29 -0500
   - url: https://www.gao.gov/products/gao-27-108667
   - pdf: https://www.gao.gov/assets/gao-27-108667.pdf
@@ -172,9 +172,9 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - What GAO Found For children receiving Social Security benefits (beneficiaries), such as disability benefits, the Social Security Administration (SSA) typically assigns representative payees (payee) to manage those benefits. When children enter or exit foster care, SSA may need to change the payee. Since 2018, SSA has encouraged states to set up data exchanges to submit monthly data on children in foster care to help SSA identify when these beneficiaries need a new payee. Twenty-five states were
 
 ## govinfo-crpt
-1 new of 20 since 2026-11-10.
+0 new of 20 since 2026-11-11.
 
-- NEW · **H. Rept. 119-878 — PROVIDING FOR CONSIDERATION OF THE BILL (H.R. 1013) TO AMEND THE FEDERAL SECURITIES LAWS TO ENHANCE 403(B) PLANS, AND FOR OTHER PURPOSES**
+- **H. Rept. 119-878 — PROVIDING FOR CONSIDERATION OF THE BILL (H.R. 1013) TO AMEND THE FEDERAL SECURITIES LAWS TO ENHANCE 403(B) PLANS, AND FOR OTHER PURPOSES**
   - when: 2026-11-09
   - url: https://www.govinfo.gov/app/details/CRPT-119hrpt878
   - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt878/pdf/CRPT-119hrpt878.pdf
@@ -236,105 +236,99 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - Committee on Education and Workforce
 
 ## courtlistener
-20 new of 20 since 2026-11-10.
+2 new of 20 since 2026-11-11.
 
-- NEW · **Estate of Marteal White Smith, Deceased: Earnest Cutley v. The Estate of Marteal White Smith, Dougal Thomas and Suzanne Thomas**
+- NEW · **Kinsale Insurance Company v. Healthier Choices Management Corporation; Terry Trimm and Katie Trimm, Individually and as Assignees of Healthier Choices Management Corporation**
+  - when: 2026-11-11T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11059318/kinsale-insurance-company-v-healthier-choices-management-corporation/
+  - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2026-3332 _____________________________ KINSALE INSURANCE COMPANY, Petitioner, v. HEALTHIER CHOICES MANAGEMENT CORPORATION; TERRY TRIMM and KATIE TRIMM, individually and as assignees of Healthier Choices Management Corporation; UNDERWRITERS AT LLOYD&#x27;S, London Subscribing to Policy Numbers UCHSE3382 and XSCMC1030 Original document
+- NEW · **In Re John Rubio and Reinaldo Dennes**
+  - when: 2026-11-11T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11059970/in-re-john-rubio-and-reinaldo-dennes/
+  - Supreme Court of Texas ══════════ No. 26-1300 ══════════ In re John Rubio and Reinaldo Dennes, Relators ═══════════════════════════════════════ On Petition for Writ of Mandamus ═══════════════════════════════════════ JUSTICE YOUNG, joined by Justice Lehrmann, Justice Busby, and Justice Hawkins, concurring in the denial of the petition Original document
+- **Estate of Marteal White Smith, Deceased: Earnest Cutley v. The Estate of Marteal White Smith, Dougal Thomas and Suzanne Thomas**
   - when: 2026-11-10T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11059028/estate-of-marteal-white-smith-deceased-earnest-cutley-v-the-estate-of/
   - IN THE COURT OF APPEALS OF THE STATE OF MISSISSIPPI NO. 2025-CA-00331-COA ESTATE OF MARTEAL WHITE SMITH, APPELLANT DECEASED: EARNEST CUTLEY v. THE ESTATE OF MARTEAL WHITE SMITH, APPELLEES DOUGAL THOMAS AND SUZANNE THOMAS DATE OF JUDGMENT: 02/24/2025 TRIAL JUDGE: HON. TIFFANY PIAZZA GROVE COURT FROM WHICH APPEALED: Original document
-- NEW · **Venture Investors LLC and Amrut Patel v. Thomas Leonard and Birdia Leonard**
+- **Venture Investors LLC and Amrut Patel v. Thomas Leonard and Birdia Leonard**
   - when: 2026-11-10T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11059023/venture-investors-llc-and-amrut-patel-v-thomas-leonard-and-birdia-leonard/
   - IN THE COURT OF APPEALS OF THE STATE OF MISSISSIPPI NO. 2025-CA-01438-COA VENTURE INVESTORS LLC AND AMRUT APPELLANTS PATEL v. THOMAS LEONARD AND BIRDIA LEONARD APPELLEES DATE OF JUDGMENT: 11/07/2025 TRIAL JUDGE: HON. JAMES D. BELL COURT FROM WHICH APPEALED: HINDS COUNTY CIRCUIT COURT, Original document
-- NEW · **Perry v. Perry**
+- **Perry v. Perry**
   - when: 2026-11-10T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11058696/perry-v-perry/
   - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2025-0260 _____________________________ RAYMOND PERRY, Appellant, v. PHILLIP E. PERRY, et al., Appellees. _____________________________ On appeal from the Circuit Court for Leon County. Angela Cote Dempsey, Judge. November 10, 2026 PER CURIAM. AFFIRMED. OSTERHAUS Original document
-- NEW · **DIAZ v. PREMIER FRANCHISE MANAGEMENT, LLC**
+- **DIAZ v. PREMIER FRANCHISE MANAGEMENT, LLC**
   - when: 2026-11-10T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11058945/diaz-v-premier-franchise-management-llc/
   - OSCN Found Document:DIAZ v. PREMIER FRANCHISE MANAGEMENT, LLC et al. DIAZ v. PREMIER FRANCHISE MANAGEMENT, LLC et al.2026 OK 79Case Number: 123384Decided: 11/10/2026THE SUPREME COURT OF THE STATE OF OKLAHOMA Cite as: 2026 OK 79, __ P.3d __ NOTICE: THIS OPINION HAS NOT BEEN RELEASED FOR PUBLICATION. UNTIL RELEASED, IT IS SUBJECT TO REVISION OR WITHDRAWAL. MARIA DIAZ, Plaintiff/Petitioner, v. PREMIER FRANCHISE MANAGEMENT, LLC, Defendant/Respondent, and PREMIER POOLS & SPAS and NJOHN DOES Original document
-- NEW · **Maleek Jones v. Sharonda Carlos**
+- **Maleek Jones v. Sharonda Carlos**
   - when: 2026-11-10T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11058783/maleek-jones-v-sharonda-carlos/
   - 23-7097 Maleek Jones v. Sharonda Carlos, et al. In the United States Court of Appeals For the Second Circuit August Term 2024 No. 23-7097 MALEEK JONES, Petitioner-Appellee, v. SHARONDA Original document
-- NEW · **James G. Stephens v. State of Florida**
+- **James G. Stephens v. State of Florida**
   - when: 2026-11-10T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11058821/james-g-stephens-v-state-of-florida/
   - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-3447 LT Case No. 59-2000-CF-3151-A _____________________________ JAMES G. STEPHENS, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ 3.850 Appeal from the Circuit Court for Seminole County. Michael Joseph Rudisill, Judge. James G. Stephens, Graceville Original document
-- NEW · **Sadle Donnaill Howard v. State of Florida**
+- **Sadle Donnaill Howard v. State of Florida**
   - when: 2026-11-10T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11058935/sadle-donnaill-howard-v-state-of-florida/
   - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2026-0737 Lower Tribunal No. 2012-CF-001337 _____________________________ SADLE DONNAILL HOWARD, Appellant, v. Original document
-- NEW · **Shamara L. Sawyer v. Orlando Federal Credit Union**
+- **Shamara L. Sawyer v. Orlando Federal Credit Union**
   - when: 2026-11-10T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11058843/shamara-l-sawyer-v-orlando-federal-credit-union/
   - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2025-2955 Lower Tribunal No. 2025-SC-010824 _____________________________ SHAMARA L. SAWYER, Appellant, v. ORLANDO FEDERAL CREDIT UNION, Original document
-- NEW · **People v. Canady**
-  - when: 2026-11-10T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11059040/people-v-canady/
-  - People v Canady 2026 NY Slip Op 06556 November 10, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. People of the State of New York, Respondent, v Erwin Canady , Defendant-Respondent. Decided and Entered: November 10, 2026 Ind No. 2173/73|Appeal No. 7456|Case No. 2018-1408| Before: Webber, J.P., Moulton, Friedman, González Original document
-- NEW · **Dhi Communities Construction Of Washington, V. Labor & Industries**
-  - when: 2026-11-10T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11059086/dhi-communities-construction-of-washington-v-labor-industries/
-  - Filed Washington State Court of Appeals Division Two Original document
-- NEW · **Victory Insurance v. State Auditor**
+- **Victory Insurance v. State Auditor**
   - when: 2026-11-10T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11059125/victory-insurance-v-state-auditor/
   - 11/10/2026 DA 25-0695 Case Number: DA 25-0695 IN THE SUPREME COURT OF THE STATE OF MONTANA 2026 MT 269 VICTORY INSURANCE COMPANY, Petitioner and Appellant, v. STATE OF MONTANA, COMMISSIONER OF SECURITIES Original document
-- NEW · **Joy Park Owner LLC v. Griffin Grading & Concrete LLC**
+- **People v. Canady**
   - when: 2026-11-10T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11058377/joy-park-owner-llc-v-griffin-grading-concrete-llc/
-  - Court of Appeals of the State of Georgia ATLANTA, November 10, 2026 The Court of Appeals hereby passes the following order A27I0073. JOY PARK OWNER LLC v. GRIFFIN GRADING &amp; CONCRETE LLC. Upon consideration of the Application for Interlocutory Appeal, it is ordered that it be hereby DENIED. LC NUMBERS: 26V037 Court of Appeals of the State of Georgia Original document
+  - url: https://www.courtlistener.com/opinion/11059040/people-v-canady/
+  - People v Canady 2026 NY Slip Op 06556 November 10, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. People of the State of New York, Respondent, v Erwin Canady , Defendant-Respondent. Decided and Entered: November 10, 2026 Ind No. 2173/73|Appeal No. 7456|Case No. 2018-1408| Before: Webber, J.P., Moulton, Friedman, González Original document
 
 ## uk-legislation
-9 new of 20 since 2026-11-10.
+7 new of 20 since 2026-11-11.
 
-- NEW · **The County Courts (Financial Limits) Order (Northern Ireland) 2026**
+- NEW · **The A702 Trunk Road (Carlops) (Temporary Prohibition on Use, Waiting, Loading and Unloading) Order 2026**
+  - when: 2026-11-12T03:08:17Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/337
+- NEW · **The A737/A738 Trunk Road (St James Viaduct) (Temporary Prohibition on Use of Road and Temporary 30mph and 50mph Speed Restrictions) (No. 2) Order 2026**
+  - when: 2026-11-12T03:08:11Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/336
+- NEW · **The Marine Licensing (Exempted Activities and Fees) (Amendment) (No. 2) Regulations 2026**
+  - when: 2026-11-12T03:08:09Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1180
+  - These Regulations amend the Marine Licensing (Exempted Activities) Order 2011 (S.I. 2011/409) (“the 2011 Order”) and the Marine Licensing (Application Fees) Regulations 2014 (S.I. 2014/615) (“the Fees Regulations”).
+- NEW · **The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026**
+  - when: 2026-11-11T17:38:34Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1186
+- NEW · **The Renewables Obligation (Scotland) Amendment (No. 2) Order 2026**
+  - when: 2026-11-11T17:28:38Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/338
+- NEW · **The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 3) Regulations 2026**
+  - when: 2026-11-11T16:30:50Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1184
+  - These Regulations make amendments to the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (“the PLPS Regulations”). The PLPS Regulations govern arrangements, in England, for the provision of pharmaceutical services and local pharmaceutical services under Part 7 of the National Heath Service Act 2006.
+- NEW · **The Education (Student Loans) (Repayment) (Amendment) (No. 2) Regulations 2026**
+  - when: 2026-11-11T16:30:39Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1175
+  - These Regulations amend the Education (Student Loans) (Repayment) Regulations 2009 (S.I. 2009/470) (“the Repayment Regulations”) which make provision for the repayment of income-contingent student loans in England and Wales.
+- **The County Courts (Financial Limits) Order (Northern Ireland) 2026**
   - when: 2026-11-11T03:10:34Z
   - url: http://www.legislation.gov.uk/id/nisr/2026/187
   - This Order increases the general civil jurisdiction of county courts in Northern Ireland from £30,000 to £60,000, increases the general civil jurisdiction of county courts to hear any action claiming damages in respect of libel or slander from £3,000 to £10,000 and increases the jurisdiction of district judges in the county courts from £10,000 to £20,000.
-- NEW · **The County Court (Amendment) Rules (Northern Ireland) 2026**
+- **The County Court (Amendment) Rules (Northern Ireland) 2026**
   - when: 2026-11-11T03:10:25Z
   - url: http://www.legislation.gov.uk/id/nisr/2026/188
   - These Rules amend the County Court Rules (Northern Ireland) 1981 (S.R. 1981 No. 225) to—
-- NEW · **The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 2026**
-  - when: 2026-11-11T03:10:29Z
+- **The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 2026**
+  - when: 2026-11-11T13:19:42Z
   - url: http://www.legislation.gov.uk/id/nisr/2026/186
   - These Regulations amend the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland) 2016 (S.R. 2016 No. 220) so as to make provision for reclaims of universal credit for claimants taking part in a funded employment scheme.
-- NEW · **The Air Navigation (Restriction of Flying) (RAF Mildenhall, Norfolk) (Emergency) Regulations 2026**
+- **The Air Navigation (Restriction of Flying) (RAF Mildenhall, Norfolk) (Emergency) Regulations 2026**
   - when: 2026-11-10T13:29:41.357312Z
   - url: http://www.legislation.gov.uk/id/uksi/2026/1178
-- NEW · **The Air Navigation (Restriction of Flying) (RAF Feltwell, Norfolk) (Emergency) Regulations 2026**
+- **The Air Navigation (Restriction of Flying) (RAF Feltwell, Norfolk) (Emergency) Regulations 2026**
   - when: 2026-11-10T13:29:34.801509Z
   - url: http://www.legislation.gov.uk/id/uksi/2026/1177
-- NEW · **The Air Navigation (Restriction of Flying) (RAF Lakenheath, Norfolk) (Emergency) Regulations 2026**
-  - when: 2026-11-10T13:29:31Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1176
-- NEW · **<div xmlns="http://www.w3.org/1999/xhtml">
-						<span xml:lang="en">The Fostering Panels (Establishment and Functions) (Wales) (Amendment and Transitional Provision) Regulations 2026</span> / <span xml:lang="cy">Rheoliadau Paneli Maethu (Sefydlu a Swyddogaethau) (Cymru) (Diwygio a Darpariaeth Drosiannol) 2026</span>
-					</div>**
-  - when: 2026-11-10T12:47:26Z
-  - url: http://www.legislation.gov.uk/id/wsi/2026/135
-  - These Regulations amend the Fostering Panels (Establishment and Functions) (Wales) Regulations 2018 (“the 2018 Regulations”). Mae’r Rheoliadau hyn yn diwygio Rheoliadau Paneli Maethu (Sefydlu a Swyddogaethau) (Cymru) 2018 (“Rheoliadau 2018”).
-- NEW · **<div xmlns="http://www.w3.org/1999/xhtml">
-						<span xml:lang="en">The Products of Animal Origin (Disease Control) (Wales) (Amendment) Order 2026</span> / <span xml:lang="cy">Gorchymyn Cynhyrchion sy’n Dod o Anifeiliaid (Rheoli Clefydau) (Cymru) (Diwygio) 2026</span>
-					</div>**
-  - when: 2026-11-10T12:21:57Z
-  - url: http://www.legislation.gov.uk/id/wsi/2026/134
-  - This Order amends the Products of Animal Origin (Disease Control) (Wales) Regulations 2008 (S.I. 2008/1275 (W. 132)) (“the 2008 Regulations”). The definitions of “disease” and “restricted meat” in the 2008 Regulations are updated, and a new Schedule 2 is substituted into the 2008 Regulations to reflect the current approved risk mitigating treatments for meat and casings. Mae’r Gorchymyn hwn yn diwygio Rheoliadau Cynhyrchion sy’n Dod o Anifeiliaid (Rheoli Clefydau) (Cymru) 2008 (O.S.
-- NEW · **Correction Slip**
-  - when: 2026-11-10T14:04:17Z
-  - url: http://www.legislation.gov.uk/uksi/2026/443/pdfs/uksics_20260443_en_001.pdf
-  - These Regulations are made under the Sanctions and Anti-Money Laundering Act 2018 (c. 13) (“the Sanctions Act”).
-- **The Air Navigation (Restriction of Flying) (Tilbury Docks, Essex) Regulations 2026**
-  - when: 2026-11-10T03:04:11Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1170
-- **The Air Departure Tax (Scotland) Amendment Regulations 2026**
-  - when: 2026-11-09T12:48:03Z
-  - url: http://www.legislation.gov.uk/id/ssi/2026/333
-  - These Regulations amend the Air Departure Tax (Scotland) Act 2017 (“the 2017 Act”) to make provision concerning who is a non-chargeable passenger in respect of certain flights which begin or end at an airport in a designated area of Scotland and related consequential amendments to the 2017 Act. In addition, these Regulations amend section 9 of the 2017 Act (aircraft used under public service obligation).
-- **The Registration of Births and Deaths (Amendment) Regulations 2026**
-  - when: 2026-11-09T12:32:50Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1172
-  - These Regulations amend the Registration of Births and Deaths Regulations 1987 (S.I. 1987/2088) (“the 1987 Regulations”) and the Registration of Births and Deaths (Welsh Language) Regulations 1987 (S.I. 1987/2089) (“the Welsh Language Regulations”).

@@ -1,54 +1,53 @@
-# Journal — 2026-11-11
+# Journal — 2026-11-12
 
-## Run 1 — 2026-11-11T08:07:40.293Z
+## Run 1 — 2026-11-12T08:05:24.116Z
 
-# Run — 2026-11-11T08:07:25Z
+# Run — 2026-11-12T08:05:12Z
 
 ## Mode
 
-`CONTINUE`
+`REST`
 
-The desk moved closer to an original measured discrepancy than on November 10. The due Section 889 watch produced a new GSA information-collection record, but it did not change the published public-record finding. The new SBA lead is stronger: GAO reports a large FY2025 recovery-rate gap, and the underlying OMB PaymentAccuracy page exposes the agency-level values and program links needed to test whether the gap can be independently localized.
+The desk began with the required status and three-day lookback. November 11 moved closer to an original measured discrepancy by opening the SBA thread; today’s primary comparison showed that its proposed inputs are different reporting objects, so the desk moved away from a publishable finding without repeating a conveyor. The only active thread was worked and parked after a real same-day retrieval; the first REST run follows that decision.
 
 ## Thread decisions
 
-- No open investigation ids were present at the start of the run; there was no open-thread continue / park / kill decision to make.
-- Parked `2026-010-dod-igsa-savings-verification` and `2026-005-navy-submarine-maintenance` remain parked because today's horizon supplied no agreement-level IGSA record or fleet-level submarine maintenance denominator.
-- Published watch `2026-016-section-889-information-gap`: **remain published / no new series part** — current RFO Part 4 still does not identify a public searchable purchase-card representation repository, and the new GSA notice concerns lease-acquisition burden rather than the missing workflow.
-- Opened `2026-027-sba-recovery-gap` as the single new active investigation. Its first two primary records support a bounded program-level test, not a publishable recap.
+- `2026-027-sba-recovery-gap`: **continue, then park** — continue was warranted because the next step named new program-level records, not yesterday’s GAO or agency-page fetch. Six OMB PaymentAccuracy pages supplied FY2025 PIIA estimates, but none supplied a program-level recovery-activities amount that could be joined to the agency’s $616.18 million identified and $3.81 million recovered.
+- Parked investigations: remain parked; the November 12 horizon supplied no specific reopen record.
+- Published watch `2026-017-fema-bric-cycle-status`: **remain published / no new series part** — FEMA’s current BRIC page still says FY2024–25 submissions are under review and selections will follow review, with no award, common completion date, or record-level status history.
 
 ## What I read
 
-- `npm run preflight` — exit 0; no KILL or HOLD brake.
-- `npm run desk:status` — confirmed no active threads, eight parked investigations, the October 30 publication, and the due published-watch board.
-- `npm run ingest` and `newsroom/horizon/2026-11-11/BRIEF.md` — six new GAO records and other primary intake; no parked IGSA or submarine reopen record.
-- `https://www.acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-4` — current §§ 4.203-1(a)–(e) and 4.203-2(a): SAM remains primary, governmentwide purchase-card micro-purchases are excepted from active registration, and certain offeror representations are collected when registration is not required.
-- `https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21255.pdf` — GSA's October 19 information-collection notice, pp. 66150–66151: 3,100 estimated FAR 52.204-24 responses and 4,650 burden hours for GSA lease acquisitions; no purchase-card repository.
-- `https://files.gao.gov/assets/gao-27-107701.pdf` — GAO-27-107701, pp. i–ii and 24, footnote 65: SBA recovered less than 1 percent of $616.2 million identified in FY2025, compared with 62 percent government-wide.
-- `https://paymentaccuracy.gov/agency/SBA` — OMB FY2025 agency page: $616.18 million identified, $3.81 million recovered, 0.62 percent rate, recovery-year caveat, program links, compliance listing, and recovery-method explanation.
-- `https://files.gao.gov/assets/gao-27-108713.pdf` — GAO-27-108713, pp. i–ii: the $31 billion F-35 parts accountability gap is a report-stated caveat without an independent comparator yet, so it was not opened.
+- `npm run preflight` — exit 0; no KILL or HOLD brake, autonomous publication enabled.
+- `npm run desk:status` — confirmed one active SBA investigation, eight parked investigations, the October 30 publication, and the due FEMA BRIC watch.
+- `npm run ingest` and `newsroom/horizon/2026-11-12/BRIEF.md` — refreshed the primary-document horizon; no new GAO record or parked-thread reopen record advanced the desk.
+- `https://paymentaccuracy.gov/program/sba-7-a-loan-guarantees-approvals` — FY2025 PIIA record reports $1,632.51 million in technically improper payments and $0.0 million in overpayments; “FY2025 improper payment estimates,” “Causes,” and “Overpayment amount by cause.”
+- `https://paymentaccuracy.gov/program/sba-7-a-loan-guarantees-purchases` — $17.13 million overpayments, $5.42 million underpayments, and $9.31 million unknown payments; same FY2025 sections.
+- `https://paymentaccuracy.gov/program/sba-disaster-assistance-loans` — $125.08 million overpayments, $31.94 million underpayments, and no unknown payments; same FY2025 sections.
+- `https://paymentaccuracy.gov/program/sba-504-certified-development-loans-approvals` — $338.42 million technically improper payments and $0.0 million overpayments; the page says reviews occur before disbursement.
+- `https://paymentaccuracy.gov/program/sba-paycheck-protection-program-ppp-loan-forgiveness` — $57.06 million overpayments and $0.53 million unknown payments; FY2025 sampling timeframe 04/2024–03/2025.
+- `https://paymentaccuracy.gov/program/sba-paycheck-protection-program-ppp-loan-guaranty-purchases` — $72.30 million overpayments and $113.44 million unknown payments; FY2025 sampling timeframe 04/2024–03/2025.
+- `https://www.fema.gov/grants/mitigation/learn/building-resilient-infrastructure-communities` — current official BRIC page says the July 23 deadline passed, FEMA is reviewing submissions, and selections will be announced after review; page last updated September 3, 2026.
 
 ## Leads
 
-- Scored and opened `2026-027-sba-recovery-gap` at 16/25: public interest 5, originality 2 pending program-level comparison, document-nativeness 5, room to grow 5, legal risk 1.
-- Did not open the F-35 lead because the first document's headline gap would be a recap until a distinct DOD inventory or financial-statement comparator is retrieved.
-- No lead was killed; the two old inbox files remain unopened because the new SBA primary pair is stronger and only one new investigation may be started per day.
+- No new lead was scored or opened. The two inbox leads remain weaker than the parked/recent work and would not answer an open question.
 
 ## Investigation work
 
-- `2026-016-section-889-information-gap` — updated its published-watch status to November 11; added current RFO Part 4 and GSA Federal Register evidence, a gap note, and a trace. No series part.
-- `2026-027-sba-recovery-gap` — created assignment, status, hypothesis, timeline, claim ledger, evidence log, two evidence records, gaps, and trace. The next step is to compare the FY2025 program-level PaymentAccuracy pages while preserving reporting-year definitions.
+- Parked `2026-027-sba-recovery-gap` after adding six evidence records, a trace, and a gap note. The agency-level recovery-activities total cannot be reconstructed from program-level PIIA estimates because the pages report different categories, scopes, and timing. Reopen only for a public program-level recovery-activities table or reconciliation.
+- Updated published investigation `2026-017-fema-bric-cycle-status` with the November 12 official-page check. No new series finding.
 
 ## Pivots and dead ends
 
-- The Acquisition.gov search endpoint returned 404, and the requested FAR Part 4 path was a stale URL; the current `far-overhaul-part-4` page was retrieved instead.
-- The Federal Register HTML page returned an automated-access stub; the official Federal Register API identified document 2026-21255 and its GovInfo PDF was retrieved successfully.
-- No unchanged Army, Navy, State, or USAspending query was repeated. No PDF or zip was committed.
+- The SBA program pages were not treated as a sum: technical improper payments, overpayments, unknown payments, and pre-disbursement review results are not interchangeable with recovery-activities amounts.
+- The SBA OIG reports index was used only to look for a distinct compliance record; no new report was opened or used as proof.
+- No unchanged OpenFEMA API query, GAO page, agency SBA page, Army IGSA source, Navy fleet source, State source, or USAspending query was repeated. No PDF, zip, secret, email, or private data was committed.
 
 ## Publish decision
 
-No publication. The Section 889 watch did not gain a new finding, and the SBA investigation has only established the aggregate discrepancy and its underlying agency-level display. It becomes publishable only if program-level primary records produce a reproducible, clearly bounded comparison that is not merely GAO's own summary.
+No publication. The SBA records establish a scope boundary, not a measured same-object discrepancy, and the FEMA watch did not move. A publishable SBA piece would require a program-level recovery-activities amount or reconciliation; a publishable BRIC follow-up would require a new selection, award, or status-history primary record.
 
 ## Next run
 
-Continue `2026-027-sba-recovery-gap` by extracting the FY2025 program-level recovery and identified-overpayment records for 7(a), standard EIDL, PPP, and 504, then reconcile them to the OMB agency total. Keep the Section 889 piece published and do not repeat the Army IGSA or Navy fleet searches without the specific missing records.
+Remain at REST unless a horizon item supplies a new public recovery-activities reconciliation for SBA or a new FEMA BRIC selection/award/status-history record. On a third consecutive REST run, reopen the strongest parked thread or open the best scored lead; do not repeat today’s SBA pages.

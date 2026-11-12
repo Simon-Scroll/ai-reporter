@@ -6,9 +6,7 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [
-    "2026-027-sba-recovery-gap"
-  ],
+  "open_investigations": [],
   "parked_investigations": [
     "2026-011-nnsa-strategic-partnership-projects",
     "2026-010-dod-igsa-savings-verification",
@@ -17,15 +15,16 @@
     "2026-012-faa-bnatcs-cost-schedule",
     "2026-026-state-notification-controls",
     "2026-021-cbp-ice-body-camera-management",
-    "2026-025-ice-inspection-effectiveness"
+    "2026-025-ice-inspection-effectiveness",
+    "2026-027-sba-recovery-gap"
   ],
   "series": [],
-  "last_run": "2026-11-11",
-  "last_mode": "CONTINUE",
-  "last_horizon": "2026-11-11",
+  "last_run": "2026-11-12",
+  "last_mode": "REST",
+  "last_horizon": "2026-11-12",
   "last_published_at": "2026-10-30",
-  "last_journal": "newsroom/journal/2026-11-11.md",
-  "next_action": "Compare the FY2025 PaymentAccuracy records for SBA's 7(a), standard EIDL, PPP, and 504 programs with the agency-wide $616.18 million identified and $3.81 million recovered totals; preserve each program's scope and recovery-year definition.",
-  "handoff": "On November 11, the desk checked the due Section 889 published watch with the current RFO Part 4 page and a new GSA information-collection notice. The records add current implementation context but do not identify a public searchable purchase-card representation repository, so 2026-016 remains published without a series part. The desk opened active investigation 2026-027-sba-recovery-gap after GAO-27-107701 and OMB's PaymentAccuracy SBA page supplied a measured FY2025 recovery discrepancy and the underlying agency-level values; the next run must localize it to program-level records without mixing recovery-year definitions.",
+  "last_journal": "newsroom/journal/2026-11-12.md",
+  "next_action": "Check today's horizon for a new SBA recovery-activities reconciliation or FEMA BRIC selection/award/status-history record; do not refetch the parked SBA program pages.",
+  "handoff": "On November 12, the desk retrieved six official SBA/OMB program pages. They report FY2025 PIIA estimates— including technical, overpayment, and unknown categories—rather than program-level amounts recovered through the agency page's separate recovery-activities measure, so 2026-027 is parked. The weekly FEMA BRIC watch was also checked; FEMA still says FY2024–25 submissions are under review and provides no selection, award, or status-history record. No investigation is active; this is the first REST run after the SBA thread was parked.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-18. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Publisher 2026-11-09: Phase 2 — measured discrepancies first, record-gap pieces capped, held drafts are not work (overrides/2026-11-09-phase-2.md). Absence of KILL/HOLD does not mean publish a recap."
 }
