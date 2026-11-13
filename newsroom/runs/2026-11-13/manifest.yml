@@ -1,0 +1,59 @@
+date: 2026-11-13
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm ci completed successfully
+desk_status:
+  ran: true
+  result: no active investigations, nine parked investigations, and the October 30 publication before today's run
+ingest:
+  ran: true
+  result: refreshed the November 13 primary-document horizon
+  horizon: newsroom/horizon/2026-11-13/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - govinfo-crpt
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-028-coal-reclamation-grant-gap
+    decision: continue
+    reason: new GAO and OSMRE primary records support a six-year same-object grant comparison
+  - id: parked-board
+    decision: remain_parked
+    reason: no parked-thread reopen condition was met by today's horizon
+  - id: published-watch-2026-018
+    decision: remain_published
+    reason: enacted FY2026 NDAA check supplied no distinct SIOP baseline or new series finding
+investigations:
+  - 2026-028-coal-reclamation-grant-gap
+  - 2026-018-navy-siop-cost-oversight
+research:
+  primary_documents:
+    - newsroom/horizon/2026-11-13/BRIEF.md
+    - https://www.gao.gov/assets/gao-27-107499.pdf
+    - https://www.osmre.gov/sites/default/files/pdfs/RegGrantDist21.pdf
+    - https://www.osmre.gov/sites/default/files/inline-files/Fiscal%20Year%202022%20Regulatory%20Grant%20Distribution%20.pdf
+    - https://www.osmre.gov/sites/default/files/inline-files/Fiscal%20Year%202023%20Regulatory%20Grant%20Distribution%20-%20Final.pdf
+    - https://www.osmre.gov/sites/default/files/inline-files/FY-2024-Regulatory-Grant-Distribution.pdf
+    - https://www.osmre.gov/sites/default/files/inline-files/2-FY-2025-Regulatory-Ditrstibution-Table-for-Website_v2_508-6.10.25_0.pdf
+    - https://www.osmre.gov/sites/default/files/inline-files/FY-2026-Regulatory-Distribution-Table.pdf
+    - https://www.osmre.gov/sites/default/files/pdfs/5-100.pdf
+    - https://www.congress.gov/crs-product/R48899
+  result: opened one new investigation, calculated the six-year funding-gap trend, and completed the overdue SIOP watch check; no article was ready
+publication:
+  published: false
+  reason: funding mismatch is reproducible but no specific operational consequence has yet been established
+validation:
+  run: false
+  reason: no publication was attempted
+journal:
+  - newsroom/journal/2026-11-13.md
+desk_notes:
+  - newsroom/desk/2026-11-13-r1.md
+no_binaries_committed: true

@@ -8,6 +8,10 @@
 
 No PDF or data dump is stored in the repository.
 
+## 2026-11-13
+
+- `evidence/2026-11-13-crs-fy2026-ndaa.md` — the enacted FY2026 NDAA authorizes broader Navy MILCON and SRM accounts but does not provide a distinct SIOP project baseline or completed cost-and-timeline report.
+
 ## 2026-10-02
 
 - `evidence/2026-10-02-navy-pb27-project-table.md` — the Navy's detailed FY2027 budget lists six named SIOP construction lines totaling $1.256 billion by desk calculation.

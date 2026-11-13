@@ -1,0 +1,38 @@
+claims:
+  - id: C1
+    status: supported
+    claim: "GAO found 5,247 coal-related permits across 25 states and four Tribes as of spring 2025; 1,838 were in reclamation and 908 were in bond forfeiture."
+    sources:
+      - "https://www.gao.gov/assets/gao-27-107499.pdf"
+    locator: "pp. 14–17, Table 1"
+  - id: C2
+    status: supported
+    claim: "OSMRE's FY2021 final distribution was $68.590 million against a $72.754 million regional recommendation; FY2026 was $63.700 million against an $80.411 million recommendation."
+    sources:
+      - "https://www.osmre.gov/sites/default/files/pdfs/RegGrantDist21.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/FY-2026-Regulatory-Distribution-Table.pdf"
+    locator: "FY2021 and FY2026 totals rows"
+  - id: C3
+    status: open
+    claim: "The recommendation-to-distribution coverage rate declined across FY2021–FY2026, while the dollar gap widened."
+    sources:
+      - "https://www.osmre.gov/sites/default/files/pdfs/RegGrantDist21.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/Fiscal%20Year%202022%20Regulatory%20Grant%20Distribution%20.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/Fiscal%20Year%202023%20Regulatory%20Grant%20Distribution%20-%20Final.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/FY-2024-Regulatory-Grant-Distribution.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/2-FY-2025-Regulatory-Ditrstibution-Table-for-Website_v2_508-6.10.25_0.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/FY-2026-Regulatory-Distribution-Table.pdf"
+    locator: "Each table's regional-recommendation and final-distribution totals"
+  - id: C4
+    status: supported
+    claim: "OSMRE's Federal Assistance Manual says a distribution designates funds but does not itself award or provide them, and that available funds may be distributed equitably when they do not cover total needs."
+    sources:
+      - "https://www.osmre.gov/sites/default/files/pdfs/5-100.pdf"
+    locator: "pp. H-2, sections 5-100-40(A)–(D)"
+  - id: C5
+    status: open
+    claim: "The primary records establish a funding mismatch but do not by themselves establish that the mismatch caused a specific inspection, reclamation, or environmental failure."
+    sources:
+      - "https://www.gao.gov/assets/gao-27-107499.pdf"
+      - "https://www.osmre.gov/sites/default/files/pdfs/5-100.pdf"
+    locator: "GAO pp. 21–26 and OSMRE manual pp. H-2–H-3"

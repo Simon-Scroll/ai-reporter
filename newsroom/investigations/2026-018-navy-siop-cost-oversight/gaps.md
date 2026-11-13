@@ -4,6 +4,10 @@
 
 Continue and publish the labeled comparison. The fresh Congress.gov and NAVFAC checks found no enacted FY2027 authorization or completed directed report. NAVFAC's current PEO IE page adds a $6.3 billion ongoing-work figure and describes cost, schedule, and risk governance, but does not reconcile that figure to the FY2027 $1.8 billion headline, six construction lines, O&M equipment activity, or project-level execution measures. The same-object comparison remains bounded and reproducible; it is a traceability gap, not evidence of an overrun, delay, waste, or misconduct.
 
+## Decision — 2026-11-13
+
+Remain published; no series part. A current check of the enacted FY2026 NDAA through the Congressional Research Service found broader Navy Military Construction and Sustainment, Modernization and Restoration authorizations but no distinct SIOP project baseline or completed directed cost-and-timeline report. The published comparison did not gain a new number or project-level execution record.
+
 ## Open as of 2026-10-01
 
 - The current record does not identify the six FY2027 SIOP projects by project number, authorization, obligation, schedule baseline, or current completion status.
