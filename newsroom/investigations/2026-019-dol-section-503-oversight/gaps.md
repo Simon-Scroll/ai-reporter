@@ -30,6 +30,10 @@ Continue, then publish if the skeptic and validation gates pass. The October 12 
 - Whether DOL or EEOC will publish a post-rule record defining a replacement monitoring measure for the written AAP obligation.
 - Whether the current public separation between individual complaint intake and contractor-level AAP oversight is temporary implementation lag or a durable recordkeeping condition.
 
+## Decision — 2026-11-14
+
+Remain published / no series part. The current OFCCP page adds a VAHBP enforcement-moratorium end date of May 7, 2027, but it does not identify a replacement contractor-level Section 503 demonstration mechanism or move the published finding. The next check remains a distinct implementation record; do not refetch the unchanged page without a new signal.
+
 ## Guardrails
 
 The desk will not infer contractor noncompliance from a closed certification period, and it will not describe the final rule as causing employment harm without independent primary evidence. The conclusion must distinguish facts in the final rule and DOL notice from any inference about public monitoring.

@@ -1,20 +1,13 @@
 claims:
   - id: C1
     status: supported
-    claim: "GAO found 5,247 coal-related permits across 25 states and four Tribes as of spring 2025; 1,838 were in reclamation and 908 were in bond forfeiture."
+    claim: "GAO's permit table lists 1,565 permits in Kentucky, 935 in Pennsylvania, and 1,758 in West Virginia as of spring 2025; together the three states account for 4,258 of 5,247 permits."
     sources:
       - "https://www.gao.gov/assets/gao-27-107499.pdf"
-    locator: "pp. 14–17, Table 1"
+    locator: "pp. 14–15 and Appendix II, Table 5, pp. 39–40"
   - id: C2
     status: supported
-    claim: "OSMRE's FY2021 final distribution was $68.590 million against a $72.754 million regional recommendation; FY2026 was $63.700 million against an $80.411 million recommendation."
-    sources:
-      - "https://www.osmre.gov/sites/default/files/pdfs/RegGrantDist21.pdf"
-      - "https://www.osmre.gov/sites/default/files/inline-files/FY-2026-Regulatory-Distribution-Table.pdf"
-    locator: "FY2021 and FY2026 totals rows"
-  - id: C3
-    status: open
-    claim: "The recommendation-to-distribution coverage rate declined across FY2021–FY2026, while the dollar gap widened."
+    claim: "Across FY2021 through FY2026, Kentucky, Pennsylvania, and West Virginia's OSMRE regional recommendations total $254,748,017 and final distributions total $214,332,122, a summed annual difference of $40,415,895."
     sources:
       - "https://www.osmre.gov/sites/default/files/pdfs/RegGrantDist21.pdf"
       - "https://www.osmre.gov/sites/default/files/inline-files/Fiscal%20Year%202022%20Regulatory%20Grant%20Distribution%20.pdf"
@@ -22,17 +15,46 @@ claims:
       - "https://www.osmre.gov/sites/default/files/inline-files/FY-2024-Regulatory-Grant-Distribution.pdf"
       - "https://www.osmre.gov/sites/default/files/inline-files/2-FY-2025-Regulatory-Ditrstibution-Table-for-Website_v2_508-6.10.25_0.pdf"
       - "https://www.osmre.gov/sites/default/files/inline-files/FY-2026-Regulatory-Distribution-Table.pdf"
-    locator: "Each table's regional-recommendation and final-distribution totals"
+    locator: "Each one-page table, Kentucky, Pennsylvania, and West Virginia rows"
+  - id: C3
+    status: supported
+    claim: "The three selected states' summed annual difference is 57.7 percent of the $70,073,311 difference produced by summing all six OSMRE table totals."
+    sources:
+      - "https://www.osmre.gov/sites/default/files/pdfs/RegGrantDist21.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/Fiscal%20Year%202022%20Regulatory%20Grant%20Distribution%20.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/Fiscal%20Year%202023%20Regulatory%20Grant%20Distribution%20-%20Final.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/FY-2024-Regulatory-Grant-Distribution.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/2-FY-2025-Regulatory-Ditrstibution-Table-for-Website_v2_508-6.10.25_0.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/FY-2026-Regulatory-Distribution-Table.pdf"
+    locator: "Each table's totals row; desk calculation"
   - id: C4
     status: supported
-    claim: "OSMRE's Federal Assistance Manual says a distribution designates funds but does not itself award or provide them, and that available funds may be distributed equitably when they do not cover total needs."
+    claim: "In FY2026, final distributions covered 77.6 percent of Kentucky's recommendation, 75.8 percent of Pennsylvania's, and 76.1 percent of West Virginia's."
     sources:
-      - "https://www.osmre.gov/sites/default/files/pdfs/5-100.pdf"
-    locator: "pp. H-2, sections 5-100-40(A)–(D)"
+      - "https://www.osmre.gov/sites/default/files/inline-files/FY-2026-Regulatory-Distribution-Table.pdf"
+    locator: "one-page table, Kentucky, Pennsylvania, and West Virginia rows; desk calculation"
   - id: C5
-    status: open
-    claim: "The primary records establish a funding mismatch but do not by themselves establish that the mismatch caused a specific inspection, reclamation, or environmental failure."
+    status: supported
+    claim: "OSMRE's annual tables cite congressional appropriations for the final distribution totals, and its manual says a distribution designates funds but does not itself award or provide them."
     sources:
+      - "https://www.osmre.gov/sites/default/files/pdfs/RegGrantDist21.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/Fiscal%20Year%202022%20Regulatory%20Grant%20Distribution%20.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/Fiscal%20Year%202023%20Regulatory%20Grant%20Distribution%20-%20Final.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/FY-2024-Regulatory-Grant-Distribution.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/2-FY-2025-Regulatory-Ditrstibution-Table-for-Website_v2_508-6.10.25_0.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/FY-2026-Regulatory-Distribution-Table.pdf"
+      - "https://www.osmre.gov/sites/default/files/pdfs/5-100.pdf"
+    locator: "OSMRE table footnotes; manual p. H-2, section 5-100-40(A)–(D)"
+  - id: C6
+    status: supported
+    claim: "The records show a geographic concentration of recommendation-to-distribution differences but do not establish that those differences caused a particular inspection, reclamation, or environmental failure."
+    sources:
+      - "https://www.osmre.gov/sites/default/files/pdfs/RegGrantDist21.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/Fiscal%20Year%202022%20Regulatory%20Grant%20Distribution%20.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/Fiscal%20Year%202023%20Regulatory%20Grant%20Distribution%20-%20Final.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/FY-2024-Regulatory-Grant-Distribution.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/2-FY-2025-Regulatory-Ditrstibution-Table-for-Website_v2_508-6.10.25_0.pdf"
+      - "https://www.osmre.gov/sites/default/files/inline-files/FY-2026-Regulatory-Distribution-Table.pdf"
       - "https://www.gao.gov/assets/gao-27-107499.pdf"
       - "https://www.osmre.gov/sites/default/files/pdfs/5-100.pdf"
-    locator: "GAO pp. 21–26 and OSMRE manual pp. H-2–H-3"
+    locator: "same-object comparison and stated limits"

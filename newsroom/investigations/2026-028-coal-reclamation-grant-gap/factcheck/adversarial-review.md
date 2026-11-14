@@ -2,9 +2,9 @@
 
 ## Recommendation
 
-**DRAFT. Do not publish this version.**
+**Recommendation after correction: PUBLISH, subject to validation.**
 
-The central difference and the 57.7% share survive, but the draft states false six-year recommendation and distribution totals. The narrow original contribution also needs disciplined framing: GAO itself already reports both the three-state permit concentration and the national funding-gap trend. What is new here is only the desk's state-level aggregation across six OSMRE tables and its comparison of that aggregate with GAO's permit count.
+The central difference and the 57.7% share survive. The reporter corrected the six-year gross totals from $215,748,017/$175,332,122 to $254,748,017/$214,332,122, replaced “received” with “final distribution designations,” and made the fixed-panel and excluded-grant caveats explicit. The narrow original contribution remains the desk's state-level aggregation across six OSMRE tables and its comparison of that aggregate with GAO's permit count; GAO's permit concentration and national trend are not presented as new findings.
 
 ## Source check
 
@@ -67,6 +67,8 @@ The draft says the selected-state recommendations total **$215,748,017** and fin
 - difference: **$40,415,895**
 
 Both published gross totals are understated by exactly $39,000,000. The difference happens to remain correct because the same error was applied to both sides. C2 cannot survive as written, and the matching sentence in the frontmatter claim list also dies.
+
+**Correction check.** The draft and evidence record now state the corrected gross totals, and the claim ledger maps C2 to the six state-row locators.
 
 ### “Received $40.4 million less” overstates what the records show
 

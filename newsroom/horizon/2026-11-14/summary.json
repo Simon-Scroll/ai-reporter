@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T08:00:42.461Z",
+  "sources": [
+    {
+      "name": "sec-edgar",
+      "count": 25,
+      "new": 25,
+      "error": null
+    },
+    {
+      "name": "federal-register",
+      "count": 20,
+      "new": 20,
+      "error": null
+    },
+    {
+      "name": "gao",
+      "count": 20,
+      "new": 2,
+      "error": null
+    },
+    {
+      "name": "govinfo-crpt",
+      "count": 20,
+      "new": 4,
+      "error": null
+    },
+    {
+      "name": "courtlistener",
+      "count": 20,
+      "new": 20,
+      "error": null
+    },
+    {
+      "name": "uk-legislation",
+      "count": 20,
+      "new": 5,
+      "error": null
+    }
+  ]
+}

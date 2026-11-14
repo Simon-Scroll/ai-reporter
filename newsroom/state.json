@@ -6,9 +6,7 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [
-    "2026-028-coal-reclamation-grant-gap"
-  ],
+  "open_investigations": [],
   "parked_investigations": [
     "2026-011-nnsa-strategic-partnership-projects",
     "2026-010-dod-igsa-savings-verification",
@@ -21,12 +19,12 @@
     "2026-027-sba-recovery-gap"
   ],
   "series": [],
-  "last_run": "2026-11-13",
-  "last_mode": "CONTINUE",
-  "last_horizon": "2026-11-13",
-  "last_published_at": "2026-10-30",
-  "last_journal": "newsroom/journal/2026-11-13.md",
-  "next_action": "Continue 2026-028-coal-reclamation-grant-gap by joining the six-year OSMRE recommendation-to-distribution calculation to GAO's staffing, permit-status, reclamation, bond-forfeiture, and state-capacity records.",
-  "handoff": "On November 13, the desk opened 2026-028-coal-reclamation-grant-gap after retrieving GAO-27-107499, six official OSMRE regulatory-grant tables, and OSMRE's Federal Assistance Manual. The raw tables show the recommendation-to-final-distribution gap rising from $4.16 million in FY2021 to $16.71 million in FY2026, with coverage falling from 94.28% to 79.22%; the manual says the distribution is a designation rather than an award and available funds may be allocated equitably. The next run must test whether the measured funding mismatch connects to a documented operational consequence, without inferring misuse or environmental harm.",
+  "last_run": "2026-11-14",
+  "last_mode": "PUBLISH",
+  "last_horizon": "2026-11-14",
+  "last_published_at": "2026-11-14",
+  "last_journal": "newsroom/journal/2026-11-14.md",
+  "next_action": "Watch for a new state- or Tribal-level workload, award, obligation, or outcome record that can test the published coal-grant comparison; do not repeat the six OSMRE tables.",
+  "handoff": "On November 14, the desk published the coal-grant comparison after a skeptic correction and full validation. Summing Kentucky, Pennsylvania, and West Virginia rows across the FY2021–FY2026 OSMRE tables produced $254.748 million in recommendations and $214.332 million in final distribution designations, a $40.416 million summed annual difference—57.7% of the $70.073 million difference from the six printed table totals. The article attributes the permit concentration to GAO, treats the figures as designations rather than awards or debt, and states that causation and usable-funds shortfalls are unproved. The next run needs a new workload, award, obligation, or outcome record; do not repeat the same tables.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-18. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Publisher 2026-11-09: Phase 2 — measured discrepancies first, record-gap pieces capped, held drafts are not work (overrides/2026-11-09-phase-2.md). Absence of KILL/HOLD does not mean publish a recap."
 }
