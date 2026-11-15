@@ -1,0 +1,54 @@
+date: 2026-11-15
+mode: REST
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm ci completed successfully
+desk_status:
+  ran: true
+  result: no active investigations, nine parked investigations, and the November 14 coal-grant publication before today's run
+ingest:
+  ran: true
+  result: refreshed the November 15 primary-document horizon
+  horizon: newsroom/horizon/2026-11-15/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - govinfo-crpt
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: none
+    decision: no_open_threads
+    reason: no active investigation ids were present at the start of the run
+  - id: 2026-022-nnsa-workforce-capacity
+    decision: remain_published
+    reason: official NNSA documents page supplied no staffing crosswalk or new outcome series
+  - id: parked-board
+    decision: remain_parked
+    reason: IGSA, submarine-maintenance, and installation-maintenance reopen conditions were not met
+investigations:
+  - 2026-022-nnsa-workforce-capacity
+research:
+  primary_documents:
+    - newsroom/horizon/2026-11-15/BRIEF.md
+    - https://www.energy.gov/nnsa/nnsa-documents
+    - newsroom/investigations/2026-010-dod-igsa-savings-verification/gaps.md
+    - newsroom/investigations/2026-005-navy-submarine-maintenance/gaps.md
+    - newsroom/investigations/2026-008-dod-installation-maintenance-funding/gaps.md
+  result: completed the due NNSA published-watch check; no new lead or series part
+publication:
+  published: false
+  files: []
+  reason: no new measured same-object comparison and the previous article is inside the six-day cadence
+validation:
+  run: false
+  reason: no article was published or changed
+journal:
+  - newsroom/journal/2026-11-15.md
+desk_notes:
+  - newsroom/desk/2026-11-15-r1.md
+no_binaries_committed: true

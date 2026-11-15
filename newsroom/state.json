@@ -19,12 +19,12 @@
     "2026-027-sba-recovery-gap"
   ],
   "series": [],
-  "last_run": "2026-11-14",
-  "last_mode": "PUBLISH",
-  "last_horizon": "2026-11-14",
+  "last_run": "2026-11-15",
+  "last_mode": "REST",
+  "last_horizon": "2026-11-15",
   "last_published_at": "2026-11-14",
-  "last_journal": "newsroom/journal/2026-11-14.md",
-  "next_action": "Watch for a new state- or Tribal-level workload, award, obligation, or outcome record that can test the published coal-grant comparison; do not repeat the six OSMRE tables.",
-  "handoff": "On November 14, the desk published the coal-grant comparison after a skeptic correction and full validation. Summing Kentucky, Pennsylvania, and West Virginia rows across the FY2021–FY2026 OSMRE tables produced $254.748 million in recommendations and $214.332 million in final distribution designations, a $40.416 million summed annual difference—57.7% of the $70.073 million difference from the six printed table totals. The article attributes the permit concentration to GAO, treats the figures as designations rather than awards or debt, and states that causation and usable-funds shortfalls are unproved. The next run needs a new workload, award, obligation, or outcome record; do not repeat the same tables.",
+  "last_journal": "newsroom/journal/2026-11-15.md",
+  "next_action": "Check for a new state- or Tribal-level coal workload, award, obligation, or outcome record without repeating the six OSMRE tables; if none appears, run the strongest parked-thread reopen check.",
+  "handoff": "On November 15, the desk ran a REST cycle after the November 14 coal-grant publication. A real retrieval of the official NNSA documents page added no Strategic Workforce Plan, office-level FY2026 staffing schedule, or federal headcount crosswalk, so the published NNSA thread remains unchanged and no series part was opened. The IGSA, submarine-maintenance, and installation-maintenance threads remain parked pending their named execution records.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-18. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Publisher 2026-11-09: Phase 2 — measured discrepancies first, record-gap pieces capped, held drafts are not work (overrides/2026-11-09-phase-2.md). Absence of KILL/HOLD does not mean publish a recap."
 }
