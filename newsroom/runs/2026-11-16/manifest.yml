@@ -1,0 +1,57 @@
+date: 2026-11-16
+mode: SCAN
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm ci completed successfully
+desk_status:
+  ran: true
+  result: no active investigations, nine parked investigations, and the November 14 coal-grant publication before today's run
+ingest:
+  ran: true
+  result: refreshed the November 16 primary-document horizon; SEC intake aborted while the other five sources completed
+  horizon: newsroom/horizon/2026-11-16/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - govinfo-crpt
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: none
+    decision: no_open_threads
+    reason: no active investigation ids were present at the start of the run
+  - id: 2026-010-dod-igsa-savings-verification
+    decision: remain_parked
+    reason: official Army-channel searches found no agreement-level approval, cost, execution, or statutory-certification record
+  - id: 2026-023-critical-minerals-ownership-data-boundary
+    decision: remain_published
+    reason: a new BLM layer revision did not add citizenship or parent-ownership fields and did not create a new finding
+  - id: parked-board
+    decision: remain_parked
+    reason: no other parked investigation received its named reopen record
+investigations:
+  - 2026-010-dod-igsa-savings-verification
+  - 2026-023-critical-minerals-ownership-data-boundary
+research:
+  primary_documents:
+    - newsroom/horizon/2026-11-16/BRIEF.md
+    - https://nlsdbpubgis.blm.gov/arcgishub/rest/services/HUB/BLM_Natl_MLRS_Locatable_Plans_Of_Operations/FeatureServer/0?f=pjson
+    - https://nlsdbpubgis.blm.gov/arcgishub/rest/services/HUB/BLM_Natl_MLRS_Locatable_Plans_Of_Operations/FeatureServer/0/query
+    - newsroom/investigations/2026-010-dod-igsa-savings-verification/traces/2026-11-16.md
+  result: completed the strongest parked IGSA reopen check and the due BLM published-watch check; no new lead, series part, or article
+publication:
+  published: false
+  files: []
+  reason: no new measured same-object comparison, ownership crosswalk, or agreement-level execution record; the previous article is inside the six-day cadence
+validation:
+  run: false
+  reason: no article was published or changed
+journal:
+  - newsroom/journal/2026-11-16.md
+desk_notes:
+  - newsroom/desk/2026-11-16-r1.md
+no_binaries_committed: true

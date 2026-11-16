@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T08:01:44.434Z",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T08:02:42.798Z",
   "sources": [
     {
       "name": "sec-edgar",
-      "count": 25,
+      "count": 0,
       "new": 0,
-      "error": null
+      "error": "This operation was aborted"
     },
     {
       "name": "federal-register",
       "count": 20,
-      "new": 20,
+      "new": 0,
       "error": null
     },
     {
@@ -35,7 +35,7 @@
     {
       "name": "uk-legislation",
       "count": 20,
-      "new": 0,
+      "new": 3,
       "error": null
     }
   ]

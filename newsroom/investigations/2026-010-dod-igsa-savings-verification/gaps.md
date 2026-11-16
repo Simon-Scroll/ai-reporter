@@ -27,3 +27,7 @@ Reopen only when a signed Fort Leonard Wood approval letter, cost-benefit analys
 ## 2026-09-14 parking decision
 
 Parked because the 2026-09-14 horizon supplied no new Army or IGSA execution record and the approval-channel retrieval action remained the same as the prior run. Reopen only when a signed approval letter, cost-benefit analysis, payment/reconciliation record, or statutory certification becomes public.
+
+## 2026-11-16 reopen check
+
+**Remain parked.** Searches of the official Army and Fort Leonard Wood document channels returned the already-captured public announcements and installation policy, plus an unrelated contracting presentation. No signed Fort Leonard Wood approval letter, cost-benefit analysis, payment or reconciliation record, or statutory certification was exposed. The same-object test still fails; do not repeat the general policy-page or site-search path.

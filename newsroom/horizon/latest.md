@@ -1,114 +1,65 @@
-# Horizon brief — 2026-11-15
+# Horizon brief — 2026-11-16
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 Items marked NEW were not in the previous brief for that source; the rest were already seen.
 
 ## sec-edgar
-0 new of 25 since 2026-11-14.
-
-- **SCHEDULE 13G/A - Chernett Jorey (0002042077) (Filed by)**
-  - when: 2026-11-13T21:59:30-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/2042077/000119380526001476/0001193805-26-001476-index.htm
-  - Filed: 2026-11-13 AccNo: 0001193805-26-001476 Size: 8 KB
-- **SCHEDULE 13G/A - Starling Oncology, Inc. (0001799191) (Subject)**
-  - when: 2026-11-13T21:59:30-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1799191/000119380526001476/0001193805-26-001476-index.htm
-  - Filed: 2026-11-13 AccNo: 0001193805-26-001476 Size: 8 KB
-- **4 - Kieser Brian Joseph (0002133654) (Reporting)**
-  - when: 2026-11-13T21:59:13-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/2133654/000149315226051920/0001493152-26-051920-index.htm
-  - Filed: 2026-11-13 AccNo: 0001493152-26-051920 Size: 28 KB
-- **4 - NEXGEL, INC. (0001468929) (Issuer)**
-  - when: 2026-11-13T21:59:13-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1468929/000149315226051920/0001493152-26-051920-index.htm
-  - Filed: 2026-11-13 AccNo: 0001493152-26-051920 Size: 28 KB
-- **4 - Ciardiello Steven (0001689707) (Reporting)**
-  - when: 2026-11-13T21:58:32-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1689707/000149315226051919/0001493152-26-051919-index.htm
-  - Filed: 2026-11-13 AccNo: 0001493152-26-051919 Size: 13 KB
-- **4 - NEXGEL, INC. (0001468929) (Issuer)**
-  - when: 2026-11-13T21:58:32-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1468929/000149315226051919/0001493152-26-051919-index.htm
-  - Filed: 2026-11-13 AccNo: 0001493152-26-051919 Size: 13 KB
-- **4 - Blackman Ian Howard (0002121611) (Reporting)**
-  - when: 2026-11-13T21:58:30-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/2121611/000149315226051918/0001493152-26-051918-index.htm
-  - Filed: 2026-11-13 AccNo: 0001493152-26-051918 Size: 13 KB
-- **4 - NEXGEL, INC. (0001468929) (Issuer)**
-  - when: 2026-11-13T21:58:30-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1468929/000149315226051918/0001493152-26-051918-index.htm
-  - Filed: 2026-11-13 AccNo: 0001493152-26-051918 Size: 13 KB
-- **SCHEDULE 13G/A - Chernett Jorey (0002042077) (Filed by)**
-  - when: 2026-11-13T21:58:28-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/2042077/000119380526001475/0001193805-26-001475-index.htm
-  - Filed: 2026-11-13 AccNo: 0001193805-26-001475 Size: 7 KB
-- **4 - glassman steven mark (0001853617) (Reporting)**
-  - when: 2026-11-13T21:58:28-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1853617/000149315226051917/0001493152-26-051917-index.htm
-  - Filed: 2026-11-13 AccNo: 0001493152-26-051917 Size: 18 KB
-- **4 - NEXGEL, INC. (0001468929) (Issuer)**
-  - when: 2026-11-13T21:58:28-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1468929/000149315226051917/0001493152-26-051917-index.htm
-  - Filed: 2026-11-13 AccNo: 0001493152-26-051917 Size: 18 KB
-- **SCHEDULE 13G/A - EXAGEN INC. (0001274737) (Subject)**
-  - when: 2026-11-13T21:58:28-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1274737/000119380526001475/0001193805-26-001475-index.htm
-  - Filed: 2026-11-13 AccNo: 0001193805-26-001475 Size: 7 KB
+Ingest failed: This operation was aborted
 
 ## federal-register
-20 new of 20 since 2026-11-14.
+0 new of 20 since 2026-11-15.
 
-- NEW · **Privacy Act of 1974; Matching Program**
+- **Privacy Act of 1974; Matching Program**
   - when: 2026-11-16
   - url: https://www.federalregister.gov/documents/2026/11/16/C1-2026-20951/privacy-act-of-1974-matching-program
   - Defense Department, — Notice
-- NEW · **Presidential Determination Concerning Wildfire Suppression Activities in the United States**
+- **Presidential Determination Concerning Wildfire Suppression Activities in the United States**
   - when: 2026-11-16
   - url: https://www.federalregister.gov/documents/2026/11/16/2026-23349/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states
   - Executive Office of the President — Presidential Document
-- NEW · **Veterans Day, 2026**
+- **Veterans Day, 2026**
   - when: 2026-11-16
   - url: https://www.federalregister.gov/documents/2026/11/16/2026-23348/veterans-day-2026
   - Executive Office of the President — Presidential Document
-- NEW · **Pilot for Online Version of Application for a U.S. Passport (Form DS-11)**
+- **Pilot for Online Version of Application for a U.S. Passport (Form DS-11)**
   - when: 2026-11-16
   - url: https://www.federalregister.gov/documents/2026/11/16/2026-23317/pilot-for-online-version-of-application-for-a-us-passport-form-ds-11
   - State Department — Notice — The Department of State is announcing a pilot program to accept certain renewal and first-time passport applications online. Interested applicants will be able to visit America.gov to check their eligibility to submit a passport application through this pilot. It is anticipated that the pool of eligible applicants will be expanded as testing progresses.
-- NEW · **Safety Zone; Huron River, Huron, OH**
+- **Safety Zone; Huron River, Huron, OH**
   - when: 2026-11-16
   - url: https://www.federalregister.gov/documents/2026/11/16/2026-23304/safety-zone-huron-river-huron-oh
   - Homeland Security Department, Coast Guard — Rule — The Coast Guard is establishing a temporary safety zone for navigable waters of the Huron River within a 150-yard radius of 41[deg]23'34.6" N, 82[deg]33'07.7" W in Huron, OH. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards created by an over water fireworks show. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector Det
-- NEW · **Notice of Request for Approval of a New Information Collection; Highly Pathogenic Avian Influenza: Administration of Vaccine in Zoos**
+- **Notice of Request for Approval of a New Information Collection; Highly Pathogenic Avian Influenza: Administration of Vaccine in Zoos**
   - when: 2026-11-16
   - url: https://www.federalregister.gov/documents/2026/11/16/2026-23302/notice-of-request-for-approval-of-a-new-information-collection-highly-pathogenic-avian-influenza
   - Agriculture Department, Animal and Plant Health Inspection Service — Notice — In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request approval of a new information collection for implementation of vaccination for highly pathogenic avian influenza in zoos and animal sanctuaries.
-- NEW · **Record of Decision; Temporary Closure of East Potomac Park South of Buckeye Drive**
+- **Record of Decision; Temporary Closure of East Potomac Park South of Buckeye Drive**
   - when: 2026-11-16
   - url: https://www.federalregister.gov/documents/2026/11/16/2026-23299/record-of-decision-temporary-closure-of-east-potomac-park-south-of-buckeye-drive
   - Interior Department, National Park Service — Notice — The National Park Service (NPS) will temporarily close to public access and use all federal parkland administered by the National Mall and Memorial Parks within East Potomac Park south of Buckeye Drive SW, including East Potomac Golf Course.
-- NEW · **Agency Information Collection Activities; Submission for OMB Review; Comment Request; Claim Adjudication Process for the Alleged Presence of Pneumoconiosis**
+- **Agency Information Collection Activities; Submission for OMB Review; Comment Request; Claim Adjudication Process for the Alleged Presence of Pneumoconiosis**
   - when: 2026-11-16
   - url: https://www.federalregister.gov/documents/2026/11/16/2026-23298/agency-information-collection-activities-submission-for-omb-review-comment-request-claim
   - Labor Department — Notice — The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.
-- NEW · **Agency Information Collection Activities; Submission for OMB Review; Comment Request; Application for Continuation of Death Benefit for Student**
+- **Agency Information Collection Activities; Submission for OMB Review; Comment Request; Application for Continuation of Death Benefit for Student**
   - when: 2026-11-16
   - url: https://www.federalregister.gov/documents/2026/11/16/2026-23297/agency-information-collection-activities-submission-for-omb-review-comment-request-application-for
   - Labor Department — Notice — The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.
-- NEW · **Agency Information Collection Activities; Submission for OMB Review; Comment Request; Administration of the Longshore and Harbor Workers' Compensation Act**
+- **Agency Information Collection Activities; Submission for OMB Review; Comment Request; Administration of the Longshore and Harbor Workers' Compensation Act**
   - when: 2026-11-16
   - url: https://www.federalregister.gov/documents/2026/11/16/2026-23296/agency-information-collection-activities-submission-for-omb-review-comment-request-administration-of
   - Labor Department — Notice — The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.
-- NEW · **Agency Information Collection Activities; Submission for OMB Review; Comment Request; Request for Information on Earnings, Dual Benefits, Dependents, and Third Party Settlements**
+- **Agency Information Collection Activities; Submission for OMB Review; Comment Request; Request for Information on Earnings, Dual Benefits, Dependents, and Third Party Settlements**
   - when: 2026-11-16
   - url: https://www.federalregister.gov/documents/2026/11/16/2026-23295/agency-information-collection-activities-submission-for-omb-review-comment-request-request-for
   - Labor Department — Notice — The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.
-- NEW · **Proposed Revision of Information Collection; Certification of Medical Necessity**
+- **Proposed Revision of Information Collection; Certification of Medical Necessity**
   - when: 2026-11-16
   - url: https://www.federalregister.gov/documents/2026/11/16/2026-23294/proposed-revision-of-information-collection-certification-of-medical-necessity
   - Labor Department, Workers' Compensation Programs Office — Notice — The Department of Labor (DOL) is soliciting comments concerning a proposed extension for the authority to conduct the information collection request (ICR) titled, "Certificate of Medical Necessity". This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA).
 
 ## gao
-0 new of 20 since 2026-11-14.
+0 new of 20 since 2026-11-15.
 
 - **Military Personnel: More Complete Data Needed on Humanitarian Reassignments and Safety Transfers**
   - when: Fri, 13 Nov 2026 07:01:48 -0500
@@ -171,7 +122,7 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - What GAO Found Private equity is one type of investment within a broad, undefined category called alternative assets. It differs from publicly traded equity in who can invest in it, how it is valued, and what disclosures are required, among other things. GAO’s review of selected research papers that analyzed private equity investment fund performance found no consensus on the performance of private equity relative to publicly traded equity, which is an important consideration when making invest
 
 ## govinfo-crpt
-0 new of 20 since 2026-11-14.
+0 new of 20 since 2026-11-15.
 
 - **H. Rept. 119-878 — PROVIDING FOR CONSIDERATION OF THE BILL (H.R. 1013) TO AMEND THE FEDERAL SECURITIES LAWS TO ENHANCE 403(B) PLANS, AND FOR OTHER PURPOSES**
   - when: 2026-11-09
@@ -235,16 +186,20 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - Committee on Natural Resources
 
 ## courtlistener
-2 new of 20 since 2026-11-14.
+2 new of 20 since 2026-11-15.
 
-- NEW · **Dc Preservation League v. Department of Interior**
+- NEW · **Wilson v. Brent**
+  - when: 2026-11-15T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11062604/wilson-v-brent/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA ALLAN DOUGLAS WILSON, Plaintiff, Civil Action No. 25-3561 (RDM) v. JOHN A. SQUIRE,1 Under Secretary of Commerce for For Intellectual Property, et al. Defendants. MEMORANDUM OPINION AND ORDER Proceeding pro se Original document
+- NEW · **Thomas M. Overton v. State of Florida & Thomas M. Overton v. Secretary, Department of Corrections**
+  - when: 2026-11-13T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11061132/thomas-m-overton-v-state-of-florida-thomas-m-overton-v-secretary/
+  - Supreme Court of Florida ____________ No. SC2026-1724 ____________ THOMAS M. OVERTON, Appellant, vs. STATE OF FLORIDA, Appellee. ____________ No. SC2026-1725 ____________ THOMAS Original document
+- **Dc Preservation League v. Department of Interior**
   - when: 2026-11-14T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11062494/dc-preservation-league-v-department-of-interior/
   - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA DC PRESERVATION LEAGUE, et al., Plaintiffs, Case No. 1:26-cv-477-ACR v. DEPARTMENT OF INTERIOR, et al., Defendants. TEMPORARY RESTRAINING ORDER The Department of the Interior has progressed from removing Original document
-- NEW · **In re S.J.C.**
-  - when: 2026-11-13T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11062487/in-re-sjc/
-  - 2026 UT App 173 THE UTAH COURT OF APPEALS STATE OF UTAH, IN THE INTEREST OF S.J.C., A PERSON UNDER EIGHTEEN YEARS OF AGE. S.C., Appellant, v. STATE OF UTAH, Appellee. Opinion No. 20251310-CA Filed November 13, 2026 Original document
 - **State of Iowa v. James Mikale Wiggins**
   - when: 2026-11-13T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11060547/state-of-iowa-v-james-mikale-wiggins/
@@ -281,14 +236,19 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - when: 2026-11-13T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11061072/obu-v-state-med-bd/
   - [Cite as Obu v. State Med. Bd., 2026-Ohio-4514.] IN THE COURT OF APPEALS OF OHIO SIXTH APPELLATE DISTRICT LUCAS COUNTY Fidelis I. Obu Court of Appeals No. {48}L-26-00037 Appellant Trial Court No. CI0202404636 v. State Medical Board of Ohio DECISION AND JUDGMENT Appellee Original document
-- **Clean & Green Cng Tech. Corp. v. Diversified Erection Servs.**
-  - when: 2026-11-13T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11061441/clean-green-cng-tech-corp-v-diversified-erection-servs/
-  - Clean & Green Cng Tech. Corp. v Diversified Erection Servs. 2026 NY Slip Op 06617 November 13, 2026 Appellate Division, Fourth Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. CLEAN AND GREEN CNG TECHNOLOGIES CORP. AND DIAMOND BUILDERS CORP., PLAINTIFFS-APPELLANTS-RESPONDENTS, v DIVERSIFIED ERECTION SERVICES, DEFENDANT-RESPONDENT-APPELLANT. Supreme Court Original document
 
 ## uk-legislation
-0 new of 20 since 2026-11-14.
+3 new of 20 since 2026-11-15.
 
+- NEW · **The Network Rail (Tackley Level Crossing) Order 2026**
+  - when: 2026-11-16T03:01:01Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1189
+- NEW · **The Parking Places (Disabled Persons’ Vehicles) (Amendment No. 5) Order (Northern Ireland) 2026**
+  - when: 2026-11-16T03:00:40.402531Z
+  - url: http://www.legislation.gov.uk/id/nisr/2026/189
+- NEW · **The Air Navigation (Restriction of Flying) (Preston, Lancashire) Regulations 2026**
+  - when: 2026-11-16T03:00:39.198238Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1173
 - **The Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) (Amendment and Transitional Provision) Regulations 2026**
   - when: 2026-11-13T16:35:50Z
   - url: http://www.legislation.gov.uk/id/uksi/2026/1192
@@ -323,14 +283,3 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - when: 2026-11-12T14:58:52Z
   - url: http://www.legislation.gov.uk/id/uksi/2026/1182
   - This Order is made in exercise of the powers in sections 43(3)(a) and 104(2) of the Energy Act 2008 (c. 32). It amends the Feed-in Tariffs Order 2012 (S.I. 2012/2782) to make amendments as to how annual levelisation payments are calculated under article 27 of that Order. In particular, this Order introduces an exemption from that calculation for electricity supplied to customers operating in certain manufacturing sectors, under the British Industrial Competitiveness Scheme.
-- **The Maximum Number of Judges (Scotland) Order 2026**
-  - when: 2026-11-12T14:07:52Z
-  - url: http://www.legislation.gov.uk/id/ssi/2026/340
-  - Article 2 of this Order amends section 1(1) of the Court of Session Act 1988 so as to increase the maximum number of persons who may be appointed as judges of the Court of Session from 36 to 40. Article 3 revokes the Maximum Number of Judges (Scotland) Order 2022 which had previously increased the maximum number of judges of the Court of Session to 36.
-- **The Radio Selection Services (Designation) Regulations 2026**
-  - when: 2026-11-12T13:11:28Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1179
-  - These Regulations designate a number of radio selection services for the purposes of Part 3B of the Communications Act 2023 (c. 21) (regulation of radio selection services).
-- **The A92/A972 Trunk Road (Dundee) (Temporary 30mph and 40mph Speed Restrictions) Order 2026**
-  - when: 2026-11-12T11:27:49Z
-  - url: http://www.legislation.gov.uk/id/ssi/2026/339
