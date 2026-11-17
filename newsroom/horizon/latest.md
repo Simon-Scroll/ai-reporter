@@ -1,66 +1,150 @@
-# Horizon brief — 2026-11-16
+# Horizon brief — 2026-11-17
 
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 Items marked NEW were not in the previous brief for that source; the rest were already seen.
 
 ## sec-edgar
-Ingest failed: This operation was aborted
+25 new of 25 since 2026-11-15.
+
+- NEW · **SCHEDULE 13G - ADAR1 Capital Management, LLC (0001940272) (Filed by)**
+  - when: 2026-11-16T21:56:34-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1940272/000110465926128741/0001104659-26-128741-index.htm
+  - Filed: 2026-11-16 AccNo: 0001104659-26-128741 Size: 14 KB
+- NEW · **SCHEDULE 13G - Xilio Therapeutics, Inc. (0001840233) (Subject)**
+  - when: 2026-11-16T21:56:34-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1840233/000110465926128741/0001104659-26-128741-index.htm
+  - Filed: 2026-11-16 AccNo: 0001104659-26-128741 Size: 14 KB
+- NEW · **SCHEDULE 13G/A - ADAR1 Capital Management, LLC (0001940272) (Filed by)**
+  - when: 2026-11-16T21:55:04-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1940272/000110465926128739/0001104659-26-128739-index.htm
+  - Filed: 2026-11-16 AccNo: 0001104659-26-128739 Size: 14 KB
+- NEW · **SCHEDULE 13G/A - Grace Therapeutics, Inc. (0001444192) (Subject)**
+  - when: 2026-11-16T21:55:04-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1444192/000110465926128739/0001104659-26-128739-index.htm
+  - Filed: 2026-11-16 AccNo: 0001104659-26-128739 Size: 14 KB
+- NEW · **4 - LEE CHAE (0001548322) (Reporting)**
+  - when: 2026-11-16T21:54:55-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1548322/000119312526464325/0001193125-26-464325-index.htm
+  - Filed: 2026-11-16 AccNo: 0001193125-26-464325 Size: 11 KB
+- NEW · **4 - MAGNACHIP SEMICONDUCTOR Corp (0001325702) (Issuer)**
+  - when: 2026-11-16T21:54:55-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1325702/000119312526464325/0001193125-26-464325-index.htm
+  - Filed: 2026-11-16 AccNo: 0001193125-26-464325 Size: 11 KB
+- NEW · **SCHEDULE 13G/A - Freenome, Inc. (0002017526) (Subject)**
+  - when: 2026-11-16T21:54:27-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/2017526/000110465926128738/0001104659-26-128738-index.htm
+  - Filed: 2026-11-16 AccNo: 0001104659-26-128738 Size: 13 KB
+- NEW · **SCHEDULE 13G/A - ADAR1 Capital Management, LLC (0001940272) (Filed by)**
+  - when: 2026-11-16T21:54:27-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1940272/000110465926128738/0001104659-26-128738-index.htm
+  - Filed: 2026-11-16 AccNo: 0001104659-26-128738 Size: 13 KB
+- NEW · **SCHEDULE 13G - Rainier Acquisition Corp (0002147219) (Subject)**
+  - when: 2026-11-16T21:54:18-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/2147219/000110465926128737/0001104659-26-128737-index.htm
+  - Filed: 2026-11-16 AccNo: 0001104659-26-128737 Size: 14 KB
+- NEW · **SCHEDULE 13G - ADAR1 Capital Management, LLC (0001940272) (Filed by)**
+  - when: 2026-11-16T21:54:18-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1940272/000110465926128737/0001104659-26-128737-index.htm
+  - Filed: 2026-11-16 AccNo: 0001104659-26-128737 Size: 14 KB
+- NEW · **SCHEDULE 13G/A - ADAR1 Capital Management, LLC (0001940272) (Filed by)**
+  - when: 2026-11-16T21:53:52-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1940272/000110465926128736/0001104659-26-128736-index.htm
+  - Filed: 2026-11-16 AccNo: 0001104659-26-128736 Size: 11 KB
+- NEW · **SCHEDULE 13G/A - Yarrow Bioscience, Inc. (0001566044) (Subject)**
+  - when: 2026-11-16T21:53:52-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1566044/000110465926128736/0001104659-26-128736-index.htm
+  - Filed: 2026-11-16 AccNo: 0001104659-26-128736 Size: 11 KB
 
 ## federal-register
-0 new of 20 since 2026-11-15.
+20 new of 20 since 2026-11-16.
 
-- **Privacy Act of 1974; Matching Program**
-  - when: 2026-11-16
-  - url: https://www.federalregister.gov/documents/2026/11/16/C1-2026-20951/privacy-act-of-1974-matching-program
-  - Defense Department, — Notice
-- **Presidential Determination Concerning Wildfire Suppression Activities in the United States**
-  - when: 2026-11-16
-  - url: https://www.federalregister.gov/documents/2026/11/16/2026-23349/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states
-  - Executive Office of the President — Presidential Document
-- **Veterans Day, 2026**
-  - when: 2026-11-16
-  - url: https://www.federalregister.gov/documents/2026/11/16/2026-23348/veterans-day-2026
-  - Executive Office of the President — Presidential Document
-- **Pilot for Online Version of Application for a U.S. Passport (Form DS-11)**
-  - when: 2026-11-16
-  - url: https://www.federalregister.gov/documents/2026/11/16/2026-23317/pilot-for-online-version-of-application-for-a-us-passport-form-ds-11
-  - State Department — Notice — The Department of State is announcing a pilot program to accept certain renewal and first-time passport applications online. Interested applicants will be able to visit America.gov to check their eligibility to submit a passport application through this pilot. It is anticipated that the pool of eligible applicants will be expanded as testing progresses.
-- **Safety Zone; Huron River, Huron, OH**
-  - when: 2026-11-16
-  - url: https://www.federalregister.gov/documents/2026/11/16/2026-23304/safety-zone-huron-river-huron-oh
-  - Homeland Security Department, Coast Guard — Rule — The Coast Guard is establishing a temporary safety zone for navigable waters of the Huron River within a 150-yard radius of 41[deg]23'34.6" N, 82[deg]33'07.7" W in Huron, OH. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards created by an over water fireworks show. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector Det
-- **Notice of Request for Approval of a New Information Collection; Highly Pathogenic Avian Influenza: Administration of Vaccine in Zoos**
-  - when: 2026-11-16
-  - url: https://www.federalregister.gov/documents/2026/11/16/2026-23302/notice-of-request-for-approval-of-a-new-information-collection-highly-pathogenic-avian-influenza
-  - Agriculture Department, Animal and Plant Health Inspection Service — Notice — In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request approval of a new information collection for implementation of vaccination for highly pathogenic avian influenza in zoos and animal sanctuaries.
-- **Record of Decision; Temporary Closure of East Potomac Park South of Buckeye Drive**
-  - when: 2026-11-16
-  - url: https://www.federalregister.gov/documents/2026/11/16/2026-23299/record-of-decision-temporary-closure-of-east-potomac-park-south-of-buckeye-drive
-  - Interior Department, National Park Service — Notice — The National Park Service (NPS) will temporarily close to public access and use all federal parkland administered by the National Mall and Memorial Parks within East Potomac Park south of Buckeye Drive SW, including East Potomac Golf Course.
-- **Agency Information Collection Activities; Submission for OMB Review; Comment Request; Claim Adjudication Process for the Alleged Presence of Pneumoconiosis**
-  - when: 2026-11-16
-  - url: https://www.federalregister.gov/documents/2026/11/16/2026-23298/agency-information-collection-activities-submission-for-omb-review-comment-request-claim
-  - Labor Department — Notice — The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.
-- **Agency Information Collection Activities; Submission for OMB Review; Comment Request; Application for Continuation of Death Benefit for Student**
-  - when: 2026-11-16
-  - url: https://www.federalregister.gov/documents/2026/11/16/2026-23297/agency-information-collection-activities-submission-for-omb-review-comment-request-application-for
-  - Labor Department — Notice — The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.
-- **Agency Information Collection Activities; Submission for OMB Review; Comment Request; Administration of the Longshore and Harbor Workers' Compensation Act**
-  - when: 2026-11-16
-  - url: https://www.federalregister.gov/documents/2026/11/16/2026-23296/agency-information-collection-activities-submission-for-omb-review-comment-request-administration-of
-  - Labor Department — Notice — The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.
-- **Agency Information Collection Activities; Submission for OMB Review; Comment Request; Request for Information on Earnings, Dual Benefits, Dependents, and Third Party Settlements**
-  - when: 2026-11-16
-  - url: https://www.federalregister.gov/documents/2026/11/16/2026-23295/agency-information-collection-activities-submission-for-omb-review-comment-request-request-for
-  - Labor Department — Notice — The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.
-- **Proposed Revision of Information Collection; Certification of Medical Necessity**
-  - when: 2026-11-16
-  - url: https://www.federalregister.gov/documents/2026/11/16/2026-23294/proposed-revision-of-information-collection-certification-of-medical-necessity
-  - Labor Department, Workers' Compensation Programs Office — Notice — The Department of Labor (DOL) is soliciting comments concerning a proposed extension for the authority to conduct the information collection request (ICR) titled, "Certificate of Medical Necessity". This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA).
+- NEW · **Safety Zone; Monongahela River, Pittsburgh, PA**
+  - when: 2026-11-17
+  - url: https://www.federalregister.gov/documents/2026/11/17/2026-23405/safety-zone-monongahela-river-pittsburgh-pa
+  - Homeland Security Department, Coast Guard — Rule — The Coast Guard is establishing a temporary safety zone for navigable waters on the Monongahela River from Mile Marker 15 to Mile Marker 16. This safety zone is necessary to protect personnel and vessels from potential hazards on navigable waters during an operation to install aerial transverse wirelines. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Marine Safety Unit Pittsbu
+- NEW · **Wood Mouldings and Millwork Products From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2024-2025**
+  - when: 2026-11-17
+  - url: https://www.federalregister.gov/documents/2026/11/17/2026-23402/wood-mouldings-and-millwork-products-from-the-peoples-republic-of-china-final-results-of-antidumping
+  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) determines that Fujian Hongjia Craft Products Co., Ltd. (Hongjia), and Nanping Huatai Wood & Bamboo Co., Ltd. (Nanping Huatai), exporters of wood mouldings and millwork products (millwork products) from the People's Republic of China (China), sold subject merchandise in the United States at prices below normal value during the period of review (POR) February 01, 2024, through January 31,
+- NEW · **Corrugated Die-Cut Cardboard Boxes From China, Malaysia, and Turkey; Determinations**
+  - when: 2026-11-17
+  - url: https://www.federalregister.gov/documents/2026/11/17/2026-23401/corrugated-die-cut-cardboard-boxes-from-china-malaysia-and-turkey-determinations
+  - International Trade Commission — Notice
+- NEW · **Protecting Consumers From SIM-Swap and Port-Out Fraud**
+  - when: 2026-11-17
+  - url: https://www.federalregister.gov/documents/2026/11/17/2026-23400/protecting-consumers-from-sim-swap-and-port-out-fraud
+  - Federal Communications Commission — Rule — In this document, the Wireline Competition Bureau (Bureau) announces that the Office of Management and Budget (OMB) has approved, for a period of three years, the information collection associated with the Commission's rules adopted in the SIM Swap and Port-Out Fraud Order, FCC 23-95. This document is consistent with that Order, which stated that the revised rules would not become effective until OMB completed its review of any information collection re
+- NEW · **Draft Environmental Assessment, Public Hearing, and Request for Comment on the Maximum Economic Recovery and Fair Market Value for the Falkirk Mining Company Proposed Federal Coal Lease-By-Application and Mining Plan for NDMT106782389, McLean County, ND**
+  - when: 2026-11-17
+  - url: https://www.federalregister.gov/documents/2026/11/17/2026-23399/draft-environmental-assessment-public-hearing-and-request-for-comment-on-the-maximum-economic
+  - Interior Department, Land Management Bureau — Notice — The Bureau of Land Management (BLM) and the Office of Surface Mining Reclamation and Enforcement (OSM) announce that a draft environmental assessment (EA) is available for public review for the Falkirk Mining Company's Federal coal lease-by-application (LBA) for Falkirk Mine, serial number NDMT 106782389, and mining plan for the proposed NDMT 106782389. The BLM also announces that a public hearing will be held to receive comments on the Fair
+- NEW · **Release of Waybill Data**
+  - when: 2026-11-17
+  - url: https://www.federalregister.gov/documents/2026/11/17/2026-23398/release-of-waybill-data
+  - Surface Transportation Board — Notice
+- NEW · **Modernizing to Electronic Payments**
+  - when: 2026-11-17
+  - url: https://www.federalregister.gov/documents/2026/11/17/2026-23397/modernizing-to-electronic-payments
+  - Transportation Department, Federal Aviation Administration — Proposed Rule — FAA proposes to modernize its payment systems to require electronic payments and eliminate the option to pay by paper payment methods such as cash, money orders, and paper checks. This proposal complies with Executive Order 14247 titled "Modernizing Payments To and From America's Bank Account," which seeks to increase the efficiency of the Federal Government by phasing out paper receipts and mandating electronic payment
+- NEW · **Agency Information Collection Activities; Comment Request; Federal Direct Loan Program and Federal Family Education Loan Program Teacher Loan Forgiveness Forms**
+  - when: 2026-11-17
+  - url: https://www.federalregister.gov/documents/2026/11/17/2026-23396/agency-information-collection-activities-comment-request-federal-direct-loan-program-and-federal
+  - Education Department — Notice — In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing and extension without change of a currently approved information collection request (ICR).
+- NEW · **In the Matter of TRISO-X, LLC; Confirmatory Order Modifying License**
+  - when: 2026-11-17
+  - url: https://www.federalregister.gov/documents/2026/11/17/2026-23395/in-the-matter-of-triso-x-llc-confirmatory-order-modifying-license
+  - Nuclear Regulatory Commission — Notice — The U.S. Nuclear Regulatory Commission (NRC) is issuing a Confirmatory Order to TRISO-X, LLC (the licensee), as a result of a successful Alternative Dispute Resolution (ADR) mediation. On June 9, 2026, the NRC notified the licensee of an apparent violation being considered for escalated enforcement. The apparent violation involved the implementation of management measures to ensure the design basis supporting the structural stability function of the TX-1
+- NEW · **Statement of Organization, Functions, and Delegations of Authority**
+  - when: 2026-11-17
+  - url: https://www.federalregister.gov/documents/2026/11/17/2026-23394/statement-of-organization-functions-and-delegations-of-authority
+  - Health and Human Services Department, National Institutes of Health — Notice — The National Institute of Allergy and Infectious Diseases (NIAID) of the National Institutes of Health has modified its organizational structure.
+- NEW · **Hardwood and Decorative Plywood From the People's Republic of China, Indonesia, and the Socialist Republic of Vietnam: Countervailing Duty Orders**
+  - when: 2026-11-17
+  - url: https://www.federalregister.gov/documents/2026/11/17/2026-23393/hardwood-and-decorative-plywood-from-the-peoples-republic-of-china-indonesia-and-the-socialist
+  - Commerce Department, International Trade Administration — Notice — Based on affirmative final determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC), Commerce is issuing countervailing duty (CVD) orders on hardwood and decorative plywood from the People's Republic of China (China), Indonesia, and the Socialist Republic of Vietnam (Vietnam).
+- NEW · **Chartering and Field of Membership for Federal Credit Unions; Associational Common Bonds and Client-Customer Relationships**
+  - when: 2026-11-17
+  - url: https://www.federalregister.gov/documents/2026/11/17/2026-23392/chartering-and-field-of-membership-for-federal-credit-unions-associational-common-bonds-and
+  - National Credit Union Administration — Rule — The NCUA Board (Board) is issuing a final rule to amend its criteria for determining associational common bonds. The amendments clarify that requiring members to buy a good, product, or service from a group as a condition of membership will no longer automatically bar eligibility as a recognized association. After considering public comments, the Board finalizes the proposed rule with certain modifications. The Board's revisions detail how NCUA asses
 
 ## gao
-0 new of 20 since 2026-11-15.
+7 new of 20 since 2026-11-16.
 
+- NEW · **Financial Audit: Securities and Exchange Commission’s FY 2026 and FY 2025 Financial Statements**
+  - when: Mon, 16 Nov 2026 07:11:43 -0500
+  - url: https://www.gao.gov/products/gao-27-108840
+  - pdf: https://www.gao.gov/assets/gao-27-108840.pdf
+  - What GAO Found GAO found (1) the United States Securities and Exchange Commission’s (SEC) and its Investor Protection Fund’s (IPF) financial statements as of and for the fiscal year ended September 30, 2026, and 2025, are presented fairly, in all material respects, in accordance with U.S. generally accepted accounting principles; (2) SEC maintained, in all material respects, effective internal control over financial reporting for SEC and for IPF as of September 30, 2026 and (3) no reportable no
+- NEW · **Child Care Pandemic Funds: HHS Can Help States Better Prepare for Future Emergencies and Ongoing Challenges**
+  - when: Mon, 16 Nov 2026 07:05:47 -0500
+  - url: https://www.gao.gov/products/gao-27-108090
+  - pdf: https://www.gao.gov/assets/gao-27-108090.pdf
+  - What GAO Found In GAO’s survey, states reported that useful strategies for spending Child Care and Development Fund (CCDF) pandemic funds included obtaining technical assistance from officials in the Department of Health and Human Services (HHS) and using partners such as local organizations to disburse funds. While states spent more than 99 percent of pandemic child care funds, most reported that it was challenging to do so. States reported gaps in their readiness, such as inadequate technolo
+- NEW · **Tribal Justice: Congressional Action Needed to Support Tribal Sovereignty**
+  - when: Mon, 16 Nov 2026 07:30:28 -0500
+  - url: https://www.gao.gov/products/gao-27-108087
+  - pdf: https://www.gao.gov/assets/gao-27-108087.pdf
+  - What GAO Found Tribes and the federal government generally share jurisdiction over certain crimes committed in Indian country. However, Tribes in states subject to Public Law 280 (P.L. 280) generally share criminal jurisdiction in Indian country with their respective state when a tribal citizen commits a crime or, in certain circumstances, is the victim of a crime. Percent of Federally Recognized Tribes Located in the Lower 48 States Tribes and states exercise criminal jurisdiction under P.
+- NEW · **Indian Affairs: Legal Framework for Probate and Other Factors Limit Interior’s Options to Improve Its Process**
+  - when: Mon, 16 Nov 2026 07:15:51 -0500
+  - url: https://www.gao.gov/products/gao-27-108031
+  - pdf: https://www.gao.gov/assets/gao-27-108031.pdf
+  - What GAO Found GAO’s analysis of the Department of the Interior’s probate data shows that its ongoing probate caseload grew from about 19,000 cases in October 2013, to about 55,000 cases in April 2026. This was due, in part, to an increase in case files in the case preparation phase, the first stage in the probate process after reporting a death, and a decrease in the number of probate hearings held. GAO found that 80 percent of nationwide probate cases were in the preparation phase. Interior
+- NEW · **Performance and Accountability Report: Fiscal Year 2026**
+  - when: Mon, 16 Nov 2026 09:59:06 -0500
+  - url: https://www.gao.gov/products/gao-27-900726
+  - pdf: https://www.gao.gov/assets/gao-27-900726.pdf
+  - What GAO Found GAO made significant accomplishments in FY 2026, as detailed in this Performance and Accountability Report for Fiscal Year (FY) 2026. In the spirit of the Government Performance and Results Act, this annual report informs Congress and the American people about what GAO has achieved on their behalf. This report describes GAO's performance measures, results, and accountability processes for FY 2026. In assessing its performance, GAO compared actual results against targets and goal
+- NEW · **Federal Prisons: Improved Reviews of Natural Deaths and Communications with Families Needed**
+  - when: Mon, 16 Nov 2026 07:10:50 -0500
+  - url: https://www.gao.gov/products/gao-27-108744
+  - pdf: https://www.gao.gov/assets/gao-27-108744.pdf
+  - What GAO Found The Federal Bureau of Prisons (BOP) reported that about 3,000 people died from natural causes while in its custody in fiscal years 2016 through 2025. GAO reviewed death investigation records for the natural deaths in BOP custody in fiscal year 2024. The documents showed that BOP identified health care deficiencies in 45 percent of these deaths, and that some of these deficiencies contributed to the natural deaths. BOP identified deficiencies such as delayed offsite medical appoin
+- NEW · **Traffic Control Devices Manual: Selected Practitioners Reported Never or Rarely Deviating from DOT Standards**
+  - when: Mon, 16 Nov 2026 07:20:43 -0500
+  - url: https://www.gao.gov/products/gao-27-108431
+  - pdf: https://www.gao.gov/assets/gao-27-108431.pdf
+  - What GAO Found Traffic control devices consist of signs, signals, and pavement markings that communicate messages, such as warnings and guidance, to roadway users. Uniformity in these devices promotes traffic safety and efficiency across the country by reducing confusion for road users. The Federal Highway Administration (FHWA) issues the Manual on Uniform Traffic Control Devices for Streets and Highways (the “Manual”), to establish uniform national criteria for implementing these traffic contr
 - **Military Personnel: More Complete Data Needed on Humanitarian Reassignments and Safety Transfers**
   - when: Fri, 13 Nov 2026 07:01:48 -0500
   - url: https://www.gao.gov/products/gao-27-108819
@@ -85,45 +169,15 @@ Ingest failed: This operation was aborted
   - url: https://www.gao.gov/products/gao-27-109434
   - pdf: https://www.gao.gov/assets/gao-27-109434.pdf
   - The Federal Emergency Management Agency (FEMA) preparedness grants help the nation potentially prevent acts of terrorism and other threats and prepare for events like the upcoming Summer Olympic Games in 2028. However, FEMA has not always been transparent in how it administers its grants. The Big Picture In the wake of the terrorist attacks on September 11, 2001, FEMA, within the Department of Homeland Security (DHS), implemented a suite of preparedness grants to address terrorist threats. FE
-- **K-12 Education: Data Show That Less than Half of Students Were Ready for Kindergarten in Selected States**
-  - when: Thu, 12 Nov 2026 07:18:17 -0500
-  - url: https://www.gao.gov/products/gao-27-108796
-  - pdf: https://www.gao.gov/assets/gao-27-108796.pdf
-  - What GAO Found In general, GAO’s review of 11 studies found that publicly funded preschool programs contribute to children’s readiness for kindergarten in literacy, math, or both. Specifically, 10 studies found positive associations between preschool programs and kindergarten literacy scores, and seven of the studies that assessed math scores also found positive associations with these scores. One study did not find evidence of an effect in either area. These studies also suggest that public p
-- **Housing Construction Innovations: Technologies and Policy Options to Help Increase Supply and Affordability**
-  - when: Tue, 10 Nov 2026 07:01:12 -0500
-  - url: https://www.gao.gov/products/gao-27-108037
-  - pdf: https://www.gao.gov/assets/gao-27-108037.pdf
-  - What GAO Found Numerous housing construction technologies could help improve production, reduce costs, and potentially increase supply and affordability. Some technologies are mature but not widely adopted, and others are new or emerging. These technologies can be grouped into three categories: planning and design, construction means and methods, and building materials and components. Examples are shown in the figure below. Examples of housing construction technologies Benefits of housing c
-- **Veteran Lending: Early Planning Is Critical to Assessing VA’s New Foreclosure Avoidance Program**
-  - when: Tue, 10 Nov 2026 07:06:50 -0500
-  - url: https://www.gao.gov/products/gao-27-108908
-  - pdf: https://www.gao.gov/assets/gao-27-108908.pdf
-  - What GAO Found The Department of Veterans Affairs’ (VA) Partial Claim Program is intended to help borrowers with VA-guaranteed loans avoid foreclosure. Under this new program, VA reimburses the loan servicer for a borrower’s missed payments and certain fees, allowing the borrower to become current on the loan. The borrower repays that amount—the partial claim—without interest when they sell or refinance the home, when they pay off the loan, or when the loan reaches maturity. The servicer collec
-- **IRS Taxpayer Services: Challenges in Measuring the Benefits of Customer Service Investments**
-  - when: Tue, 10 Nov 2026 07:12:56 -0500
-  - url: https://www.gao.gov/products/gao-27-108701
-  - pdf: https://www.gao.gov/assets/gao-27-108701.pdf
-  - What GAO Found The Internal Revenue Service (IRS) invests in services to help taxpayers meet their tax obligations, such as in preparing and filing tax returns. IRS provides services through its website, telephone assistance, correspondence, and in-person assistance centers. Taxpayer services offer potential benefits, such as increasing tax compliance and reducing taxpayer burden that, if measured, could help inform investment decisions (see figure). Measuring benefits is difficult because of c
-- **Grants Management: GAO's Fraud Risk Framework Could Provide Roadmap for Enhancing States' Subrecipient Oversight**
-  - when: Tue, 10 Nov 2026 06:58:11 -0500
-  - url: https://www.gao.gov/products/gao-27-108450
-  - pdf: https://www.gao.gov/assets/gao-27-108450.pdf
-  - What GAO Found Federal regulations assign most oversight responsibility for grant funds that are passed through as a subaward to prime recipients, such as states. This oversight is essential for reducing the risk of fraud and ensuring program goals are met. Nonfederal entities, such as states, that expend over $1 million in federal awards during a fiscal year are required to have a single audit. GAO reviewed a nongeneralizable random sample of single audit findings from 2020 through 2024 and i
-- **Multilateral Banks: Treasury Should Improve Consistency and Transparency of Decisions on Projects Affecting U.S. Producers**
-  - when: Tue, 10 Nov 2026 07:06:29 -0500
-  - url: https://www.gao.gov/products/gao-27-108667
-  - pdf: https://www.gao.gov/assets/gao-27-108667.pdf
-  - What GAO Found The U.S. provides funds and participates in multilateral development banks (MDBs), which support overseas projects that may compete with U.S. producers. GAO found that Treasury’s project review process has gaps in defining and applying criteria for assessing three key provisions in the statute, all of which must be met to trigger the requirement that Treasury oppose an MDB project. For example, Treasury has criteria for assessing whether a commodity or mineral is in surplus on wo
-- **401(k) Plan Investments: DOL Can Take Steps to Prepare for Expected Private Equity Growth**
-  - when: Tue, 10 Nov 2026 12:54:05 -0500
-  - url: https://www.gao.gov/products/gao-27-106779
-  - pdf: https://www.gao.gov/assets/gao-27-106779.pdf
-  - What GAO Found Private equity is one type of investment within a broad, undefined category called alternative assets. It differs from publicly traded equity in who can invest in it, how it is valued, and what disclosures are required, among other things. GAO’s review of selected research papers that analyzed private equity investment fund performance found no consensus on the performance of private equity relative to publicly traded equity, which is an important consideration when making invest
 
 ## govinfo-crpt
-0 new of 20 since 2026-11-15.
+1 new of 20 since 2026-11-16.
 
+- NEW · **H. Rept. 119-877 — NUCLEAR ADVISORY COMMITTEE REFORM ACT**
+  - when: 2026-11-05
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt877
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt877/pdf/CRPT-119hrpt877.pdf
+  - Committee on Energy and Commerce
 - **H. Rept. 119-878 — PROVIDING FOR CONSIDERATION OF THE BILL (H.R. 1013) TO AMEND THE FEDERAL SECURITIES LAWS TO ENHANCE 403(B) PLANS, AND FOR OTHER PURPOSES**
   - when: 2026-11-09
   - url: https://www.govinfo.gov/app/details/CRPT-119hrpt878
@@ -179,74 +233,88 @@ Ingest failed: This operation was aborted
   - url: https://www.govinfo.gov/app/details/CRPT-119hrpt866
   - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt866/pdf/CRPT-119hrpt866.pdf
   - Committee on Natural Resources
-- **H. Rept. 119-862 — EARTH MRI REAUTHORIZATION ACT OF 2026**
-  - when: 2026-10-29
-  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt862
-  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt862/pdf/CRPT-119hrpt862.pdf
-  - Committee on Natural Resources
 
 ## courtlistener
-2 new of 20 since 2026-11-15.
+20 new of 20 since 2026-11-16.
 
-- NEW · **Wilson v. Brent**
-  - when: 2026-11-15T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11062604/wilson-v-brent/
-  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA ALLAN DOUGLAS WILSON, Plaintiff, Civil Action No. 25-3561 (RDM) v. JOHN A. SQUIRE,1 Under Secretary of Commerce for For Intellectual Property, et al. Defendants. MEMORANDUM OPINION AND ORDER Proceeding pro se Original document
-- NEW · **Thomas M. Overton v. State of Florida & Thomas M. Overton v. Secretary, Department of Corrections**
-  - when: 2026-11-13T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11061132/thomas-m-overton-v-state-of-florida-thomas-m-overton-v-secretary/
-  - Supreme Court of Florida ____________ No. SC2026-1724 ____________ THOMAS M. OVERTON, Appellant, vs. STATE OF FLORIDA, Appellee. ____________ No. SC2026-1725 ____________ THOMAS Original document
-- **Dc Preservation League v. Department of Interior**
-  - when: 2026-11-14T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11062494/dc-preservation-league-v-department-of-interior/
-  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA DC PRESERVATION LEAGUE, et al., Plaintiffs, Case No. 1:26-cv-477-ACR v. DEPARTMENT OF INTERIOR, et al., Defendants. TEMPORARY RESTRAINING ORDER The Department of the Interior has progressed from removing Original document
-- **State of Iowa v. James Mikale Wiggins**
-  - when: 2026-11-13T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11060547/state-of-iowa-v-james-mikale-wiggins/
-  - In the Iowa Supreme Court No. 24–1691 Submitted October 2, 2026—Filed November 13, 2026 State of Iowa, Appellee, vs. James Mikale Wiggins, Appellant. On review from the Iowa Court of Appeals. Appeal from the Iowa Original document
-- **Sharpe v. Peterson**
-  - when: 2026-11-13T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11061161/sharpe-v-peterson/
-  - Sharpe v Peterson 2026 NY Slip Op 06642 November 13, 2026 Appellate Division, Fourth Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. MISCHELLE SHARPE, PLAINTIFF-RESPONDENT, v RONALD K. PETERSON, III AND HURTUBISE TIRE, INC., DEFENDANTS-APPELLANTS. Supreme Court of the State of New York, Appellate Division, Fourth Judicial Department Decided on November Original document
-- **People v. Jordan**
-  - when: 2026-11-13T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11061294/people-v-jordan/
-  - People v Jordan 2026 NY Slip Op 06639 November 13, 2026 Appellate Division, Fourth Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. THE PEOPLE OF THE STATE OF NEW YORK, RESPONDENT, v MICHAEL JORDAN, DEFENDANT-APPELLANT. Supreme Court of the State of New York, Appellate Division, Fourth Judicial Department Decided on November 13, 2026 714 KA 22-02029 Present: Original document
-- **People v. Myers**
-  - when: 2026-11-13T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11061287/people-v-myers/
-  - People v Myers 2026 NY Slip Op 06633 November 13, 2026 Appellate Division, Fourth Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. THE PEOPLE OF THE STATE OF NEW YORK, RESPONDENT, v NATHANIEL C. MYERS, DEFENDANT-APPELLANT. Supreme Court of the State of New York, Appellate Division, Fourth Judicial Department Decided on November 13, 2026 686 KA 24-00431 Original document
-- **Faerber v. United States**
-  - when: 2026-11-13T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11060599/faerber-v-united-states/
-  - Case: 25-1372 Document: 48 Page: 1 Filed: 11/13/2026 United States Court of Appeals for the Federal Circuit ______________________ PETER C. FAERBER, Plaintiff-Appellant v. UNITED STATES, Defendant-Appellee ______________________ 2025-1372 ______________________ Appeal from the United Original document
-- **Reynolds v. Quiros**
-  - when: 2026-11-13T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11060586/reynolds-v-quiros/
-  - 25-1133-pr Reynolds v. Quiros United States Court of Appeals for the Second Circuit August Term, 2025 (Argued: May 14, 2026 Decided: November 13, 2026) Docket No. 25-1133-pr _____________________________________ RICHARD REYNOLDS, Plaintiff-Appellee Original document
-- **Ortiz Phillip Samuel v. State of Florida**
-  - when: 2026-11-13T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11060491/ortiz-phillip-samuel-v-state-of-florida/
-  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2026-2319 LT Case Nos. 42-2025-CF-001429-A 42-2025-CF-003191-A _____________________________ ORTIZ PHILLIP SAMUEL, Petitioner, v. STATE OF FLORIDA, Respondent. _____________________________ Petition for Belated Appeal. A Case of Original Jurisdiction Original document
-- **Lambert v. AP Petroleum, Inc., Giant Oil, Inc.**
-  - when: 2026-11-13T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11060629/lambert-v-ap-petroleum-inc-giant-oil-inc/
-  - DISTRICT COURT OF APPEAL OF FLORIDA SECOND DISTRICT JAMES LAMBERT, Appellant, v. AP PETROLEUM, INC. and GIANT OIL, INC., Appellees. No. 2D2025-3120 November 13, 2026 Appeal from the Circuit Court for Pinellas County; Rebecca Hamilton, Judge. Brian J Original document
-- **Obu v. State Med. Bd.**
-  - when: 2026-11-13T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11061072/obu-v-state-med-bd/
-  - [Cite as Obu v. State Med. Bd., 2026-Ohio-4514.] IN THE COURT OF APPEALS OF OHIO SIXTH APPELLATE DISTRICT LUCAS COUNTY Fidelis I. Obu Court of Appeals No. {48}L-26-00037 Appellant Trial Court No. CI0202404636 v. State Medical Board of Ohio DECISION AND JUDGMENT Appellee Original document
+- NEW · **Litsky v. Dept. of Mental Health & Addiction Services**
+  - when: 2026-11-17T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11062675/litsky-v-dept-of-mental-health-addiction-services/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- NEW · **Charter Communications, LLC v. Commission on Human Rights & Opportunities**
+  - when: 2026-11-17T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11062677/charter-communications-llc-v-commission-on-human-rights-opportunities/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- NEW · **Higgins v. Commissioner of Correction**
+  - when: 2026-11-17T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11062676/higgins-v-commissioner-of-correction/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- NEW · **Prophete v. Acevedo-Smith**
+  - when: 2026-11-16T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11062706/prophete-v-acevedo-smith/
+  - 25-1907-cv Prophete v. Acevedo-Smith United States Court of Appeals for the Second Circuit August Term 2026 Submitted: November 2, 2026 Decided: November 16, 2026 No. 25-1907-cv G ERALD C. P ROPHETE , Plaintiﬀ-Appellant, v. DHS SERGEANT HAYDEE ACEVEDO-SMITH, SHIELD Original document
+- NEW · **In re M.A.**
+  - when: 2026-11-16T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11062979/in-re-ma/
+  - 2026 IL App (4th) 260811 NOS. 4-26-0811, 4-26-0813, 4-26-0814, 4-26-0817 cons. IN THE APPELLATE COURT FILED November 16, 2026 OF ILLINOIS Carla Bender Original document
+- NEW · **Arkansas Attorney General Opinion No. 2026-121**
+  - when: 2026-11-16T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11062956/arkansas-attorney-general-opinion-no-2026-121/
+  - Opinion No. 2026-121 November 16, 2026 Tracye Williams Jonesboro Police Department 1001 South Caraway Road Jonesboro, AR 72401 Dear Mr. Williams: You have requested an opinion from this Office regarding the Arkansas Freedom of Information Act (FOIA). Your request, which is made as the subject of the records, is based on A.C.A. § 25-19-105(c)(3)(B)(i). This subdivision authorizes the custodian, requester, or the subject of certain employee-related records to seek an opinion stating whether the Original document
+- NEW · **Don R. Clark, Jr. v. City of St. Louis, Missouri**
+  - when: 2026-11-16T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11062715/don-r-clark-jr-v-city-of-st-louis-missouri/
+  - United States Court of Appeals For the Eighth Circuit ___________________________ No. 26-1461 ___________________________ Don R. Clark, Jr.; Adonis H. Clark; Sherrie Clark-Torrence; Ashley Boureima Mourou; A.C., a minor, by and through her mother and next friend, Necole Fisher individually and as the surviving children of Decedent, Don Clark, Sr. Original document
+- NEW · **Bourgeois III v. State of Florida**
+  - when: 2026-11-16T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11062702/bourgeois-iii-v-state-of-florida/
+  - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2025-2692 _____________________________ JAMES IRVIN BOURGEOIS III, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Holmes County. Russell S. Roberts, Judge. November 16, 2026 PER CURIAM. AFFIRMED. ROWE, TREADWELL Original document
+- NEW · **Vincent Joseph Flores v. Katherine Leigh Flores**
+  - when: 2026-11-16T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11062708/vincent-joseph-flores-v-katherine-leigh-flores/
+  - Court of Appeals of the State of Georgia ATLANTA, November 16, 2026 The Court of Appeals hereby passes the following order A27D0267. VINCENT JOSEPH FLORES v. KATHERINE LEIGH FLORES. Upon consideration of the Application for Discretionary Appeal, it is ordered that it be hereby DENIED. LC NUMBERS: 24CV1167 Court of Appeals of the State of Georgia Original document
+- NEW · **Maxwell v. State of Florida**
+  - when: 2026-11-16T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11062699/maxwell-v-state-of-florida/
+  - FIRST DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ No. 1D2026-1041 _____________________________ DANIEL C MAXWELL, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the Circuit Court for Bay County. Brantley S. Clark, Jr., Judge. November 16, 2026 PER CURIAM. AFFIRMED. OSTERHAUS, C.J. Original document
+- NEW · **Traxcell Technologies, LLC v. Cellco Partnership**
+  - when: 2026-11-16T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11062678/traxcell-technologies-llc-v-cellco-partnership/
+  - Case: 25-1496 Document: 40 Page: 1 Filed: 11/16/2026 United States Court of Appeals for the Federal Circuit ______________________ TRAXCELL TECHNOLOGIES, LLC, Plaintiff-Appellant v. CELLCO PARTNERSHIP, DBA VERIZON WIRELESS, Defendant-Appellee ______________________ 2025-1496, 2025-1683 ______________________ Appeals Original document
+- NEW · **Higher Ground Empowerment Center Church Inc v. Ron Lipsitz as Trustee for Realty Resources Corporation Profit Sharing Plan**
+  - when: 2026-11-16T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11062721/higher-ground-empowerment-center-church-inc-v-ron-lipsitz-as-trustee-for/
+  - Court of Appeals of the State of Georgia ATLANTA,____________________ November 16, 2026 The Court of Appeals hereby passes the following order: A27D0280. HIGHER GROUND EMPOWERMENT CENTER CHURCH INC v. RON LIPSITZ AS TRUSTEE FOR REALTY RESOURCES CORPORATION PROFIT SHARING PLAN et al. In this dispossessory proceeding, following a ruling in magistrate court, Higher Ground Empowerment Center Church Original document
 
 ## uk-legislation
-3 new of 20 since 2026-11-15.
+5 new of 20 since 2026-11-16.
 
-- NEW · **The Network Rail (Tackley Level Crossing) Order 2026**
+- NEW · **The Human Rights Act 1998 (Remedial) Order 2026**
+  - when: 2026-11-17T03:07:00Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1205
+- NEW · **The Electrical Safety Standards in the Private Rented Sector and Social Rented Sector (England) (Amendment) Regulations 2026**
+  - when: 2026-11-17T03:06:52Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1196
+  - These Regulations amend the Electrical Safety Standards in the Private Rented Sector and Social Rented Sector (England) Regulations 2020 (S.I. 2020/312) (“the Principal Regulations”).
+- NEW · **The Hazards in Social Housing (Prescribed Requirements) (England) (Amendment) Regulations 2026**
+  - when: 2026-11-17T03:06:41Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1195
+  - These Regulations amend the Hazards in Social Housing (Prescribed Requirements) (England) Regulations 2025 (S.I. 2025/1042) (“the 2025 Regulations”), also known as “Awaab’s Law”, which prescribe requirements with which a landlord of social housing is required to comply by virtue of the covenant implied by section 10A(2) of the Landlord and Tenant Act 1985 (c. 70).
+- NEW · **The Border Security, Asylum and Immigration Act 2025 (Specified Purposes Related to Policing) Regulations 2026**
+  - when: 2026-11-17T03:06:40Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1194
+  - These Regulations specify purposes related to policing for the purposes of sections 30 to 34 of the Border Security, Asylum and Immigration Act 2025 (c. 31) (“the 2025 Act”).
+- NEW · **The Statement of Trade Union Rights Regulations 2026**
+  - when: 2026-11-16T14:09:51Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1193
+  - These Regulations make provision about the written statement which an employer is required to give to a worker under section 136A of the Trade Union and Labour Relations (Consolidation) Act 1992 (“the 1992 Act”). Section 136A was inserted into the 1992 Act by section 58 of the Employment Rights Act 2025 (“the 2025 Act”).
+- **The Network Rail (Tackley Level Crossing) Order 2026**
   - when: 2026-11-16T03:01:01Z
   - url: http://www.legislation.gov.uk/id/uksi/2026/1189
-- NEW · **The Parking Places (Disabled Persons’ Vehicles) (Amendment No. 5) Order (Northern Ireland) 2026**
+- **The Parking Places (Disabled Persons’ Vehicles) (Amendment No. 5) Order (Northern Ireland) 2026**
   - when: 2026-11-16T03:00:40.402531Z
   - url: http://www.legislation.gov.uk/id/nisr/2026/189
-- NEW · **The Air Navigation (Restriction of Flying) (Preston, Lancashire) Regulations 2026**
+- **The Air Navigation (Restriction of Flying) (Preston, Lancashire) Regulations 2026**
   - when: 2026-11-16T03:00:39.198238Z
   - url: http://www.legislation.gov.uk/id/uksi/2026/1173
 - **The Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) (Amendment and Transitional Provision) Regulations 2026**
@@ -263,23 +331,3 @@ Ingest failed: This operation was aborted
 - **The Mental Health (Care and Treatment) (Scotland) Act 2003 Remedial Order 2026**
   - when: 2026-11-13T11:31:27Z
   - url: http://www.legislation.gov.uk/id/ssi/2026/341
-- **The Scotland Act 1998 (Agency Arrangements) (Specification) (Digital Waste Tracking) Order 2026**
-  - when: 2026-11-13T10:55:43Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1188
-  - This Order paves the way for the Scottish Ministers and a Minister of the Crown to enter into agency arrangements, under which a Minister of the Crown can exercise certain functions of the designated person acting under, or in accordance with, any regulations made under section 34CA of the Environmental Protection Act 1990. Any such arrangements would be agreed between Ministers of the Crown and the Scottish Ministers.
-- **The Secretaries of State for Business, Innovation, Science and Trade and for Digital, Culture, Media and Sport and the Chancellor of the Duchy of Lancaster Order 2026**
-  - when: 2026-11-12T17:16:07Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1147
-  - This Order in Council is made under sections 1 and 2 of the Ministers of the Crown Act 1975 (c. 26).
-- **The Collective Investment Schemes (Amendment etc.) (EU Exit) (Amendment) Regulations 2026**
-  - when: 2026-11-12T17:14:11Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1183
-  - These Regulations make an amendment to the Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325) (“CIS Regulations”), regarding temporary recognition for the purposes of Part 17 of the Financial Services and Markets Act 2000 (c. 8).
-- **The Building Insurance Information (England) Regulations 2026**
-  - when: 2026-11-12T15:03:44Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1181
-  - These Regulations make provision regarding information about insurance that a landlord must give to a tenant where a service charge includes an amount payable for that insurance. They concern leases of dwellings in England.
-- **The Feed-in Tariffs (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Order 2026**
-  - when: 2026-11-12T14:58:52Z
-  - url: http://www.legislation.gov.uk/id/uksi/2026/1182
-  - This Order is made in exercise of the powers in sections 43(3)(a) and 104(2) of the Energy Act 2008 (c. 32). It amends the Feed-in Tariffs Order 2012 (S.I. 2012/2782) to make amendments as to how annual levelisation payments are calculated under article 27 of that Order. In particular, this Order introduces an exemption from that calculation for electricity supplied to customers operating in certain manufacturing sectors, under the British Industrial Competitiveness Scheme.

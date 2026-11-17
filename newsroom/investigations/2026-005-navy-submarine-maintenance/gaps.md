@@ -26,3 +26,7 @@ The comparison was completed: CRS's 16 of 47 boats and CBO's rounded 33% of 48 b
 **Park after a new primary retrieval.** The Navy's October 29, 2026 article reports that USS Washington undocked on schedule on October 27 and entered operational testing after scheduled maintenance and modernization. That is useful execution evidence for one boat, but it does not report the fleet-wide SSN maintenance-or-awaiting-maintenance count, a stable denominator, total delay, or the 20-percent benchmark. The same-object test against the CRS/CBO fleet snapshots therefore still fails.
 
 Reopen only when a Navy or NAVSEA record supplies the missing dated fleet-level measure. Do not turn a ship-specific milestone into a fleet trend.
+
+## 2026-11-17 decision
+
+**Remain parked.** The weekly reopen check found no new Navy or NAVSEA fleet-level execution count or stable denominator in the November 17 horizon. The official FY2026 Navy budget-estimates URL returned a rejection stub on direct retrieval, and the NAVSEA SUBMEPP page describes maintenance planning without reporting a comparable fleet measure. Search-result text was not promoted to evidence. Reopen only when the required fleet-level record is publicly retrievable.

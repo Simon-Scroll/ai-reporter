@@ -19,12 +19,12 @@
     "2026-027-sba-recovery-gap"
   ],
   "series": [],
-  "last_run": "2026-11-16",
+  "last_run": "2026-11-17",
   "last_mode": "SCAN",
-  "last_horizon": "2026-11-16",
+  "last_horizon": "2026-11-17",
   "last_published_at": "2026-11-14",
-  "last_journal": "newsroom/journal/2026-11-16.md",
-  "next_action": "Check for a new state- or Tribal-level coal workload, award, obligation, or outcome record without repeating the six OSMRE tables; if none appears, run the 2026-005 Navy submarine reopen check for a dated fleet-level maintenance-or-awaiting-maintenance count or stable denominator.",
-  "handoff": "On November 16, the desk ran a SCAN cycle with no active investigation. The strongest parked IGSA reopen check searched official Army channels but found no agreement-level approval, cost-benefit, payment, reconciliation, or statutory-certification record, so 2026-010 remains parked. The BLM critical-minerals watch found a material layer revision through November 13, but its published schema still omits citizenship and parent ownership; the article remains unchanged. The next promising parked check is the Navy submarine thread if the horizon still lacks a new coal execution record.",
+  "last_journal": "newsroom/journal/2026-11-17.md",
+  "next_action": "Check for a new state- or Tribal-level coal execution record or another parked thread's named primary signal; do not repeat the reviewed Navy, NIH, or OSMRE sources without a new record.",
+  "handoff": "On November 17, the desk ran a SCAN cycle with no active investigation. The proposed Falkirk coal lease did not test the published grant comparison, and the weekly Navy submarine check found no publicly retrievable fleet-level maintenance measure; the thread remains parked. The due NIH watch found no new crosswalk or historical series, and a probate lead was rejected as a recap of GAO's own budget-and-caseload finding.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-18. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Publisher 2026-11-09: Phase 2 — measured discrepancies first, record-gap pieces capped, held drafts are not work (overrides/2026-11-09-phase-2.md). Absence of KILL/HOLD does not mean publish a recap."
 }

@@ -1,0 +1,64 @@
+date: 2026-11-17
+mode: SCAN
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm ci completed successfully
+desk_status:
+  ran: true
+  result: no active investigations, nine parked investigations, and the November 14 coal-grant publication before today's run
+ingest:
+  ran: true
+  result: refreshed the November 17 primary-document horizon
+  horizon: newsroom/horizon/2026-11-17/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - govinfo-crpt
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: none
+    decision: no_open_threads
+    reason: no active investigation ids were present at the start of the run
+  - id: 2026-005-navy-submarine-maintenance
+    decision: remain_parked
+    reason: no retrievable dated Navy or NAVSEA fleet-level maintenance count or stable denominator
+  - id: 2026-024-nih-foreign-interference-data-continuity
+    decision: remain_published
+    reason: the current NIH notices index exposed no new crosswalk, case-level record, methodology note, or historical series
+  - id: 2026-028-coal-reclamation-grant-gap
+    decision: remain_published
+    reason: the new Falkirk notice is a proposed lease proceeding, not a grant execution record
+  - id: parked-board
+    decision: remain_parked
+    reason: no other parked investigation received its named reopen record
+investigations:
+  - 2026-005-navy-submarine-maintenance
+  - 2026-024-nih-foreign-interference-data-continuity
+  - 2026-028-coal-reclamation-grant-gap
+research:
+  primary_documents:
+    - newsroom/horizon/2026-11-17/BRIEF.md
+    - https://www.federalregister.gov/api/v1/documents/2026-23399.json
+    - https://www.gao.gov/assets/gao-27-108031.pdf
+    - https://www.bia.gov/sites/default/files/media_document/ia_budget_update_fy25-28_tibc_spring_2026.pdf
+    - https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/OMN_Vol2_Book.pdf
+    - https://www.navsea.navy.mil/Home/SUBMEPP/
+    - https://grants.nih.gov/policy-and-compliance/policy-topics/foreign-interference/notices-statements-reports
+  result: completed the weekly Navy parked-thread check and due NIH published-watch check; rejected a recap lead; no new investigation, series part, or article
+publication:
+  published: false
+  files: []
+  reason: no new measured same-object comparison or series-moving outcome; the previous article is inside the six-day cadence
+validation:
+  run: false
+  reason: no article was published or changed
+journal:
+  - newsroom/journal/2026-11-17.md
+desk_notes:
+  - newsroom/desk/2026-11-17-r1.md
+no_binaries_committed: true
