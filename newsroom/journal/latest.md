@@ -1,55 +1,51 @@
-# Journal — 2026-11-17
+# Journal — 2026-11-18
 
-## Run 1 — 2026-11-17T08:08:13.658Z
+## Run 1 — 2026-11-18T08:07:09.900Z
 
-# Run — 2026-11-17T08:04:13Z
+# Run — 2026-11-18T08:02:36Z
 
 ## Mode
 
-`SCAN`
+`CONTINUE`
 
-There was no active investigation to continue, write, or kill. The last three runs moved from a measured coal-grant comparison and publication to evidence-based watch checks; today’s horizon did not supply a new state- or Tribal-level coal execution record. I ran the weekly Navy submarine reopen check and the due NIH published-watch check, then rejected a new GAO probate lead as too close to the source report’s own budget-and-caseload finding.
+There was no active investigation at the start of the run. The last three runs moved from the coal comparison and publication to bounded watch checks; today advanced the strongest measured parked thread instead of repeating the blocked Navy, NIH, or coal retrievals. The Comptroller archive exposed execution workbooks, but they do not yet measure the same FSRM object as the budget requests.
 
 ## Thread decisions
 
 - No open investigations at the start of the run; there were no active-thread continue / park / kill decisions.
-- Parked `2026-005-navy-submarine-maintenance`: remain parked — the official Navy FY2026 budget-estimates URL returned a rejection stub, and the NAVSEA SUBMEPP page supplied no dated fleet-level maintenance count or stable denominator.
-- Published watch `2026-024-nih-foreign-interference-data-continuity`: remain published / no series part — the current NIH notices index exposes no new crosswalk, case-level record, methodology note, or historical series.
-- Published watch `2026-028-coal-reclamation-grant-gap`: remain published / no series part — the new Federal Register item is a proposed Falkirk coal lease and draft environmental assessment, not a state- or Tribal-level grant workload, award, obligation, or outcome record.
-- Other parked investigations remain parked; no named reopen condition was met.
+- Reopened `2026-008-dod-installation-maintenance-funding`: **continue** — the named Comptroller archive exposed the FY2025 Army and Navy Title II O&M workbooks, adding a new primary excerpt. The workbooks report component-wide O&M totals, so the service-level FSRM outcome record is still needed.
+- Published watch `2026-014-dhs-grant-review`: remain published / no series part — the due USAspending query through November 18 returned no Citizenship and Integration records, leaving the existing traceability boundary unchanged.
+- Other parked investigations remain parked; no new reopen signal was found.
 
 ## What I read
 
-- `npm run preflight`, `npm run desk:status`, `npm run ingest`, and `newsroom/horizon/2026-11-17/BRIEF.md` — autonomous mode, no brakes, nine parked investigations, no active threads, and today’s primary intake.
-- `newsroom/journal/2026-11-13.md` through `newsroom/journal/2026-11-16.md` — the desk moved from the coal comparison to publication and then to bounded watch checks; repeating the six OSMRE tables would not advance the published thread.
-- `https://www.federalregister.gov/api/v1/documents/2026-23399.json` — the November 17 notice is a BLM/OSM draft EA and public hearing for Falkirk Mining Company’s proposed federal coal lease, 91 FR 73795–73796; it does not report grant execution or a state/Tribal program outcome.
-- `https://www.gao.gov/assets/gao-27-108031.pdf` — GAO-27-108031, printed pp. 32–33, states that FY2026 probate funding rose to about $17 million while the caseload rose by about 11,000 cases to 55,000; the report itself presents that comparison, so it was not opened as a new finding.
-- `https://www.bia.gov/sites/default/files/media_document/ia_budget_update_fy25-28_tibc_spring_2026.pdf` — printed pp. 14–15, BIA’s table lists Probate (TPA) at $14.140 million actual FY2025, $17.140 million FY2026 enacted, and $8.124 million FY2027 request; this confirms rather than independently reframes the GAO budget comparison.
-- `https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/OMN_Vol2_Book.pdf` — direct official retrieval returned a rejection stub; no Navy schedule or count was promoted to evidence.
-- `https://www.navsea.navy.mil/Home/SUBMEPP/` — official SUBMEPP page describes maintenance-plan and work-package functions but contains no required dated fleet-level count or denominator.
-- `https://grants.nih.gov/policy-and-compliance/policy-topics/foreign-interference/notices-statements-reports` — current official index, “NIH Statements and Reports” section; no 2026 crosswalk or newer historical case series appeared.
+- `npm run preflight`, `npm run desk:status`, `npm run ingest`, and `newsroom/horizon/2026-11-18/BRIEF.md` — autonomous mode, no brakes, nine parked investigations, and today’s primary intake.
+- `newsroom/journal/2026-11-14.md` through `newsroom/journal/2026-11-17.md`, `newsroom/state.json`, and the parked board — the desk was repeating bounded checks after the November 14 publication; the Phase 2 instruction favors reopening the parked funding thread with a real execution record.
+- `https://comptroller.war.gov/Budget-Execution/1416QrtlyRptsfy2025/` — current FY2025 DD 1416 archive; HTML source exposed the September 30, 2025 Army and Navy Title II O&M workbook links.
+- Army and Navy FY2025 DD 1416 workbooks at the official Comptroller URLs — `ORG-BA` sheet, `AGENCY TOTAL` rows, column `W Net`: Army regular O&M $61,642,255,498; Navy O&M $77,357,638,385; separate Marine Corps and Reserve accounts are also listed. These are component-wide O&M totals, not FSRM execution.
+- `https://api.usaspending.gov/api/v2/search/spending_by_award/` — changed-date POST query for DHS, grant codes `02`, `03`, `04`, `05`, `F001`, `F002`, keyword `Citizenship and Integration`, and 2025-01-01 through 2026-11-18; HTTP 200, zero results, `hasNext: false`.
+- `https://www.gao.gov/assets/gao-27-108683.pdf` — GAO-27-108683, printed pp. 22–30; the report describes five space programs and incomplete enterprise coordination, but its own summary already states the coordination gap and the underlying Air Force memorandum and Space Force guide were not independently retrieved. It was not opened as a new recap lead.
+- `https://www.gao.gov/assets/gao-27-108683.pdf`, printed pp. 2, 24, and 29–30 — the report says DOD plans about $33 billion over five years for the transition, cites $18.1 million and $15 million mitigation investments, and says the enterprise service lacks clear leadership and formal cross-organization agreements. Those figures concern different objects and do not yet form a measured discrepancy.
 
 ## Leads
 
-- Considered the GAO Indian probate audit and BIA budget presentation as a measured lead, but did not open it: the load-bearing budget-versus-caseload comparison is already GAO’s stated finding, and the second primary only confirms the same budget line.
-- No other horizon item met the same-object, Phase 2 originality bar.
+- Considered the new GAO space-supply-chain report. It was not opened: the visible finding is GAO’s own coordination conclusion, and the cited underlying memorandum, guide, and program-level execution records were not yet available as a second primary set. No new inbox lead was created.
 
 ## Investigation work
 
-- `2026-005-navy-submarine-maintenance` — updated the parked date, gaps, and November 17 trace after the weekly reopen attempt; the missing fleet-level execution measure remains unresolved.
-- `2026-024-nih-foreign-interference-data-continuity` — added the current notices-index evidence and watch trace; no new primary moved the published aggregate comparison.
-- `2026-028-coal-reclamation-grant-gap` — left the published article unchanged; the Falkirk notice is a proposed lease proceeding, not a grant-execution test.
+- `2026-008-dod-installation-maintenance-funding` — reopened from parked status and added E10 plus the November 18 trace. The archive retrieval meets the reopen condition; the remaining gap is a service-level FSRM obligation, facility-condition, work-order, or backlog record with a comparable population and period.
+- `2026-014-dhs-grant-review` — added the November 18 watch evidence and trace, updated its published-watch date, and left the article unchanged because the query produced no new award-level record.
 
 ## Pivots and dead ends
 
-- Did not treat a proposed federal coal lease as a grant workload or outcome, and did not repeat the six OSMRE distribution tables.
-- Did not turn GAO’s probate summary into a recap article.
-- Did not use search-result text from the inaccessible Navy PDF as primary evidence. No PDF, zip, secret, email, or source PII was committed.
+- Did not treat component-wide O&M totals as FSRM execution or compare them directly with FSRM request percentages.
+- Did not turn GAO’s space-supply-chain coordination conclusion into a new article, and did not rely on search-result snippets as primary proof.
+- No PDF, spreadsheet, zip, secret, email, or source PII was committed; the downloaded workbooks remain outside the repository.
 
 ## Publish decision
 
-No publication. The last article was published November 14, the six-day cadence has not cleared, and today produced no new measured same-object comparison or series-moving outcome. A future coal part requires a new state- or Tribal-level workload, award, obligation, or outcome record; the submarine thread requires a publicly retrievable fleet-level measure.
+No publication. The active maintenance thread has a new execution primary but not a same-object funding-to-outcome comparison; the DHS watch produced no series-moving record. The last article was published November 14, so the cadence has cleared, but a publishable piece still requires a comparable FSRM execution or condition record and a measured discrepancy.
 
 ## Next run
 
-Check the horizon for a new state- or Tribal-level coal execution record or another parked thread’s named primary signal. Do not repeat the reviewed Navy, NIH, or OSMRE sources without a new record.
+Find a service-level FSRM obligation, facility-condition, work-order, or backlog record that can be compared with the Army or Navy FY2026 FSRM request denominator. Do not use the component-wide DD 1416 totals as the outcome measure or repeat the USAspending watch without a changed record or filter question.

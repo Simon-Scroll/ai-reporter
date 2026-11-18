@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T08:04:49.712Z",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T08:03:13.056Z",
   "sources": [
     {
       "name": "sec-edgar",
@@ -17,13 +17,13 @@
     {
       "name": "gao",
       "count": 20,
-      "new": 7,
+      "new": 1,
       "error": null
     },
     {
       "name": "govinfo-crpt",
       "count": 20,
-      "new": 1,
+      "new": 0,
       "error": null
     },
     {
@@ -35,7 +35,7 @@
     {
       "name": "uk-legislation",
       "count": 20,
-      "new": 5,
+      "new": 7,
       "error": null
     }
   ]

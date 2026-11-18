@@ -74,3 +74,7 @@
 - Locator: official “1416 Quarterly Reports — FY2025” page, “1416 Quarterly Report — September 30, 2025,” Title II O&M list.
 - Captured excerpt: The Comptroller archive lists Army and Navy FY2025 DD 1416 Title II O&M annual reports and states that the documents are in Excel format.
 - Boundary: The archive establishes a public execution-report path, but the workbook hrefs were not exposed in the returned document view and the original comptroller.gov page was access-denied. No execution amount or FSRM work-order result is inferred from the index alone. The next retrieval must obtain and read the Army or Navy workbook itself.
+
+## E10 — FY2025 DD 1416 Title II O&M execution workbooks
+
+- `evidence/2026-11-18-dd1416-execution-workbooks.md` — the official Comptroller archive exposed retrievable Army and Navy workbooks. The Army `ORG-BA` sheet reports a $61,642,255,498 net FY2025 O&M total; the Navy workbook reports a $77,357,638,385 net Operation and Maintenance, Navy total. These are component-wide O&M totals, not FSRM execution or backlog outcomes.

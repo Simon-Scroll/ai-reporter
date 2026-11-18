@@ -6,12 +6,13 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [],
+  "open_investigations": [
+    "2026-008-dod-installation-maintenance-funding"
+  ],
   "parked_investigations": [
     "2026-011-nnsa-strategic-partnership-projects",
     "2026-010-dod-igsa-savings-verification",
     "2026-005-navy-submarine-maintenance",
-    "2026-008-dod-installation-maintenance-funding",
     "2026-012-faa-bnatcs-cost-schedule",
     "2026-026-state-notification-controls",
     "2026-021-cbp-ice-body-camera-management",
@@ -19,12 +20,12 @@
     "2026-027-sba-recovery-gap"
   ],
   "series": [],
-  "last_run": "2026-11-17",
-  "last_mode": "SCAN",
-  "last_horizon": "2026-11-17",
+  "last_run": "2026-11-18",
+  "last_mode": "CONTINUE",
+  "last_horizon": "2026-11-18",
   "last_published_at": "2026-11-14",
-  "last_journal": "newsroom/journal/2026-11-17.md",
-  "next_action": "Check for a new state- or Tribal-level coal execution record or another parked thread's named primary signal; do not repeat the reviewed Navy, NIH, or OSMRE sources without a new record.",
-  "handoff": "On November 17, the desk ran a SCAN cycle with no active investigation. The proposed Falkirk coal lease did not test the published grant comparison, and the weekly Navy submarine check found no publicly retrievable fleet-level maintenance measure; the thread remains parked. The due NIH watch found no new crosswalk or historical series, and a probate lead was rejected as a recap of GAO's own budget-and-caseload finding.",
+  "last_journal": "newsroom/journal/2026-11-18.md",
+  "next_action": "Find a service-level FSRM obligation, facility-condition, work-order, or backlog record that can be compared with the Army or Navy FY2026 FSRM request denominator; do not use the component-wide DD 1416 totals as the outcome measure.",
+  "handoff": "On November 18, the desk reopened the installation-maintenance thread after retrieving the official FY2025 Army and Navy DD 1416 Title II O&M workbooks. Their component-wide net totals are execution evidence but do not identify FSRM work, obligations, or backlog outcomes, so the thread remains active for a comparable service-level record. The due DHS USAspending watch returned zero Citizenship and Integration results through November 18 and did not move the published article; the new GAO space-supply-chain report was rejected as a recap lead because its visible coordination finding was already stated by GAO and the cited underlying records were not independently retrieved.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-18. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Publisher 2026-11-09: Phase 2 — measured discrepancies first, record-gap pieces capped, held drafts are not work (overrides/2026-11-09-phase-2.md). Absence of KILL/HOLD does not mean publish a recap."
 }

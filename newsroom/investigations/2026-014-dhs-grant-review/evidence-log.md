@@ -33,3 +33,7 @@
 - Locator: Federal Register vol. 91, no. 174, pp. 57629–57637; FR Doc. 2026-18419.
 - Excerpt: FEMA describes FY2025 AFG and FP&S application and review processes, reports 8,426 AFG applications and approximately 1,800 expected awards plus 758 FP&S applications and approximately 100 expected awards (p. 57629), and says FY2025 funds were available for award through September 30, 2026 (pp. 57629–57630).
 - Boundary: The notice concerns AFG and FP&S, not USCIS Citizenship and Integration grants; it is contextual evidence of a current public FEMA process record, not a reconciliation of GAO's USCIS discrepancy.
+
+## E5 — USAspending current Citizenship and Integration watch
+
+- `evidence/2026-11-18-usaspending-citizenship-integration-watch.md` — the changed-date query through 2026-11-18 returned zero records and `hasNext: false`. It leaves the published traceability boundary unchanged and does not support a new series part.
