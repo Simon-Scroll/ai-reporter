@@ -1,0 +1,50 @@
+date: 2026-11-19
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm ci completed successfully
+desk_status:
+  ran: true
+  result: one active investigation, eight parked investigations, and the November 14 coal-grant publication before today's run
+ingest:
+  ran: true
+  result: refreshed the November 19 primary-document horizon
+  horizon: newsroom/horizon/2026-11-19/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - govinfo-crpt
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-008-dod-installation-maintenance-funding
+    decision: continue
+    reason: new official barracks-condition and Army FY2025 budget records advanced the comparison, but a defined service-level execution or condition record is still needed
+  - id: parked-board
+    decision: remain_parked
+    reason: no named reopen record appeared in the November 19 horizon
+investigations:
+  - 2026-008-dod-installation-maintenance-funding
+research:
+  primary_documents:
+    - newsroom/horizon/2026-11-19/BRIEF.md
+    - https://www.gao.gov/assets/gao-23-105797.pdf
+    - https://www.asafm.army.mil/Portals/72/Documents/BudgetMaterial/2025/Base%20Budget/Operation%20and%20Maintenance/Regular%20Army%20Operation%20and%20Maintenance%20Volume%201.pdf
+    - existing evidence E4, Army FY2026 O&M justification
+  result: added a non-generalizable barracks-condition record and an Army FY2025 request denominator; no same-object service-wide funding-to-outcome comparison was established
+publication:
+  published: false
+  files: []
+  reason: the new records do not join FSRM request percentages to service-wide obligations, completed work, or condition change
+validation:
+  run: false
+  reason: no article was published or changed
+journal:
+  - newsroom/journal/2026-11-19.md
+desk_notes:
+  - newsroom/desk/2026-11-19-r1.md
+no_binaries_committed: true

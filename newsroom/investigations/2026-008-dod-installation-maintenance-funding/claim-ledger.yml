@@ -70,3 +70,23 @@ claims:
     status: provisional
     evidence:
       - E8
+  - id: C12
+    type: fact
+    text: "GAO observed barracks at seven of 10 visited installations that appeared to require significant improvement despite condition scores above 80; one barracks described as uninhabitable had a documented score above 90 and about $5 million in repairs."
+    status: supported
+    evidence:
+      - E11
+  - id: C13
+    type: fact
+    text: "The Army FY2025 O&M justification says facility sustainment was maintained at 88 percent of the DOD Facility Sustainment Model and that the budget invested in Army barracks."
+    status: supported
+    evidence:
+      - E12
+  - id: C14
+    type: inference
+    text: "The Army's FY2025 and FY2026 sustainment percentages and its barracks investment language still do not establish that request percentages measure completed work or reliable changes in barracks condition."
+    status: provisional
+    evidence:
+      - E4
+      - E12
+      - E11

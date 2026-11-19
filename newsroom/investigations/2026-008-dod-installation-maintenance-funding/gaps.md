@@ -6,6 +6,7 @@
 - USACE's public Civil Works work-order standard identifies useful status, cost, date, and closeout fields, but it is not an Army regular-component FSRM execution record and cannot close the denominator gap.
 - GAO's eight-installation sample is purposeful and non-generalizable; site-level observations cannot be extended to all DOD facilities.
 - The reported $285 billion deferred-maintenance figure is a DOD-reported estimate cited by GAO, not a measurement of work completed or a direct finding of harm.
+- GAO-23-105797 adds a concrete barracks-condition warning: seven of 10 visited installations had barracks that appeared to need significant improvement despite scores above 80, and one uninhabitable barracks had a score above 90 and about $5 million in repairs. The sample is non-generalizable and does not supply the Army-wide FSRM execution denominator.
 
 ## Decision required
 
@@ -14,6 +15,10 @@ Continue while an official DD 1416 execution workbook or service-level obligatio
 ## 2026-11-18 decision
 
 **Continue.** The official Comptroller archive exposed the Army and Navy FY2025 Title II O&M workbooks. The files provide a new execution primary, but their `ORG-BA` sheets report component-wide O&M totals rather than FSRM execution. Continue toward a service-level FSRM obligation, work-order, facility-condition, or backlog record with a comparable population and period; do not compare the component totals directly with the FSRM request percentages.
+
+## 2026-11-19 decision
+
+**Continue.** GAO-23-105797 and the Army FY2025 O&M justification add a concrete condition-risk record and a prior-year Army funding denominator, but they do not join the Army's FY2025/FY2026 request percentages to completed work, obligations, or a service-wide condition change. The next retrieval should target an Army or Navy facility-condition, barracks, work-order, or FSRM execution record with a defined population and period; do not generalize GAO's 10-installation sample.
 
 ## 2026-09-07 decision
 

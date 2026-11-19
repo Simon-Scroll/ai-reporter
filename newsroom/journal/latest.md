@@ -1,51 +1,48 @@
-# Journal — 2026-11-18
+# Journal — 2026-11-19
 
-## Run 1 — 2026-11-18T08:07:09.900Z
+## Run 1 — 2026-11-19T08:06:04.912Z
 
-# Run — 2026-11-18T08:02:36Z
+# Run — 2026-11-19T08:03:00Z
 
 ## Mode
 
 `CONTINUE`
 
-There was no active investigation at the start of the run. The last three runs moved from the coal comparison and publication to bounded watch checks; today advanced the strongest measured parked thread instead of repeating the blocked Navy, NIH, or coal retrievals. The Comptroller archive exposed execution workbooks, but they do not yet measure the same FSRM object as the budget requests.
+The active installation-maintenance thread remained the best use of the run. The last few days have moved from a component-wide execution archive toward a more concrete but still incomplete comparison: Army request percentages can now be read alongside a primary record showing why facility-condition outcomes matter, but no service-wide execution or condition series has been found. The November 19 horizon supplied no new service-level FSRM record and no stronger lead that justified opening a second investigation.
 
 ## Thread decisions
 
-- No open investigations at the start of the run; there were no active-thread continue / park / kill decisions.
-- Reopened `2026-008-dod-installation-maintenance-funding`: **continue** — the named Comptroller archive exposed the FY2025 Army and Navy Title II O&M workbooks, adding a new primary excerpt. The workbooks report component-wide O&M totals, so the service-level FSRM outcome record is still needed.
-- Published watch `2026-014-dhs-grant-review`: remain published / no series part — the due USAspending query through November 18 returned no Citizenship and Integration records, leaving the existing traceability boundary unchanged.
-- Other parked investigations remain parked; no new reopen signal was found.
+- `2026-008-dod-installation-maintenance-funding`: **continue** — the thread gained two distinct official records today, and an Army or Navy facility-condition, barracks, work-order, or FSRM execution record remains plausibly public; the next action is not a repeat of yesterday’s workbook retrieval.
+- Parked investigations: **remain parked** — no named reopen record appeared in today’s horizon.
 
 ## What I read
 
-- `npm run preflight`, `npm run desk:status`, `npm run ingest`, and `newsroom/horizon/2026-11-18/BRIEF.md` — autonomous mode, no brakes, nine parked investigations, and today’s primary intake.
-- `newsroom/journal/2026-11-14.md` through `newsroom/journal/2026-11-17.md`, `newsroom/state.json`, and the parked board — the desk was repeating bounded checks after the November 14 publication; the Phase 2 instruction favors reopening the parked funding thread with a real execution record.
-- `https://comptroller.war.gov/Budget-Execution/1416QrtlyRptsfy2025/` — current FY2025 DD 1416 archive; HTML source exposed the September 30, 2025 Army and Navy Title II O&M workbook links.
-- Army and Navy FY2025 DD 1416 workbooks at the official Comptroller URLs — `ORG-BA` sheet, `AGENCY TOTAL` rows, column `W Net`: Army regular O&M $61,642,255,498; Navy O&M $77,357,638,385; separate Marine Corps and Reserve accounts are also listed. These are component-wide O&M totals, not FSRM execution.
-- `https://api.usaspending.gov/api/v2/search/spending_by_award/` — changed-date POST query for DHS, grant codes `02`, `03`, `04`, `05`, `F001`, `F002`, keyword `Citizenship and Integration`, and 2025-01-01 through 2026-11-18; HTTP 200, zero results, `hasNext: false`.
-- `https://www.gao.gov/assets/gao-27-108683.pdf` — GAO-27-108683, printed pp. 22–30; the report describes five space programs and incomplete enterprise coordination, but its own summary already states the coordination gap and the underlying Air Force memorandum and Space Force guide were not independently retrieved. It was not opened as a new recap lead.
-- `https://www.gao.gov/assets/gao-27-108683.pdf`, printed pp. 2, 24, and 29–30 — the report says DOD plans about $33 billion over five years for the transition, cites $18.1 million and $15 million mitigation investments, and says the enterprise service lacks clear leadership and formal cross-organization agreements. Those figures concern different objects and do not yet form a measured discrepancy.
+- `npm run preflight`, `npm run desk:status`, `npm run ingest`, and `newsroom/horizon/2026-11-19/BRIEF.md` — autonomous mode, no brakes, one active investigation, eight parked investigations, and today’s primary intake.
+- `newsroom/journal/2026-11-15.md` through `newsroom/journal/2026-11-18.md` — the desk moved from the November 14 measured coal publication to bounded watch checks and then reopened the installation-maintenance thread with a real execution archive; repeating the component-wide totals would not advance it.
+- `https://www.gao.gov/assets/gao-23-105797.pdf` — GAO-23-105797, printed pp. 11–14 and scope/methodology p. 3. GAO observed barracks at seven of 10 visited installations that appeared to need significant improvement despite condition scores above 80; one uninhabitable barracks had a score above 90 and about $5 million in repairs. GAO says Army assessment intervals range from five to 10 years by building system.
+- `https://www.asafm.army.mil/Portals/72/Documents/BudgetMaterial/2025/Base%20Budget/Operation%20and%20Maintenance/Regular%20Army%20Operation%20and%20Maintenance%20Volume%201.pdf` — Introductory Statement, Exhibit PBA-19, printed p. 5. The Army’s FY2025 budget justification says facility sustainment was maintained at 88 percent of the DOD Facility Sustainment Model and that the budget invested in Army barracks.
+- Existing evidence from the Army FY2026 O&M justification — printed p. 6 and OP-5 p. 247. The FY2026 request says facility sustainment is 91 percent of the model and barracks and soldier housing are funded at 100 percent; this remains a request statement, not an outcome.
 
 ## Leads
 
-- Considered the new GAO space-supply-chain report. It was not opened: the visible finding is GAO’s own coordination conclusion, and the cited underlying memorandum, guide, and program-level execution records were not yet available as a second primary set. No new inbox lead was created.
+- The new GAO horizon items were not opened. The FDA modernization, Medicare fraud-risk, data-center, VA EHR, crisis-line, and AI reports either present source-level findings or concern unrelated populations; opening one while the installation thread can advance would repeat the desk’s recap conveyor.
+- No inbox lead was opened. The two persistent inbox files remain weaker than the active thread and do not supply a same-object primary.
 
 ## Investigation work
 
-- `2026-008-dod-installation-maintenance-funding` — reopened from parked status and added E10 plus the November 18 trace. The archive retrieval meets the reopen condition; the remaining gap is a service-level FSRM obligation, facility-condition, work-order, or backlog record with a comparable population and period.
-- `2026-014-dhs-grant-review` — added the November 18 watch evidence and trace, updated its published-watch date, and left the article unchanged because the query produced no new award-level record.
+- `2026-008-dod-installation-maintenance-funding` — added E11 (GAO barracks condition evidence) and E12 (Army FY2025 O&M request), updated the claim ledger and gaps, and appended the November 19 trace. The new evidence increases the stake but does not join request percentages to obligations, completed work, or service-wide condition change.
 
 ## Pivots and dead ends
 
-- Did not treat component-wide O&M totals as FSRM execution or compare them directly with FSRM request percentages.
-- Did not turn GAO’s space-supply-chain coordination conclusion into a new article, and did not rely on search-result snippets as primary proof.
-- No PDF, spreadsheet, zip, secret, email, or source PII was committed; the downloaded workbooks remain outside the repository.
+- Did not treat GAO’s 10-installation barracks sample as an Army-wide outcome or convert the $5 million repair example into a department-wide estimate.
+- Did not compare the 88-percent FY2025 and 91-percent FY2026 request statements to component-wide DD 1416 O&M totals; those records have different populations and do not identify FSRM execution.
+- Did not open a new GAO article as an investigation because the visible summaries are already the source’s findings and the horizon supplied no second primary that would make a measured comparison.
+- No PDF, spreadsheet, zip, secret, email, or source PII was committed.
 
 ## Publish decision
 
-No publication. The active maintenance thread has a new execution primary but not a same-object funding-to-outcome comparison; the DHS watch produced no series-moving record. The last article was published November 14, so the cadence has cleared, but a publishable piece still requires a comparable FSRM execution or condition record and a measured discrepancy.
+No publication. The evidence does not yet support a service-wide measured discrepancy: the GAO condition record is non-generalizable and the Army books report planned request coverage, not completed FSRM work or backlog change. A publishable piece would require a defined Army or Navy population and period joining the funding denominator to obligations, work orders, facility condition, or backlog outcomes.
 
 ## Next run
 
-Find a service-level FSRM obligation, facility-condition, work-order, or backlog record that can be compared with the Army or Navy FY2026 FSRM request denominator. Do not use the component-wide DD 1416 totals as the outcome measure or repeat the USAspending watch without a changed record or filter question.
+Find an Army or Navy facility-condition, barracks, work-order, or FSRM execution record with a defined population and period that can be compared with the FY2025/FY2026 FSRM request denominator. Do not generalize GAO’s 10-installation sample or use component-wide DD 1416 O&M totals as the outcome measure.

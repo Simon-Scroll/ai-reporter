@@ -1,0 +1,222 @@
+[
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Strategic Planning: FDA Could Further Strengthen Robust IT Modernization Plan",
+    "url": "https://www.gao.gov/products/gao-27-108743",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-108743.pdf",
+    "product_id": "gao-27-108743",
+    "published": "Wed, 18 Nov 2026 07:35:42 -0500",
+    "summary": "What GAO Found\n\nThe Food and Drug Administration (FDA) has developed a suite of strategic planning documentation to guide modernization of its information technology (IT) systems and support the agency’s IT strategic mission. FDA’s strategic plan suite identifies IT strategic goals and captures key upcoming agencywide modernization efforts. FDA’s strategic plans fully address six of eight strategic planning leading practices. For example, the plan aligns to agency and department-wide missions, i",
+    "is_new": true
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Medicare: HHS and CMS Should Better Manage Fraud Risks",
+    "url": "https://www.gao.gov/products/gao-27-109072",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-109072.pdf",
+    "product_id": "gao-27-109072",
+    "published": "Wed, 18 Nov 2026 07:15:06 -0500",
+    "summary": "What GAO Found\n\nThe Centers for Medicare &amp; Medicaid Services (CMS)—within the Department of Health and Human Services (HHS)—and its various contractors oversee the traditional Medicare Fee-for-Service program (Medicare). CMS reported spending nearly $481&nbsp;billion on benefits for about 34 million Medicare beneficiaries in 2025.\n\nCMS uses the Vulnerability Management (VM) Process within the Center for Program Integrity (CPI) to manage fraud risks. However, this process is broader in scope ",
+    "is_new": true
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Federal Data Centers: Congress Has an Opportunity to Improve Agencies' Acquisition and Operations",
+    "url": "https://www.gao.gov/products/gao-27-108971",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-108971.pdf",
+    "product_id": "gao-27-108971",
+    "published": "Wed, 18 Nov 2026 07:21:50 -0500",
+    "summary": "What GAO Found\n\nOf the 24 Chief Financial Officers Act agencies, 21 reported having data centers. Those 21 agencies varied in incorporating the Office of Management and Budget’s (OMB) five acquisition and operational requirements into the management and planning of their data centers. As of August 2026, none of the agencies had fully addressed all five requirements. For example, nine agencies reported using automated tools to monitor data center operations but the documentation they provided did",
+    "is_new": true
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "VA Electronic Health Record Modernization: System Deployed to 13 Sites in 2026 and Work Planned to Continue at an Accelerated Pace",
+    "url": "https://www.gao.gov/products/gao-27-109529",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-109529.pdf",
+    "product_id": "gao-27-109529",
+    "published": "Wed, 18 Nov 2026 16:45:24 -0500",
+    "summary": "What GAO Found\n\nIn 2017, the Department of Veterans Affairs (VA) began its most recent effort to modernize its legacy electronic health records (EHR) system. After a 3-year pause to make improvements, VA deployed the new EHR to all 13 planned medical centers in 2026. The pace of these 2026 deployments (13 live sites in 6 months) was considerably faster than the deployment of the six original sites between October 2020 and March 2024. The department intends to continue this accelerated pace, with",
+    "is_new": true
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Veterans Crisis Line: Actions Needed to Improve Services Provided After Initial Contact",
+    "url": "https://www.gao.gov/products/gao-27-108414",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-108414.pdf",
+    "product_id": "gao-27-108414",
+    "published": "Wed, 18 Nov 2026 07:41:12 -0500",
+    "summary": "What GAO Found\n\nSuicide prevention is the Department of Veterans Affairs’ (VA) stated top clinical priority. To this end, VA operates the Veterans Crisis Line (VCL), a 24/7 phone, chat, and text service. The VCL is staffed by crisis responders who support veterans and their family and friends (VA refers to users of the VCL as customers). VA offers a variety of immediate and long-term post-contact services to customers following their crisis line interactions, such as peer support and requests fo",
+    "is_new": true
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Science & Tech Spotlight: New World Screwworm Eradication",
+    "url": "https://www.gao.gov/products/gao-27-109347",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-109347.pdf",
+    "product_id": "gao-27-109347",
+    "published": "Wed, 18 Nov 2026 07:33:18 -0500",
+    "summary": "Why This Matters\n\nNew World screwworm is a parasitic fly that could cost the U.S. cattle industry billions of dollars per year. The eggs laid by screwworm flies hatch into larvae that infect cattle, sheep, and other animals, causing painful wounds and death if untreated. Over 100 total cases have been identified in the U.S. as of November 2026. Experts are concerned that existing control capabilities, which use sterile flies, may be insufficient to combat new outbreaks.\n\nKey Takeaways\n\n\n\tOngoing",
+    "is_new": true
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Cybersecurity: Agencies Need to Fully Address Federal Guidance as They Refine Zero Trust Architecture",
+    "url": "https://www.gao.gov/products/gao-27-108661",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-108661.pdf",
+    "product_id": "gao-27-108661",
+    "published": "Wed, 18 Nov 2026 08:01:21 -0500",
+    "summary": "What GAO Found\n\nA zero trust architecture (ZTA) is a set of cybersecurity principles that state that organizations must verify everything that attempts to access their systems and services. Almost all of the 22 agencies in this review had plans for zero trust architectures in their information technology (IT) environments. ZTA implementation will evolve over time as technology changes. As of August 2026, five agencies had addressed guidance from the Office of Management and Budget (OMB) or Natio",
+    "is_new": true
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Artificial Intelligence: Covert Testing Used Common Platforms to Create Viable Attack Plans",
+    "url": "https://www.gao.gov/products/gao-27-108814",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-108814.pdf",
+    "product_id": "gao-27-108814",
+    "published": "Wed, 18 Nov 2026 07:29:05 -0500",
+    "summary": "What GAO Found\n\nIn spring 2026, GAO’s prompts to four of the most used generative artificial intelligence (AI) platforms–Claude, Grok, ChatGPT, and Gemini—produced feasible information that could assist a malicious actor with planning and executing attacks. Specifically, in response to prompts, two platforms produced information for constructing and detonating an improvised explosive device (IED) designed to cause mass casualties. In addition, after prompting, two other platforms produced inform",
+    "is_new": true
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Space Supply Chains: Additional DOD Actions Could Strengthen Its Enterprise Approach for Managing Risks",
+    "url": "https://www.gao.gov/products/gao-27-108683",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-108683.pdf",
+    "product_id": "gao-27-108683",
+    "published": "Tue, 17 Nov 2026 07:10:18 -0500",
+    "summary": "What GAO Found\n\nTo help maintain space-power superiority, the Department of Defense (DOD) relies on satellites in Earth’s orbit that provide important capabilities to the warfighter. The space industrial base and associated supply chains consist of a global network of companies that provide the hardware and software for space technologies and are critical to DOD’s ability to buy and use these satellites.\n\nThe three Space Force programs that GAO reviewed reported various supply chain risks such a",
+    "is_new": false
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Indian Affairs: Legal Framework for Probate and Other Factors Limit Interior’s Options to Improve Its Process",
+    "url": "https://www.gao.gov/products/gao-27-108031",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-108031.pdf",
+    "product_id": "gao-27-108031",
+    "published": "Mon, 16 Nov 2026 07:15:51 -0500",
+    "summary": "What GAO Found\n\nGAO’s analysis of the Department of the Interior’s probate data shows that its ongoing probate caseload grew from about 19,000 cases in October 2013, to about 55,000 cases in April 2026. This was due, in part, to an increase in case files in the case preparation phase, the first stage in the probate process after reporting a death, and a decrease in the number of probate hearings held. GAO found that 80 percent of nationwide probate cases were in the preparation phase.\n\nInterior ",
+    "is_new": false
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Performance and Accountability Report: Fiscal Year 2026",
+    "url": "https://www.gao.gov/products/gao-27-900726",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-900726.pdf",
+    "product_id": "gao-27-900726",
+    "published": "Mon, 16 Nov 2026 09:59:06 -0500",
+    "summary": "What GAO Found\n\nGAO made significant accomplishments in FY 2026, as detailed in this Performance and Accountability Report for Fiscal Year (FY) 2026. In the spirit of the Government Performance and Results Act, this annual report informs Congress and the American people about what GAO has achieved on their behalf.\n\nThis report describes GAO's performance measures, results, and accountability processes for FY 2026. In assessing its performance, GAO compared actual results against targets and goal",
+    "is_new": false
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Tribal Justice: Congressional Action Needed to Support Tribal Sovereignty",
+    "url": "https://www.gao.gov/products/gao-27-108087",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-108087.pdf",
+    "product_id": "gao-27-108087",
+    "published": "Mon, 16 Nov 2026 07:30:28 -0500",
+    "summary": "What GAO Found\n\nTribes and the federal government generally share jurisdiction over certain crimes committed in Indian country. However, Tribes in states subject to Public Law 280 (P.L. 280) generally share criminal jurisdiction in Indian country with their respective state when a tribal citizen commits a crime or, in certain circumstances, is the victim of a crime.\n\nPercent of Federally Recognized Tribes Located in the Lower 48 States\n\n\n\nTribes and states exercise criminal jurisdiction under P.",
+    "is_new": false
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Traffic Control Devices Manual: Selected Practitioners Reported Never or Rarely Deviating from DOT Standards",
+    "url": "https://www.gao.gov/products/gao-27-108431",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-108431.pdf",
+    "product_id": "gao-27-108431",
+    "published": "Mon, 16 Nov 2026 07:20:43 -0500",
+    "summary": "What GAO Found\n\nTraffic control devices consist of signs, signals, and pavement markings that communicate messages, such as warnings and guidance, to roadway users. Uniformity in these devices promotes traffic safety and efficiency across the country by reducing confusion for road users. The Federal Highway Administration (FHWA) issues the Manual on Uniform Traffic Control Devices for Streets and Highways (the “Manual”), to establish uniform national criteria for implementing these traffic contr",
+    "is_new": false
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Federal Prisons: Improved Reviews of Natural Deaths and Communications with Families Needed",
+    "url": "https://www.gao.gov/products/gao-27-108744",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-108744.pdf",
+    "product_id": "gao-27-108744",
+    "published": "Mon, 16 Nov 2026 07:10:50 -0500",
+    "summary": "What GAO Found\n\nThe Federal Bureau of Prisons (BOP) reported that about 3,000 people died from natural causes while in its custody in fiscal years 2016 through 2025. GAO reviewed death investigation records for the natural deaths in BOP custody in fiscal year 2024. The documents showed that BOP identified health care deficiencies in 45 percent of these deaths, and that some of these deficiencies contributed to the natural deaths. BOP identified deficiencies such as delayed offsite medical appoin",
+    "is_new": false
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Child Care Pandemic Funds: HHS Can Help States Better Prepare for Future Emergencies and Ongoing Challenges",
+    "url": "https://www.gao.gov/products/gao-27-108090",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-108090.pdf",
+    "product_id": "gao-27-108090",
+    "published": "Mon, 16 Nov 2026 07:05:47 -0500",
+    "summary": "What GAO Found\n\nIn GAO’s survey, states reported that useful strategies for spending Child Care and Development Fund (CCDF) pandemic funds included obtaining technical assistance from officials in the Department of Health and Human Services (HHS) and using partners such as local organizations to disburse funds.\n\nWhile states spent more than 99 percent of pandemic child care funds, most reported that it was challenging to do so. States reported gaps in their readiness, such as inadequate technolo",
+    "is_new": false
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Financial Audit: Securities and Exchange Commission’s FY 2026 and FY 2025 Financial Statements",
+    "url": "https://www.gao.gov/products/gao-27-108840",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-108840.pdf",
+    "product_id": "gao-27-108840",
+    "published": "Mon, 16 Nov 2026 07:11:43 -0500",
+    "summary": "What GAO Found\n\nGAO found (1) the United States Securities and Exchange Commission’s (SEC) and its Investor Protection Fund’s (IPF) financial statements as of and for the fiscal year ended September 30, 2026, and 2025, are presented fairly, in all material respects, in accordance with U.S. generally accepted accounting principles; (2) SEC maintained, in all material respects, effective internal control over financial reporting for SEC and for IPF as of September 30, 2026 and (3) no reportable no",
+    "is_new": false
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Military Personnel: More Complete Data Needed on Humanitarian Reassignments and Safety Transfers",
+    "url": "https://www.gao.gov/products/gao-27-108819",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-108819.pdf",
+    "product_id": "gao-27-108819",
+    "published": "Fri, 13 Nov 2026 07:01:48 -0500",
+    "summary": "What GAO Found\n\nHumanitarian reassignments and safety transfers are exceptions to the standard relocation process. These transfers may be granted to service members who meet specific criteria. The Department of Defense (DOD) defines humanitarian reassignment as the relocation of a service member to another duty station based on humanitarian factors that include family emergency or other hardship. Safety transfers are relocations for service members or their dependents who are threatened with bod",
+    "is_new": false
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Preparedness Grants: Improved Transparency and Communication Needed",
+    "url": "https://www.gao.gov/products/gao-27-109434",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-109434.pdf",
+    "product_id": "gao-27-109434",
+    "published": "Thu, 12 Nov 2026 07:11:04 -0500",
+    "summary": "The Federal Emergency Management Agency (FEMA) preparedness grants help the nation potentially prevent acts of terrorism and other threats and prepare for events like the upcoming Summer Olympic Games in 2028. However, FEMA has not always been transparent in how it administers its grants.\n\nThe Big Picture\n\nIn the wake of the terrorist attacks on September 11, 2001, FEMA, within the Department of Homeland Security (DHS), implemented a suite of preparedness grants to address terrorist threats.\n\nFE",
+    "is_new": false
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "Financial Audit: IRS’s FY 2026 and FY 2025 Financial Statements",
+    "url": "https://www.gao.gov/products/gao-27-108909",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-108909.pdf",
+    "product_id": "gao-27-108909",
+    "published": "Thu, 12 Nov 2026 10:54:19 -0500",
+    "summary": "What GAO Found\n\nIn fiscal year 2026, the Internal Revenue Service (IRS) collected more than $5.5 trillion in taxes and paid out about $670 billion in tax refunds, credits, and other payments.\n\nFiscal Year 2026 IRS Collections of Federal Taxes, by Type\n\n\n\nIn GAO’s opinion, IRS’s fiscal years 2026 and 2025 financial statements are fairly presented in all material respects. In addition, in GAO’s opinion, although internal controls could be improved, IRS maintained, in all material respects, effecti",
+    "is_new": false
+  },
+  {
+    "source": "gao",
+    "type": "government",
+    "title": "K-12 Education: Data Show That Less than Half of Students Were Ready for Kindergarten in Selected States",
+    "url": "https://www.gao.gov/products/gao-27-108796",
+    "pdf_url": "https://www.gao.gov/assets/gao-27-108796.pdf",
+    "product_id": "gao-27-108796",
+    "published": "Thu, 12 Nov 2026 07:18:17 -0500",
+    "summary": "What GAO Found\n\nIn general, GAO’s review of 11 studies found that publicly funded preschool programs contribute to children’s readiness for kindergarten in literacy, math, or both. Specifically, 10 studies found positive associations between preschool programs and kindergarten literacy scores, and seven of the studies that assessed math scores also found positive associations with these scores. One study did not find evidence of an effect in either area.\n\nThese studies also suggest that public p",
+    "is_new": false
+  }
+]

@@ -78,3 +78,21 @@
 ## E10 — FY2025 DD 1416 Title II O&M execution workbooks
 
 - `evidence/2026-11-18-dd1416-execution-workbooks.md` — the official Comptroller archive exposed retrievable Army and Navy workbooks. The Army `ORG-BA` sheet reports a $61,642,255,498 net FY2025 O&M total; the Navy workbook reports a $77,357,638,385 net Operation and Maintenance, Navy total. These are component-wide O&M totals, not FSRM execution or backlog outcomes.
+
+## E11 — GAO-23-105797 military barracks condition records
+
+- URL: https://www.gao.gov/assets/gao-23-105797.pdf
+- Retrieved: 2026-11-19
+- Hash: `aec6213c8f93b119dd1c5051a37840f395a1ee9cef56438be1820705f43cd24e`
+- Locator: printed pp. 11–14; scope and methodology, printed p. 3.
+- Captured excerpt: GAO observed barracks at seven of 10 visited installations that appeared to require significant improvement despite condition scores above 80. At one installation, a barracks closed for renovation was described as uninhabitable even though its service documentation showed a condition score above 90; repairs were estimated at about $5 million. Army barracks assessment intervals can range from five to 10 years, depending on the building system.
+- Boundary: The sample was non-generalizable. The report supplies condition-score reliability and timeliness evidence, not a department-wide FSRM execution or backlog-reduction series.
+
+## E12 — Army FY2025 O&M justification
+
+- URL: https://www.asafm.army.mil/Portals/72/Documents/BudgetMaterial/2025/Base%20Budget/Operation%20and%20Maintenance/Regular%20Army%20Operation%20and%20Maintenance%20Volume%201.pdf
+- Retrieved: 2026-11-19
+- Hash: `395adfffd81ee98602eeb219cfa4feb7eccca62da5505d0bb6795944587c1a4e`
+- Locator: Introductory Statement, Exhibit PBA-19, printed p. 5.
+- Captured excerpt: The Army's FY2025 budget justification says the budget maintains facility sustainment at 88 percent of the Department of Defense Facility Sustainment Model and invests in Army barracks.
+- Boundary: This is a budget request and justification, not an obligation, completed-work, condition-outcome, or backlog-reduction record.

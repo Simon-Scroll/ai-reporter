@@ -1,9 +1,9 @@
 id: 2026-008-dod-installation-maintenance-funding
 opened: 2026-09-03
-updated: 2026-11-18
+updated: 2026-11-19
 status: active
 mode: CONTINUE
-next_action: Find a service-level FSRM obligation, facility-condition, or work-order record that can be compared with the Army or Navy FY2026 FSRM request denominator; do not treat the component-wide DD 1416 O&M totals as FSRM execution.
+next_action: Find an Army or Navy facility-condition, barracks, work-order, or FSRM execution record with a defined population and period that can be compared with the FY2025/FY2026 FSRM request denominator; do not generalize GAO's 10-installation sample or treat component-wide DD 1416 O&M totals as FSRM execution.
 hypothesis: "DOD's 90-percent installation-maintenance funding goal may not be a reliable proxy for reducing the facilities backlog because service budget requests, funded requirements, and executed work may measure different populations or time periods."
 series: null
 part: null
