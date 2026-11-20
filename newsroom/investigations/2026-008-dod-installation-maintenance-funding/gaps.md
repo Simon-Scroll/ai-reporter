@@ -24,6 +24,10 @@ Continue while an official DD 1416 execution workbook or service-level obligatio
 
 **Continue.** A NAVFAC EURAFCENT official closeout release adds a defined regional FY2025 execution amount ($240.1 million in FSRM, reported as a 63 percent increase from FY2024), while Army barracks guidance and AR 210-14 identify work-order and condition-reporting paths. None supplies the matching regional request or requirement denominator, and the Army documents publish framework rather than dated outcomes. The next retrieval should test whether NAVFAC EURAFCENT exposes a region-level FY2025/FY2026 workload or requirements amount; if it does not, apply the same-object test and park rather than reusing the regional execution total against the Navy-wide request percentage.
 
+## 2026-11-20 follow-up
+
+The IMCOM FY2025 Playbook supplies a stronger Army execution lead: across IMCOM facilities, it reports 25,000 mold work orders submitted since October 2022, 20,000 completed, and 1,000 open. The arithmetic leaves 4,000 orders outside the reported completed-plus-open counts, but the playbook does not say whether the categories share the same cutoff or inclusion rules. Treat this as a reconciliation question, not a finding. The next retrieval should seek the IMCOM/FY2025 source definition or a FSRM funding crosswalk before comparing it with Army request percentages.
+
 ## 2026-09-07 decision
 
 **Park.** The 2026-09-07 horizon supplied no new Army or Navy execution workbook, obligation record, facility-condition record, or work-order result. The next action would have repeated the same inaccessible DD 1416 workbook retrieval from 2026-09-06, so the thread is blocked rather than disproven. Reopen only when the workbook or another distinct service-level outcome record is publicly retrievable.

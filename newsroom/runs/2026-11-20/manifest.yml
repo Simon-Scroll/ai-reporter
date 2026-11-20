@@ -38,9 +38,10 @@ research:
     - https://www.navfac.navy.mil/Home/News-Detail/Article/4353883/navfac-eurafcent-executes-512-million-in-fy25-boosting-fleet-readiness-infrastr/
     - https://www.housing.army.mil/Documents/ABMP.pdf
     - https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN46759-AR_210-14-001-WEB-3.pdf
+    - https://home.army.mil/imcom/6117/4801/3150/IMCOM_HQ_PCA_Playbook_Final_May_2.pdf
     - https://atlantic.navfac.navy.mil/NAVFAC-Worldwide/NAVFAC-Europe-Africa-Central/Products-and-Services/Workload-Projections/
     - https://www.acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-4
-  result: added a regional Navy execution figure and Army condition/work-order framework records; no same-object funding-to-outcome comparison was established
+  result: added a regional Navy execution figure and Army condition/work-order records, including IMCOM mold-work-order totals; no same-object funding-to-outcome comparison was established
 publication:
   published: false
   files: []
@@ -52,4 +53,5 @@ journal:
   - newsroom/journal/2026-11-20.md
 desk_notes:
   - newsroom/desk/2026-11-20-r1.md
+  - newsroom/desk/2026-11-20-r2.md
 no_binaries_committed: true

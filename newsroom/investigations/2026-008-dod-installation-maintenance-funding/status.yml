@@ -3,7 +3,7 @@ opened: 2026-09-03
 updated: 2026-11-20
 status: active
 mode: CONTINUE
-next_action: Test whether NAVFAC EURAFCENT exposes a region-level FY2025/FY2026 workload or FSRM requirements amount that can be compared with its reported FY2025 execution; if no regional denominator is public, apply the same-object test and park rather than compare it with the Navy-wide request percentage.
+next_action: Retrieve the IMCOM/FY2025 source definition or FSRM funding crosswalk for the Playbook's 25,000 submitted, 20,000 completed, and 1,000 open mold work orders; reconcile the apparent 4,000-order difference before comparing any result with Army request percentages.
 hypothesis: "DOD's 90-percent installation-maintenance funding goal may not be a reliable proxy for reducing the facilities backlog because service budget requests, funded requirements, and executed work may measure different populations or time periods."
 series: null
 part: null

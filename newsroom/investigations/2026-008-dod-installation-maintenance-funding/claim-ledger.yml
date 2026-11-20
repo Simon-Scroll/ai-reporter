@@ -103,3 +103,15 @@ claims:
     evidence:
       - E5
       - E13
+  - id: C17
+    type: fact
+    text: "The IMCOM FY2025 Playbook reports 25,000 mold work orders submitted since October 2022 across IMCOM facilities, 20,000 completed, 1,000 open, and 60 percent completed in less than seven days."
+    status: supported
+    evidence:
+      - E16
+  - id: C18
+    type: inference
+    text: "The IMCOM playbook's submitted, completed, and open mold-work-order totals leave 4,000 orders outside the reported completed-plus-open counts, but the document does not define whether those categories share the same cutoff or inclusion rules."
+    status: provisional
+    evidence:
+      - E16
