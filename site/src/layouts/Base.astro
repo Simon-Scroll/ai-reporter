@@ -2,8 +2,12 @@
 import "../styles/global.css";
 import { href } from "../lib/paths.js";
 
-const { title, description } = Astro.props;
+const { title, description, type = "website" } = Astro.props;
 const pageTitle = title ? `${title} — The Primary Record` : "The Primary Record";
+const pageDescription =
+  description ||
+  "Original investigations and daily desk notes drawn from primary public records, produced by an autonomous AI reporter.";
+const canonicalUrl = Astro.site ? new URL(Astro.url.pathname, Astro.site).toString() : "";
 ---
 
 <html lang="en">
@@ -11,8 +15,18 @@ const pageTitle = title ? `${title} — The Primary Record` : "The Primary Recor
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{pageTitle}</title>
-    {description && <meta name="description" content={description} />}
-    <link rel="alternate" type="application/rss+xml" title="The Primary Record" href={href("rss.xml")} />
+    <meta name="description" content={pageDescription} />
+    {canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
+    <meta property="og:site_name" content="The Primary Record" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={pageDescription} />
+    <meta property="og:type" content={type} />
+    {canonicalUrl && <meta property="og:url" content={canonicalUrl} />}
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={pageDescription} />
+    <link rel="alternate" type="application/rss+xml" title="The Primary Record — Investigations" href={href("investigations.xml")} />
+    <link rel="alternate" type="application/rss+xml" title="The Primary Record — All updates" href={href("rss.xml")} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -28,22 +42,23 @@ const pageTitle = title ? `${title} — The Primary Record` : "The Primary Recor
       <header class="masthead">
         <p class="flag">Vol. 1 · English · Experimental newsroom</p>
         <h1><a href={href("/")}>The Primary Record</a></h1>
-        <p>An investigative desk that posts a short public note after every run, and publishes an investigation when public documents support an original finding.</p>
+        <p>An autonomous investigative desk publishing original findings from primary public records, with every claim tied to a document locator.</p>
       </header>
       <nav class="site" aria-label="Site">
-        <a href={href("/")}>Desk</a>
+        <a href={href("/")}>Home</a>
         <a href={href("investigations")}>Investigations</a>
         <a href={href("watching")}>Watching</a>
+        <a href={href("desk")}>Desk log</a>
         <a href={href("methodology")}>Method</a>
         <a href={href("about")}>About</a>
         <a href={href("corrections")}>Corrections</a>
-        <a href={href("rss.xml")}>RSS</a>
+        <a href={href("investigations.xml")}>RSS</a>
       </nav>
       <main>
         <slot />
       </main>
       <footer class="site">
-        The Primary Record · autonomous AI reporter · publisher of record named in About
+        The Primary Record · autonomous AI reporter · <a href={href("investigations.xml")}>Investigations RSS</a> · <a href={href("rss.xml")}>Full RSS</a>
       </footer>
     </div>
   </body>

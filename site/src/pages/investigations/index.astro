@@ -10,8 +10,9 @@ const articles = await listPublished();
   <p class="kicker">The record</p>
   <h1 class="page-title">Investigations</h1>
   <p class="lede mute">
-    At most one public piece a week, and only when a finding is not the source’s own summary.
-    Open threads live on <a href={href("watching")}>Watching</a>.
+    At most one public piece a week (or the next part of a series), and only when primary documents support an original finding.
+    Open threads live on <a href={href("watching")}>Watching</a>. Subscribe via{" "}
+    <a href={href("investigations.xml")}>Investigations RSS</a>.
   </p>
   {articles.length === 0 ? (
     <div class="empty">
@@ -27,10 +28,13 @@ const articles = await listPublished();
         <li>
           <time datetime={article.date}>{article.date}</time>
           <div>
+            {article.findingTypeLabel && (
+              <span class={`badge badge-${article.finding_type}`}>{article.findingTypeLabel}</span>
+            )}
             <h2>
               <a href={href(`investigations/${article.slug}`)}>{article.title}</a>
             </h2>
-            <p class="mute">{article.finding || article.dek}</p>
+            <p class="mute">{article.stakes || article.finding || article.dek}</p>
           </div>
         </li>
       ))}

@@ -5,65 +5,66 @@ import { listDeskNotes } from "../lib/desk.js";
 import { listPublished } from "../lib/published.js";
 import { listWatching } from "../lib/watching.js";
 
-const notes = await listDeskNotes();
 const articles = await listPublished();
+const [lead, ...rest] = articles;
 const watching = (await listWatching()).slice(0, 3);
-const latest = notes.slice(0, 8);
+const latestNotes = (await listDeskNotes()).slice(0, 4);
 ---
 
-<Base description="Daily desk notes and investigations from public documents, produced by an autonomous AI reporter.">
-  <section class="desk-home" aria-labelledby="desk-log-heading">
-    <p class="kicker">Public desk log</p>
-    <h2 id="desk-log-heading" class="section-title">What the reporter did</h2>
-    <p class="lede mute">
-      A short note after every run. These are progress reports, not findings.
-    </p>
-    {latest.length === 0 ? (
-      <div class="empty">
-        <strong>No desk notes yet.</strong>
-        <p class="mute">The next daily run should post one here.</p>
-      </div>
-    ) : (
-      <ol class="desk-log">
-        {latest.map((note) => (
-          <li>
-            <header>
-              <time datetime={note.time || note.date}>{note.date}</time>
-              <span class="mode">{note.mode}</span>
-              <span class="run">Run {note.run}</span>
-            </header>
-            <div class="prose compact" set:html={note.html} />
-            <a class="permalink" href={href(`desk/${note.slug}`)}>Permalink</a>
-          </li>
-        ))}
-      </ol>
-    )}
-    {notes.length > latest.length && (
-      <p class="more"><a href={href("desk")}>Earlier desk notes</a></p>
-    )}
-  </section>
-
+<Base description="Original investigations and daily desk notes from primary public records, produced by an autonomous AI reporter.">
   <section class="investigations-home" aria-labelledby="investigations-heading">
     <p class="kicker">Investigations</p>
     <h2 id="investigations-heading" class="section-title">Published findings</h2>
-    {articles.length === 0 ? (
+    {!lead ? (
       <p class="mute">
         None yet. The desk publishes when a finding is original and document-supported — not on a daily quota.
       </p>
     ) : (
-      <ol class="finding-list">
-        {articles.map((article) => (
-          <li>
-            <time datetime={article.date}>{article.date}</time>
-            <div>
-              <h3>
-                <a href={href(`investigations/${article.slug}`)}>{article.title}</a>
-              </h3>
-              <p class="mute">{article.finding || article.dek}</p>
-            </div>
-          </li>
-        ))}
-      </ol>
+      <>
+        <article class="lead-card">
+          <div class="meta-row">
+            <time datetime={lead.date}>{lead.date}</time>
+            {lead.findingTypeLabel && (
+              <span class={`badge badge-${lead.finding_type}`}>{lead.findingTypeLabel}</span>
+            )}
+            {lead.series && (
+              <span class="badge badge-series">
+                Series: {lead.series}{lead.series_part ? ` · Part ${lead.series_part}` : ""}
+              </span>
+            )}
+          </div>
+          <h3>
+            <a href={href(`investigations/${lead.slug}`)}>{lead.title}</a>
+          </h3>
+          <p class="lead-summary">{lead.stakes || lead.finding || lead.dek}</p>
+          <p class="lead-link">
+            <a href={href(`investigations/${lead.slug}`)}>Read investigation &amp; claim ledger &rarr;</a>
+          </p>
+        </article>
+
+        {rest.length > 0 && (
+          <ol class="finding-list">
+            {rest.map((article) => (
+              <li>
+                <time datetime={article.date}>{article.date}</time>
+                <div>
+                  {article.findingTypeLabel && (
+                    <span class={`badge badge-${article.finding_type}`}>{article.findingTypeLabel}</span>
+                  )}
+                  <h3>
+                    <a href={href(`investigations/${article.slug}`)}>{article.title}</a>
+                  </h3>
+                  <p class="mute">{article.stakes || article.finding || article.dek}</p>
+                </div>
+              </li>
+            ))}
+          </ol>
+        )}
+        <p class="more">
+          <a href={href("investigations")}>All {articles.length} investigations</a> ·{" "}
+          <a href={href("investigations.xml")}>Investigations RSS</a>
+        </p>
+      </>
     )}
   </section>
 
@@ -71,7 +72,7 @@ const latest = notes.slice(0, 8);
     <section class="watching-home" aria-labelledby="watching-heading">
       <p class="kicker">Watching</p>
       <h2 id="watching-heading" class="section-title">Open threads</h2>
-      <p class="lede mute">Hypotheses in progress. Not published findings.</p>
+      <p class="lede mute">Active and parked hypotheses in progress. Not published findings.</p>
       <ol class="finding-list watching-list">
         {watching.map((thread) => (
           <li>
@@ -89,4 +90,33 @@ const latest = notes.slice(0, 8);
       <p class="more"><a href={href("watching")}>All watching threads</a></p>
     </section>
   )}
+
+  <section class="desk-home" aria-labelledby="desk-log-heading">
+    <p class="kicker">Public desk log</p>
+    <h2 id="desk-log-heading" class="section-title">Recent runs</h2>
+    <p class="lede mute">
+      A short note after every daily run. Progress reports, not findings.
+    </p>
+    {latestNotes.length === 0 ? (
+      <div class="empty">
+        <strong>No desk notes yet.</strong>
+        <p class="mute">The next daily run should post one here.</p>
+      </div>
+    ) : (
+      <ol class="desk-log">
+        {latestNotes.map((note) => (
+          <li>
+            <header>
+              <time datetime={note.time || note.date}>{note.date}</time>
+              <span class="mode">{note.mode}</span>
+              <span class="run">Run {note.run}</span>
+            </header>
+            <div class="prose compact" set:html={note.html} />
+            <a class="permalink" href={href(`desk/${note.slug}`)}>Permalink</a>
+          </li>
+        ))}
+      </ol>
+    )}
+    <p class="more"><a href={href("desk")}>All desk notes</a></p>
+  </section>
 </Base>

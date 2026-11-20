@@ -1,7 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
 import { href } from "../../lib/paths.js";
-import { listPublished, getPublished } from "../../lib/published.js";
+import { listPublished, getPublished, listSeriesPeers } from "../../lib/published.js";
 
 export async function getStaticPaths() {
   const articles = await listPublished();
@@ -13,21 +13,96 @@ const article = await getPublished(slug);
 if (!article) {
   throw new Error(`Missing article ${slug}`);
 }
+const seriesPeers = article.series ? await listSeriesPeers(article.series) : [];
+const claims = Array.isArray(article.claims) ? article.claims : [];
+const sources = Array.isArray(article.sources) ? article.sources : [];
 ---
 
-<Base title={article.title} description={article.dek || article.finding}>
+<Base
+  title={article.title}
+  description={article.stakes || article.dek || article.finding}
+  type="article"
+>
   <article class="piece">
-    <p class="kicker">Investigation · {article.date}</p>
+    <div class="meta-row">
+      <p class="kicker">Investigation · {article.date}</p>
+      {article.findingTypeLabel && (
+        <span class={`badge badge-${article.finding_type}`}>{article.findingTypeLabel}</span>
+      )}
+    </div>
     <h1>{article.title}</h1>
     {article.dek && <p class="dek">{article.dek}</p>}
-    <div class="prose" set:html={article.html} />
-    {Array.isArray(article.sources) && article.sources.length > 0 && (
-      <section class="evidence">
-        <h2>Evidence</h2>
+
+    {(article.finding || article.stakes) && (
+      <aside class="stakes-box" aria-label="Key finding and stakes">
+        {article.finding && (
+          <p>
+            <strong>Key finding:</strong> {article.finding}
+          </p>
+        )}
+        {article.stakes && (
+          <p>
+            <strong>Why it matters:</strong> {article.stakes}
+          </p>
+        )}
+      </aside>
+    )}
+
+    {seriesPeers.length > 1 && (
+      <nav class="series-nav" aria-label="Series parts">
+        <p class="kicker">Series: {article.series}</p>
         <ol>
-          {article.sources.map((source) => (
-            <li>
-              <a href={source.url}>{source.title || source.url}</a>
+          {seriesPeers.map((peer, idx) => (
+            <li class={peer.slug === article.slug ? "current" : ""}>
+              {peer.slug === article.slug ? (
+                <span>Part {peer.series_part || idx + 1}: {peer.title} (this piece)</span>
+              ) : (
+                <a href={href(`investigations/${peer.slug}`)}>
+                  Part {peer.series_part || idx + 1}: {peer.title}
+                </a>
+              )}
+            </li>
+          ))}
+        </ol>
+      </nav>
+    )}
+
+    <div class="prose" set:html={article.html} />
+
+    {claims.length > 0 && (
+      <section class="claim-ledger" id="claims" aria-labelledby="claims-heading">
+        <h2 id="claims-heading">Claim ledger ({claims.length})</h2>
+        <p class="mute ledger-note">
+          Every factual claim in this piece maps to primary source locators below. Click any citation in the text to jump here.
+        </p>
+        <ol class="ledger-list">
+          {claims.map((claim) => (
+            <li id={`claim-${claim.id}`}>
+              <span class="claim-id">{claim.id}</span>
+              <div class="claim-body">
+                <p>{claim.text}</p>
+                {Array.isArray(claim.source_ids) && claim.source_ids.length > 0 && (
+                  <div class="claim-sources">
+                    {claim.source_ids.map((sid) => (
+                      <a class="source-chip" href={`#source-${sid}`}>{sid}</a>
+                    ))}
+                  </div>
+                )}
+              </div>
+            </li>
+          ))}
+        </ol>
+      </section>
+    )}
+
+    {sources.length > 0 && (
+      <section class="evidence" id="evidence" aria-labelledby="evidence-heading">
+        <h2 id="evidence-heading">Primary sources ({sources.length})</h2>
+        <ol>
+          {sources.map((source) => (
+            <li id={`source-${source.id}`}>
+              <span class="source-chip">{source.id}</span>{" "}
+              <a href={source.url} rel="noopener noreferrer">{source.title || source.url}</a>
               <div class="mute">
                 {source.type} · {source.locator} · retrieved {source.retrieved}
               </div>
