@@ -5,6 +5,7 @@ date: 2026-11-14
 dek: "Summing six annual OSMRE tables places $40.4 million of the $70.1 million recommendation-to-distribution-designation difference in Kentucky, Pennsylvania, and West Virginia; GAO says those states manage more than 80% of the nation’s coal permits."
 finding: "Across OSMRE’s FY2021–FY2026 tables, Kentucky, Pennsylvania, and West Virginia account for $40.416 million of the $70.073 million in summed annual recommendation-to-distribution differences, while GAO counts 4,258 permits in those three states."
 status: published
+finding_type: discrepancy
 language: en
 investigation_id: 2026-028-coal-reclamation-grant-gap
 claims:

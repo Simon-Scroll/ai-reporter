@@ -27,8 +27,8 @@ export async function GET(context) {
     .map(
       (item) => `    <item>
       <title>${esc(item.title)}</title>
-      <link>${item.link}</link>
-      <guid>${item.link}</guid>
+      <link>${esc(item.link)}</link>
+      <guid>${esc(item.link)}</guid>
       <pubDate>${new Date(item.date).toUTCString()}</pubDate>
       <description>${esc(item.description)}</description>
     </item>`,

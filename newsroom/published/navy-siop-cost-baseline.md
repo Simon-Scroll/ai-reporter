@@ -5,6 +5,7 @@ date: 2026-10-06
 dek: "A FY2027 budget line can be joined to a Pearl Harbor dry-dock execution record, but the public documents still do not reconcile that project with the Navy’s broader $1.8 billion SIOP headline."
 finding: "The Navy’s FY2027 budget lists $507 million for Pearl Harbor Dry Dock 3 Replacement, while the matching P-209 execution record reports $3.071 billion in total obligations and $3.298 billion in base and all options; the public record still does not supply a current consolidated SIOP baseline."
 status: published
+finding_type: discrepancy
 language: en
 investigation_id: 2026-018-navy-siop-cost-oversight
 claims:

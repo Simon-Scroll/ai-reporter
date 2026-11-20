@@ -3,7 +3,12 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { readFile } from "node:fs/promises";
 import { parse as parseYaml } from "yaml";
-import { collectMarkdown, validateFile } from "./lib/article.mjs";
+import {
+  collectMarkdown,
+  parseArticle,
+  validateFile,
+  validatePublishedSequence,
+} from "./lib/article.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const args = process.argv.slice(2);
@@ -12,7 +17,8 @@ async function main() {
   const publishedDir = path.join(root, "newsroom/published");
   const draftsDir = path.join(root, "newsroom/drafts");
   const targets = [];
-  if (args.includes("--all")) {
+  const validateAll = args.includes("--all");
+  if (validateAll) {
     targets.push(...(await collectMarkdown(publishedDir)), ...(await collectMarkdown(draftsDir)));
   } else {
     const files = args.filter((a) => !a.startsWith("--"));
@@ -38,18 +44,47 @@ async function main() {
   const disclosure = String(masthead.ai_disclosure ?? "").replace(/\s+/g, " ").trim();
 
   let failed = 0;
-  const publishedNames = new Set(
-    targets.filter((f) => expectedStatusFor(f) === "published").map((f) => path.basename(f)),
-  );
+  const publishedNames = new Set();
+  const publishedSlugs = new Set();
   for (const file of targets) {
-    const errors = await validateFile(file, { expectedStatus: expectedStatusFor(file) });
-    if (expectedStatusFor(file) === "draft" && publishedNames.has(path.basename(file))) {
-      errors.push(`${file}: same article exists in published/ and drafts/`);
+    if (expectedStatusFor(file) !== "published") continue;
+    publishedNames.add(path.basename(file));
+    const raw = await readFile(file, "utf8");
+    const parsed = parseArticle(raw, path.relative(root, file));
+    const slug = parsed.ok ? parsed.data?.slug : undefined;
+    if (slug !== undefined && slug !== null && String(slug) !== "") {
+      publishedSlugs.add(String(slug));
     }
-    if (disclosure && expectedStatusFor(file) === "published") {
-      const body = (await readFile(file, "utf8")).replace(/\s+/g, " ");
-      if (!body.includes(disclosure)) {
-        errors.push(`${file}: missing the masthead ai_disclosure sentence: "${disclosure}"`);
+  }
+  const parsedPublished = [];
+
+  for (const file of targets) {
+    const expected = expectedStatusFor(file);
+    const errors = await validateFile(file, { expectedStatus: expected });
+    if (expected === "draft") {
+      let duplicate = publishedNames.has(path.basename(file));
+      if (!duplicate && publishedSlugs.size > 0) {
+        const raw = await readFile(file, "utf8");
+        const parsed = parseArticle(raw, path.relative(root, file));
+        const slug = parsed.ok ? parsed.data?.slug : undefined;
+        duplicate =
+          slug !== undefined && slug !== null && String(slug) !== "" && publishedSlugs.has(String(slug));
+      }
+      if (duplicate) {
+        errors.push(`${file}: same article exists in published/ and drafts/`);
+      }
+    }
+    if (expected === "published") {
+      const raw = await readFile(file, "utf8");
+      const parsed = parseArticle(raw, path.relative(root, file));
+      if (parsed.ok) {
+        parsedPublished.push({ filePath: path.relative(root, file), data: parsed.data });
+      }
+      if (disclosure) {
+        const flat = raw.replace(/\s+/g, " ");
+        if (!flat.includes(disclosure)) {
+          errors.push(`${file}: missing the masthead ai_disclosure sentence: "${disclosure}"`);
+        }
       }
     }
     if (errors.length) {
@@ -61,8 +96,17 @@ async function main() {
     }
   }
 
+  if (validateAll && parsedPublished.length > 1) {
+    const seqErrors = validatePublishedSequence(parsedPublished);
+    if (seqErrors.length) {
+      failed += seqErrors.length;
+      console.error("FAIL Phase 2 sequence/cadence gates");
+      for (const err of seqErrors) console.error(`  - ${err}`);
+    }
+  }
+
   if (failed) {
-    console.error(`\n${failed} article(s) failed validation.`);
+    console.error(`\n${failed} validation error(s).`);
     process.exit(1);
   }
 }

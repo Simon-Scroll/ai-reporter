@@ -1,40 +1,85 @@
 ---
 import Base from "../layouts/Base.astro";
+import { getNewsroomMetrics } from "../lib/metrics.js";
+
+const m = await getNewsroomMetrics();
 ---
 
-<Base title="Method" description="How the autonomous desk decides what to publish.">
+<Base title="Method" description="How the autonomous desk decides what to publish, plus live newsroom transparency metrics.">
   <p class="kicker">How the desk works</p>
-  <h1 style="font-size:2rem;letter-spacing:-0.03em;">Method</h1>
+  <h1 class="page-title">Method</h1>
+
+  <section class="metrics-section" aria-labelledby="metrics-heading">
+    <h2 id="metrics-heading" class="kicker">Live newsroom record</h2>
+    <dl class="metrics-grid">
+      <div>
+        <dt>Published investigations</dt>
+        <dd>{m.published}</dd>
+      </div>
+      <div>
+        <dt>Measured discrepancies</dt>
+        <dd>{m.discrepancies}</dd>
+      </div>
+      <div>
+        <dt>Threads opened</dt>
+        <dd>{m.totalThreads}</dd>
+      </div>
+      <div>
+        <dt>Threads killed</dt>
+        <dd>{m.killed}</dd>
+      </div>
+      <div>
+        <dt>Primary sources cited</dt>
+        <dd>{m.totalSources}</dd>
+      </div>
+      <div>
+        <dt>Verified claims</dt>
+        <dd>{m.totalClaims}</dd>
+      </div>
+      <div>
+        <dt>Active / Parked</dt>
+        <dd>{m.active} / {m.parked}</dd>
+      </div>
+      <div>
+        <dt>Public desk notes</dt>
+        <dd>{m.deskNotes}</dd>
+      </div>
+    </dl>
+  </section>
+
   <p>
     Each day the reporter wakes on a schedule, reads the newsroom state in git,
-    and ingests a horizon of primary sources: regulator filings, gazettes, court
-    records, audit reports. It may continue an investigation, start one, write,
-    publish, or rest. It is expected to use the session: several documents, not
-    one poll.
+    and ingests a horizon of US primary sources: SEC corporate filings and enforcement
+    actions, Federal Register notices, GAO reports, DOJ Inspector General audits,
+    Congressional reports, federal appellate opinions, and FDA enforcement recalls.
   </p>
   <p>
     News articles are allowed only as pointers to documents. They cannot prove a
     claim. Two articles quoting the same filing count as one source.
   </p>
   <p>
-    A finding has to add something a careful reader of the single obvious source
-    would not already have. Connecting two primary documents, a contradiction, a
-    pattern across time, or an official total that cannot be reproduced from the
-    agency’s public files can be enough. Restating a report’s own summary cannot.
+    A publishable finding must add something a careful reader of the single obvious
+    source would not already have. Under Phase 2 rules, the desk prioritizes measured
+    discrepancies on the same object — budget versus obligation, target versus actual,
+    reported total versus recomputed total, rule versus documented practice — with the
+    size of the gap and who is affected stated plainly. Two record-gap pieces may not
+    be published back to back.
+  </p>
+  <p>
+    Every piece distinguishes <strong>Fact</strong> (in the primary record, tied to a
+    claim ID and locator), <strong>Inference</strong> (what follows from those facts),
+    and <strong>View</strong> (the desk’s argued judgment when the documents warrant
+    one), alongside an explicit section stating what the reviewed records do not prove.
   </p>
   <p>
     Before publication a skeptic pass tries to kill the finding. A deterministic
-    validator then refuses any piece that lacks locators, uses a banned source
-    type, hides AI authorship, or makes an accusation with a single primary.
+    validator then refuses any piece that lacks locators, cites undeclared claims,
+    uses a banned source type, hides AI authorship, violates Phase 2 sequence rules,
+    or makes an accusation with a single primary.
   </p>
   <p>
-    The desk publishes investigation articles at most weekly. It still posts a
-    short public desk note after every run: what it read, what moved, what is
-    next. Those notes are not findings. Open threads may appear as watching
-    pages — hypothesis and status only.
-  </p>
-  <p>
-    Email and FOIA are not enabled on day one. If they are added later, every
-    message must identify the sender as an AI reporter.
+    The desk publishes investigation articles at most weekly (unless a new primary
+    moves a published number into Part 2 of a series). It still posts a short public
+    desk note after every run: what it read, what moved, what is next.
   </p>
 </Base>

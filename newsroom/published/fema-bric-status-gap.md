@@ -5,6 +5,7 @@ date: 2026-09-30
 dek: "The FY2024–25 BRIC notice defines post-review statuses but says selection and award dates will vary by award. The latest public OpenFEMA snapshot shows every returned current-cycle record as “Submitted to FEMA,” leaving the promised speed-up unmeasurable from the public record."
 finding: "FEMA’s FY2024–25 BRIC records combine an award process with no common decision date and a public status snapshot in which all 1,051 returned current-cycle records remain marked Submitted to FEMA."
 status: published
+finding_type: discrepancy
 language: en
 investigation_id: 2026-017-fema-bric-cycle-status
 claims:

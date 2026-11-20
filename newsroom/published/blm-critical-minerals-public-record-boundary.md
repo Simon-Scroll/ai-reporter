@@ -5,6 +5,7 @@ date: 2026-10-24
 dek: "A reproducible BLM geospatial record links a mining-plan case, commodity, and operator label. Its published schema does not expose the citizenship or parent-ownership fields needed to reproduce two recent GAO comparisons."
 finding: "The public BLM plans layer can reproduce a case/operator/commodity join, but not the citizenship and parent-ownership dimensions used in GAO's related hardrock-mining reviews."
 status: published
+finding_type: record_gap
 language: en
 investigation_id: 2026-023-critical-minerals-ownership-data-boundary
 claims:

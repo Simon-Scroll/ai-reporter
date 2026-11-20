@@ -5,6 +5,7 @@ date: 2026-10-30
 dek: "Three NIH reports use the same top-level contacted-institution population, but the public record does not identify which cases account for the changes in totals."
 finding: "NIH's public snapshots show the contacted-case population rising from 255 to 273 between November 2023 and June 2026, while the reviewed public materials provide no row-level bridge explaining additions, resolutions, or reclassification."
 status: published
+finding_type: record_gap
 language: en
 investigation_id: 2026-024-nih-foreign-interference-data-continuity
 claims:

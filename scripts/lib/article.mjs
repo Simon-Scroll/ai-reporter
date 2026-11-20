@@ -24,6 +24,10 @@ export const BANNED_SOURCE_TYPES = new Set([
   "model",
 ]);
 
+export const FINDING_TYPES = new Set(["discrepancy", "record_gap"]);
+export const PHASE_2_START = "2026-11-10";
+export const MIN_CADENCE_DAYS = 6;
+
 const REQUIRED_FIELDS = [
   "title",
   "slug",
@@ -37,6 +41,27 @@ const REQUIRED_FIELDS = [
   "sources",
   "disclosure",
 ];
+
+export function normalizeDate(value) {
+  if (value instanceof Date) {
+    if (Number.isNaN(value.getTime())) return "";
+    return value.toISOString().slice(0, 10);
+  }
+  if (typeof value === "string" && /^\d{4}-\d{2}-\d{2}/.test(value)) {
+    return value.slice(0, 10);
+  }
+  return "";
+}
+
+export function extractBodyClaimRefs(body) {
+  const refs = new Set();
+  for (const match of String(body || "").matchAll(/\(([cC]\d+(?:\s*[,;]\s*[cC]\d+)*)\)/g)) {
+    for (const id of match[1].split(/\s*[,;]\s*/)) {
+      if (id) refs.add(id.toUpperCase());
+    }
+  }
+  return refs;
+}
 
 export function parseArticle(raw, filePath = "article.md") {
   const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
@@ -76,6 +101,30 @@ export function validateArticle(data, body, filePath = "article.md") {
     errors.push(`${filePath}: disclosure must be true`);
   }
 
+  const dateStr = normalizeDate(data.date);
+  if (data.date !== undefined && data.date !== null && data.date !== "" && dateStr === "") {
+    errors.push(`${filePath}: date must be YYYY-MM-DD`);
+  }
+  const isPhase2 = dateStr !== "" && dateStr >= PHASE_2_START;
+
+  if (data.finding_type !== undefined && data.finding_type !== null && data.finding_type !== "") {
+    if (!FINDING_TYPES.has(String(data.finding_type))) {
+      errors.push(`${filePath}: finding_type must be 'discrepancy' or 'record_gap'`);
+    }
+  } else if (isPhase2) {
+    errors.push(`${filePath}: missing finding_type ('discrepancy' or 'record_gap') required from ${PHASE_2_START}`);
+  }
+
+  if (data.series_part !== undefined && data.series_part !== null) {
+    const part = Number(data.series_part);
+    if (!Number.isInteger(part) || part < 1) {
+      errors.push(`${filePath}: series_part must be a positive integer`);
+    }
+    if (!data.series || String(data.series).trim() === "") {
+      errors.push(`${filePath}: series_part requires a series name`);
+    }
+  }
+
   if (typeof data.finding === "string" && data.finding.trim().split(/\s+/).length < 8) {
     errors.push(`${filePath}: finding is too thin — say what is new, in one specific sentence`);
   }
@@ -83,6 +132,7 @@ export function validateArticle(data, body, filePath = "article.md") {
   const claims = Array.isArray(data.claims) ? data.claims : [];
   const sources = Array.isArray(data.sources) ? data.sources : [];
   const sourceById = new Map(sources.map((s) => [s.id, s]));
+  const claimIds = new Set(claims.map((c) => c?.id).filter(Boolean));
 
   if (claims.length < 1) {
     errors.push(`${filePath}: at least one claim is required`);
@@ -137,6 +187,21 @@ export function validateArticle(data, body, filePath = "article.md") {
     }
   }
 
+  const bodyRefs = extractBodyClaimRefs(body);
+  const claimIdsUpper = new Set([...claimIds].map((id) => String(id).toUpperCase()));
+  for (const ref of bodyRefs) {
+    if (!claimIdsUpper.has(ref)) {
+      errors.push(`${filePath}: body cites unknown claim (${ref})`);
+    }
+  }
+  if (isPhase2) {
+    for (const id of claimIds) {
+      if (!bodyRefs.has(String(id).toUpperCase())) {
+        errors.push(`${filePath}: claim ${id} is declared in frontmatter but never cited in body`);
+      }
+    }
+  }
+
   const lower = `${data.title ?? ""}\n${body}`.toLowerCase();
   if (/\baccording to (?:a |the )?(?:report|article|story) in\b/.test(lower)) {
     errors.push(`${filePath}: news attribution in the lede — use the underlying document`);
@@ -150,6 +215,37 @@ export function validateArticle(data, body, filePath = "article.md") {
     errors.push(`${filePath}: body or dek must identify an autonomous AI reporter`);
   }
 
+  return errors;
+}
+
+export function validatePublishedSequence(articles) {
+  const errors = [];
+  const sorted = [...articles]
+    .map((a) => ({ ...a, dateStr: normalizeDate(a.data?.date) }))
+    .filter((a) => /^\d{4}-\d{2}-\d{2}$/.test(a.dateStr))
+    .sort((a, b) => a.dateStr.localeCompare(b.dateStr));
+
+  for (let i = 1; i < sorted.length; i++) {
+    const prev = sorted[i - 1];
+    const curr = sorted[i];
+    if (curr.dateStr < PHASE_2_START) continue;
+
+    if (curr.data?.finding_type === "record_gap" && prev.data?.finding_type === "record_gap") {
+      errors.push(
+        `${curr.filePath}: Phase 2 ban — a record_gap piece cannot immediately follow another record_gap piece (${prev.filePath})`,
+      );
+    }
+
+    const daysApart = Math.round(
+      (Date.parse(`${curr.dateStr}T00:00:00Z`) - Date.parse(`${prev.dateStr}T00:00:00Z`)) / 86400000,
+    );
+    const isSeriesFollowup = Number(curr.data?.series_part) >= 2;
+    if (daysApart < MIN_CADENCE_DAYS && !isSeriesFollowup) {
+      errors.push(
+        `${curr.filePath}: published ${daysApart} day(s) after ${prev.filePath} (minimum ${MIN_CADENCE_DAYS} days unless series_part >= 2)`,
+      );
+    }
+  }
   return errors;
 }
 
