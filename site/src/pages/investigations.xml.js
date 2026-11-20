@@ -13,8 +13,8 @@ export async function GET(context) {
     .map(
       (article) => `    <item>
       <title>${esc(article.title)}</title>
-      <link>${abs(`investigations/${article.slug}/`)}</link>
-      <guid>${abs(`investigations/${article.slug}/`)}</guid>
+      <link>${esc(abs(`investigations/${article.slug}/`))}</link>
+      <guid>${esc(abs(`investigations/${article.slug}/`))}</guid>
       <pubDate>${new Date(article.date).toUTCString()}</pubDate>
       <description>${esc(article.stakes || article.finding || article.dek || "")}</description>
     </item>`,

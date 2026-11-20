@@ -22,17 +22,13 @@ export async function fetchText(
       });
       if (!res.ok) {
         const err = new Error(`${res.status} ${res.statusText} for ${url}`);
-        if (attempt < retries && res.status >= 500) {
-          lastErr = err;
-          await sleep(1000 * (attempt + 1));
-          continue;
-        }
+        if (res.status < 500) err.retryable = false;
         throw err;
       }
       return await res.text();
     } catch (err) {
       lastErr = err;
-      if (attempt < retries) {
+      if (err.retryable !== false && attempt < retries) {
         await sleep(1000 * (attempt + 1));
         continue;
       }

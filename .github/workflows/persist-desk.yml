@@ -32,6 +32,7 @@ jobs:
           changed="$(git diff --name-only origin/main..."$SHA")"
           echo "$changed"
           published="$(echo "$changed" | grep -E '^newsroom/published/.+\.md$' | grep -v '\.gitkeep$' || true)"
+          drafts="$(echo "$changed" | grep -E '^newsroom/drafts/.+\.md$' || true)"
           site_inputs="$(echo "$changed" | grep -E '^newsroom/(published|desk|investigations)/' || true)"
           hold=0
           if git cat-file -e "$SHA:newsroom/HOLD" 2>/dev/null; then hold=1; fi
@@ -42,13 +43,13 @@ jobs:
           git merge --no-edit "$SHA"
           if [ -n "$published" ] && [ "$hold" = 1 ]; then
             echo "HOLD is set — keeping origin/main published/ off this merge."
-            git rm -r --quiet newsroom/published
+            git rm -r --ignore-unmatch --quiet newsroom/published
             git checkout origin/main -- newsroom/published
             if ! git diff --cached --quiet; then
               git commit -m "Keep published off main while HOLD is set"
             fi
           fi
-          if [ -n "$published" ] && [ "$hold" = 0 ]; then
+          if [ -n "$drafts" ] || { [ -n "$published" ] && [ "$hold" = 0 ]; }; then
             npm ci
             npm run validate:all
           fi

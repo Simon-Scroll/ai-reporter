@@ -42,11 +42,22 @@ const REQUIRED_FIELDS = [
   "disclosure",
 ];
 
+export function normalizeDate(value) {
+  if (value instanceof Date) {
+    if (Number.isNaN(value.getTime())) return "";
+    return value.toISOString().slice(0, 10);
+  }
+  if (typeof value === "string" && /^\d{4}-\d{2}-\d{2}/.test(value)) {
+    return value.slice(0, 10);
+  }
+  return "";
+}
+
 export function extractBodyClaimRefs(body) {
   const refs = new Set();
-  for (const match of String(body || "").matchAll(/\(([^)]*\bC\d+\b[^)]*)\)/g)) {
-    for (const id of match[1].match(/\bC\d+\b/g) || []) {
-      refs.add(id);
+  for (const match of String(body || "").matchAll(/\(([cC]\d+(?:\s*[,;]\s*[cC]\d+)*)\)/g)) {
+    for (const id of match[1].split(/\s*[,;]\s*/)) {
+      if (id) refs.add(id.toUpperCase());
     }
   }
   return refs;
@@ -90,8 +101,11 @@ export function validateArticle(data, body, filePath = "article.md") {
     errors.push(`${filePath}: disclosure must be true`);
   }
 
-  const dateStr = data.date instanceof Date ? data.date.toISOString().slice(0, 10) : String(data.date ?? "");
-  const isPhase2 = /^\d{4}-\d{2}-\d{2}$/.test(dateStr) && dateStr >= PHASE_2_START;
+  const dateStr = normalizeDate(data.date);
+  if (data.date !== undefined && data.date !== null && data.date !== "" && dateStr === "") {
+    errors.push(`${filePath}: date must be YYYY-MM-DD`);
+  }
+  const isPhase2 = dateStr !== "" && dateStr >= PHASE_2_START;
 
   if (data.finding_type !== undefined && data.finding_type !== null && data.finding_type !== "") {
     if (!FINDING_TYPES.has(String(data.finding_type))) {
@@ -174,14 +188,15 @@ export function validateArticle(data, body, filePath = "article.md") {
   }
 
   const bodyRefs = extractBodyClaimRefs(body);
+  const claimIdsUpper = new Set([...claimIds].map((id) => String(id).toUpperCase()));
   for (const ref of bodyRefs) {
-    if (!claimIds.has(ref)) {
+    if (!claimIdsUpper.has(ref)) {
       errors.push(`${filePath}: body cites unknown claim (${ref})`);
     }
   }
   if (isPhase2) {
     for (const id of claimIds) {
-      if (!bodyRefs.has(id)) {
+      if (!bodyRefs.has(String(id).toUpperCase())) {
         errors.push(`${filePath}: claim ${id} is declared in frontmatter but never cited in body`);
       }
     }
@@ -205,7 +220,6 @@ export function validateArticle(data, body, filePath = "article.md") {
 
 export function validatePublishedSequence(articles) {
   const errors = [];
-  const normalizeDate = (d) => (d instanceof Date ? d.toISOString().slice(0, 10) : String(d ?? ""));
   const sorted = [...articles]
     .map((a) => ({ ...a, dateStr: normalizeDate(a.data?.date) }))
     .filter((a) => /^\d{4}-\d{2}-\d{2}$/.test(a.dateStr))

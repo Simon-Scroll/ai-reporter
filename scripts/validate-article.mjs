@@ -44,16 +44,35 @@ async function main() {
   const disclosure = String(masthead.ai_disclosure ?? "").replace(/\s+/g, " ").trim();
 
   let failed = 0;
-  const publishedNames = new Set(
-    targets.filter((f) => expectedStatusFor(f) === "published").map((f) => path.basename(f)),
-  );
+  const publishedNames = new Set();
+  const publishedSlugs = new Set();
+  for (const file of targets) {
+    if (expectedStatusFor(file) !== "published") continue;
+    publishedNames.add(path.basename(file));
+    const raw = await readFile(file, "utf8");
+    const parsed = parseArticle(raw, path.relative(root, file));
+    const slug = parsed.ok ? parsed.data?.slug : undefined;
+    if (slug !== undefined && slug !== null && String(slug) !== "") {
+      publishedSlugs.add(String(slug));
+    }
+  }
   const parsedPublished = [];
 
   for (const file of targets) {
     const expected = expectedStatusFor(file);
     const errors = await validateFile(file, { expectedStatus: expected });
-    if (expected === "draft" && publishedNames.has(path.basename(file))) {
-      errors.push(`${file}: same article exists in published/ and drafts/`);
+    if (expected === "draft") {
+      let duplicate = publishedNames.has(path.basename(file));
+      if (!duplicate && publishedSlugs.size > 0) {
+        const raw = await readFile(file, "utf8");
+        const parsed = parseArticle(raw, path.relative(root, file));
+        const slug = parsed.ok ? parsed.data?.slug : undefined;
+        duplicate =
+          slug !== undefined && slug !== null && String(slug) !== "" && publishedSlugs.has(String(slug));
+      }
+      if (duplicate) {
+        errors.push(`${file}: same article exists in published/ and drafts/`);
+      }
     }
     if (expected === "published") {
       const raw = await readFile(file, "utf8");

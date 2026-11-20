@@ -29,17 +29,72 @@ export function findingTypeLabel(type) {
 
 function linkClaimRefs(html, claimIds) {
   if (!claimIds.size) return html;
-  return html.replace(/\(([^()]*\bC\d+\b[^()]*)\)/g, (full, inner) => {
-    const replaced = inner.replace(/\b(C\d+)\b/g, (id) => {
-      if (!claimIds.has(id)) return id;
-      return `<a class="claim-ref" href="#claim-${id}" title="Jump to claim ${id}">${id}</a>`;
+
+  const canonical = new Map();
+  for (const id of claimIds) canonical.set(String(id).toLowerCase(), String(id));
+
+  const claimPattern = /\(([cC]\d+(?:\s*[,;]\s*[cC]\d+)*)\)/g;
+  const skipTags = new Set(["a", "code", "pre"]);
+  const depth = { a: 0, code: 0, pre: 0 };
+  let out = "";
+  let i = 0;
+
+  while (i < html.length) {
+    if (html[i] === "<") {
+      const end = html.indexOf(">", i);
+      if (end === -1) {
+        out += html.slice(i);
+        break;
+      }
+      const tag = html.slice(i, end + 1);
+      out += tag;
+      const parsed = tag.match(/^<\s*(\/)?\s*([A-Za-z][\w:-]*)/);
+      if (parsed) {
+        const closing = Boolean(parsed[1]);
+        const name = parsed[2].toLowerCase();
+        const selfClosing = /\/\s*>$/.test(tag);
+        if (skipTags.has(name) && !selfClosing) {
+          if (!closing) depth[name] += 1;
+          else if (depth[name] > 0) depth[name] -= 1;
+        }
+      }
+      i = end + 1;
+      continue;
+    }
+
+    const next = html.indexOf("<", i);
+    const end = next === -1 ? html.length : next;
+    const text = html.slice(i, end);
+    const skipped = depth.a || depth.code || depth.pre;
+    out += skipped ? text : rewriteClaimRefs(text, canonical, claimPattern);
+    i = end;
+  }
+
+  return out;
+}
+
+function rewriteClaimRefs(text, canonical, claimPattern) {
+  claimPattern.lastIndex = 0;
+  return text.replace(claimPattern, (full, inner) => {
+    const tokens = inner.split(/(\s*[,;]\s*)/);
+    let linked = 0;
+    const parts = tokens.map((token) => {
+      if (/^\s*[,;]\s*$/.test(token)) return token;
+      const exact = canonical.get(token.toLowerCase());
+      if (!exact) return token;
+      linked += 1;
+      return `<a class="claim-ref" href="#claim-${exact}" title="Jump to claim ${exact}">${exact}</a>`;
     });
-    return `<span class="claim-group">(${replaced})</span>`;
+    if (!linked) return full;
+    return `<span class="claim-group">(${parts.join("")})</span>`;
   });
 }
 
 function wrapTables(html) {
-  return html.replace(/<table([\s\S]*?)<\/table>/g, '<div class="table-wrap"><table$1</table></div>');
+  return html.replace(
+    /<table([\s\S]*?)<\/table>/g,
+    '<div class="table-wrap" tabindex="0" role="region" aria-label="Data table"><table$1</table></div>',
+  );
 }
 
 export async function listPublished() {
