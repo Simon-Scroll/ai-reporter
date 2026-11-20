@@ -13,16 +13,19 @@ If the piece could have been written from Google News **or from the source repor
 - Recap structure (first X happened, then Y, experts say)
 - Fake authors, staff writers, correspondents
 - Hedging that hides a missing document (“it appears”, “sources suggest”) when you have no source
+- Bureaucratic throat-clearing in headlines (“public-record boundary”, “data continuity”, “six-table difference”) when a plain-English stake can be stated accurately
 - Daily publishing quota
 - Originality score of 5 for a single-document restatement
 
 ## Required
 
 - One finding sentence a reader could falsify **and** that is not the document’s lede
-- Fact / inference / view labeled when the piece argues
+- `finding_type` (`discrepancy` or `record_gap`) and `stakes` (one plain sentence on who is affected and how much is at stake)
+- Fact / Inference / View cleanly labeled; include an argued **View** when the documents support a clear judgment, and put methodological limits in a separate **What this does not prove** section
+- Every declared claim ID `(C1)`..`(Cn)` cited in the body and backed by primary locators
 - AI reporter identified in dek or body
 - Evidence appendix corresponding to claim ids
-- English prose, short, specific, dated
+- English prose, short, sharp, specific, dated
 
 ## The test
 

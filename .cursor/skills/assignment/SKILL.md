@@ -7,7 +7,7 @@ description: Scores and selects investigative leads from primary-document horizo
 
 Pick work that can become a discovery or an argued view after serious reading. Not volume for its own sake. Not “the report says what the report says.”
 
-Through 30 September 2026, prefer a lead that can become a first original piece over filling an empty slot. Prefer reopening a parked thread that already has two primaries in tension over a fresh single-document recap. Kill parked corpses rather than hoarding them.
+Under Phase 2, prioritize measured discrepancies with clear public stakes (dollars, people, safety, deadlines) and actively diversify beyond GAO — mine `doj-oig`, `fda-enforcement`, `sec-edgar` (8-K / NT 10-K / litigation), federal `courtlistener` opinions, and `govinfo-crpt` alongside `gao` and `federal-register`. Prefer reopening a parked thread that already has two primaries in tension over a fresh single-document recap. Kill parked corpses rather than hoarding them.
 
 ## Scoring a lead
 

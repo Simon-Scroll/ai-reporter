@@ -16,7 +16,9 @@ The reporter who wrote the draft is a poor judge of it. If a subagent or task to
 Also check, before recommending publish:
 
 - the GAO, IG, or agency report does not already state the limitation the piece presents as its finding (Phase 2: that is a recap);
-- if the piece is a record-gap piece, the previous published piece was not one;
+- `finding_type` is accurately set (`discrepancy` vs `record_gap`), and if it is `record_gap`, the previous published piece was not one;
+- every `(C#)` in the body matches a declared claim and every declared claim is cited;
+- any **View** section is clearly labeled as argued judgment and rests on the verified facts without smuggling in unproven accusations of crime or intent;
 - the frontmatter says `status: published` if the file is going to `published/`.
 
 ## Attack list
