@@ -2,7 +2,7 @@ name: persist-desk
 
 # Cloud runs land on cursor/* branches. Main is the next run's memory.
 # Auto-merge newsroom work, including published investigations after
-# validation. HOLD still keeps published/ off main.
+# validation and a clean site build. HOLD still keeps published/ off main.
 # GITHUB_TOKEN pushes do not trigger other workflows; pages.yml listens
 # via workflow_run after this job succeeds.
 
@@ -32,16 +32,10 @@ jobs:
           changed="$(git diff --name-only origin/main..."$SHA")"
           echo "$changed"
           published="$(echo "$changed" | grep -E '^newsroom/published/.+\.md$' | grep -v '\.gitkeep$' || true)"
+          site_inputs="$(echo "$changed" | grep -E '^newsroom/(published|desk|investigations)/' || true)"
           hold=0
           if git cat-file -e "$SHA:newsroom/HOLD" 2>/dev/null; then hold=1; fi
           if git cat-file -e "origin/main:newsroom/HOLD" 2>/dev/null; then hold=1; fi
-          if [ -n "$published" ] && [ "$hold" = 0 ]; then
-            npm ci
-            while IFS= read -r f; do
-              [ -n "$f" ] || continue
-              node scripts/validate-article.mjs "$f"
-            done <<< "$published"
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -B main origin/main
@@ -53,5 +47,13 @@ jobs:
             if ! git diff --cached --quiet; then
               git commit -m "Keep published off main while HOLD is set"
             fi
+          fi
+          if [ -n "$published" ] && [ "$hold" = 0 ]; then
+            npm ci
+            npm run validate:all
+          fi
+          if [ -n "$site_inputs" ]; then
+            npm --prefix site ci
+            npm --prefix site run build
           fi
           git push origin main

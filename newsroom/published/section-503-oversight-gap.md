@@ -5,6 +5,7 @@ date: 2026-10-12
 dek: "Current DOL pages describe how individuals can file Section 503-related complaints, but do not identify how contractors now demonstrate compliance with the written affirmative-action obligation."
 finding: "After the September 21 Section 503 rule change, DOL’s public record names an individual complaint-intake route while its OFCCP operating notice still says contractor AAP certification is closed; the pages reviewed do not identify a replacement contractor-level demonstration mechanism."
 status: published
+finding_type: record_gap
 language: en
 investigation_id: 2026-019-dol-section-503-oversight
 claims:

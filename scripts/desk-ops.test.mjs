@@ -1,6 +1,14 @@
 import { describe, it } from "node:test";
 import assert from "node:assert/strict";
-import { horizonIsFresh } from "./lib/horizon.mjs";
+import { mkdtemp, mkdir, readdir, rm } from "node:fs/promises";
+import os from "node:os";
+import path from "node:path";
+import {
+  cutoffDate,
+  horizonIsFresh,
+  mergeSeenUrls,
+  pruneOldHorizons,
+} from "./lib/horizon.mjs";
 import { appendRun, lastRunBody, nextRunNumber } from "./lib/journal.mjs";
 import { gaoPdfCandidates, gaoProductId } from "./lib/gao.mjs";
 import {
@@ -10,10 +18,29 @@ import {
 } from "./lib/slots.mjs";
 import { countWords, parseRunHeading } from "./lib/desk-note.mjs";
 
-describe("horizon freshness", () => {
+describe("horizon freshness and retention", () => {
   it("treats today's latest.json as fresh", () => {
     assert.equal(horizonIsFresh({ date: "2026-08-25" }, "2026-08-25"), true);
     assert.equal(horizonIsFresh({ date: "2026-08-24" }, "2026-08-25"), false);
+  });
+
+  it("prunes dated folders older than keepDays and merges seen URLs", async () => {
+    assert.equal(cutoffDate("2026-11-20", 14), "2026-11-07");
+    assert.deepEqual(mergeSeenUrls(["a", "b"], ["c", "a"], 3), ["c", "a", "b"]);
+
+    const tmp = await mkdtemp(path.join(os.tmpdir(), "tpr-horizon-"));
+    try {
+      await mkdir(path.join(tmp, "2026-11-05"));
+      await mkdir(path.join(tmp, "2026-11-06"));
+      await mkdir(path.join(tmp, "2026-11-07"));
+      await mkdir(path.join(tmp, "2026-11-20"));
+      const removed = await pruneOldHorizons(tmp, { today: "2026-11-20", keepDays: 14 });
+      assert.deepEqual(removed, ["2026-11-05", "2026-11-06"]);
+      const kept = (await readdir(tmp)).sort();
+      assert.deepEqual(kept, ["2026-11-07", "2026-11-20"]);
+    } finally {
+      await rm(tmp, { recursive: true, force: true });
+    }
   });
 });
 

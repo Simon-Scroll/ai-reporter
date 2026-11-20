@@ -5,6 +5,7 @@ date: 2026-09-24
 dek: "Current FAR-overhaul text moves the ordinary solicitation representation into the offer while exempting some governmentwide purchase-card micro-purchases from active SAM registration. The official records reviewed do not show where those purchase-card representations can be searched."
 finding: "The current RFO text provides an offer-level Section 889 representation for ordinary solicitations, but the public records reviewed do not identify a searchable equivalent for micro-purchases using a governmentwide commercial purchase card."
 status: published
+finding_type: record_gap
 language: en
 investigation_id: 2026-016-section-889-information-gap
 claims:

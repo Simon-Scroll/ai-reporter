@@ -5,6 +5,7 @@ date: 2026-09-18
 dek: "A same-day comparison found older Citizenship and Integration awards in USAspending, but no matching record when the search begins in 2025—the period covered by DHS’s termination review."
 finding: "The official USAspending endpoint returns older Citizenship and Integration awards but no matching award when the tested period begins in 2025, leaving GAO’s 111-award USCIS termination population without a public award-level join."
 status: published
+finding_type: record_gap
 language: en
 investigation_id: 2026-014-dhs-grant-review
 claims:
