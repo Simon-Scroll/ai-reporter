@@ -1,10 +1,14 @@
 import { fetchText, xmlText } from "../../lib/http.mjs";
 
 // The RSS feed lists 100 recent packages but titles are only report numbers;
-// MODS metadata supplies the subject and committee.
+// MODS metadata supplies the subject and committee. Procedural Rules Committee
+// floor-consideration reports are filtered out.
 
 const URL = "https://www.govinfo.gov/rss/crpt.xml";
-const LIMIT = 20;
+const SCAN_LIMIT = 30;
+const RETURN_LIMIT = 20;
+
+const PROCEDURAL_TITLE = /^(?:PROVIDING FOR CONSIDERATION OF|WAIVING A REQUIREMENT OF|RELATING TO CONSIDERATION OF)\b/i;
 
 function clean(value) {
   return value.replace(/&nbsp;/g, " ").replace(/\s+/g, " ").trim();
@@ -41,13 +45,14 @@ export async function ingest({ userAgent }) {
     }))
     .filter((item) => item.packageId && item.url)
     .sort((a, b) => Date.parse(b.published || 0) - Date.parse(a.published || 0))
-    .slice(0, LIMIT);
+    .slice(0, SCAN_LIMIT);
 
   const details = await Promise.all(items.map((item) => describe(item.packageId, userAgent)));
 
   return items
     .map((item, i) => {
       const meta = details[i];
+      if (meta.title && PROCEDURAL_TITLE.test(meta.title)) return null;
       return {
         source: "govinfo-crpt",
         type: "government",
@@ -59,5 +64,7 @@ export async function ingest({ userAgent }) {
         package_id: item.packageId,
       };
     })
-    .sort((a, b) => Date.parse(b.published || 0) - Date.parse(a.published || 0));
+    .filter(Boolean)
+    .sort((a, b) => Date.parse(b.published || 0) - Date.parse(a.published || 0))
+    .slice(0, RETURN_LIMIT);
 }

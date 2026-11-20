@@ -4,22 +4,32 @@ import { existsSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { parse as parseYaml } from "yaml";
-import { horizonIsFresh, utcStamp } from "../lib/horizon.mjs";
+import {
+  DEFAULT_RETENTION_DAYS,
+  horizonIsFresh,
+  loadSeenUrls,
+  mergeSeenUrls,
+  pruneOldHorizons,
+  saveSeenUrls,
+  utcStamp,
+} from "../lib/horizon.mjs";
 import { ingest as secEdgar } from "./sources/sec-edgar.mjs";
 import { ingest as federalRegister } from "./sources/federal-register.mjs";
 import { ingest as gao } from "./sources/gao.mjs";
-import { ingest as courtlistener } from "./sources/courtlistener.mjs";
-import { ingest as ukLegislation } from "./sources/uk-legislation.mjs";
+import { ingest as dojOig } from "./sources/doj-oig.mjs";
 import { ingest as govinfoCrpt } from "./sources/govinfo-crpt.mjs";
+import { ingest as courtlistener } from "./sources/courtlistener.mjs";
+import { ingest as fdaEnforcement } from "./sources/fda-enforcement.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 const SOURCES = [
   ["sec-edgar", secEdgar],
   ["federal-register", federalRegister],
   ["gao", gao],
+  ["doj-oig", dojOig],
   ["govinfo-crpt", govinfoCrpt],
   ["courtlistener", courtlistener],
-  ["uk-legislation", ukLegislation],
+  ["fda-enforcement", fdaEnforcement],
 ];
 
 async function userAgent() {
@@ -38,8 +48,12 @@ function redact(item) {
   return item.summary ? { ...item, summary: item.summary.replace(EMAIL, "[email removed]") } : item;
 }
 
-async function previousUrls(name, day) {
+async function previousUrls(name, day, seenMap) {
   const horizonDir = path.join(root, "newsroom/horizon");
+  const fromSeen = Array.isArray(seenMap[name]) ? seenMap[name] : [];
+  const urls = new Set(fromSeen);
+  let since = null;
+
   const days = (await readdir(horizonDir))
     .filter((d) => /^\d{4}-\d{2}-\d{2}$/.test(d) && d < day)
     .sort()
@@ -49,19 +63,23 @@ async function previousUrls(name, day) {
     if (!existsSync(file)) continue;
     try {
       const items = JSON.parse(await readFile(file, "utf8"));
-      return { since: d, urls: new Set(items.map((i) => i.url)) };
+      for (const item of items) {
+        if (item.url) urls.add(item.url);
+      }
+      since = d;
+      break;
     } catch {
       continue;
     }
   }
-  return { since: null, urls: new Set() };
+  return { since, urls };
 }
 
 function toBrief(bundles) {
   const lines = [
     `# Horizon brief — ${stamp()}`,
     "",
-    "Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.",
+    "Primary-source intake only (US federal, corporate, judicial, IG, and public-safety records). News articles are not listed here. Pick leads from documents, not coverage.",
     "Items marked NEW were not in the previous brief for that source; the rest were already seen.",
     "",
   ];
@@ -101,7 +119,8 @@ async function main() {
 
   const force = process.argv.includes("--force");
   const day = stamp();
-  const latestPath = path.join(root, "newsroom/horizon/latest.json");
+  const horizonDir = path.join(root, "newsroom/horizon");
+  const latestPath = path.join(horizonDir, "latest.json");
   if (!force && existsSync(latestPath)) {
     try {
       const latest = JSON.parse(await readFile(latestPath, "utf8"));
@@ -115,28 +134,34 @@ async function main() {
   }
 
   const ua = await userAgent();
-  const outDir = path.join(root, "newsroom/horizon", day);
+  const outDir = path.join(horizonDir, day);
   await mkdir(outDir, { recursive: true });
+
+  const seenPath = path.join(horizonDir, "seen-urls.json");
+  const seenMap = await loadSeenUrls(seenPath);
 
   const bundles = [];
   for (const [name, fn] of SOURCES) {
     try {
-      const prev = await previousUrls(name, day);
+      const prev = await previousUrls(name, day, seenMap);
       const items = (await fn({ userAgent: ua }))
         .filter((item) => item.title && item.url)
         .map((item) => ({ ...redact(item), is_new: !prev.urls.has(item.url) }));
       bundles.push({ name, items, since: prev.since });
+      seenMap[name] = mergeSeenUrls(seenMap[name], items.map((i) => i.url));
       await writeFile(path.join(outDir, `${name}.json`), JSON.stringify(items, null, 2));
-      console.log(`${name}: ${items.length} items`);
+      console.log(`${name}: ${items.length} items (${items.filter((i) => i.is_new).length} new)`);
     } catch (err) {
       bundles.push({ name, items: [], error: err.message });
       console.error(`${name}: FAILED ${err.message}`);
     }
   }
 
+  await saveSeenUrls(seenPath, seenMap);
+
   const brief = toBrief(bundles);
   await writeFile(path.join(outDir, "BRIEF.md"), brief);
-  await writeFile(path.join(root, "newsroom/horizon/latest.md"), brief);
+  await writeFile(path.join(horizonDir, "latest.md"), brief);
 
   const summary = {
     date: day,
@@ -149,10 +174,12 @@ async function main() {
     })),
   };
   await writeFile(path.join(outDir, "summary.json"), JSON.stringify(summary, null, 2));
-  await writeFile(
-    path.join(root, "newsroom/horizon/latest.json"),
-    JSON.stringify(summary, null, 2),
-  );
+  await writeFile(latestPath, JSON.stringify(summary, null, 2));
+
+  const pruned = await pruneOldHorizons(horizonDir, { today: day, keepDays: DEFAULT_RETENTION_DAYS });
+  if (pruned.length) {
+    console.log(`Pruned ${pruned.length} horizon folders older than ${DEFAULT_RETENTION_DAYS} days.`);
+  }
 }
 
 main().catch((err) => {
