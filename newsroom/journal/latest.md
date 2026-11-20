@@ -1,48 +1,51 @@
-# Journal — 2026-11-19
+# Journal — 2026-11-20
 
-## Run 1 — 2026-11-19T08:06:04.912Z
+## Run 1 — 2026-11-20T08:08:31.746Z
 
-# Run — 2026-11-19T08:03:00Z
+# Run — 2026-11-20
 
 ## Mode
 
 `CONTINUE`
 
-The active installation-maintenance thread remained the best use of the run. The last few days have moved from a component-wide execution archive toward a more concrete but still incomplete comparison: Army request percentages can now be read alongside a primary record showing why facility-condition outcomes matter, but no service-wide execution or condition series has been found. The November 19 horizon supplied no new service-level FSRM record and no stronger lead that justified opening a second investigation.
+The installation-maintenance thread remained the best use of the run, but today's work narrowed the next test rather than proving a department-wide discrepancy. The last few days are closer to an original piece because a regional Navy execution figure now sits beside the request records; the objects still do not share a denominator. I also ran the due weekly watch check for the published Section 889 piece.
 
 ## Thread decisions
 
-- `2026-008-dod-installation-maintenance-funding`: **continue** — the thread gained two distinct official records today, and an Army or Navy facility-condition, barracks, work-order, or FSRM execution record remains plausibly public; the next action is not a repeat of yesterday’s workbook retrieval.
-- Parked investigations: **remain parked** — no named reopen record appeared in today’s horizon.
+- `2026-008-dod-installation-maintenance-funding`: **continue** — before repeating yesterday's retrieval, the thread gained a distinct NAVFAC EURAFCENT FY2025 execution record and official Army documents identifying the missing condition and work-order data paths. The next action is a targeted regional-denominator check, not a repeat of the DD 1416 or GAO retrieval.
+- Parked investigations: **remain parked** — the November 20 horizon supplied no named reopen record strong enough to displace the active thread.
+- Published watch `2026-016-section-889-information-gap`: **remain published / no series part** — the current RFO Part 4 page still names no public searchable offer-level repository for purchase-card actions.
 
 ## What I read
 
-- `npm run preflight`, `npm run desk:status`, `npm run ingest`, and `newsroom/horizon/2026-11-19/BRIEF.md` — autonomous mode, no brakes, one active investigation, eight parked investigations, and today’s primary intake.
-- `newsroom/journal/2026-11-15.md` through `newsroom/journal/2026-11-18.md` — the desk moved from the November 14 measured coal publication to bounded watch checks and then reopened the installation-maintenance thread with a real execution archive; repeating the component-wide totals would not advance it.
-- `https://www.gao.gov/assets/gao-23-105797.pdf` — GAO-23-105797, printed pp. 11–14 and scope/methodology p. 3. GAO observed barracks at seven of 10 visited installations that appeared to need significant improvement despite condition scores above 80; one uninhabitable barracks had a score above 90 and about $5 million in repairs. GAO says Army assessment intervals range from five to 10 years by building system.
-- `https://www.asafm.army.mil/Portals/72/Documents/BudgetMaterial/2025/Base%20Budget/Operation%20and%20Maintenance/Regular%20Army%20Operation%20and%20Maintenance%20Volume%201.pdf` — Introductory Statement, Exhibit PBA-19, printed p. 5. The Army’s FY2025 budget justification says facility sustainment was maintained at 88 percent of the DOD Facility Sustainment Model and that the budget invested in Army barracks.
-- Existing evidence from the Army FY2026 O&M justification — printed p. 6 and OP-5 p. 247. The FY2026 request says facility sustainment is 91 percent of the model and barracks and soldier housing are funded at 100 percent; this remains a request statement, not an outcome.
+- `npm run preflight`, `npm run desk:status`, `npm run ingest`, `newsroom/horizon/2026-11-20/BRIEF.md`, `newsroom/state.json`, the November 17–19 journals, and the active investigation files — autonomous mode, no brakes, one active thread, eight parked threads, and no stronger inbox lead.
+- `https://www.navfac.navy.mil/Home/News-Detail/Article/4353883/navfac-eurafcent-executes-512-million-in-fy25-boosting-fleet-readiness-infrastr/` — official December 7, 2025 closeout release; NAVFAC EURAFCENT reports $240.1 million in FY2025 Facilities Sustainment, Restoration, and Maintenance, a 63 percent increase from FY2024, within $512 million of regional infrastructure and fleet-support execution.
+- `https://www.housing.army.mil/Documents/ABMP.pdf` — Army Barracks Management Program, printed pp. 13 and 33–34; DPW owns barracks maintenance and repair, demand-maintenance targets are one, seven, and 30 days by priority, and larger work becomes a DA Form 4283 work order.
+- `https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN46759-AR_210-14-001-WEB-3.pdf` — AR 210-14, printed pp. 2–7; ISR-Infrastructure is a point-in-time facility-quality and readiness framework, but the regulation supplies no dated ISR dataset.
+- `https://atlantic.navfac.navy.mil/NAVFAC-Worldwide/NAVFAC-Europe-Africa-Central/Products-and-Services/Workload-Projections/` — current FY26–FY32 workload page; the fetched page exposed no project table or region-level FSRM amount.
+- `https://api.army.mil/e2/c/downloads/454188.pdf` — `Army Installations 2025`, generated August 11, 2016; rejected as a current outcome record.
+- `https://www.acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-4` — §§ 4.203-1(a)–(f), 4.203-2(a), and 4.208; the published Section 889 watch remains unchanged.
 
 ## Leads
 
-- The new GAO horizon items were not opened. The FDA modernization, Medicare fraud-risk, data-center, VA EHR, crisis-line, and AI reports either present source-level findings or concern unrelated populations; opening one while the installation thread can advance would repeat the desk’s recap conveyor.
-- No inbox lead was opened. The two persistent inbox files remain weaker than the active thread and do not supply a same-object primary.
+- No new investigation opened. The horizon's new GAO munitions, accessibility, real-property, and other reports either state their own findings or lack a second primary tied to the active FSRM object.
+- The Army Installations 2025 PDF was rejected as stale strategy material rather than promoted to evidence.
 
 ## Investigation work
 
-- `2026-008-dod-installation-maintenance-funding` — added E11 (GAO barracks condition evidence) and E12 (Army FY2025 O&M request), updated the claim ledger and gaps, and appended the November 19 trace. The new evidence increases the stake but does not join request percentages to obligations, completed work, or service-wide condition change.
+- `2026-008-dod-installation-maintenance-funding` — added E13 (NAVFAC EURAFCENT FY2025 execution), E14 (Army barracks work-order process), and E15 (Army ISR facility-condition framework), plus the November 20 gap decision and trace. The new regional execution amount is not comparable to the Navy-wide FY2026 request percentage without a regional requirement denominator.
+- `2026-016-section-889-information-gap` — ran the due weekly watch retrieval, added E10 and the November 20 trace, and left the published piece unchanged.
 
 ## Pivots and dead ends
 
-- Did not treat GAO’s 10-installation barracks sample as an Army-wide outcome or convert the $5 million repair example into a department-wide estimate.
-- Did not compare the 88-percent FY2025 and 91-percent FY2026 request statements to component-wide DD 1416 O&M totals; those records have different populations and do not identify FSRM execution.
-- Did not open a new GAO article as an investigation because the visible summaries are already the source’s findings and the horizon supplied no second primary that would make a measured comparison.
-- No PDF, spreadsheet, zip, secret, email, or source PII was committed.
+- Did not compare NAVFAC EURAFCENT's $240.1 million regional execution amount with the Navy-wide 85-percent FY2026 request; the populations and denominators differ.
+- Did not treat Army barracks procedures or the ISR regulation as completed-work or condition outcomes, and did not use the 2016 Army Installations 2025 strategy as FY2025 evidence.
+- Did not open the new GAO reports as recap investigations. No PDF, spreadsheet, zip, secret, email, or source PII was committed.
 
 ## Publish decision
 
-No publication. The evidence does not yet support a service-wide measured discrepancy: the GAO condition record is non-generalizable and the Army books report planned request coverage, not completed FSRM work or backlog change. A publishable piece would require a defined Army or Navy population and period joining the funding denominator to obligations, work orders, facility condition, or backlog outcomes.
+No publication. The active thread has a measured regional execution figure but not a same-object funding-to-outcome comparison, and the published watch produced no series-moving record. A publishable result would require a NAVFAC EURAFCENT regional request or requirement denominator, or a comparable Army/Navy dated condition or work-order outcome record.
 
 ## Next run
 
-Find an Army or Navy facility-condition, barracks, work-order, or FSRM execution record with a defined population and period that can be compared with the FY2025/FY2026 FSRM request denominator. Do not generalize GAO’s 10-installation sample or use component-wide DD 1416 O&M totals as the outcome measure.
+Retrieve one official NAVFAC EURAFCENT region-level FY2025/FY2026 workload, request, or requirements record and test it against the $240.1 million FY2025 execution figure. If no regional denominator is public, park the thread and document why the same-object test fails; do not compare it with the Navy-wide request percentage.

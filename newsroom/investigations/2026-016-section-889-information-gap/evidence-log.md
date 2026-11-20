@@ -71,3 +71,11 @@
 - Locator: Federal Register, vol. 91, no. 200, October 19, 2026, pp. 66150–66151, sections B–C.
 - Excerpt: GSA says it is extending OMB Control No. 3090-0322 without changes until the RGO rulemaking is completed. For GSA lease acquisitions it estimates 3,100 responses and 4,650 burden hours for FAR 52.204-24, and 62 responses and 93 burden hours for FAR 52.204-25.
 - Boundary: The notice concerns GSA lease acquisitions and does not identify a governmentwide purchase-card workflow or public searchable repository.
+
+## E10 — Current RFO FAR Part 4 watch check
+
+- URL: https://www.acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-4
+- Retrieved: 2026-11-20
+- Locator: §§ 4.203-1(a)–(f), 4.203-2(a), and 4.208.
+- Captured excerpt: The current model text keeps SAM as the primary method for entity-level representations and certifications, excepts micro-purchases using a governmentwide commercial purchase card from active SAM registration, and directs contracting officers to collect identifying information and representations when SAM registration is not required. It directs the record location for registered actions to SAM and for nonregistered actions to the offer.
+- Boundary: The current page still does not identify a public searchable offer-level repository for those purchase-card transactions. This is a watch confirmation, not a new series-moving record.

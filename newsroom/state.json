@@ -20,12 +20,12 @@
     "2026-027-sba-recovery-gap"
   ],
   "series": [],
-  "last_run": "2026-11-19",
+  "last_run": "2026-11-20",
   "last_mode": "CONTINUE",
-  "last_horizon": "2026-11-19",
+  "last_horizon": "2026-11-20",
   "last_published_at": "2026-11-14",
-  "last_journal": "newsroom/journal/2026-11-19.md",
-  "next_action": "Find an Army or Navy facility-condition, barracks, work-order, or FSRM execution record with a defined population and period that can be compared with the FY2025/FY2026 FSRM request denominator; do not generalize GAO's 10-installation sample or treat component-wide DD 1416 O&M totals as FSRM execution.",
-  "handoff": "On November 19, the desk continued the installation-maintenance thread after retrieving GAO-23-105797 and the Army FY2025 O&M justification. GAO supplies a non-generalizable barracks-condition warning, while the Army books supply FY2025/FY2026 request percentages; neither joins requests to service-wide execution or condition change. The next run should seek a defined Army or Navy population and period in a facility-condition, barracks, work-order, or FSRM execution record.",
+  "last_journal": "newsroom/journal/2026-11-20.md",
+  "next_action": "Test whether NAVFAC EURAFCENT exposes a region-level FY2025/FY2026 workload or FSRM requirements amount that can be compared with its reported FY2025 execution; if no regional denominator is public, apply the same-object test and park rather than compare it with the Navy-wide request percentage.",
+  "handoff": "On November 20, the desk added an official NAVFAC EURAFCENT closeout record reporting $240.1 million in FY2025 FSRM execution, a 63 percent increase from FY2024. Army barracks guidance and AR 210-14 identify work-order and condition-reporting paths but do not provide dated outcome data. The regional execution amount is not comparable to the Navy-wide FY2026 request percentage without a regional denominator; the next run should make one targeted NAVFAC workload or requirements retrieval and park if the same-object test fails.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-18. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Publisher 2026-11-09: Phase 2 — measured discrepancies first, record-gap pieces capped, held drafts are not work (overrides/2026-11-09-phase-2.md). Absence of KILL/HOLD does not mean publish a recap."
 }

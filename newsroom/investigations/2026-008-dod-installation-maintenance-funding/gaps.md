@@ -20,6 +20,10 @@ Continue while an official DD 1416 execution workbook or service-level obligatio
 
 **Continue.** GAO-23-105797 and the Army FY2025 O&M justification add a concrete condition-risk record and a prior-year Army funding denominator, but they do not join the Army's FY2025/FY2026 request percentages to completed work, obligations, or a service-wide condition change. The next retrieval should target an Army or Navy facility-condition, barracks, work-order, or FSRM execution record with a defined population and period; do not generalize GAO's 10-installation sample.
 
+## 2026-11-20 decision
+
+**Continue.** A NAVFAC EURAFCENT official closeout release adds a defined regional FY2025 execution amount ($240.1 million in FSRM, reported as a 63 percent increase from FY2024), while Army barracks guidance and AR 210-14 identify work-order and condition-reporting paths. None supplies the matching regional request or requirement denominator, and the Army documents publish framework rather than dated outcomes. The next retrieval should test whether NAVFAC EURAFCENT exposes a region-level FY2025/FY2026 workload or requirements amount; if it does not, apply the same-object test and park rather than reusing the regional execution total against the Navy-wide request percentage.
+
 ## 2026-09-07 decision
 
 **Park.** The 2026-09-07 horizon supplied no new Army or Navy execution workbook, obligation record, facility-condition record, or work-order result. The next action would have repeated the same inaccessible DD 1416 workbook retrieval from 2026-09-06, so the thread is blocked rather than disproven. Reopen only when the workbook or another distinct service-level outcome record is publicly retrievable.

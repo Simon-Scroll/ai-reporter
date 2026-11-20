@@ -96,3 +96,29 @@
 - Locator: Introductory Statement, Exhibit PBA-19, printed p. 5.
 - Captured excerpt: The Army's FY2025 budget justification says the budget maintains facility sustainment at 88 percent of the Department of Defense Facility Sustainment Model and invests in Army barracks.
 - Boundary: This is a budget request and justification, not an obligation, completed-work, condition-outcome, or backlog-reduction record.
+
+## E13 — NAVFAC EURAFCENT FY2025 execution
+
+- URL: https://www.navfac.navy.mil/Home/News-Detail/Article/4353883/navfac-eurafcent-executes-512-million-in-fy25-boosting-fleet-readiness-infrastr/
+- Retrieved: 2026-11-20
+- Locator: official NAVFAC EURAFCENT news release dated December 7, 2025, “Key highlights of NAVFAC EURAFCENT's fiscal year 25 execution.”
+- Captured excerpt: NAVFAC Europe Africa Central says it executed $512 million in infrastructure and fleet-support projects in FY2025, including $240.1 million in Facilities Sustainment, Restoration, and Maintenance, a 63 percent increase from FY2024. The release says the total included $22.1 million in BSS1 Israel Support Plus-Up funds and two Navy Installations Command centrally managed projects.
+- Boundary: This is a regional execution report for NAVFAC EURAFCENT, not a Navy-wide FSRM requirement, request, obligation ledger, work-order closure count, or condition-outcome series. The release does not provide the FY2025 regional denominator needed to compare execution with the Navy’s FY2026 modeled-request percentage.
+
+## E14 — Army barracks work-order process
+
+- URL: https://www.housing.army.mil/Documents/ABMP.pdf
+- Retrieved: 2026-11-20
+- Hash: `50cc78a22f8c8c2b338351fb4638a214a833bd4eca3521125264f215c9fbbbed`
+- Locator: Army Barracks Management Program, printed pp. 13, 33–34, sections 1.3.3 and 6.7–6.8.
+- Captured excerpt: The handbook assigns installation Directorates of Public Works responsibility for barracks maintenance and repair funded through sustainment, restoration, and modernization. It defines demand-maintenance priorities of emergency, urgent, and routine, with target completion periods of one, seven, and 30 days; larger or complex requests become work orders through DA Form 4283 and are closed in the applicable systems after satisfactory completion.
+- Boundary: This is a process and timing standard, not a FY2025/FY2026 Army-wide count of requests received, work orders completed, obligations, or backlog. It identifies a plausible record path but does not supply an outcome denominator.
+
+## E15 — Army Installation Status Report facility-condition framework
+
+- URL: https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN46759-AR_210-14-001-WEB-3.pdf
+- Retrieved: 2026-11-20
+- Hash: `874bbc0fb0956fcc7fcc2af14f4c0d85a076b854c72b650b990c102541599b98`
+- Locator: AR 210-14, printed pp. 2–7, paragraphs 1-6 and 1-7.
+- Captured excerpt: The regulation says the Installation Status Report assesses facility readiness and infrastructure quality at a specific point in time. ISR-Infrastructure evaluates the quality and readiness of Army infrastructure at each reporting location, calculates costs to improve the inventory, and provides current conditions and readiness indicators that represent Armywide base-sustainment conditions and trends.
+- Boundary: The regulation describes the reporting framework and does not publish a dated ISR dataset, Army-wide facility-condition result, work-order execution record, or backlog change that can be joined to the FY2025/FY2026 FSRM request denominator.

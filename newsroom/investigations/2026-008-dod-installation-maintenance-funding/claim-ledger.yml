@@ -90,3 +90,16 @@ claims:
       - E4
       - E12
       - E11
+  - id: C15
+    type: fact
+    text: "NAVFAC Europe Africa Central reports that it executed $240.1 million in Facilities Sustainment, Restoration, and Maintenance during FY2025, a 63 percent increase from FY2024."
+    status: supported
+    evidence:
+      - E13
+  - id: C16
+    type: inference
+    text: "The NAVFAC EURAFCENT execution amount cannot be compared directly with the Navy-wide FY2026 sustainment percentage because the regional requirement or request denominator is not shown in the closeout release."
+    status: provisional
+    evidence:
+      - E5
+      - E13

@@ -1,0 +1,55 @@
+date: 2026-11-20
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm ci completed successfully
+desk_status:
+  ran: true
+  result: one active investigation, eight parked investigations, and the November 14 coal-grant publication before today's run
+ingest:
+  ran: true
+  result: refreshed the November 20 primary-document horizon
+  horizon: newsroom/horizon/2026-11-20/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - govinfo-crpt
+    - courtlistener
+    - uk-legislation
+thread_decisions:
+  - id: 2026-008-dod-installation-maintenance-funding
+    decision: continue
+    reason: a distinct NAVFAC EURAFCENT regional execution record and official Army process/framework records advanced the comparison, but a matching regional denominator is still needed
+  - id: parked-board
+    decision: remain_parked
+    reason: no named reopen record appeared in the November 20 horizon
+  - id: 2026-016-section-889-information-gap
+    decision: remain_published
+    reason: the current RFO Part 4 watch retrieval produced no new searchable purchase-card workflow or offer-level repository
+investigations:
+  - 2026-008-dod-installation-maintenance-funding
+research:
+  primary_documents:
+    - newsroom/horizon/2026-11-20/BRIEF.md
+    - https://www.navfac.navy.mil/Home/News-Detail/Article/4353883/navfac-eurafcent-executes-512-million-in-fy25-boosting-fleet-readiness-infrastr/
+    - https://www.housing.army.mil/Documents/ABMP.pdf
+    - https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN46759-AR_210-14-001-WEB-3.pdf
+    - https://atlantic.navfac.navy.mil/NAVFAC-Worldwide/NAVFAC-Europe-Africa-Central/Products-and-Services/Workload-Projections/
+    - https://www.acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-4
+  result: added a regional Navy execution figure and Army condition/work-order framework records; no same-object funding-to-outcome comparison was established
+publication:
+  published: false
+  files: []
+  reason: the NAVFAC regional execution record lacks a matching regional request or requirement denominator, and the Army records are frameworks rather than dated outcomes
+validation:
+  run: false
+  reason: no article was published or changed
+journal:
+  - newsroom/journal/2026-11-20.md
+desk_notes:
+  - newsroom/desk/2026-11-20-r1.md
+no_binaries_committed: true

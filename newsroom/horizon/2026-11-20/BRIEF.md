@@ -1,0 +1,337 @@
+# Horizon brief — 2026-11-20
+
+Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
+Items marked NEW were not in the previous brief for that source; the rest were already seen.
+
+## sec-edgar
+25 new of 25 since 2026-11-19.
+
+- NEW · **4 - Grove Collaborative Holdings, Inc. (0001841761) (Issuer)**
+  - when: 2026-11-19T21:52:38-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1841761/000184176126000127/0001841761-26-000127-index.htm
+  - Filed: 2026-11-19 AccNo: 0001841761-26-000127 Size: 9 KB
+- NEW · **4 - Karp Jason H. (0001832413) (Reporting)**
+  - when: 2026-11-19T21:52:38-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1832413/000184176126000127/0001841761-26-000127-index.htm
+  - Filed: 2026-11-19 AccNo: 0001841761-26-000127 Size: 9 KB
+- NEW · **4 - Lucidi Bruno (0001829622) (Reporting)**
+  - when: 2026-11-19T21:51:12-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1829622/000119312526469038/0001193125-26-469038-index.htm
+  - Filed: 2026-11-19 AccNo: 0001193125-26-469038 Size: 13 KB
+- NEW · **4 - Atea Pharmaceuticals, Inc. (0001593899) (Issuer)**
+  - when: 2026-11-19T21:51:12-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1593899/000119312526469038/0001193125-26-469038-index.htm
+  - Filed: 2026-11-19 AccNo: 0001193125-26-469038 Size: 13 KB
+- NEW · **4 - Atea Pharmaceuticals, Inc. (0001593899) (Issuer)**
+  - when: 2026-11-19T21:51:07-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1593899/000119312526469037/0001193125-26-469037-index.htm
+  - Filed: 2026-11-19 AccNo: 0001193125-26-469037 Size: 5 KB
+- NEW · **4 - Polsky Bruce (0001508458) (Reporting)**
+  - when: 2026-11-19T21:51:07-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1508458/000119312526469037/0001193125-26-469037-index.htm
+  - Filed: 2026-11-19 AccNo: 0001193125-26-469037 Size: 5 KB
+- NEW · **SCHEDULE 13D - Estate of Alvin Libin (0002150162) (Filed by)**
+  - when: 2026-11-19T21:50:13-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/2150162/000121390026122366/0001213900-26-122366-index.htm
+  - Filed: 2026-11-19 AccNo: 0001213900-26-122366 Size: 32 KB
+- NEW · **SCHEDULE 13D - Riley Exploration Permian, Inc. (0001001614) (Subject)**
+  - when: 2026-11-19T21:50:13-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1001614/000121390026122366/0001213900-26-122366-index.htm
+  - Filed: 2026-11-19 AccNo: 0001213900-26-122366 Size: 32 KB
+- NEW · **4 - Nason Jennifer (0002052022) (Reporting)**
+  - when: 2026-11-19T21:47:44-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/2052022/000205202226000011/0002052022-26-000011-index.htm
+  - Filed: 2026-11-19 AccNo: 0002052022-26-000011 Size: 6 KB
+- NEW · **4 - Hewlett Packard Enterprise Co (0001645590) (Issuer)**
+  - when: 2026-11-19T21:47:44-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1645590/000205202226000011/0002052022-26-000011-index.htm
+  - Filed: 2026-11-19 AccNo: 0002052022-26-000011 Size: 6 KB
+- NEW · **3 - Nason Jennifer (0002052022) (Reporting)**
+  - when: 2026-11-19T21:44:07-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/2052022/000205202226000010/0002052022-26-000010-index.htm
+  - Filed: 2026-11-19 AccNo: 0002052022-26-000010 Size: 13 KB
+- NEW · **3 - Hewlett Packard Enterprise Co (0001645590) (Issuer)**
+  - when: 2026-11-19T21:44:07-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1645590/000205202226000010/0002052022-26-000010-index.htm
+  - Filed: 2026-11-19 AccNo: 0002052022-26-000010 Size: 13 KB
+
+## federal-register
+20 new of 20 since 2026-11-19.
+
+- NEW · **Updates and Amendments to the Civil Service Rules**
+  - when: 2026-11-20
+  - url: https://www.federalregister.gov/documents/2026/11/20/2026-23732/updates-and-amendments-to-the-civil-service-rules
+  - Personnel Management Office — Rule — The Office of Personnel Management (OPM) is confirming the effective date of the direct final rule updating and amending obsolete and outdated provisions of the Civil Service Rules. OPM received no significant adverse comments and therefore confirms that the direct final rule became effective as scheduled.
+- NEW · **Procedures for Settling Claims**
+  - when: 2026-11-20
+  - url: https://www.federalregister.gov/documents/2026/11/20/2026-23731/procedures-for-settling-claims
+  - Personnel Management Office — Rule — The Office of Personnel Management (OPM) confirms that the direct final rule updating the procedures for submitting certain administrative claims to OPM became effective as scheduled.
+- NEW · **FLSA Claims and Compliance**
+  - when: 2026-11-20
+  - url: https://www.federalregister.gov/documents/2026/11/20/2026-23730/flsa-claims-and-compliance
+  - Personnel Management Office — Rule — The Office of Personnel Management (OPM) confirms that the direct final rule updating provisions concerning Fair Labor Standards Act (FLSA) claims submissions to OPM became effective as scheduled.
+- NEW · **Federal Employees' Retirement System; Present Value Conversion Factors for Spouses of Deceased Separated Employees**
+  - when: 2026-11-20
+  - url: https://www.federalregister.gov/documents/2026/11/20/2026-23729/federal-employees-retirement-system-present-value-conversion-factors-for-spouses-of-deceased
+  - Personnel Management Office — Rule — The Office of Personnel Management (OPM) is confirming the effective date of its direct final rule revising the table of reduction factors for early commencing dates of survivor annuities paid to spouses of separated employees who die before the date on which they would be eligible for unreduced deferred annuities. OPM received no significant adverse comments during the comment period and confirms the rule was effective August 24, 2026.
+- NEW · **Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Military Readiness Activities in the Northwest Training and Testing Study Area**
+  - when: 2026-11-20
+  - url: https://www.federalregister.gov/documents/2026/11/20/2026-23728/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-military-readiness
+  - Commerce Department, National Oceanic and Atmospheric Administration — Notice — NMFS has received a request from the U.S. Department of the Navy (including the U.S. Navy and the U.S. Marine Corps (Navy)) and on behalf of the U.S. Coast Guard (Coast Guard); hereafter, Navy and Coast Guard are collectively referred to as Action Proponents) for authorization to take marine mammals incidental to training, testing, and modernization and sustainment of ranges conducted in the Northwest Training and Te
+- NEW · **Agency Information Collection Activities: Submission for OMB Review, Comment Request; Environmental and Historic Preservation Screening Form**
+  - when: 2026-11-20
+  - url: https://www.federalregister.gov/documents/2026/11/20/2026-23727/agency-information-collection-activities-submission-for-omb-review-comment-request-environmental-and
+  - Homeland Security Department, Federal Emergency Management Agency — Notice — The Federal Emergency Management Agency (FEMA) will submit the information collection abstracted below to the Office of Management and Budget for review and clearance in accordance with the requirements of the Paperwork Reduction Act of 1995. FEMA invites the general public to take this opportunity to comment on an extension of a currently approved information collection. In accordance with the requirements of the Paper
+- NEW · **Agency Information Collection Activities: Proposed Collection; Comment Request; State, Tribe, and Territory Disaster Case Management (DCM) Federal Award**
+  - when: 2026-11-20
+  - url: https://www.federalregister.gov/documents/2026/11/20/2026-23726/agency-information-collection-activities-proposed-collection-comment-request-state-tribe-and
+  - Homeland Security Department, Federal Emergency Management Agency — Notice — The Federal Emergency Management Agency (FEMA), as part of its continuing effort to reduce paperwork and respondent burden, invites the public to take this opportunity to comment on a revision of a currently approved information collection. In accordance with the Paperwork Reduction Act of 1995, this notice seeks comments concerning information collected during the request by a State, Tribal, or territorial government f
+- NEW · **Center for Scientific Review; Notice of Closed Meeting**
+  - when: 2026-11-20
+  - url: https://www.federalregister.gov/documents/2026/11/20/2026-23725/center-for-scientific-review-notice-of-closed-meeting
+  - Health and Human Services Department, National Institutes of Health — Notice
+- NEW · **Extension of Import Restrictions Imposed on Archaeological and Ethnological Material of Greece**
+  - when: 2026-11-20
+  - url: https://www.federalregister.gov/documents/2026/11/20/2026-23724/extension-of-import-restrictions-imposed-on-archaeological-and-ethnological-material-of-greece
+  - Homeland Security Department, U.S. Customs and Border Protection — Rule — This document amends U.S. Customs and Border Protection (CBP) regulations to reflect the extension of import restrictions on certain categories of archaeological and ecclesiastical ethnological material from the Hellenic Republic (Greece), which were originally published in CBP Decision (Dec.) 11-25 on December 1, 2011, and subsequently extended in 2016, and amended and extended in 2021 in CBP Dec. 21-16. The CBP regulatio
+- NEW · **Caribbean Fishery Management Council 191st Public Hybrid Meeting**
+  - when: 2026-11-20
+  - url: https://www.federalregister.gov/documents/2026/11/20/2026-23723/caribbean-fishery-management-council-191st-public-hybrid-meeting
+  - Commerce Department, National Oceanic and Atmospheric Administration — Notice — The Caribbean Fishery Management Council (CFMC) will hold the 191st public hybrid meeting to address the items contained in the tentative agenda included in the SUPPLEMENTARY INFORMATION.
+- NEW · **Accreditation and Approval of Intertek USA, Inc. (Texas City, TX), as a Commercial Gauger and Laboratory**
+  - when: 2026-11-20
+  - url: https://www.federalregister.gov/documents/2026/11/20/2026-23722/accreditation-and-approval-of-intertek-usa-inc-texas-city-tx-as-a-commercial-gauger-and-laboratory
+  - Homeland Security Department, U.S. Customs and Border Protection — Notice — Notice is hereby given, pursuant to CBP regulations, that Intertek USA, Inc. (Texas City, TX), has been approved to gauge petroleum and certain petroleum products and accredited to test petroleum and certain petroleum products for customs purposes for the next three years as of October 28, 2025.
+- NEW · **Privacy Act of 1974; Systems of Records**
+  - when: 2026-11-20
+  - url: https://www.federalregister.gov/documents/2026/11/20/2026-23721/privacy-act-of-1974-systems-of-records
+  - Justice Department — Notice — Pursuant to the Privacy Act of 1974 and Office of Management and Budget (OMB) Circular No. A-108, notice is hereby given that the Drug Enforcement Administration (hereinafter DEA), a component within the United States Department of Justice (DOJ or Department), proposes to modify its system of records notice (SORN) JUSTICE/DEA-015, titled "Training Files" to be renamed JUSTICE/DEA-015 Training and Outreach Records in order to more precisely define all record categori
+
+## gao
+8 new of 20 since 2026-11-19.
+
+- NEW · **Federal Accessibility: Agencies Not Consistently Meeting the Information and Communication Technology Needs of People with Disabilities**
+  - when: Thu, 19 Nov 2026 07:12:01 -0500
+  - url: https://www.gao.gov/products/gao-27-107934
+  - pdf: https://www.gao.gov/assets/gao-27-107934.pdf
+  - What GAO Found Section 508 of the Rehabilitation Act of 1973 generally requires federal agencies to develop, procure, maintain, and use information and communication technology (ICT) that is accessible to people with disabilities. ICT includes things such as websites and electronic forms. According to governmentwide guidance, agencies should test ICT for accessibility before it is deployed. However, in 2025, most federal agencies responding to a federal survey reported inconsistent testing. Fur
+- NEW · **Federal Real Property: Commerce Could Save Tens of Millions of Dollars by Consolidating Underused Office Space**
+  - when: Thu, 19 Nov 2026 07:11:05 -0500
+  - url: https://www.gao.gov/products/gao-27-108813
+  - pdf: https://www.gao.gov/assets/gao-27-108813.pdf
+  - What GAO Found Most of the Department of Commerce’s (Commerce) office space was underutilized in early 2026 when compared to the Utilizing Space Efficiently and Improving Technologies (USE IT) Act target of 60 percent utilization. Specifically, GAO found that about 59 percent of Commerce’s 351 office locations were underutilized across the department and its 13 bureaus. This is consistent with the General Services Administration’s (GSA) 2026 utilization report for Commerce over the same time pe
+- NEW · **Small Business Research Programs: Selected Agencies Address Foreign Risks and Take Various Approaches to Track Data**
+  - when: Thu, 19 Nov 2026 07:15:49 -0500
+  - url: https://www.gao.gov/products/gao-27-108923
+  - pdf: https://www.gao.gov/assets/gao-27-108923.pdf
+  - What GAO Found The SBIR and STTR Extension Act of 2022 (Extension Act) requires participating agencies to assess security risks posed by small businesses applying for funding through the Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) programs. GAO found that the five agencies it examined do so by considering a range of individuals and factors (see figure). For example, to identify risks associated with foreign ownership, agencies may review business inve
+- NEW · **DOD Munitions: Planning and Leadership Needed to Address Persistent Shortages**
+  - when: Thu, 19 Nov 2026 07:06:09 -0500
+  - url: https://www.gao.gov/products/gao-27-109420
+  - pdf: https://www.gao.gov/assets/gao-27-109420.pdf
+  - What GAO Found In 2025, the Department of Defense (DOD) Acting Assistant Secretary of Defense for Sustainment testified that DOD had a shortage of several key munitions. DOD has taken steps to improve its munitions inventory shortages by, among other things, establishing munitions working groups focused on identifying ways to increase munition production. The 2026 conflict with Iran has heightened the importance of addressing munitions stockpile and industrial base challenges. Examples of Depa
+- NEW · **Bureau of Indian Affairs: Additional Actions Needed to Address Law Enforcement Staffing Challenges**
+  - when: Thu, 19 Nov 2026 07:17:31 -0500
+  - url: https://www.gao.gov/products/gao-27-108433
+  - pdf: https://www.gao.gov/assets/gao-27-108433.pdf
+  - What GAO Found The Department of the Interior and the Department of Justice (DOJ) fund law enforcement services on tribal lands through self-determination contracts, self-governance compacts, and competitive grants. Additionally, the Bureau of Indian Affairs (BIA) provides policing services directly to approximately 60 Tribes and provides specialized investigative services, such as units for drug enforcement and missing and murdered indigenous people, to all Tribes in conjunction with the Feder
+- NEW · **Immigration Detention: ICE Should Determine Cost Effectiveness of New Initiatives Before Continuing**
+  - when: Thu, 19 Nov 2026 07:06:58 -0500
+  - url: https://www.gao.gov/products/gao-27-108665
+  - pdf: https://www.gao.gov/assets/gao-27-108665.pdf
+  - What GAO Found Within the Department of Homeland Security (DHS), U.S. Immigration and Customs Enforcement (ICE) received $45 billion in immigration detention funding in July 2025 through Public Law 119-21, commonly known as the One Big Beautiful Bill Act, available through fiscal year 2029. In addition to maintaining existing facilities with these funds, ICE began implementing an initiative to buy and renovate a collection of warehouses to use as new detention facilities. However, after acquiri
+- NEW · **SUPPLEMENTAL MATERIAL FOR GAO-26-108057: FEMA Assistance for People with Disabilities**
+  - when: Thu, 19 Nov 2026 07:23:43 -0500
+  - url: https://www.gao.gov/products/gao-27-109349
+  - pdf: https://www.gao.gov/assets/gao-27-109349.pdf
+  - This is an Easy Read version of GAO's report Disaster Assistance: FEMA Actions Needed to Better Support People with Disabilities in Disasters, GAO-27-108057. Easy Read is a way some groups make their written information easier to understand. For example, Easy Read documents use short sentences and plain language. In this report, GAO found that the Federal Emergency Management Agency (FEMA) gives information to states and communities about helping people with disabilities before, during, and aft
+- NEW · **Critical Infrastructure Protection: Further Action Needed to Enhance Cybersecurity of the Food and Agriculture Sector**
+  - when: Thu, 19 Nov 2026 06:58:18 -0500
+  - url: https://www.gao.gov/products/gao-27-108656
+  - pdf: https://www.gao.gov/assets/gao-27-108656.pdf
+  - What GAO Found Increased use of technologies in the food and agriculture sector has made the sector more vulnerable to cybersecurity incidents, such as ransomware attacks. For example, a 2021 ransomware attack on a global meat processing company shut down some of the world’s largest slaughterhouses and caused a shortage in meat supplies in the U.S. and other countries. The U.S. Department of Agriculture (USDA) and the Department of Health and Human Services’ Food and Drug Administration (FDA),
+- **Cybersecurity: Agencies Need to Fully Address Federal Guidance as They Refine Zero Trust Architecture**
+  - when: Wed, 18 Nov 2026 08:01:21 -0500
+  - url: https://www.gao.gov/products/gao-27-108661
+  - pdf: https://www.gao.gov/assets/gao-27-108661.pdf
+  - What GAO Found A zero trust architecture (ZTA) is a set of cybersecurity principles that state that organizations must verify everything that attempts to access their systems and services. Almost all of the 22 agencies in this review had plans for zero trust architectures in their information technology (IT) environments. ZTA implementation will evolve over time as technology changes. As of August 2026, five agencies had addressed guidance from the Office of Management and Budget (OMB) or Natio
+- **Medicare: HHS and CMS Should Better Manage Fraud Risks**
+  - when: Wed, 18 Nov 2026 07:15:06 -0500
+  - url: https://www.gao.gov/products/gao-27-109072
+  - pdf: https://www.gao.gov/assets/gao-27-109072.pdf
+  - What GAO Found The Centers for Medicare &amp; Medicaid Services (CMS)—within the Department of Health and Human Services (HHS)—and its various contractors oversee the traditional Medicare Fee-for-Service program (Medicare). CMS reported spending nearly $481&nbsp;billion on benefits for about 34 million Medicare beneficiaries in 2025. CMS uses the Vulnerability Management (VM) Process within the Center for Program Integrity (CPI) to manage fraud risks. However, this process is broader in scope
+- **Federal Data Centers: Congress Has an Opportunity to Improve Agencies' Acquisition and Operations**
+  - when: Wed, 18 Nov 2026 07:21:50 -0500
+  - url: https://www.gao.gov/products/gao-27-108971
+  - pdf: https://www.gao.gov/assets/gao-27-108971.pdf
+  - What GAO Found Of the 24 Chief Financial Officers Act agencies, 21 reported having data centers. Those 21 agencies varied in incorporating the Office of Management and Budget’s (OMB) five acquisition and operational requirements into the management and planning of their data centers. As of August 2026, none of the agencies had fully addressed all five requirements. For example, nine agencies reported using automated tools to monitor data center operations but the documentation they provided did
+- **Science & Tech Spotlight: New World Screwworm Eradication**
+  - when: Wed, 18 Nov 2026 07:33:18 -0500
+  - url: https://www.gao.gov/products/gao-27-109347
+  - pdf: https://www.gao.gov/assets/gao-27-109347.pdf
+  - Why This Matters New World screwworm is a parasitic fly that could cost the U.S. cattle industry billions of dollars per year. The eggs laid by screwworm flies hatch into larvae that infect cattle, sheep, and other animals, causing painful wounds and death if untreated. Over 100 total cases have been identified in the U.S. as of November 2026. Experts are concerned that existing control capabilities, which use sterile flies, may be insufficient to combat new outbreaks. Key Takeaways Ongoing
+
+## govinfo-crpt
+1 new of 20 since 2026-11-19.
+
+- NEW · **H. Rept. 119-886 — INTELLIGENCE AUTHORIZATION ACT FOR FISCAL YEAR 2027**
+  - when: 2026-11-18
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt886
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt886/pdf/CRPT-119hrpt886.pdf
+  - House Permanent Select Committee on Intelligence
+- **H. Rept. 119-882 — PREVENTIVE HEALTH SAVINGS ACT**
+  - when: 2026-11-17
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt882
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt882/pdf/CRPT-119hrpt882.pdf
+  - Committee on the Budget
+- **H. Rept. 119-881 — PROVIDING FOR CONSIDERATION OF THE BILL (H.R. 3495) TO AMEND THE FAIR LABOR STANDARDS ACT OF 1938 TO CLARIFY THE DEFINITION OF EMPLOYEE AS IT RELATES TO DIRECT SELLERS AND REAL ESTATE AGENTS, AND FOR OTHER PURPOSES, AND PROVIDING FOR CONSIDERATION OF THE BILL (H.R. 5267) TO PRESERVE THE FRANCHISE BUSINESS MODE**
+  - when: 2026-11-17
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt881
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt881/pdf/CRPT-119hrpt881.pdf
+  - Committee on Rules
+- **H. Rept. 119-878 — PROVIDING FOR CONSIDERATION OF THE BILL (H.R. 1013) TO AMEND THE FEDERAL SECURITIES LAWS TO ENHANCE 403(B) PLANS, AND FOR OTHER PURPOSES**
+  - when: 2026-11-09
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt878
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt878/pdf/CRPT-119hrpt878.pdf
+  - Committee on Rules
+- **H. Rept. 119-877 — NUCLEAR ADVISORY COMMITTEE REFORM ACT**
+  - when: 2026-11-05
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt877
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt877/pdf/CRPT-119hrpt877.pdf
+  - Committee on Energy and Commerce
+- **H. Rept. 119-872 — EFFICIENT NUCLEAR LICENSING HEARINGS ACT**
+  - when: 2026-11-05
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt872
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt872/pdf/CRPT-119hrpt872.pdf
+  - Committee on Energy and Commerce
+- **H. Rept. 119-873 — COMPREHENSIVE HEALTH AND INTEGRITY IN LICENSING AND DOCUMENTATION ACT OF 2026**
+  - when: 2026-11-05
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt873
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt873/pdf/CRPT-119hrpt873.pdf
+  - Committee on the Judiciary
+- **H. Rept. 119-875 — AMERICAN ENRICHMENT DEPLOYMENT ACT**
+  - when: 2026-11-05
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt875
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt875/pdf/CRPT-119hrpt875.pdf
+  - Committee on Energy and Commerce
+- **H. Rept. 119-869 — FRAUD REDUCTION AND UNCOVERING DECEPTION IN VA DISABILITY EXAMS ACT**
+  - when: 2026-11-05
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt869
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt869/pdf/CRPT-119hrpt869.pdf
+  - Committee on Veterans&apos; Affairs
+- **H. Rept. 119-867 — REINFORCING UNDERSERVED, RURAL, AND LOCAL HEALTHCARE ACT**
+  - when: 2026-11-02
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt867
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt867/pdf/CRPT-119hrpt867.pdf
+  - Committee on Education and Workforce
+- **H. Rept. 119-868 — VALUING EMPLOYEE STOCK TODAY ACT**
+  - when: 2026-11-02
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt868
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt868/pdf/CRPT-119hrpt868.pdf
+  - Committee on Education and Workforce
+- **H. Rept. 119-853 — MARINER EXAM MODERNIZATION ACT**
+  - when: 2026-10-29
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt853
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt853/pdf/CRPT-119hrpt853.pdf
+  - Committee on Transportation and Infrastructure
+
+## courtlistener
+20 new of 20 since 2026-11-19.
+
+- NEW · **State v. Sharpley**
+  - when: 2026-11-24T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11065985/state-v-sharpley/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- NEW · **Matter of Allen**
+  - when: 2026-11-19T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11066785/matter-of-allen/
+  - Matter of Allen 2026 NY Slip Op 06876 November 19, 2026 Appellate Division, Third Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. In the Matter of Marc Sebastian Allen, an Attorney. (Attorney Registration No. 5230008.) Decided and Entered:November 19, 2026 PM-261-26 Calendar Date: November 16, 2026 Before: Garry, P.J., Mcshan, Powers, Mackey And Ryba, Original document
+- NEW · **Zain v. Ernest L. Isaacson, DPM, P.C.**
+  - when: 2026-11-19T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11066867/zain-v-ernest-l-isaacson-dpm-pc/
+  - Zain v Ernest L. Isaacson, DPM, P.C. 2026 NY Slip Op 06860 November 19, 2026 Court of Appeals Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Robert Zain, Respondent, v Ernest L. Isaacson, DPM, P.C. et al., Appellants. Decided on November 19, 2026 No. 96 Megan A. Lawless, for appellants. Jonathan R. Ratchik, for respondent. [*1] MEMORANDUM: The order of the Appellate Original document
+- NEW · **Cohen v. 458 Grand Broadway Owners Corp.**
+  - when: 2026-11-19T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11066762/cohen-v-458-grand-broadway-owners-corp/
+  - Cohen v 458 Grand Broadway Owners Corp. 2026 NY Slip Op 06885 November 19, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Vincent Cohen et al., Plaintiffs-Appellants, v 458 Grand Broadway Owners Corp., Defendant-Respondent. Decided and Entered: November 19, 2026 Index No. 159191/24|Appeal No. 7546 & M-6952|Case No. 2025-01666| Original document
+- NEW · **LOPEZ v. STATE**
+  - when: 2026-11-19T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11066566/lopez-v-state/
+  - IN THE ARIZONA COURT OF APPEALS DIVISION ONE LEILAH LOPEZ, Petitioner, v. THE STATE OF ARIZONA, ex rel., RACHEL MITCHELL, the Maricopa County Attorney, Respondents. No. 1 CA-SA 26-0214 FILED 11-19-2026 Petition for Special Action from the Superior Court in Maricopa County Original document
+- NEW · **Placeholder name**
+  - when: 2026-11-19T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11067007/placeholder-name/
+  - If this opinion indicates that it is “FOR PUBLICATION,” it is subject to revision until final publication in the Michigan Appeals Reports. STATE OF MICHIGAN COURT OF APPEALS UNPUBLISHED November 19, 2026 Original document
+- NEW · **1 Holland Villa, LLC v. Class One Constr. Ltd.**
+  - when: 2026-11-19T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11066766/1-holland-villa-llc-v-class-one-constr-ltd/
+  - 1 Holland Villa, LLC v Class One Constr. Ltd. 2026 NY Slip Op 06880 November 19, 2026 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. 1 Holland Villa, LLC, Plaintiff-Appellant, v Class One Construction Ltd. et al., Defendants-Respondents. Decided and Entered: November 19, 2026 Index No. 808901/25|Appeal No. 7541 & M-5725|Case Original document
+- NEW · **Albert Perry Wright v. State of Florida**
+  - when: 2026-11-19T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11066592/albert-perry-wright-v-state-of-florida/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2026-0945 LT Case No. 16-2017-CF-009714-A _____________________________ ALBERT PERRY WRIGHT, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ 3.850 Appeal from the Circuit Court for Duval County. R. Anthony Salem, Judge. Albert Perry Wright, Trenton Original document
+- NEW · **Janine A. Alexander v. City of Stuart**
+  - when: 2026-11-19T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11066583/janine-a-alexander-v-city-of-stuart/
+  - DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA FOURTH DISTRICT JANINE A ALEXANDER, Appellant, v. CITY OF STUART, et al., Appellees. No. 4D2026-1191 [November 19, 2026] Appeal from the Circuit Court for the Nineteenth Judicial Circuit, Martin County; John D. Galluzzo Original document
+- NEW · **State ex rel. Justice v. Nixon**
+  - when: 2026-11-19T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11066406/state-ex-rel-justice-v-nixon/
+  - [Until this opinion appears in the Ohio Official Reports advance sheets, it may be cited as State ex rel. Justice v. Nixon, Slip Opinion No. 2026-Ohio-4548.] NOTICE This slip opinion is subject to formal revision before it is published in an advance sheet of the Ohio Official Reports. Readers are requested to promptly notify the Reporter of Decisions, Supreme Court of Ohio, 65 South Front Street, Columbus, Ohio 43215, of any typographical Original document
+- NEW · **Waldron v. United States**
+  - when: 2026-11-19T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11066567/waldron-v-united-states/
+  - Notice: This opinion is subject to formal revision before publication in the Atlantic and Maryland Reporters. Users are requested to notify the Clerk of the Court of any formal errors so that corrections may be made before the bound volumes go to press. DISTRICT OF COLUMBIA COURT OF APPEALS No. 25-CO-0184 NATHANIEL WALDRON, APPELLANT, V. UNITED STATES, APPELLEE Original document
+- NEW · **Nathan Watson v. State of Florida**
+  - when: 2026-11-19T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11066640/nathan-watson-v-state-of-florida/
+  - DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA FOURTH DISTRICT NATHAN WATSON, Appellant, v. STATE OF FLORIDA, Appellee. No. 4D2026-2784 [November 19, 2026] Appeal of order denying rule 3.800 motion from the Circuit Court for the Fifteenth Judicial Circuit Original document
+
+## uk-legislation
+14 new of 20 since 2026-11-19.
+
+- NEW · **The A83 Trunk Road (Campbeltown) (Temporary Prohibition on Use of Road) (No. 4) Order 2026**
+  - when: 2026-11-20T03:07:47Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/348
+- NEW · **The Air Navigation (Restriction of Flying) (Helicopter Flight) (No. 11) Regulations 2026**
+  - when: 2026-11-20T03:02:45Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1211
+- NEW · **The Value Added Tax (Drugs and Medicines) (Health and Welfare) Order 2026**
+  - when: 2026-11-19T17:16:44Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1217
+- NEW · **The Individual Savings Account (Amendment and Revocation) Regulations 2026**
+  - when: 2026-11-19T17:11:36Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1218
+- NEW · **The A82 Trunk Road (Fort William) (Temporary Prohibition on Use of Road) (No. 2) Order 2026**
+  - when: 2026-11-19T16:56:16Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/347
+- NEW · **The Armed Forces (Amendment of Service Courts Rules) Rules 2026**
+  - when: 2026-11-19T16:25:55Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1209
+  - Under section 253A(2) of the Armed Forces Act 2006 (c. 52), inserted by section 6 of the Sentencing Act 2026 (c. 2), the court or commanding officer has a duty to make a statement in open court when passing sentence for a service offence if the court or officer is of the view that the offence involved domestic abuse carried out by the offender.
+- NEW · **The Traffic Orders and Notices (Provision of Digital Information) (England) Regulations 2026**
+  - when: 2026-11-19T16:20:33Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1202
+  - These Regulations make provision to require traffic regulation authorities in England to provide information to the Secretary of State about the traffic regulation measures that they make. The Secretary of State will, in turn, publish that data in open data format (available via https://www.gov.uk/guidance/digital-traffic-regulation-orders-d-tro-service) so that it can be used for the purposes set out in section 93(5) of the Automated Vehicles Act 2024 (c. 10) (“the 2024 Act”).
+- NEW · **The Financial Services and Markets Act 2023 (Addition of Relevant Enactments) Regulations 2026**
+  - when: 2026-11-19T14:13:40Z
+  - url: http://www.legislation.gov.uk/id/uksi/2026/1215
+  - These Regulations add to the list of “relevant enactments” for the purposes of sections 13 to 17 of the Financial Services and Markets Act 2023 (c. 29) (“the Act”). Under section 13 of the Act, the Treasury may make regulations (an “FMI sandbox”) which may modify the effect or application of such relevant enactments for the purpose of testing the efficiency or effectiveness of new technologies or practices in the carrying on of financial markets infrastructure activities. The effect is to includ
+- NEW · **The Budget (Scotland) Act 2026 Amendment Regulations 2026**
+  - when: 2026-11-19T12:42:06Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/346
+  - These Regulations amend the Budget (Scotland) Act 2026 (“the Act”).
+- NEW · **<div xmlns="http://www.w3.org/1999/xhtml">
+						<span xml:lang="en">The Education (School Attendance Order) (Wales) Regulations 2026</span> / <span xml:lang="cy">Rheoliadau Addysg (Gorchymyn Mynychu’r Ysgol) (Cymru) 2026</span>
+					</div>**
+  - when: 2026-11-19T11:05:40Z
+  - url: http://www.legislation.gov.uk/id/wsi/2026/136
+  - Under section 437(3) of the Education Act 1996 a local authority is required to serve a school attendance order, which is to be in the prescribed form, on the parent of a child of compulsory school age who fails to satisfy the authority that the child is receiving suitable education, and the authority is of the opinion that it is expedient that the child should attend school. These Regulations prescribe the form of a school attendance order to be served by the local authority in Wales for
+- NEW · **The Scottish Languages Act 2025 (Commencement No. 3) Regulations 2026**
+  - when: 2026-11-19T10:40:15Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/342
+  - These Regulations bring section 6 of the Scottish Languages Act 2025 (“the Act”) into force on 30 November 2026.
+- NEW · **The Air Departure Tax (Scotland) Act 2017 (Commencement No. 2) Regulations 2026**
+  - when: 2026-11-19T10:15:04Z
+  - url: http://www.legislation.gov.uk/id/ssi/2026/343
+  - These Regulations bring into force a number of provisions in Part 2 (key concepts), Part 3 (tax rates) (to the extent that the relevant provisions are not already in force), and Part 4 (payment, collection and management of tax) of the Air Departure Tax (Scotland) Act 2017 (“the Act”) on 1 December 2026. These provisions are required in connection with facilitating the voluntary registration of taxpayers in advance of Air Departure Tax (“ADT”) coming into operation on 1 April 2027 and to enable
