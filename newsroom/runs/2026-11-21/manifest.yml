@@ -1,0 +1,54 @@
+date: 2026-11-21
+mode: REST
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm ci completed successfully
+desk_status:
+  ran: true
+  result: one active investigation and eight parked investigations before today's decision
+ingest:
+  ran: true
+  result: refreshed the November 21 primary-document horizon
+  horizon: newsroom/horizon/2026-11-21/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - doj-oig
+    - govinfo-crpt
+    - courtlistener
+    - fda-enforcement
+thread_decisions:
+  - id: 2026-008-dod-installation-maintenance-funding
+    decision: park
+    reason: the IMCOM source-definition or FSRM-crosswalk retrieval would repeat yesterday's action, and no matching primary appeared in the new horizon
+  - id: parked-board
+    decision: remain_parked
+    reason: no new public record reopened 2026-010, 2026-005, or another parked investigation
+  - id: 2026-017-fema-bric-cycle-status
+    decision: remain_published
+    reason: the official FEMA page still reports review in progress and supplies no selection, award, or status-history record
+investigations:
+  - 2026-008-dod-installation-maintenance-funding
+  - 2026-017-fema-bric-cycle-status
+research:
+  primary_documents:
+    - newsroom/horizon/2026-11-21/BRIEF.md
+    - https://home.army.mil/imcom/6117/4801/3150/IMCOM_HQ_PCA_Playbook_Final_May_2.pdf
+    - https://www.fema.gov/grants/mitigation/learn/building-resilient-infrastructure-communities
+  result: parked the maintenance thread after the same-object test remained unresolved and rechecked the FEMA BRIC watch without a new series-moving record
+publication:
+  published: false
+  files: []
+  reason: no same-object maintenance comparison or new FEMA current-cycle record was available
+validation:
+  run: true
+  reason: npm run validate:all passed for all published articles; no article was published or changed
+journal:
+  - newsroom/journal/2026-11-21.md
+desk_notes:
+  - newsroom/desk/2026-11-21-r1.md
+no_binaries_committed: true

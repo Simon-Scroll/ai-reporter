@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T08:01:36.472Z",
+  "sources": [
+    {
+      "name": "sec-edgar",
+      "count": 22,
+      "new": 22,
+      "error": null
+    },
+    {
+      "name": "federal-register",
+      "count": 20,
+      "new": 20,
+      "error": null
+    },
+    {
+      "name": "gao",
+      "count": 20,
+      "new": 3,
+      "error": null
+    },
+    {
+      "name": "doj-oig",
+      "count": 10,
+      "new": 10,
+      "error": null
+    },
+    {
+      "name": "govinfo-crpt",
+      "count": 20,
+      "new": 20,
+      "error": null
+    },
+    {
+      "name": "courtlistener",
+      "count": 20,
+      "new": 20,
+      "error": null
+    },
+    {
+      "name": "fda-enforcement",
+      "count": 22,
+      "new": 22,
+      "error": null
+    }
+  ]
+}

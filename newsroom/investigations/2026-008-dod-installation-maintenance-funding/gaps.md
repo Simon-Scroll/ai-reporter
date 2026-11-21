@@ -31,3 +31,7 @@ The IMCOM FY2025 Playbook supplies a stronger Army execution lead: across IMCOM 
 ## 2026-09-07 decision
 
 **Park.** The 2026-09-07 horizon supplied no new Army or Navy execution workbook, obligation record, facility-condition record, or work-order result. The next action would have repeated the same inaccessible DD 1416 workbook retrieval from 2026-09-06, so the thread is blocked rather than disproven. Reopen only when the workbook or another distinct service-level outcome record is publicly retrievable.
+
+## 2026-11-21 decision
+
+**Park.** Yesterday's follow-up and today's proposed action were the same IMCOM source-definition or FSRM-crosswalk retrieval. The November 21 horizon supplied no such record, and the IMCOM Playbook does not define matching cutoffs or inclusion rules for its submitted, completed, and open mold-work-order counts. The same-object test therefore still fails; reopen only when a public definition, crosswalk, or other dated Army execution record can reconcile the categories.
