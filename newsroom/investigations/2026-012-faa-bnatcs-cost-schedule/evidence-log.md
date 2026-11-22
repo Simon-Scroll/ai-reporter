@@ -40,3 +40,27 @@
 - Locator: “Dates,” “Award Amounts,” “Description,” and “Additional Information” sections.
 - Excerpt: The FAA awarded Peraton delivery order 693KA726F00029 on August 26, 2026, with a current and obligated amount of $49,702,112, a current end date of January 19, 2029, and a potential award amount of $290,346,940.54. The description calls it a BNATCS enterprise needs package.
 - Boundary: The page says the award has not been linked to a federal account and does not disclose the underlying needs-package scope in the public page text.
+
+## E6 — USAspending IDV amounts, 22 November 2026
+
+- URL: https://api.usaspending.gov/api/v2/idvs/amounts/CONT_IDV_693KA726D00003_6920/
+- Retrieved: 2026-11-22
+- Locator: IDV amounts object; award description and `base_and_all_options` on https://api.usaspending.gov/api/v2/awards/CONT_IDV_693KA726D00003_6920/
+- Excerpt: Eighteen child awards; obligations $274,322,489.79; exercised options $289,773,553.10; base and all options $1,438,168,739.40; outlays $53,573,676.81. The parent record's base and all options is $1,500,000,000. The description says the potential value is the cumulative total of the needs packages.
+- Boundary: Current rollup only. It does not store the September 15 page.
+
+## E7 — Child-award and transaction sums, 22 November 2026
+
+- URL: https://api.usaspending.gov/api/v2/idvs/awards/ and https://api.usaspending.gov/api/v2/transactions/
+- Retrieved: 2026-11-22
+- Locator: 18 child amount fields and every `federal_action_obligation` by action date.
+- Excerpt: Child sums match the rollup to the cent. Transactions before 2026-09-15 sum to $275,183,854.58. Transactions on or after that date sum to −$861,364.79. Order 693KA726F00029 is now obligated at $58,568,298; its base-and-all-options value is still $290,346,940.54.
+- Boundary: Transaction history used here does not include base-and-all-options changes.
+
+## E8 — GAO ceiling footnote
+
+- URL: https://www.gao.gov/assets/gao-26-107992.pdf
+- Retrieved: 2026-11-22
+- Locator: printed pp. 22–23, footnote 36.
+- Excerpt: Peraton integrator ceiling of $1.5 billion. FAA officials told GAO the negotiated price is approximately $876 million, more than $600 million under the ceiling, and that the savings leave room to add work without exceeding $1.5 billion.
+- Boundary: GAO already states this ceiling-versus-price difference. It is context, not the finding.

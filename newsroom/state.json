@@ -20,11 +20,11 @@
   ],
   "series": [],
   "last_run": "2026-11-22",
-  "last_mode": "SCAN",
+  "last_mode": "CONTINUE",
   "last_horizon": "2026-11-22",
   "last_published_at": "2026-11-14",
   "last_journal": "newsroom/journal/2026-11-22.md",
-  "next_action": "Check the next horizon for a distinct SIOP authorization/report or a real reopen record for the strongest parked numeric thread; if none appears, score the best new primary against the Phase 2 discrepancy standard without repeating today's unchanged retrievals.",
-  "handoff": "On November 22, the desk ran the overdue SIOP watch through the official GovInfo fallback after Congress.gov returned 403; H.R. 8800 remains an introduced bill, so the published SIOP comparison did not gain a series-moving record. The new quantum and supersonic committee reports were screened and rejected as proposals without a measured same-object discrepancy. All nine parked investigations remain parked, and there are no active threads.",
+  "next_action": "Do not repeat the BNATCS September-versus-November rollup, the SIOP watch, or the committee reports read on November 22. Reopen 2026-012 only with a September 15 child-award list or a USAspending correction record. Otherwise score a new primary that is not a proposed bill.",
+  "handoff": "The second November 22 run reopened the parked Peraton BNATCS contract, summed all 18 delivery orders, and did not publish. The $42,002,112 gap between the September 15 obligation total and transactions dated before that day equals transactions before September 14 plus a second copy of order 693KA726F00029's $49,702,112 base obligation. FMDS order 693KA726F00032 was signed September 23, so the child set changed. A skeptic pass rejected the unexplained-hole draft and it was deleted. The Section 503 watch found no new implementation record. Nine investigations remain parked and none are active.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-18. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Publisher 2026-11-09: Phase 2 — measured discrepancies first, record-gap pieces capped, held drafts are not work (overrides/2026-11-09-phase-2.md). Absence of KILL/HOLD does not mean publish a recap."
 }

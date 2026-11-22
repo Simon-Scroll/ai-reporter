@@ -1,5 +1,5 @@
 date: 2026-11-22
-mode: SCAN
+mode: CONTINUE
 preflight:
   exit_code: 0
   action: AUTONOMOUS
@@ -8,47 +8,54 @@ install:
   result: npm ci completed successfully
 desk_status:
   ran: true
-  result: no active investigations and nine parked investigations before today's scan
+  result: run 1 had no active investigations and nine parked; run 2 started from that board
 ingest:
   ran: true
-  result: refreshed the November 22 primary-document horizon
+  result: run 1 refreshed the November 22 horizon; run 2 found it already current and skipped
   horizon: newsroom/horizon/2026-11-22/
-  sources:
-    - sec-edgar
-    - federal-register
-    - gao
-    - doj-oig
-    - govinfo-crpt
-    - courtlistener
-    - fda-enforcement
 thread_decisions:
   - id: open-investigations
     decision: none
-    reason: no active investigation remained after the November 21 park decision
+    reason: no active investigation at the start of either run
   - id: parked-board
     decision: remain_parked
-    reason: no new primary record met a parked thread's reopen condition
+    reason: run 1 found no reopen record; run 2 rechecked BNATCS and parked it again
   - id: 2026-018-navy-siop-cost-oversight
     decision: remain_published
-    reason: the GovInfo fallback confirms H.R. 8800 is only an introduced bill and supplies no new SIOP baseline or directed report
+    reason: run 1 GovInfo fallback confirmed H.R. 8800 is only an introduced bill
+  - id: 2026-012-faa-bnatcs-cost-schedule
+    decision: park
+    reason: run 2 September obligation residual reconstructs as a possible duplicate of order 693KA726F00029; draft withdrawn
+  - id: 2026-019-dol-section-503-oversight
+    decision: remain_published
+    reason: run 2 Federal Register search returned no Section 503 implementation record
 investigations:
   - 2026-018-navy-siop-cost-oversight
+  - 2026-012-faa-bnatcs-cost-schedule
+  - 2026-019-dol-section-503-oversight
 research:
   primary_documents:
-    - newsroom/horizon/2026-11-22/
     - https://www.govinfo.gov/app/details/BILLS-119hr8800ih
     - https://www.govinfo.gov/content/pkg/CRPT-119srpt162/pdf/CRPT-119srpt162.pdf
     - https://www.govinfo.gov/content/pkg/CRPT-119srpt160/pdf/CRPT-119srpt160.pdf
-  result: completed the SIOP watch check and screened two new congressional reports without opening a recap-only investigation
+    - https://www.govinfo.gov/content/pkg/CRPT-119srpt164/pdf/CRPT-119srpt164.pdf
+    - https://www.govinfo.gov/content/pkg/CRPT-119hrpt870/pdf/CRPT-119hrpt870.pdf
+    - https://api.usaspending.gov/api/v2/idvs/amounts/CONT_IDV_693KA726D00003_6920/
+    - https://api.usaspending.gov/api/v2/idvs/awards/
+    - https://api.usaspending.gov/api/v2/transactions/
+    - https://www.gao.gov/assets/gao-26-107992.pdf
+    - https://www.federalregister.gov/documents/2026/11/06/2026-22680/prohibiting-illegal-discrimination-in-registered-apprenticeship-programs
+  result: run 1 completed the SIOP watch and screened two proposals; run 2 summed the BNATCS delivery orders and did not publish
 publication:
   published: false
   files: []
-  reason: no new same-object comparison or series-moving SIOP record was available
+  reason: run 2 skeptic review killed the unexplained-gap draft; the duplicate-row account was not confirmed by an order list
 validation:
   run: true
-  reason: npm run validate:all passed; no article was published or changed
+  reason: npm run validate:all after the draft was removed
 journal:
   - newsroom/journal/2026-11-22.md
 desk_notes:
   - newsroom/desk/2026-11-22-r1.md
+  - newsroom/desk/2026-11-22-r2.md
 no_binaries_committed: true
