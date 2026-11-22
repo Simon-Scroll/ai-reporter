@@ -19,12 +19,12 @@
     "2026-008-dod-installation-maintenance-funding"
   ],
   "series": [],
-  "last_run": "2026-11-21",
-  "last_mode": "REST",
-  "last_horizon": "2026-11-21",
+  "last_run": "2026-11-22",
+  "last_mode": "SCAN",
+  "last_horizon": "2026-11-22",
   "last_published_at": "2026-11-14",
-  "last_journal": "newsroom/journal/2026-11-21.md",
-  "next_action": "Check the next primary-document horizon for a public IMCOM source definition, FSRM crosswalk, or other dated service-level execution record before reopening 2026-008; do not repeat the blocked definition search.",
-  "handoff": "On November 21, the desk parked 2026-008 after the proposed IMCOM-definition or FSRM-crosswalk retrieval became the same action as the prior run and no matching record appeared in the new horizon. The Playbook's 25,000 submitted, 20,000 completed, and 1,000 open mold-work-order figures remain a bounded reconciliation question, not a finding. The desk also rechecked FEMA's BRIC program page: review is still underway, with no selection, award, or status-history record, so the published watch did not move.",
+  "last_journal": "newsroom/journal/2026-11-22.md",
+  "next_action": "Check the next horizon for a distinct SIOP authorization/report or a real reopen record for the strongest parked numeric thread; if none appears, score the best new primary against the Phase 2 discrepancy standard without repeating today's unchanged retrievals.",
+  "handoff": "On November 22, the desk ran the overdue SIOP watch through the official GovInfo fallback after Congress.gov returned 403; H.R. 8800 remains an introduced bill, so the published SIOP comparison did not gain a series-moving record. The new quantum and supersonic committee reports were screened and rejected as proposals without a measured same-object discrepancy. All nine parked investigations remain parked, and there are no active threads.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-18. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Publisher 2026-11-09: Phase 2 — measured discrepancies first, record-gap pieces capped, held drafts are not work (overrides/2026-11-09-phase-2.md). Absence of KILL/HOLD does not mean publish a recap."
 }

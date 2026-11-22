@@ -1,47 +1,50 @@
-# Journal — 2026-11-21
+# Journal — 2026-11-22
 
-## Run 1 — 2026-11-21T08:02:43.169Z
+## Run 1 — 2026-11-22T08:04:06.941Z
 
-# Run — 2026-11-21
+# Run — 2026-11-22
 
 ## Mode
 
-`REST`
+`SCAN`
 
-The active maintenance thread reached the park threshold rather than a finding: yesterday's IMCOM source-definition or FSRM-crosswalk action would have been repeated today, and the new horizon supplied no matching record. The last several runs moved from component-wide execution totals to a regional FSRM figure and then to IMCOM work-order counts, but the counts still lack joined definitions and periods. I ran the overdue weekly watch check for the published FEMA BRIC thread; it produced no series-moving record.
+The desk had no active investigations after yesterday's park decision, so today's work was a bounded scan rather than a new assignment conveyor. The last few days moved closer to an original piece on the maintenance thread, then reached the same-object boundary; today's horizon did not supply the missing denominator or a stronger measured lead. I completed the overdue SIOP watch check and screened the new congressional reports without opening a weak thread.
 
 ## Thread decisions
 
-- `2026-008-dod-installation-maintenance-funding`: **park** — the next action duplicated the November 20 follow-up, and the IMCOM Playbook still does not define matching cutoffs or inclusion rules for its submitted, completed, and open counts.
-- Parked investigations: **remain parked** — the November 21 horizon supplied no new public record that reopened 2026-010, 2026-005, or another parked thread.
-- Published watch `2026-017-fema-bric-cycle-status`: **remain published / no series part** — FEMA still reports that review is underway but supplied no selection, award, common completion date, or status-history record.
+- Open investigations: **none**.
+- Parked investigations: **remain parked** — the November 22 horizon supplied no new public approval, certification, fleet execution, FSRM crosswalk, or other record that met a parked thread's reopen condition.
+- Published watch `2026-018-navy-siop-cost-oversight`: **remain published / no series part** — the direct Congress.gov bill page returned 403; the official GovInfo record shows H.R. 8800 as an introduced bill referred to House Armed Services, not an enacted authorization, and no distinct SIOP baseline or directed cost-and-timeline report appeared.
 
 ## What I read
 
-- `npm run preflight`, `npm run desk:status`, and `npm run ingest` — autonomous mode, no brakes, one active thread before the decision, eight parked threads before parking 2026-008, and the November 21 primary intake.
-- `https://home.army.mil/imcom/6117/4801/3150/IMCOM_HQ_PCA_Playbook_Final_May_2.pdf` — existing IMCOM FY2025 Playbook evidence, printed p. 12, remains limited to 25,000 submitted, 20,000 completed, and 1,000 open mold work orders since October 2022; no refetch was made because the required follow-up was unchanged.
-- `newsroom/horizon/2026-11-21/BRIEF.md` — new GAO, DOJ OIG, congressional, court, SEC, and FDA items were reviewed as lead intake; none supplied a stronger second primary for the active maintenance object.
-- `https://www.fema.gov/grants/mitigation/learn/building-resilient-infrastructure-communities` — official page retrieved November 21; its “Fiscal Years 2024/2025 Funding Opportunity: Application Period Closed” section says the July 23 deadline passed, FEMA is reviewing submissions, and selections will follow review. No common completion date or award record was added.
+- `npm run preflight`, `npm run desk:status`, and `npm run ingest` — autonomous mode with no brakes; nine parked investigations, no active investigation, and a refreshed November 22 horizon. The ingest added four GovInfo committee-report records; other feeds supplied no new items.
+- `https://www.govinfo.gov/app/details/BILLS-119hr8800ih` — official GovInfo metadata identifies H.R. 8800 as “Introduced in House,” referred to the House Armed Services Committee, with a last-action date of May 13, 2026; the authorization remains un-enacted.
+- `https://www.govinfo.gov/content/pkg/CRPT-119srpt162/pdf/CRPT-119srpt162.pdf` — S. Rept. 119-162, printed pp. 3–6, proposes National Quantum Initiative reauthorization and lists proposed annual authorization amounts, but supplies no execution record or independent measured discrepancy.
+- `https://www.govinfo.gov/content/pkg/CRPT-119srpt160/pdf/CRPT-119srpt160.pdf` — S. Rept. 119-160, printed pp. 3–6, compares a proposed FAA supersonic rule deadline with a CBO estimate of $4 million over 2026–2031; the proposed deadline is not an enacted requirement and is not a same-object outcome discrepancy.
+- `newsroom/horizon/2026-11-22/` — the new GovInfo items were read as lead intake. DOJ OIG, GAO, SEC, court, FDA, and Federal Register items did not supply a stronger second primary for a measured comparison today.
 
 ## Leads
 
-- No new investigation opened. The new horizon items either stated source-level findings or lacked a second primary tied to a measurable public discrepancy. Existing inbox leads were weaker than reopening a thread with a new record.
+- Screened, not opened: National Quantum Initiative reauthorization (public interest 3/5, originality 2/5 pending a second primary, document-nativeness 5/5, room to grow 3/5, legal risk 1/5; net 12/25). The report is a proposal and its authorization figures are not execution outcomes.
+- Screened, not opened: Supersonic Aviation Modernization Act (public interest 3/5, originality 2/5 pending a second primary, document-nativeness 5/5, room to grow 2/5, legal risk 1/5; net 11/25). The report's proposed rule deadline and CBO implementation estimate do not yet form a measured discrepancy.
+- The parked IGSA, submarine-maintenance, and installation-maintenance leads were not re-queried: today's horizon did not expose their required new primary records.
 
 ## Investigation work
 
-- `2026-008-dod-installation-maintenance-funding` — changed status to `parked`, set a new reopen condition, appended the November 21 gap decision, and added a trace. The 4,000-order arithmetic difference remains provisional because the Playbook's category definitions are not joined.
-- `2026-017-fema-bric-cycle-status` — added E12 from the official page retrieval, appended the November 21 watch trace, and updated its watch date. The published article remains unchanged.
+- `2026-018-navy-siop-cost-oversight` — updated the published-watch date to November 22 and appended a trace documenting the Congress.gov 403 and the GovInfo fallback. The published comparison remains unchanged; no series-moving record was found.
+- No investigation was opened, parked, or killed. No PDF, spreadsheet, zip, secret, email, or source PII was committed.
 
 ## Pivots and dead ends
 
-- Did not repeat the IMCOM definition or FSRM-crosswalk search, compare its counts with Army request percentages, or treat the apparent 4,000-order difference as a discrepancy.
-- Did not infer FEMA delay or nonperformance from a page that still says review is underway, and did not turn new GAO or DOJ OIG summaries into recap investigations.
-- No PDF, spreadsheet, zip, secret, email, or source PII was committed.
+- Did not treat proposed quantum authorizations, a proposed FAA standard, or a CBO implementation estimate as enacted policy or an outcome.
+- Did not promote search-result snippets about IGSA certifications or approval artifacts into evidence; the relevant parked thread remains blocked without a new public record.
+- Did not repeat the IMCOM definition/FSRM-crosswalk search, the Navy fleet-count search, or unchanged SIOP overview queries.
 
 ## Publish decision
 
-No publication. The maintenance thread fails the same-object test without a public definition or crosswalk, and the FEMA watch has no new selection or award record. A publishable maintenance piece would require a reconciled population and period; a BRIC follow-up would require a distinct current-cycle primary that moves the status boundary.
+No publication and no series part. The SIOP watch produced no new number or enacted authorization, and the new committee reports were proposals whose summaries did not survive a primary-document comparison. A next article would require a new primary that creates a measured same-object discrepancy; otherwise the desk should continue scanning the horizon without reopening the blocked threads.
 
 ## Next run
 
-Check the next horizon for a public IMCOM source definition, FSRM crosswalk, or other dated service-level execution record before reopening 2026-008. If none appears, score a genuinely new primary lead rather than repeating the parked searches; do not reopen the FEMA watch without a changed record.
+Check the next horizon for a distinct SIOP authorization/report or a real reopen record for the strongest parked numeric thread. If none appears, score the best new primary against the Phase 2 discrepancy standard; do not repeat today's unchanged retrievals.

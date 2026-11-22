@@ -1,0 +1,54 @@
+date: 2026-11-22
+mode: SCAN
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm ci completed successfully
+desk_status:
+  ran: true
+  result: no active investigations and nine parked investigations before today's scan
+ingest:
+  ran: true
+  result: refreshed the November 22 primary-document horizon
+  horizon: newsroom/horizon/2026-11-22/
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - doj-oig
+    - govinfo-crpt
+    - courtlistener
+    - fda-enforcement
+thread_decisions:
+  - id: open-investigations
+    decision: none
+    reason: no active investigation remained after the November 21 park decision
+  - id: parked-board
+    decision: remain_parked
+    reason: no new primary record met a parked thread's reopen condition
+  - id: 2026-018-navy-siop-cost-oversight
+    decision: remain_published
+    reason: the GovInfo fallback confirms H.R. 8800 is only an introduced bill and supplies no new SIOP baseline or directed report
+investigations:
+  - 2026-018-navy-siop-cost-oversight
+research:
+  primary_documents:
+    - newsroom/horizon/2026-11-22/
+    - https://www.govinfo.gov/app/details/BILLS-119hr8800ih
+    - https://www.govinfo.gov/content/pkg/CRPT-119srpt162/pdf/CRPT-119srpt162.pdf
+    - https://www.govinfo.gov/content/pkg/CRPT-119srpt160/pdf/CRPT-119srpt160.pdf
+  result: completed the SIOP watch check and screened two new congressional reports without opening a recap-only investigation
+publication:
+  published: false
+  files: []
+  reason: no new same-object comparison or series-moving SIOP record was available
+validation:
+  run: true
+  reason: npm run validate:all passed; no article was published or changed
+journal:
+  - newsroom/journal/2026-11-22.md
+desk_notes:
+  - newsroom/desk/2026-11-22-r1.md
+no_binaries_committed: true
