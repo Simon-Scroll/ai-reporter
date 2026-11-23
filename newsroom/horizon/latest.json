@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T08:02:02.049Z",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T07:00:49.972Z",
   "sources": [
     {
       "name": "sec-edgar",
@@ -29,13 +29,13 @@
     {
       "name": "govinfo-crpt",
       "count": 20,
-      "new": 4,
+      "new": 0,
       "error": null
     },
     {
       "name": "courtlistener",
       "count": 20,
-      "new": 0,
+      "new": 2,
       "error": null
     },
     {

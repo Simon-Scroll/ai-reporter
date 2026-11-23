@@ -1,0 +1,29 @@
+claims:
+  - id: C1
+    text: "Army order W9124J25FA075, Acquisition Logistics LLC, Fort Bliss ICE detention center, has a total obligated amount of $253,178,228.81 from actions of $231,878,228.81 and $21,300,000, no deobligation through the September 23, 2025 modification, parent contract N0002325D0004, and 11 offers."
+    status: supported
+    source: evidence/2026-11-23-army-order.md
+  - id: C2
+    text: "ICE order 70CDCR26FR0000001 describes itself as the administrative transfer of W9124J25FA075, names the same recipient and parent contract, obligates $598,444,871.04, reports the same account obligation, and on April 17, 2026 terminates the order in full with a $0 obligation change. Outlays are $314,891,675.50."
+    status: supported
+    source: evidence/2026-11-23-ice-transfer-order.md
+  - id: C3
+    text: "The obligation totals differ by $345,266,642.23. The Army exercised-options value of $854,490,135.68 leaves $601,311,906.87 unfunded, which is $2,867,035.83 more than the ICE obligation. The ceilings differ by $2,867,036.51. The ICE obligation equals none of the Army obligation, exercised-options, unfunded-remainder, or ceiling figures."
+    status: supported
+    source: evidence/2026-11-23-army-order.md
+    corroboration:
+      - evidence/2026-11-23-ice-transfer-order.md
+      - evidence-log.md
+  - id: C4
+    text: "GAO reports a September 2025 transfer of Camp East Montana contract administration to ICE and an obligation of about $598 million to the original contractor, later terminated for convenience. That rounded figure matches the ICE order. GAO does not state the Army order's $253,178,228.81 total."
+    status: supported
+    source: evidence/2026-11-23-gao-27-108665.md
+    corroboration:
+      - evidence/2026-11-23-ice-transfer-order.md
+  - id: C5
+    text: "The Army award record's account-obligation list is empty and its total account obligation is 0. The ICE account obligation of $598,444,871.04 is reported under code Q, which the USAspending reference file labels as not designated to a named emergency, disaster, or wildfire suppression."
+    status: supported
+    source: evidence/2026-11-23-ice-transfer-order.md
+    corroboration:
+      - evidence/2026-11-23-army-order.md
+      - evidence/2026-11-23-defc-q.md

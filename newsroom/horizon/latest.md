@@ -1,10 +1,10 @@
-# Horizon brief — 2026-11-22
+# Horizon brief — 2026-11-23
 
 Primary-source intake only (US federal, corporate, judicial, IG, and public-safety records). News articles are not listed here. Pick leads from documents, not coverage.
 Items marked NEW were not in the previous brief for that source; the rest were already seen.
 
 ## sec-edgar
-0 new of 22 since 2026-11-21.
+0 new of 22 since 2026-11-22.
 
 - **8-K - MOBIX LABS, INC (0001855467) (Filer)**
   - when: 2026-11-20T17:30:44-05:00
@@ -56,7 +56,7 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - Filed: 2026-11-20 AccNo: 0001493152-26-053546 Size: 205 KB Item 5.07: Submission of Matters to a Vote of Security Holders Item 8.01: Other Events
 
 ## federal-register
-0 new of 20 since 2026-11-21.
+0 new of 20 since 2026-11-22.
 
 - **Establishment of Class E Airspace; Columbus, TX**
   - when: 2026-11-23
@@ -108,7 +108,7 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - Federal Communications Commission — Proposed Rule — In this document, the Public Safety and Homeland Security Bureau (Bureau) of the Federal Communications Commission (Commission or FCC) seeks comment on recommendations for the U.S. Cyber Trust Mark (USCTM) program, a voluntary cybersecurity labeling program for wireless consumer Internet of Things (IoT) products. The Bureau seeks comment on the design and placement of the FCC IoT Label, display of product registry information, certification ren
 
 ## gao
-0 new of 20 since 2026-11-21.
+0 new of 20 since 2026-11-22.
 
 - **AI and Cybersecurity: Technologies Can Magnify Cyberattacks and Enhance Cyber Defense**
   - when: Fri, 20 Nov 2026 07:05:04 -0500
@@ -172,7 +172,7 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - Why This Matters New World screwworm is a parasitic fly that could cost the U.S. cattle industry billions of dollars per year. The eggs laid by screwworm flies hatch into larvae that infect cattle, sheep, and other animals, causing painful wounds and death if untreated. Over 100 total cases have been identified in the U.S. as of November 2026. Experts are concerned that existing control capabilities, which use sterile flies, may be insufficient to combat new outbreaks. Key Takeaways Ongoing
 
 ## doj-oig
-0 new of 10 since 2026-11-21.
+0 new of 10 since 2026-11-22.
 
 - **DOJ OIG Releases Report on the Top Management and Performance Challenges Facing the Department of Justice**
   - when: Tue, 17 Nov 2026 17:10:34 +0000
@@ -216,24 +216,24 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - Investigative Summary: Findings of Misconduct by a Then Senior Official of the United States Marshals Service for Engaging in an Intimate Relationship with a Subordinate and Related Misconduct */ mbarnes Tue, 10/06/2026 - 10:00 Posted Date October 6, 2026 Report Number 27-001 Component United States Marshals Service Report Type Investigation Number of Recommendations 0
 
 ## govinfo-crpt
-4 new of 20 since 2026-11-21.
+0 new of 20 since 2026-11-22.
 
-- NEW · **S. Rept. 119-164 — STOP THE SCROLL ACT OF 2026**
+- **S. Rept. 119-164 — STOP THE SCROLL ACT OF 2026**
   - when: 2026-11-17
   - url: https://www.govinfo.gov/app/details/CRPT-119srpt164
   - pdf: https://www.govinfo.gov/content/pkg/CRPT-119srpt164/pdf/CRPT-119srpt164.pdf
   - Committee on Commerce, Science, and Transportation
-- NEW · **S. Rept. 119-162 — NATIONAL QUANTUM INITIATIVE REAUTHORIZATION ACT OF 2026**
+- **S. Rept. 119-162 — NATIONAL QUANTUM INITIATIVE REAUTHORIZATION ACT OF 2026**
   - when: 2026-11-16
   - url: https://www.govinfo.gov/app/details/CRPT-119srpt162
   - pdf: https://www.govinfo.gov/content/pkg/CRPT-119srpt162/pdf/CRPT-119srpt162.pdf
   - Committee on Commerce, Science, and Transportation
-- NEW · **S. Rept. 119-160 — SUPERSONIC AVIATION MODERNIZATION ACT**
+- **S. Rept. 119-160 — SUPERSONIC AVIATION MODERNIZATION ACT**
   - when: 2026-11-10
   - url: https://www.govinfo.gov/app/details/CRPT-119srpt160
   - pdf: https://www.govinfo.gov/content/pkg/CRPT-119srpt160/pdf/CRPT-119srpt160.pdf
   - Committee on Commerce, Science, and Transportation
-- NEW · **H. Rept. 119-870 — LESS BUREAUCRACY, BETTER FOREIGN MEDICAL ACCREDITATION ACT**
+- **H. Rept. 119-870 — LESS BUREAUCRACY, BETTER FOREIGN MEDICAL ACCREDITATION ACT**
   - when: 2026-11-05
   - url: https://www.govinfo.gov/app/details/CRPT-119hrpt870
   - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt870/pdf/CRPT-119hrpt870.pdf
@@ -280,8 +280,16 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - Committee on Small Business
 
 ## courtlistener
-0 new of 20 since 2026-11-21.
+2 new of 20 since 2026-11-22.
 
+- NEW · **American Oversight v. U.S. Immigration and Customs Enforcement**
+  - when: 2026-11-22T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11068943/american-oversight-v-us-immigration-and-customs-enforcement/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA AMERICAN OVERSIGHT, Plaintiff, Civil Action No. 25-1846 (RDM) v. U.S. IMMIGRATION AND CUSTOMS ENFORCEMENT, et al., Defendants. MEMORANDUM OPINION AND ORDER The Freedom of Information Act (“FOIA”), 5 U.S.C. § 552, provides that “each agency Original document
+- NEW · **Farmer v. Walker**
+  - when: 2026-11-22T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11068942/farmer-v-walker/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA RAY FARMER, Plaintiff, Civil Case No. 26-1710 (RDM) v. JAN BUCKNER WALKER, Defendant. MEMORANDUM OPINION AND ORDER Plaintiff Ray Farmer, a Maryland resident, brings this action against Jan Buckner Walker,1 an Illinois resident Original document
 - **Center for Biological Diversity v. Burgum**
   - when: 2026-11-20T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11068099/center-for-biological-diversity-v-burgum/
@@ -322,17 +330,9 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - when: 2026-11-20T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11067991/united-states-v-mayo/
   - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA ____________________________________ ) UNITED STATES OF AMERICA ) ) v. ) Criminal No. 21-230 (PLF) ) DECONDI MAYO, ) ) Defendant. ) Original document
-- **United States v. Clark**
-  - when: 2026-11-20T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11067848/united-states-v-clark/
-  - Appellate Case: 25-5141 Document: 51 Date Filed: 11/20/2026 Page: 1 FILED United States Court of Appeals Tenth Circuit PUBLISH November 20, 2026 Original document
-- **A. M. A. S. v. Mullin**
-  - when: 2026-11-20T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11068114/a-m-a-s-v-mullin/
-  - FOR PUBLICATION FILED UNITED STATES COURT OF APPEALS NOV 20 2026 MOLLY C. DWYER, CLERK U.S. COURT OF APPEALS FOR THE NINTH CIRCUIT A. M. A. S., No. 26-6950 Original document
 
 ## fda-enforcement
-0 new of 22 since 2026-11-21.
+0 new of 22 since 2026-11-22.
 
 - **[DRUG Class II] Victory Medical Center Pharmacy — D-0145-2027**
   - when: 2026-11-11

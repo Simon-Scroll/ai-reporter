@@ -1,0 +1,11 @@
+id: 2026-029-fort-bliss-detention-transfer
+opened: 2026-11-23
+updated: 2026-11-23
+status: parked
+mode: CONTINUE
+next_action: "Reopen only if a new modification, ICE justification, or other primary shows that ICE order 70CDCR26FR0000001 re-obligated the Army order's $253,178,228.81, or ties the $2,867,035.83 residual to a documented movement. Do not republish the $345,266,642.23 subtraction, and do not repeat the award pulls or GAO-26-108886."
+hypothesis: "ICE's public file for the transferred Fort Bliss detention order and the Army order it identifies do not carry the same total obligated amount."
+last_decision: park
+series: null
+part: null
+consecutive_continue_without_new_primary: 0

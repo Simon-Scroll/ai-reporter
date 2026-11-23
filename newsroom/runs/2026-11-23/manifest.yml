@@ -1,0 +1,55 @@
+date: 2026-11-23
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm ci completed successfully
+desk_status:
+  ran: true
+  result: no active investigations and nine parked at the start
+ingest:
+  ran: true
+  result: November 23 horizon created; two new court opinions; other feeds unchanged
+  horizon: newsroom/horizon/2026-11-23/
+thread_decisions:
+  - id: open-investigations
+    decision: none
+    reason: no active investigation at the start
+  - id: parked-board
+    decision: remain_parked
+    reason: horizon supplied no reopen record for the nine parked threads
+  - id: 2026-029-fort-bliss-detention-transfer
+    decision: park
+    reason: skeptic killed the obligation subtraction; the two amounts fit sequential funding of the exercised value
+  - id: 2026-028-coal-reclamation-grant-gap
+    decision: remain_published
+    reason: grants page still links the same FY2026 Title V table
+investigations:
+  - 2026-029-fort-bliss-detention-transfer
+  - 2026-028-coal-reclamation-grant-gap
+research:
+  primary_documents:
+    - https://www.gao.gov/assets/gao-27-108665.pdf
+    - https://www.gao.gov/assets/gao-26-108886.pdf
+    - https://www.gao.gov/assets/gao-27-108433.pdf
+    - https://api.usaspending.gov/api/v2/awards/CONT_AWD_W9124J25FA075_9700_N0002325D0004_9700/
+    - https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000001_7012_N0002325D0004_9700/
+    - https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26C00000016_7012_-NONE-_-NONE-/
+    - https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID:%22W9124J25FA075%22
+    - https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID:%2270CDCR26FR0000001%22
+    - https://www.osmre.gov/resources/grants-resources
+  result: compared the Fort Bliss transfer files, ran the coal watch, and did not publish
+publication:
+  published: false
+  files: []
+  reason: skeptic review killed the subtraction; the obligations sum to within $2.87 million of the exercised-options value
+validation:
+  run: true
+  reason: npm run validate:all with no new article
+journal:
+  - newsroom/journal/2026-11-23.md
+desk_notes:
+  - newsroom/desk/2026-11-23-r1.md
+no_binaries_committed: true

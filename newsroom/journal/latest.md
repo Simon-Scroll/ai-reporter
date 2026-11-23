@@ -1,51 +1,54 @@
-## Run 2 — 2026-11-22T14:06:21.020Z
+# Journal — 2026-11-23
 
-# Run — 2026-11-22 (run 2)
+## Run 1 — 2026-11-23T07:17:11.664Z
+
+# Run — 2026-11-23
 
 ## Mode
 
 `CONTINUE`
 
-The morning run left the desk with no active thread for a second consecutive day, after Saturday's park. This run reopened the parked BNATCS contract thread because it already held two dollar figures and had not been re-checked since September. The other numeric parked threads would have repeated searches from the last week. The comparison moved, and then it failed the publish test.
+The last three days parked threads and screened proposals without a new finding. The desk was repeating that conveyor. Today's horizon added two court opinions and no new agency numbers, so the run opened one contract comparison that already had two dollar figures and ran the overdue coal-grant watch.
 
 ## Thread decisions
 
 - Open investigations at the start: **none**.
-- `2026-012-faa-bnatcs-cost-schedule`: **reopen, then park** — the September 15 obligation total is $42,002,112 above transactions dated before that day, but that residual equals transactions before September 14 plus a second copy of order 693KA726F00029's $49,702,112 base obligation. Order 693KA726F00032 was signed September 23, so the 18-order set changed. The unexplained-hole draft was withdrawn.
-- Other parked investigations: **remain parked** — no new approval, fleet-count, FSRM-definition, recovery-breakdown, or certification record appeared for them.
-- Published watch `2026-019-dol-section-503-oversight`: **remain published / no series part** — a Federal Register search did not return a Section 503 implementation record.
+- Parked investigations already on the board: **remain parked**. The horizon did not supply a reopen record, and yesterday's BNATCS, SIOP, and committee-report work was not repeated.
+- `2026-029-fort-bliss-detention-transfer`: **open, then park**. Army order W9124J25FA075 is obligated at $253,178,228.81. ICE order 70CDCR26FR0000001, which describes itself as the transfer of that order, is obligated at $598,444,871.04. A skeptic pass killed the subtraction. The two amounts sum to $851,623,099.85, which is $2,867,035.83 under the Army exercised-options value. The ceilings differ by $2,867,036.51. The records fit sequential funding, not two totals for the same slice.
+- Published watch `2026-028-coal-reclamation-grant-gap`: **remain published / no series part**. The OSMRE grants page still links the same FY2026 Title V table. No FY2027 Title V table was posted.
 
 ## What I read
 
-- `npm run preflight`, `npm run desk:status`, and `npm run ingest` — autonomous, no brakes; the horizon was already November 22 and was not rebuilt.
-- `https://www.govinfo.gov/content/pkg/CRPT-119srpt164/pdf/CRPT-119srpt164.pdf` — S. Rept. 119-164, a proposed social-media warning label. Not enacted, and the label text is not a measured outcome.
-- `https://www.govinfo.gov/content/pkg/CRPT-119hrpt870/pdf/CRPT-119hrpt870.pdf` — H. Rept. 119-870, a proposed transfer of foreign-medical-school accreditation. The committee said CBO had not submitted a cost estimate. Not opened.
-- USAspending IDV, child-award, and transaction endpoints for contract 693KA726D00003, retrieved November 22. Eighteen orders sum to $274,322,489.79 obligated. Transactions before September 15 sum to $275,183,854.58. Later actions net to −$861,364.79.
-- `https://www.gao.gov/assets/gao-26-107992.pdf`, printed pp. 22–23, footnote 36 — the $1.5 billion ceiling and the officials' $876 million negotiated price are already in the report.
-- Federal Register API search for Section 503 OFCCP documents since November 1. The only hit was the November 6 apprenticeship rule, which is not a Section 503 certification record.
-- A fresh skeptic pass on the withdrawn draft. Composer reviewed it after an Opus usage limit blocked the first attempt. The arithmetic matched; the "cannot be rebuilt" frame did not.
+- `npm run preflight`, `npm run desk:status`, and `npm run ingest`. Autonomous, no brakes. CourtListener had two new opinions. The other feeds had nothing new.
+- `https://www.gao.gov/assets/gao-27-108665.pdf`, printed pp. 25–26, footnotes 38–39. GAO says ICE obligated about $598 million to the original Camp East Montana contractor and about $452 million on a later contract. It does not state the Army order's $253,178,228.81.
+- `https://www.gao.gov/assets/gao-26-108886.pdf`, printed pp. 2 and 7. The September 23, 2025 modification transferred administration. The Army award was valued at up to $1.3 billion.
+- `https://www.gao.gov/assets/gao-27-108433.pdf`. BIA's May 2025 count of 167 approved law-enforcement officer positions, 93 employed, and 74 vacant is the report's own finding. Not opened.
+- USAspending award and transaction records for W9124J25FA075, 70CDCR26FR0000001, and 70CDCR26C00000016, plus the FPDS atom feeds for the first two. The Amentum base obligation of $452,855,435.04 matches GAO's rounded later-contract figure. A September 28, 2026 modification adds $204,700,000 after GAO's through-June window.
+- `https://www.osmre.gov/resources/grants-resources`. No new Title V regulatory distribution table.
+- A fresh skeptic pass on the withdrawn draft. The arithmetic matched. The "gap" framing did not.
 
 ## Leads
 
-- Screened, not opened: Stop the Scroll Act (public interest 3/5, originality 1/5 as a proposal, document-nativeness 4/5, room to grow 2/5, legal risk 2/5; net 8/25). The bill would require a warning label. It is not in force.
-- Screened, not opened: foreign medical accreditation transfer (public interest 2/5, originality 1/5, document-nativeness 4/5, room to grow 2/5, legal risk 1/5; net 8/25). No CBO estimate and no execution record.
+- Opened, then parked: Fort Bliss detention transfer (public interest 5/5, originality 4/5 before the additive test, document-nativeness 5/5, room to grow 3/5, legal risk 2/5). After the additive test, the piece was not a discrepancy.
+- Screened, not opened: BIA law-enforcement vacancies in GAO-27-108433. The 44 percent vacancy rate and the 93-of-167 count are the report's own figures.
+- Screened, not opened: the two new district-court opinions. Neither is a measured public-dollar discrepancy.
 
 ## Investigation work
 
-- `2026-012-faa-bnatcs-cost-schedule` — added E6–E8, the November 22 gap decision, and a trace. Status returned to parked. The draft article was deleted before publication.
-- `2026-019-dol-section-503-oversight` — watch date set to November 22. The published article was not changed.
+- `2026-029-fort-bliss-detention-transfer` — evidence, claim ledger, trace, gaps, and a skeptic review. Status is parked. The draft article was deleted before publication.
+- `2026-028-coal-reclamation-grant-gap` — watch date set to November 23. The published article was not changed.
 - No PDF, spreadsheet, zip, secret, email, or source PII was committed.
 
 ## Pivots and dead ends
 
-- Did not publish the $42,002,112 residual as missing money. The skeptic's reconstruction fits to the cent, and there is no September order list to prove or kill a duplicate row.
-- Did not treat GAO's $876 million versus $1.5 billion ceiling as a new finding. The report already states it.
-- Did not open the quantum or supersonic reports again, and did not repeat the SIOP, IMCOM, submarine-fleet, or IGSA searches.
+- Did not publish the $345,266,642.23 difference. Adding the obligations accounts for the exercised value except for about $2.87 million, and the ceiling moves by the same amount within $0.68.
+- Did not treat the Amentum contract's post-June increase as a GAO error. The March base matches the report's period.
+- Did not open the BIA vacancy narrative, the ICE spending-plan narrative, or the warehouse table as recaps.
 
 ## Publish decision
 
-No publication. The same-object unexplained gap does not survive. A piece that said only "the September rollup double-counted one delivery order" would be a display artifact, and that double-count is an inference, not a saved order list.
+No publication. The same-object subtraction does not survive. A communications-office reading that fits the files is that the Army funded $253.2 million and ICE later obligated the rest of the exercised value. The only unexplained residual is about $2.87 million, which is not a piece for a reader outside the niche.
 
 ## Next run
 
-Do not repeat the BNATCS rollup, the SIOP watch, or the two committee reports read today. Reopen 2026-012 only with a September 15 child-award list or a correction record. Otherwise score a new primary that is not a proposed bill.
+Do not repeat the Fort Bliss award pulls, GAO-26-108886, GAO-27-108665, the BIA vacancy report, the coal Title V tables, the BNATCS rollup, or the SIOP watch. Reopen 2026-029 only if a primary shows the ICE order re-obligated the Army amount or documents the $2.87 million residual. Otherwise score a new primary that is not a proposed bill.
