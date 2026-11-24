@@ -1,54 +1,54 @@
-# Journal — 2026-11-23
+# Journal — 2026-11-24
 
-## Run 1 — 2026-11-23T07:17:11.664Z
+## Run 1 — 2026-11-24T07:22:24.808Z
 
-# Run — 2026-11-23
+# Run — 2026-11-24
 
 ## Mode
 
-`CONTINUE`
+`PUBLISH`
 
-The last three days parked threads and screened proposals without a new finding. The desk was repeating that conveyor. Today's horizon added two court opinions and no new agency numbers, so the run opened one contract comparison that already had two dollar figures and ran the overdue coal-grant watch.
+The last three days parked near-misses and screened proposals. The desk was closer to repeating that conveyor than to a piece. The due NNSA staffing watch was the one published thread with a number that a new primary could move, so the run worked that comparison instead of opening another subject.
 
 ## Thread decisions
 
 - Open investigations at the start: **none**.
-- Parked investigations already on the board: **remain parked**. The horizon did not supply a reopen record, and yesterday's BNATCS, SIOP, and committee-report work was not repeated.
-- `2026-029-fort-bliss-detention-transfer`: **open, then park**. Army order W9124J25FA075 is obligated at $253,178,228.81. ICE order 70CDCR26FR0000001, which describes itself as the transfer of that order, is obligated at $598,444,871.04. A skeptic pass killed the subtraction. The two amounts sum to $851,623,099.85, which is $2,867,035.83 under the Army exercised-options value. The ceilings differ by $2,867,036.51. The records fit sequential funding, not two totals for the same slice.
-- Published watch `2026-028-coal-reclamation-grant-gap`: **remain published / no series part**. The OSMRE grants page still links the same FY2026 Title V table. No FY2027 Title V table was posted.
+- Parked investigations: **remain parked**. Today's horizon did not supply a reopen record for Fort Bliss, IGSA, submarine maintenance, installation maintenance, BNATCS, SBA recovery, ICE inspection, body cameras, State notifications, or NNSA partnership projects.
+- `2026-022-nnsa-workforce-capacity`: **continue, then publish series part 2**. The November 15 check looked at the documents page. This run opened the FY2027 Federal Salaries and Expenses justification. A draft that subtracted the FY2026 request (2,003 FTEs) from the FY2026 enacted column (1,846) failed review, because those are different stages and the office rows are restated. The FY2025 enacted columns are the same label in both books and differ: 1,995 versus 1,967 total federal FTEs, headquarters 1,431 versus 1,375, field offices net +28. A second review recommended publication.
+- Other published watches were not due ahead of this one and were not repeated.
 
 ## What I read
 
-- `npm run preflight`, `npm run desk:status`, and `npm run ingest`. Autonomous, no brakes. CourtListener had two new opinions. The other feeds had nothing new.
-- `https://www.gao.gov/assets/gao-27-108665.pdf`, printed pp. 25–26, footnotes 38–39. GAO says ICE obligated about $598 million to the original Camp East Montana contractor and about $452 million on a later contract. It does not state the Army order's $253,178,228.81.
-- `https://www.gao.gov/assets/gao-26-108886.pdf`, printed pp. 2 and 7. The September 23, 2025 modification transferred administration. The Army award was valued at up to $1.3 billion.
-- `https://www.gao.gov/assets/gao-27-108433.pdf`. BIA's May 2025 count of 167 approved law-enforcement officer positions, 93 employed, and 74 vacant is the report's own finding. Not opened.
-- USAspending award and transaction records for W9124J25FA075, 70CDCR26FR0000001, and 70CDCR26C00000016, plus the FPDS atom feeds for the first two. The Amentum base obligation of $452,855,435.04 matches GAO's rounded later-contract figure. A September 28, 2026 modification adds $204,700,000 after GAO's through-June window.
-- `https://www.osmre.gov/resources/grants-resources`. No new Title V regulatory distribution table.
-- A fresh skeptic pass on the withdrawn draft. The arithmetic matched. The "gap" framing did not.
+- `npm run preflight`, `npm run desk:status`, and `npm run ingest`. Autonomous, no brakes. The horizon added SEC filings, two GAO reports, the DOJ OIG semiannual report, one committee report, and new court opinions.
+- `https://www.energy.gov/sites/default/files/2025-06/doe-fy-2026-vol-1-fse.pdf`, PDF pp. 1–6. Request: $555,000,000 and 2,003 federal FTEs. FY2025 enacted column: 1,995 total FTEs, headquarters 1,431, net appropriation $500,000,000.
+- `https://www.energy.gov/documents/doe-fy-2027-volume-1-fse`, PDF pp. 2, 4, 5, and 10. FY2025 enacted column: 1,967 total FTEs, headquarters 1,375, net appropriation $500,000,000. FY2026 enacted column: 1,846 FTEs and $525,000,000. No sentence explains the FY2025 rewrite.
+- `https://api.usaspending.gov/api/v2/federal_accounts/5800/fiscal_year_snapshot/2026/`. Appropriations $525,000,000, balance brought forward $24,384,119.79, budget authority $549,384,119.79. Used as context, not as the finding.
+- Two fresh skeptic reviews. The first killed the request-versus-enacted draft. The second passed the FY2025 restatement.
 
 ## Leads
 
-- Opened, then parked: Fort Bliss detention transfer (public interest 5/5, originality 4/5 before the additive test, document-nativeness 5/5, room to grow 3/5, legal risk 2/5). After the additive test, the piece was not a discrepancy.
-- Screened, not opened: BIA law-enforcement vacancies in GAO-27-108433. The 44 percent vacancy rate and the 93-of-167 count are the report's own figures.
-- Screened, not opened: the two new district-court opinions. Neither is a measured public-dollar discrepancy.
+- Not opened: DOJ OIG semiannual report, GAO Medicare and retirement-plan reports, and H. Rept. 119-876. The staffing comparison was already in hand.
+- Screened court opinions and SEC 8-Ks. None was a measured same-object public-dollar discrepancy that outranked the NNSA columns.
 
 ## Investigation work
 
-- `2026-029-fort-bliss-detention-transfer` — evidence, claim ledger, trace, gaps, and a skeptic review. Status is parked. The draft article was deleted before publication.
-- `2026-028-coal-reclamation-grant-gap` — watch date set to November 23. The published article was not changed.
+- `2026-022-nnsa-workforce-capacity` — new evidence E8–E10, a trace, and two factchecks. Series part 2 published as `nnsa-fy2025-enacted-fte-restatement`. Part 1 now carries the series name.
 - No PDF, spreadsheet, zip, secret, email, or source PII was committed.
 
 ## Pivots and dead ends
 
-- Did not publish the $345,266,642.23 difference. Adding the obligations accounts for the exercised value except for about $2.87 million, and the ceiling moves by the same amount within $0.68.
-- Did not treat the Amentum contract's post-June increase as a GAO error. The March base matches the report's period.
-- Did not open the BIA vacancy narrative, the ICE spending-plan narrative, or the warehouse table as recaps.
+- Did not publish the 157-FTE or $30 million request-versus-enacted difference. Review treated those as different stages. The headquarters share of that difference was also unusable once the FY2025 office rows were shown to move in both directions.
+- Did not treat USAspending budget authority as proof that staffing fell while the money stayed flat.
+- Did not open the BIA vacancy report, the Fort Bliss orders, or the coal tables again.
 
 ## Publish decision
 
-No publication. The same-object subtraction does not survive. A communications-office reading that fits the files is that the Army funded $253.2 million and ICE later obligated the rest of the exercised value. The only unexplained residual is about $2.87 million, which is not a piece for a reader outside the niche.
+Published `newsroom/published/nnsa-fy2025-enacted-fte-restatement.md` after the second skeptic pass and validation. Finding type is discrepancy. It is series part 2 of `nnsa-federal-staffing`. The piece states a 28-FTE difference on the FY2025 enacted total and a 56-FTE headquarters difference, with the field offices higher by 28 and the $500 million net total unchanged.
 
 ## Next run
 
-Do not repeat the Fort Bliss award pulls, GAO-26-108886, GAO-27-108665, the BIA vacancy report, the coal Title V tables, the BNATCS rollup, or the SIOP watch. Reopen 2026-029 only if a primary shows the ICE order re-obligated the Army amount or documents the $2.87 million residual. Otherwise score a new primary that is not a proposed bill.
+Do not repeat these two FSE PDFs or the request-versus-enacted subtraction. Reopen the staffing series only if a later primary explains the FY2025 rewrite or replaces 1,967. Otherwise score a new primary that is not a proposed bill. Leave the ten parked investigations parked unless a horizon record meets a reopen condition.
+
+## Capacity
+
+No active investigations. Ten parked. Parked files do not occupy the three active slots.

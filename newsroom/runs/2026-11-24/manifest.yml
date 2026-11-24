@@ -1,0 +1,46 @@
+date: 2026-11-24
+mode: PUBLISH
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm ci completed successfully
+desk_status:
+  ran: true
+  result: no active investigations and ten parked at the start
+ingest:
+  ran: true
+  result: November 24 horizon created; new SEC filings, two GAO reports, DOJ OIG semiannual report, one committee report, and new court opinions
+  horizon: newsroom/horizon/2026-11-24/
+thread_decisions:
+  - id: open-investigations
+    decision: none
+    reason: no active investigation at the start
+  - id: parked-board
+    decision: remain_parked
+    reason: horizon supplied no reopen record for the ten parked threads
+  - id: 2026-022-nnsa-workforce-capacity
+    decision: continue
+    reason: due watch; FY2027 FSE justification restates the FY2025 enacted FTE column
+investigations:
+  - 2026-022-nnsa-workforce-capacity
+research:
+  primary_documents:
+    - https://www.energy.gov/sites/default/files/2025-06/doe-fy-2026-vol-1-fse.pdf
+    - https://www.energy.gov/documents/doe-fy-2027-volume-1-fse
+    - https://api.usaspending.gov/api/v2/federal_accounts/5800/fiscal_year_snapshot/2026/
+  result: published the FY2025 enacted staffing restatement; did not publish the FY2026 request-versus-enacted subtraction
+publication:
+  published: true
+  files:
+    - newsroom/published/nnsa-fy2025-enacted-fte-restatement.md
+  reason: two labeled FY2025 enacted columns differ by 28 federal FTEs, with headquarters 56 lower and the field offices 28 higher
+validation:
+  run: true
+  reason: npm run validate:all after the second skeptic pass
+journal:
+  - newsroom/journal/2026-11-24.md
+desk_notes:
+  - newsroom/desk/2026-11-24-r1.md
+no_binaries_committed: true

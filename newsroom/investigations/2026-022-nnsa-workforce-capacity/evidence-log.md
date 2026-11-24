@@ -47,3 +47,29 @@
 - Locator: “Workforce Retention,” Appendix C.
 - Captured excerpt: The plan distinguishes NNSA’s federal workforce, funded through the Federal Salaries and Expenses appropriation and responsible for oversight, from its management-and-operating partners; it also describes qualification and retention challenges.
 - Why it matters: Prevents the SRS contractor workforce-planning record from being misused as a federal FTE denominator.
+
+## E8 — FY2026 FSE request, FY2025 enacted column
+
+- URL: https://www.energy.gov/sites/default/files/2025-06/doe-fy-2026-vol-1-fse.pdf
+- Retrieved: 2026-11-24
+- sha256: 4b8797f3f10ce7aa936631bbd68b24ccf929e972d091d0e05ee1fb3d46f3ee88
+- Locator: PDF pp. 2, 4, 5, and 6, FY2025 enacted column.
+- Captured excerpt: Total FTEs 1,995, of which 1,974 are paid from FSE and 21 through the WCF. Headquarters 1,431. Net appropriation $500,000,000 from a $527,169,000 gross line and $27,169,000 of prior-year balances.
+- Why it matters: First official printing of the FY2025 enacted federal staffing total for this account.
+
+## E9 — FY2027 FSE justification, FY2025 enacted column
+
+- URL: https://www.energy.gov/documents/doe-fy-2027-volume-1-fse
+- Retrieved: 2026-11-24
+- sha256: 615454687a9ddea08b365eb047b365d0ed976ac62fb4773f9670d4334b979783
+- Locator: PDF pp. 2, 4, and 5, FY2025 enacted column.
+- Captured excerpt: Total FTEs 1,967, of which 1,946 are paid from FSE and 21 through the WCF. Headquarters 1,375. Net appropriation $500,000,000 from a $521,410,000 gross line and $21,410,000 of prior-year balances. No sentence explains the difference from the earlier book.
+- Why it matters: Second official printing of the same labeled year and account.
+
+## E10 — USAspending FY2026 snapshot, 089-0313
+
+- URL: https://api.usaspending.gov/api/v2/federal_accounts/5800/fiscal_year_snapshot/2026/
+- Retrieved: 2026-11-24
+- Locator: results.appropriations, results.balance_brought_forward, results.budget_authority
+- Captured excerpt: appropriations 525000000.0; balance_brought_forward 24384119.79; budget_authority 549384119.79.
+- Why it matters: Context for the FY2026 appropriation. Not the FY2025 finding.

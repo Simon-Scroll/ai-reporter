@@ -8,6 +8,12 @@
 - NNSA's 2024 Year in Review says a Strategic Workforce Plan exists through FY 2031, but the public record reviewed here does not provide that plan's headcount schedule or a direct crosswalk to the 2,003-FTE FY2026 request.
 - The Savannah River contract workforce-plan requirements describe contractor staffing and skills, not the federal workforce denominator. The FY2025 Stockpile Stewardship and Management Plan confirms that federal and management-and-operating workforces are distinct.
 
+## 2026-11-24
+
+A draft that subtracted the FY2026 request (2,003 FTEs and $555,000,000) from the FY2026 enacted column (1,846 FTEs and $525,000,000) failed review. Those are different stages, and the office rows are not a stable definition because these books restate FY2025 in both directions. That subtraction was not published.
+
+The comparison that was published is the FY2025 enacted column: 1,995 versus 1,967 total federal FTEs, headquarters 1,431 versus 1,375, field offices net +28, net appropriation unchanged at $500,000,000. Neither book explains the rewrite. Do not republish the 157-FTE request-versus-enacted subtraction.
+
 ## Decision required
 
 The distinct records now support a labeled public-record comparison: NNSA's 2,003-FTE forward plan and GAO's 1,755-employee Q2 actual are joinable at the federal-workforce level, but the public materials reviewed do not reconcile the difference or disclose the treatment of the 38 transferred Savannah River positions. Write the gap without calling it a staffing shortfall. Do not claim mission failure, a statutory violation, or a safety consequence.

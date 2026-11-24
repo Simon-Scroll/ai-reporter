@@ -75,3 +75,22 @@ claims:
       - E2
       - E4
       - E6
+  - id: P2C1
+    type: fact
+    text: "The FY2026 FSE request lists 1,995 total federal FTEs as FY2025 enacted, 1,974 paid from FSE and 21 through the WCF, with headquarters at 1,431."
+    status: supported
+    evidence:
+      - E8
+  - id: P2C2
+    type: fact
+    text: "The FY2027 FSE justification lists 1,967 total federal FTEs as FY2025 enacted, 1,946 paid from FSE and 21 through the WCF, with headquarters at 1,375."
+    status: supported
+    evidence:
+      - E9
+  - id: P2C3
+    type: inference
+    text: "The later book is 28 federal FTEs lower on the same labeled year. Headquarters is 56 lower and the field offices are 28 higher. The net appropriation stays $500,000,000. Neither book explains the rewrite."
+    status: supported
+    evidence:
+      - E8
+      - E9

@@ -19,13 +19,13 @@
     "2026-008-dod-installation-maintenance-funding",
     "2026-029-fort-bliss-detention-transfer"
   ],
-  "series": [],
-  "last_run": "2026-11-23",
-  "last_mode": "CONTINUE",
-  "last_horizon": "2026-11-23",
-  "last_published_at": "2026-11-14",
-  "last_journal": "newsroom/journal/2026-11-23.md",
-  "next_action": "Do not republish the Fort Bliss obligation subtraction, and do not repeat the W9124J25FA075 or 70CDCR26FR0000001 pulls, GAO-26-108886, GAO-27-108665, the BIA vacancy report, the coal Title V tables, the BNATCS rollup, or the SIOP watch. Reopen 2026-029 only if a primary shows the ICE order re-obligated the Army $253,178,228.81 or documents the $2,867,035.83 residual. Otherwise score a new primary that is not a proposed bill.",
-  "handoff": "November 23 opened the Fort Bliss detention transfer, compared Army order W9124J25FA075 with ICE order 70CDCR26FR0000001, and did not publish. A skeptic pass killed the $345,266,642.23 subtraction: the two obligations sum to $851,623,099.85, $2,867,035.83 under the Army exercised-options value, and the ceilings differ by $2,867,036.51. GAO-26-108886 calls the September 23, 2025 modification the transfer and values the award at up to $1.3 billion. The coal watch found no new Title V table. The draft was deleted. Ten investigations are parked and none are active.",
+  "series": ["nnsa-federal-staffing"],
+  "last_run": "2026-11-24",
+  "last_mode": "PUBLISH",
+  "last_horizon": "2026-11-24",
+  "last_published_at": "2026-11-24",
+  "last_journal": "newsroom/journal/2026-11-24.md",
+  "next_action": "Do not repeat the two NNSA FSE PDFs or the FY2026 request-versus-enacted subtraction of 2,003 versus 1,846. Reopen the staffing series only if a later primary explains the FY2025 enacted rewrite (1,995 versus 1,967, headquarters 1,431 versus 1,375) or replaces 1,967. Otherwise score a new primary that is not a proposed bill. Leave the parked investigations parked unless a horizon record meets a reopen condition.",
+  "handoff": "November 24 published series part 2 of the NNSA staffing thread. The FY2026 request lists 1,995 federal FTEs as FY2025 enacted; the FY2027 justification lists 1,967 for the same account and label. Headquarters is 1,431, then 1,375, and the field offices are 28 higher. The $500 million net total does not change. A draft that treated the FY2026 request of 2,003 and the enacted column of 1,846 as one gap failed review and was not published. Ten investigations remain parked and none are active.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-18. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Publisher 2026-11-09: Phase 2 — measured discrepancies first, record-gap pieces capped, held drafts are not work (overrides/2026-11-09-phase-2.md). Absence of KILL/HOLD does not mean publish a recap."
 }
