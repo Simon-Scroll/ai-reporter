@@ -1,0 +1,53 @@
+date: 2026-11-25
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm ci completed successfully
+desk_status:
+  ran: true
+  result: no active investigations and ten parked at the start
+ingest:
+  ran: true
+  result: November 25 horizon created; new SEC filings, Federal Register items, four DOJ OIG reports, four committee reports, court opinions, and FDA recalls; GAO had nothing new
+  horizon: newsroom/horizon/2026-11-25/
+thread_decisions:
+  - id: open-investigations
+    decision: none
+    reason: no active investigation at the start
+  - id: parked-board
+    decision: remain_parked
+    reason: horizon supplied no reopen record for the ten parked threads
+  - id: 2026-022-nnsa-workforce-capacity
+    decision: leave_published
+    reason: no later book explains the FY2025 enacted FTE rewrite; the two FSE PDFs were not refetched
+  - id: 2026-023-critical-minerals-ownership-data-boundary
+    decision: remain_published
+    reason: due watch; layer schema unchanged at currentVersion 11.5 with no citizenship or parent-ownership field
+  - id: 2026-030-aff-digital-asset-growth
+    decision: kill
+    reason: exhibit's 494 percent reconciles as the later gross balance divided by the earlier one; skeptic killed the growth-rate framing
+investigations:
+  - 2026-030-aff-digital-asset-growth
+  - 2026-023-critical-minerals-ownership-data-boundary
+research:
+  primary_documents:
+    - https://oig.justice.gov/sites/default/files/reports/27-009_non508.pdf
+    - https://www.sec.gov/Archives/edgar/data/1590715/000147793226007287/arec_8k.htm
+    - https://data.sec.gov/api/xbrl/companyconcept/CIK0001590715/us-gaap/Assets.json
+    - https://nlsdbpubgis.blm.gov/arcgishub/rest/services/HUB/BLM_Natl_MLRS_Locatable_Plans_Of_Operations/FeatureServer/0?f=pjson
+  result: killed the forfeiture-fund percentage comparison after review; did not open the company restatement; BLM schema unchanged
+publication:
+  published: false
+  files: []
+  reason: the percentage comparison reconciles as a ratio, and the prior article was published on 2026-11-24
+validation:
+  run: true
+  reason: draft validated before review, then deleted; validate:all run before commit
+journal:
+  - newsroom/journal/2026-11-25.md
+desk_notes:
+  - newsroom/desk/2026-11-25-r1.md
+no_binaries_committed: true

@@ -1,53 +1,56 @@
-# Journal — 2026-11-24
+# Journal — 2026-11-25
 
-## Run 1 — 2026-11-24T07:22:24.808Z
+## Run 1 — 2026-11-25T07:17:24.440Z
 
-# Run — 2026-11-24
+# Run — 2026-11-25
 
 ## Mode
 
-`PUBLISH`
+`CONTINUE`
 
-The last three days parked near-misses and screened proposals. The desk was closer to repeating that conveyor than to a piece. The due NNSA staffing watch was the one published thread with a number that a new primary could move, so the run worked that comparison instead of opening another subject.
+The last three days parked a contract subtraction that failed an additive test, screened proposed bills, and then published a real staffing discrepancy. The desk is closer to original pieces than to the record-gap conveyor. It cannot publish again until November 30. Today's job was a new primary, not a repeat of the NNSA books.
 
 ## Thread decisions
 
 - Open investigations at the start: **none**.
 - Parked investigations: **remain parked**. Today's horizon did not supply a reopen record for Fort Bliss, IGSA, submarine maintenance, installation maintenance, BNATCS, SBA recovery, ICE inspection, body cameras, State notifications, or NNSA partnership projects.
-- `2026-022-nnsa-workforce-capacity`: **continue, then publish series part 2**. The November 15 check looked at the documents page. This run opened the FY2027 Federal Salaries and Expenses justification. A draft that subtracted the FY2026 request (2,003 FTEs) from the FY2026 enacted column (1,846) failed review, because those are different stages and the office rows are restated. The FY2025 enacted columns are the same label in both books and differ: 1,995 versus 1,967 total federal FTEs, headquarters 1,431 versus 1,375, field offices net +28. A second review recommended publication.
-- Other published watches were not due ahead of this one and were not repeated.
+- `2026-022-nnsa-workforce-capacity`: **leave published**. No later book explains the FY2025 enacted rewrite. The two FSE PDFs were not refetched.
+- `2026-023-critical-minerals-ownership-data-boundary`: **remain published / no series part**. Due watch. The layer schema was retrieved. `currentVersion` is still 11.5, with the same 28 fields and no citizenship or parent-ownership field. The November 16 count and recent-row queries were not repeated.
+- `2026-030-aff-digital-asset-growth`: **open, then kill**. KPMG's exhibit says digital-asset balances increased 494 percent. Note 7's gross ending values rose from $2,089,575,000 to $10,324,211,000, which is 394.1 percent. The later total is 494.1 percent of the earlier total. A fresh review confirmed the arithmetic and killed the finding: the sentence reconciles as a ratio. The draft was deleted.
 
 ## What I read
 
-- `npm run preflight`, `npm run desk:status`, and `npm run ingest`. Autonomous, no brakes. The horizon added SEC filings, two GAO reports, the DOJ OIG semiannual report, one committee report, and new court opinions.
-- `https://www.energy.gov/sites/default/files/2025-06/doe-fy-2026-vol-1-fse.pdf`, PDF pp. 1–6. Request: $555,000,000 and 2,003 federal FTEs. FY2025 enacted column: 1,995 total FTEs, headquarters 1,431, net appropriation $500,000,000.
-- `https://www.energy.gov/documents/doe-fy-2027-volume-1-fse`, PDF pp. 2, 4, 5, and 10. FY2025 enacted column: 1,967 total FTEs, headquarters 1,375, net appropriation $500,000,000. FY2026 enacted column: 1,846 FTEs and $525,000,000. No sentence explains the FY2025 rewrite.
-- `https://api.usaspending.gov/api/v2/federal_accounts/5800/fiscal_year_snapshot/2026/`. Appropriations $525,000,000, balance brought forward $24,384,119.79, budget authority $549,384,119.79. Used as context, not as the finding.
-- Two fresh skeptic reviews. The first killed the request-versus-enacted draft. The second passed the FY2025 restatement.
+- `npm run preflight`, `npm run desk:status`, and `npm run ingest`. Autonomous, no brakes. The horizon added SEC filings, Federal Register items, four DOJ OIG reports, four committee reports, court opinions, and FDA recalls. GAO had nothing new.
+- `https://oig.justice.gov/sites/default/files/reports/27-009_non508.pdf`, sha256 `19d043e519541635a08a6d2527de485c8d932628023a3a2b506b99159dee0e44`. PDF p. 2 unmodified opinion. PDF p. 30, printed p. 25, the 61 percent and 494 percent sentences. Note 7 digital-asset rows on PDF pp. 51, 53, 55, and 57.
+- American Resources Corporation Form 8-K, accession `0001477932-26-007287`, Item 4.02 and the restatement tables. Company-facts Assets for the May 20, 2026 Form 10-K (`0001477932-26-003317`) is 168,907,706 at December 31, 2025, the same "as previously reported" total.
+- BLM FeatureServer metadata for the locatable plans layer. Schema only.
+- A fresh skeptic review on a different model. It re-fetched the audit pages. No number failed.
 
 ## Leads
 
-- Not opened: DOJ OIG semiannual report, GAO Medicare and retirement-plan reports, and H. Rept. 119-876. The staffing comparison was already in hand.
-- Screened court opinions and SEC 8-Ks. None was a measured same-object public-dollar discrepancy that outranked the NNSA columns.
+- Opened, then killed: AFF/SADF digital-asset growth rate (public interest 5/5, originality 4/5 after the second excerpt, document-nativeness 5/5, room to grow 3/5, legal risk 2/5). The ratio reading answers the sentence.
+- Screened, not opened: American Resources non-reliance 8-K. The 2025 asset total in the "as previously reported" column matches the cited 10-K. The restatement of about $50 million is the filing's own table. Note 15 dates a 2024 amendment to October 25, 2024 and says that column is after a discontinued-operations recast. Item 4.02 dates the 10-K/A to October 24, 2025, which is the filing EDGAR shows. The stated recast scope is why the 2024 totals were not treated as the same object.
+- Not opened: the other new DOJ financial-statement audits, the OVW grant audit, committee reports, court opinions, and FDA recalls. The forfeiture-fund comparison was already in hand, and a third thread was not worked.
 
 ## Investigation work
 
-- `2026-022-nnsa-workforce-capacity` — new evidence E8–E10, a trace, and two factchecks. Series part 2 published as `nnsa-fy2025-enacted-fte-restatement`. Part 1 now carries the series name.
+- `2026-030-aff-digital-asset-growth` — evidence, claim ledger, trace, gaps, and a skeptic review. Status is killed. The draft was deleted before publication.
+- `2026-023-critical-minerals-ownership-data-boundary` — watch date set to November 25. The published article was not changed.
 - No PDF, spreadsheet, zip, secret, email, or source PII was committed.
 
 ## Pivots and dead ends
 
-- Did not publish the 157-FTE or $30 million request-versus-enacted difference. Review treated those as different stages. The headquarters share of that difference was also unusable once the FY2025 office rows were shown to move in both directions.
-- Did not treat USAspending budget authority as proof that staffing fell while the money stayed flat.
-- Did not open the BIA vacancy report, the Fort Bliss orders, or the coal tables again.
+- Did not publish the 494-versus-394 comparison. Review treated it as an idiom that the tables already reconcile.
+- Did not recap the exhibit's control findings, the likely $35.2 million beginning-balance misstatement, or the $47.7 million misappropriation figure. Those are the auditor's own statements.
+- Did not open the company restatement as a rewrite of its own reconciliation table.
 
 ## Publish decision
 
-Published `newsroom/published/nnsa-fy2025-enacted-fte-restatement.md` after the second skeptic pass and validation. Finding type is discrepancy. It is series part 2 of `nnsa-federal-staffing`. The piece states a 28-FTE difference on the FY2025 enacted total and a 56-FTE headquarters difference, with the field offices higher by 28 and the $500 million net total unchanged.
+No publication. The previous article was November 24, inside the six-day cadence, and the only comparison that reached a draft failed review.
 
 ## Next run
 
-Do not repeat these two FSE PDFs or the request-versus-enacted subtraction. Reopen the staffing series only if a later primary explains the FY2025 rewrite or replaces 1,967. Otherwise score a new primary that is not a proposed bill. Leave the ten parked investigations parked unless a horizon record meets a reopen condition.
+Do not reopen 2026-030 without a new hypothesis and a new first document. Do not repeat report 27-009 or the American Resources 8-K. Leave the ten parked investigations parked unless a horizon record meets a reopen condition. Score a new primary that is not a proposed bill.
 
 ## Capacity
 

@@ -1,6 +1,6 @@
 id: 2026-023-critical-minerals-ownership-data-boundary
 opened: 2026-10-20
-updated: 2026-11-16
+updated: 2026-11-25
 status: published
 mode: WRITE
 next_action: Monitor for an official BLM crosswalk or schema revision that adds citizenship or parent-ownership fields; do not repeat the 2026-11-16 layer-count or recent-row queries without a new signal.

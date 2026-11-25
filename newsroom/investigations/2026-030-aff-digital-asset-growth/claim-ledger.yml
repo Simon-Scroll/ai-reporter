@@ -1,0 +1,27 @@
+claims:
+  - id: C1
+    text: "KPMG's exhibit states that digital assets make up 61 percent of total seized and forfeited assets held by the AFF/SADF as of September 30, 2026, and that balances have increased 494 percent from September 30, 2025 to September 30, 2026."
+    status: supported
+    source: evidence/2026-11-25-kpmg-exhibit.md
+  - id: C2
+    text: "Note 7, in thousands, shows seized digital assets ending at $1,872,153 for FY2025 and $10,036,405 for FY2026, and forfeited digital assets ending at $217,422 for FY2025 and $287,806 for FY2026. The FY2026 beginning values for those two rows equal the FY2025 ending values."
+    status: supported
+    source: evidence/2026-11-25-note7-rollforward.md
+  - id: C3
+    text: "Note 7's FY2026 total ending value is $16,495,097 thousand for seized property and $440,917 thousand for forfeited property."
+    status: supported
+    source: evidence/2026-11-25-note7-rollforward.md
+  - id: C4
+    text: "Adding the digital-asset ending values gives $2,089,575 thousand at September 30, 2025 and $10,324,211 thousand at September 30, 2026, an increase of $8,234,636 thousand, or 394.1 percent. The later total is 494.1 percent of the earlier total. A 494 percent increase on the earlier total would end at $12,412,075,500, which is $2,087,864,500 above the printed stock."
+    status: supported
+    source: evidence/2026-11-25-note7-rollforward.md
+  - id: C5
+    text: "The later digital-asset gross total of $10,324,211 thousand is 61.0 percent of the combined seized and forfeited gross ending value of $16,936,014 thousand, matching the exhibit's 61 percent once rounded to the nearest percent."
+    status: supported
+    source: evidence/2026-11-25-note7-rollforward.md
+    corroboration:
+      - evidence/2026-11-25-kpmg-exhibit.md
+  - id: C6
+    text: "KPMG issued an unmodified opinion on the AFF/SADF financial statements as of and for the year ended September 30, 2026."
+    status: supported
+    source: evidence/2026-11-25-kpmg-exhibit.md

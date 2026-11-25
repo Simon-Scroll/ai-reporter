@@ -1,115 +1,125 @@
-# Horizon brief — 2026-11-23
+# Horizon brief — 2026-11-25
 
 Primary-source intake only (US federal, corporate, judicial, IG, and public-safety records). News articles are not listed here. Pick leads from documents, not coverage.
 Items marked NEW were not in the previous brief for that source; the rest were already seen.
 
 ## sec-edgar
-0 new of 22 since 2026-11-22.
+14 new of 23 since 2026-11-24.
 
-- **8-K - MOBIX LABS, INC (0001855467) (Filer)**
-  - when: 2026-11-20T17:30:44-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1855467/000149315226053579/0001493152-26-053579-index.htm
-  - Filed: 2026-11-20 AccNo: 0001493152-26-053579 Size: 277 KB Item 3.03: Material Modifications to Rights of Security Holders Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 9.01: Financial Statements and Exhibits
-- **8-K - SUNation Energy, Inc. (0000022701) (Filer)**
-  - when: 2026-11-20T17:26:25-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/22701/000121390026122794/0001213900-26-122794-index.htm
-  - Filed: 2026-11-20 AccNo: 0001213900-26-122794 Size: 389 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits
-- **8-K - PIONEER POWER SOLUTIONS, INC. (0001449792) (Filer)**
-  - when: 2026-11-20T17:20:22-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1449792/000149315226053559/0001493152-26-053559-index.htm
-  - Filed: 2026-11-20 AccNo: 0001493152-26-053559 Size: 221 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits
-- **8-K - Q/C TECHNOLOGIES, INC. (0001321834) (Filer)**
-  - when: 2026-11-20T17:20:19-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1321834/000149315226053558/0001493152-26-053558-index.htm
-  - Filed: 2026-11-20 AccNo: 0001493152-26-053558 Size: 342 KB Item 1.01: Entry into a Material Definitive Agreement Item 3.03: Material Modifications to Rights of Security Holders Item 9.01: Financial Statements and Exhibits
-- **8-K - Pearl Diver Credit Co Inc. (0001998043) (Filer)**
-  - when: 2026-11-20T17:17:51-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1998043/000121465926014639/0001214659-26-014639-index.htm
-  - Filed: 2026-11-20 AccNo: 0001214659-26-014639 Size: 236 KB Item 8.01: Other Events
-- **8-K - ONE Nuclear Energy Inc. (0001846416) (Filer)**
-  - when: 2026-11-20T17:17:40-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1846416/000149315226053556/0001493152-26-053556-index.htm
-  - Filed: 2026-11-20 AccNo: 0001493152-26-053556 Size: 396 KB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits
-- **8-K - LIQUIDITY SERVICES INC (0001235468) (Filer)**
-  - when: 2026-11-20T17:17:29-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1235468/000119312526470517/0001193125-26-470517-index.htm
-  - Filed: 2026-11-20 AccNo: 0001193125-26-470517 Size: 273 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits
-- **8-K - Ainos, Inc. (0001014763) (Filer)**
-  - when: 2026-11-20T17:15:17-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1014763/000149315226053553/0001493152-26-053553-index.htm
-  - Filed: 2026-11-20 AccNo: 0001493152-26-053553 Size: 252 KB Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing
-- **8-K - Quantum Cyber N.V. (0001874252) (Filer)**
-  - when: 2026-11-20T17:15:12-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1874252/000121390026122776/0001213900-26-122776-index.htm
-  - Filed: 2026-11-20 AccNo: 0001213900-26-122776 Size: 328 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits
-- **8-K/A - IMA Tech (0001980295) (Filer)**
-  - when: 2026-11-20T17:13:27-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1980295/000168316826009007/0001683168-26-009007-index.htm
-  - Filed: 2026-11-20 AccNo: 0001683168-26-009007 Size: 197 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits
-- **8-K - TruGolf Holdings, Inc. (0001857086) (Filer)**
-  - when: 2026-11-20T17:12:34-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1857086/000149315226053548/0001493152-26-053548-index.htm
-  - Filed: 2026-11-20 AccNo: 0001493152-26-053548 Size: 454 KB Item 2.02: Results of Operations and Financial Condition Item 4.01: Changes in Registrant's Certifying Accountant Item 9.01: Financial Statements and Exhibits
-- **8-K - HCW Biologics Inc. (0001828673) (Filer)**
-  - when: 2026-11-20T17:12:15-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1828673/000149315226053546/0001493152-26-053546-index.htm
-  - Filed: 2026-11-20 AccNo: 0001493152-26-053546 Size: 205 KB Item 5.07: Submission of Matters to a Vote of Security Holders Item 8.01: Other Events
+- NEW · **8-K - American Resources Corp (0001590715) (Filer)**
+  - when: 2026-11-24T17:30:36-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1590715/000147793226007287/0001477932-26-007287-index.htm
+  - Filed: 2026-11-24 AccNo: 0001477932-26-007287 Size: 3 MB Item 4.02: Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review Item 9.01: Financial Statements and Exhibits
+- NEW · **8-K - SharonAI Holdings Inc. (0002068385) (Filer)**
+  - when: 2026-11-24T17:29:17-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/2068385/000149315226054065/0001493152-26-054065-index.htm
+  - Filed: 2026-11-24 AccNo: 0001493152-26-054065 Size: 276 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits
+- NEW · **8-K - Envista Holdings Corp (0001757073) (Filer)**
+  - when: 2026-11-24T17:29:08-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1757073/000121390026123771/0001213900-26-123771-index.htm
+  - Filed: 2026-11-24 AccNo: 0001213900-26-123771 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits
+- NEW · **8-K - Golub Capital Private Credit Fund (0001930087) (Filer)**
+  - when: 2026-11-24T17:28:12-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1930087/000193008726000138/0001930087-26-000138-index.htm
+  - Filed: 2026-11-24 AccNo: 0001930087-26-000138 Size: 164 KB Item 7.01: Regulation FD Disclosure Item 8.01: Other Events
+- NEW · **8-K - Kymera Therapeutics, Inc. (0001815442) (Filer)**
+  - when: 2026-11-24T17:27:01-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1815442/000119312526476205/0001193125-26-476205-index.htm
+  - Filed: 2026-11-24 AccNo: 0001193125-26-476205 Size: 491 KB Item 1.01: Entry into a Material Definitive Agreement Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits
+- NEW · **8-K - Ocean Power Technologies, Inc. (0001378140) (Filer)**
+  - when: 2026-11-24T17:24:49-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1378140/000149315226054056/0001493152-26-054056-index.htm
+  - Filed: 2026-11-24 AccNo: 0001493152-26-054056 Size: 285 KB Item 5.07: Submission of Matters to a Vote of Security Holders Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits
+- NEW · **8-K - RenX Enterprises Corp. (0001959023) (Filer)**
+  - when: 2026-11-24T17:21:00-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1959023/000121390026123758/0001213900-26-123758-index.htm
+  - Filed: 2026-11-24 AccNo: 0001213900-26-123758 Size: 233 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits
+- NEW · **8-K - New Horizon Aircraft Ltd. (0001930021) (Filer)**
+  - when: 2026-11-24T17:20:53-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1930021/000121390026123757/0001213900-26-123757-index.htm
+  - Filed: 2026-11-24 AccNo: 0001213900-26-123757 Size: 245 KB Item 5.07: Submission of Matters to a Vote of Security Holders
+- NEW · **8-K - Global Crossing Airlines Group Inc. (0001846084) (Filer)**
+  - when: 2026-11-24T17:20:51-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1846084/000119312526476166/0001193125-26-476166-index.htm
+  - Filed: 2026-11-24 AccNo: 0001193125-26-476166 Size: 182 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits
+- NEW · **8-K - DESTINY MEDIA TECHNOLOGIES INC (0001099369) (Filer)**
+  - when: 2026-11-24T17:20:24-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1099369/000106299326006263/0001062993-26-006263-index.htm
+  - Filed: 2026-11-24 AccNo: 0001062993-26-006263 Size: 383 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits
+- NEW · **8-K - iSpecimen Inc. (0001558569) (Filer)**
+  - when: 2026-11-24T17:20:16-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1558569/000121390026123756/0001213900-26-123756-index.htm
+  - Filed: 2026-11-24 AccNo: 0001213900-26-123756 Size: 208 KB Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 9.01: Financial Statements and Exhibits
+- NEW · **8-K - EON Resources Inc. (0001842556) (Filer)**
+  - when: 2026-11-24T17:19:43-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1842556/000143774926038204/0001437749-26-038204-index.htm
+  - Filed: 2026-11-24 AccNo: 0001437749-26-038204 Size: 455 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits
 
 ## federal-register
-0 new of 20 since 2026-11-22.
+20 new of 20 since 2026-11-24.
 
-- **Establishment of Class E Airspace; Columbus, TX**
-  - when: 2026-11-23
-  - url: https://www.federalregister.gov/documents/2026/11/23/2026-23838/establishment-of-class-e-airspace-columbus-tx
-  - Transportation Department, Federal Aviation Administration — Proposed Rule — This action proposes to establish Class E airspace at Columbus Community Hospital Heliport, Columbus, TX. The FAA is proposing this action to support new instrument procedures and instrument flight rule (IFR) operations.
-- **Amendment of Class E Airspace; Del Rio, TX**
-  - when: 2026-11-23
-  - url: https://www.federalregister.gov/documents/2026/11/23/2026-23836/amendment-of-class-e-airspace-del-rio-tx
-  - Transportation Department, Federal Aviation Administration — Rule — This action amends the Class E airspace at Del Rio, TX. This action is the result of a biennial review of the airspace associated with Laughlin Air Force Base (AFB), Del Rio, TX. This proposal also updates the name and geographic coordinates of Laughlin AFB to coincide with the FAA's aeronautical database. This action brings the airspace into compliance with FAA orders and supports instrument flight rule (IFR) procedures and ope
-- **Connect America Fund; A National Broadband Plan for Our Future High-Cost Universal Support, Reforming the High-Cost Program for an All-IP Future, Safeguarding Universal Service Funding Through Effective Applicant Vetting**
-  - when: 2026-11-23
-  - url: https://www.federalregister.gov/documents/2026/11/23/2026-23830/connect-america-fund-a-national-broadband-plan-for-our-future-high-cost-universal-support-reforming
-  - Federal Communications Commission — Proposed Rule — In this document, the Federal Communications Commission (FCC or Commission) initiates a rulemaking to establish a vetting process for applicants for, and other recipients of, certain new funding awards of high-cost Universal Service Fund (USF) support.
-- **Amendment of Class D and E Airspace and Removal of Class E Airspace Over Lebanon, NH**
-  - when: 2026-11-23
-  - url: https://www.federalregister.gov/documents/2026/11/23/2026-23824/amendment-of-class-d-and-e-airspace-and-removal-of-class-e-airspace-over-lebanon-nh
-  - Transportation Department, Federal Aviation Administration — Proposed Rule — This action proposes to amend Class D and Class E airspace over Lebanon, NH. This action would increase the lateral dimensions of the Lebanon, NH, Class D airspace to appropriately contain Instrument Flight Rules (IFR) operations at the Lebanon Municipal Airport. This action would also update verbiage in the Class D airspace legal description to comply with current FAA guidance. This action would also update the geograp
-- **Sunshine Act Meetings**
-  - when: 2026-11-23
-  - url: https://www.federalregister.gov/documents/2026/11/23/2026-23819/sunshine-act-meetings
-  - Nuclear Regulatory Commission — Notice
-- **Horse Protection Amendments; Extension of Postponement of Regulations**
-  - when: 2026-11-23
-  - url: https://www.federalregister.gov/documents/2026/11/23/2026-23818/horse-protection-amendments-extension-of-postponement-of-regulations
-  - Agriculture Department, Animal and Plant Health Inspection Service — Rule — On May 8, 2024, we published a final rule amending the horse protection regulations. The final rule was initially scheduled to go into effect on February 1, 2025, except for Sec. 11.19, which was effective on June 7, 2024. On January 28, 2025, we published a postponement of the effective date of the remaining provisions from February 1, 2025, to April 2, 2025. On March 21, 2025, we published a further delay of the effect
-- **Notice of Public Meeting To Prepare for International Maritime Organization MSC 111 Session**
-  - when: 2026-11-23
-  - url: https://www.federalregister.gov/documents/2026/11/23/2026-23817/notice-of-public-meeting-to-prepare-for-international-maritime-organization-msc-111-session
-  - State Department — Notice
-- **Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest**
-  - when: 2026-11-23
-  - url: https://www.federalregister.gov/documents/2026/11/23/2026-23816/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest
-  - International Trade Commission — Notice — Notice is hereby given that the U.S. International Trade Commission has received a complaint entitled Certain Athletic Footwear, DN 3954; the Commission is soliciting comments on any public interest issues raised by the complaint or complainant's filing pursuant to the Commission's Rules of Practice and Procedure.
-- **Consumer Advisory Board Meeting**
-  - when: 2026-11-23
-  - url: https://www.federalregister.gov/documents/2026/11/23/2026-23815/consumer-advisory-board-meeting
-  - Consumer Financial Protection Bureau — Notice — Under the Federal Advisory Committee Act (FACA), this notice sets forth the announcement of a public meeting of the Consumer Advisory Board (CAB or Board) of the Consumer Financial Protection Bureau (CFPB or Bureau). The notice also describes the functions of the Board.
-- **Consumer Advisory Board Meeting**
-  - when: 2026-11-23
-  - url: https://www.federalregister.gov/documents/2026/11/23/2026-23814/consumer-advisory-board-meeting
-  - Consumer Financial Protection Bureau — Notice — Under the Federal Advisory Committee Act (FACA), this notice sets forth the announcement of a public meeting of the Consumer Advisory Board (CAB or Board) of the Consumer Financial Protection Bureau (CFPB or Bureau). The notice also describes the functions of the Board.
-- **Certain Transformers and Components Thereof; Notice of a Commission Determination Not To Review an Initial Determination Granting Joint Motion To Terminate the Investigation Based on Settlement; Termination of the Investigation in Its Entirety**
-  - when: 2026-11-23
-  - url: https://www.federalregister.gov/documents/2026/11/23/2026-23813/certain-transformers-and-components-thereof-notice-of-a-commission-determination-not-to-review-an
-  - International Trade Commission — Notice — Notice is hereby given that the U.S. International Trade Commission has determined not to review the presiding administrative law judge's ("ALJ") initial determination ("ID") (Order No. 10), granting a joint motion to terminate the investigation based on settlement. The investigation is terminated in its entirety.
-- **Cybersecurity Labeling for Internet of Things**
-  - when: 2026-11-23
-  - url: https://www.federalregister.gov/documents/2026/11/23/2026-23812/cybersecurity-labeling-for-internet-of-things
-  - Federal Communications Commission — Proposed Rule — In this document, the Public Safety and Homeland Security Bureau (Bureau) of the Federal Communications Commission (Commission or FCC) seeks comment on recommendations for the U.S. Cyber Trust Mark (USCTM) program, a voluntary cybersecurity labeling program for wireless consumer Internet of Things (IoT) products. The Bureau seeks comment on the design and placement of the FCC IoT Label, display of product registry information, certification ren
+- NEW · **Protecting the Executive's Privileges and Enhancing Efficiencies in Federal Contracting**
+  - when: 2026-11-25
+  - url: https://www.federalregister.gov/documents/2026/11/25/2026-24114/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting
+  - Executive Office of the President — Presidential Document
+- NEW · **National Adoption Month, 2026**
+  - when: 2026-11-25
+  - url: https://www.federalregister.gov/documents/2026/11/25/2026-24113/national-adoption-month-2026
+  - Executive Office of the President — Presidential Document
+- NEW · **Agency Information Collection Activities; Proposed Collection; Comment Request; Coronavirus Capital Projects Fund Reporting & Recordkeeping**
+  - when: 2026-11-25
+  - url: https://www.federalregister.gov/documents/2026/11/25/2026-24020/agency-information-collection-activities-proposed-collection-comment-request-coronavirus-capital
+  - Treasury Department — Notice — The Department of the Treasury, as part of its continuing effort to reduce paperwork and respondent burden, invites the general public and other federal agencies to comment on the proposed information collections listed below, in accordance with the Paperwork Reduction Act of 1995.
+- NEW · **Orano Enrichment USA, LLC; Uranium Enrichment Facility; Draft Environmental Impact Statement**
+  - when: 2026-11-25
+  - url: https://www.federalregister.gov/documents/2026/11/25/2026-24019/orano-enrichment-usa-llc-uranium-enrichment-facility-draft-environmental-impact-statement
+  - Nuclear Regulatory Commission — Notice — The U.S. Nuclear Regulatory Commission (NRC) is issuing for public comment a draft Environmental Impact Statement (EIS) regarding a license application from Orano Enrichment USA, LLC (Orano) to construct and operate a gaseous centrifuge uranium enrichment facility in Roane County, Tennessee. The draft EIS evaluates the environmental impacts of the proposed action of issuing a license that would authorize Orano to construct and operate a uranium enrichment
+- NEW · **Establishment of Class E Airspace; Trading Bay Production Airport, Trading Bay, AK**
+  - when: 2026-11-25
+  - url: https://www.federalregister.gov/documents/2026/11/25/2026-24018/establishment-of-class-e-airspace-trading-bay-production-airport-trading-bay-ak
+  - Transportation Department, Federal Aviation Administration — Rule — This action establishes Class E airspace extending upward from 700 feet above the surface at Trading Bay Production Airport, Trading Bay, AK. This action supports the safety and management of instrument flight rules (IFR) operations at the airport.
+- NEW · **Airworthiness Directives; The Boeing Company Airplanes**
+  - when: 2026-11-25
+  - url: https://www.federalregister.gov/documents/2026/11/25/2026-24017/airworthiness-directives-the-boeing-company-airplanes
+  - Transportation Department, Federal Aviation Administration — Proposed Rule — The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 707 airplanes; Model 720 and 720B series airplanes; Model 727C, 727-100, -100C, -200, and -200F series airplanes; and Model 747-100, -100B, -100B SUD, -200B, -200C, -200F, - 300, 747SR, and 747SP series airplanes. This proposed AD was prompted by reports that using some adaptors while performing tests of the cabin altitude
+- NEW · **Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection Title-Crime Victim's Rights Act Complain Form**
+  - when: 2026-11-25
+  - url: https://www.federalregister.gov/documents/2026/11/25/2026-24016/agency-information-collection-activities-proposed-ecollection-ecomments-requested-revision-of-a
+  - Justice Department — Notice — The Executive Office for United Staes Attorney, Department of Justice (DOJ), will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.
+- NEW · **Over-the-Counter Monograph Order Requests: Format and Content; Guidance for Industry; Availability**
+  - when: 2026-11-25
+  - url: https://www.federalregister.gov/documents/2026/11/25/2026-24015/over-the-counter-monograph-order-requests-format-and-content-guidance-for-industry-availability
+  - Health and Human Services Department, Food and Drug Administration — Notice — The Food and Drug Administration (FDA or Agency) is announcing the availability of a final guidance for industry titled "Over-the- Counter Monograph Order Requests: Format and Content." This guidance provides recommendations on the format and content of the information that a requestor should provide in an over-the-counter (OTC) monograph order request (OMOR) and identifies relevant guidance documents to assist request
+- NEW · **Informal Working Group 1 (IWG-1), Informal Working Group 2 (IWG-2), Informal Working Group 3 (IWG-3), and Informal Working Group 4 (IWG-4) of the 2027 World Radiocommunication Conference Advisory Committee (WRC-27 Advisory Committee) Schedule Their Meetings**
+  - when: 2026-11-25
+  - url: https://www.federalregister.gov/documents/2026/11/25/2026-24014/informal-working-group-1-iwg-1-informal-working-group-2-iwg-2-informal-working-group-3-iwg-3-and
+  - Federal Communications Commission — Notice — This notice advises interested persons that Informal Working Group 1 (IWG-1), Informal Working Group 2 (IWG-2,) Informal Working Group 3 (IWG-3,) and Informal Working Group 4 (IWG-4) of the 2027 World Radiocommunication Conference Advisory Committee (WRC-27 Advisory Committee) have scheduled meetings as set forth below. The meetings are open to the public. The meetings are open to the public. Attendees may join via Microsoft Teams (see details, infra)
+- NEW · **Auction of Flexible-Use Licenses in the Upper C-Band for Next-Generation Wireless Services; Notice and Filing Requirements, Minimum Opening Bids, Upfront Payments, and Other Procedures for Auction 115; Bidding Scheduled To Begin April 27, 2027**
+  - when: 2026-11-25
+  - url: https://www.federalregister.gov/documents/2026/11/25/2026-24013/auction-of-flexible-use-licenses-in-the-upper-c-band-for-next-generation-wireless-services-notice
+  - Federal Communications Commission — Rule — This document summarizes the procedures, deadlines, upfront payment, and minimum opening bid amounts adopted in the Auction 115 Procedures Public Notice for the Federal Communications Commission's (Commission) upcoming auction of 3,248 new flexible-use licenses in the 3.98-4.14 GHz portion of the Upper C-band. The Auction 115 Procedures Public Notice summarized here provides details regarding the procedures, terms, conditions, dates, and deadlines gover
+- NEW · **Mattresses From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025**
+  - when: 2026-11-25
+  - url: https://www.federalregister.gov/documents/2026/11/25/2026-24012/mattresses-from-india-preliminary-results-and-rescission-in-part-of-antidumping-duty-administrative
+  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) preliminarily determines that producers/exporters subject to this review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), March 1, 2024, through August 31, 2025. In addition, we are rescinding the review with respect to four companies. Interested parties are invited to comment on these preliminary results of review.
+- NEW · **Certain New Pneumatic Off-the-Road Tires From India: Final Results of Antidumping Duty Administrative Review; 2024-2025**
+  - when: 2026-11-25
+  - url: https://www.federalregister.gov/documents/2026/11/25/2026-24011/certain-new-pneumatic-off-the-road-tires-from-india-final-results-of-antidumping-duty-administrative
+  - Commerce Department, International Trade Administration — Notice — The U.S. Department of Commerce (Commerce) determines that certain producers/exporters subject to this review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), March 1, 2024, through February 28, 2025.
 
 ## gao
-0 new of 20 since 2026-11-22.
+0 new of 20 since 2026-11-24.
 
+- **Medicare: Out-of-Pocket Costs and Other Factors Can Affect Use of Services for Cardiovascular Disease Prevention**
+  - when: Mon, 23 Nov 2026 07:13:29 -0500
+  - url: https://www.gao.gov/products/gao-27-108423
+  - pdf: https://www.gao.gov/assets/gao-27-108423.pdf
+  - What GAO Found Medicare covers two types of services for cardiovascular disease prevention: Medicare preventive services and medically necessary services. Specifically, five Medicare preventive services are covered that aim to prevent the onset of cardiovascular disease or identify it early. Two such services are cardiovascular behavioral therapy to reduce disease risk and lipid panels to screen for the disease.Medically necessary services are to diagnose or treat conditions that are cardiovasc
+- **Retirement Plans: Identifying Ways to Help Mitigate Employer Risks Is Key to Continuing Defined Benefit Plans**
+  - when: Mon, 23 Nov 2026 07:19:57 -0500
+  - url: https://www.gao.gov/products/gao-27-107628
+  - pdf: https://www.gao.gov/assets/gao-27-107628.pdf
+  - What GAO Found Defined Benefit (DB) plan coverage has declined over the last nearly 5 decades. In 1975, about 27 percent of private-sector workers participated in a single-employer DB plan. By 2023, that number had decreased to about 5 percent. Stakeholders cited a complex range of factors that contributed to this decline including increased costs, financial volatility for employers, and changes in the labor market, such as the decline of unions that often negotiated for DB benefits. Percentag
 - **AI and Cybersecurity: Technologies Can Magnify Cyberattacks and Enhance Cyber Defense**
   - when: Fri, 20 Nov 2026 07:05:04 -0500
   - url: https://www.gao.gov/products/gao-27-108458
@@ -155,25 +165,39 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - url: https://www.gao.gov/products/gao-27-108656
   - pdf: https://www.gao.gov/assets/gao-27-108656.pdf
   - What GAO Found Increased use of technologies in the food and agriculture sector has made the sector more vulnerable to cybersecurity incidents, such as ransomware attacks. For example, a 2021 ransomware attack on a global meat processing company shut down some of the world’s largest slaughterhouses and caused a shortage in meat supplies in the U.S. and other countries. The U.S. Department of Agriculture (USDA) and the Department of Health and Human Services’ Food and Drug Administration (FDA),
-- **Federal Real Property: Commerce Could Save Tens of Millions of Dollars by Consolidating Underused Office Space**
-  - when: Thu, 19 Nov 2026 07:11:05 -0500
-  - url: https://www.gao.gov/products/gao-27-108813
-  - pdf: https://www.gao.gov/assets/gao-27-108813.pdf
-  - What GAO Found Most of the Department of Commerce’s (Commerce) office space was underutilized in early 2026 when compared to the Utilizing Space Efficiently and Improving Technologies (USE IT) Act target of 60 percent utilization. Specifically, GAO found that about 59 percent of Commerce’s 351 office locations were underutilized across the department and its 13 bureaus. This is consistent with the General Services Administration’s (GSA) 2026 utilization report for Commerce over the same time pe
 - **DOD Munitions: Planning and Leadership Needed to Address Persistent Shortages**
   - when: Thu, 19 Nov 2026 07:06:09 -0500
   - url: https://www.gao.gov/products/gao-27-109420
   - pdf: https://www.gao.gov/assets/gao-27-109420.pdf
   - What GAO Found In 2025, the Department of Defense (DOD) Acting Assistant Secretary of Defense for Sustainment testified that DOD had a shortage of several key munitions. DOD has taken steps to improve its munitions inventory shortages by, among other things, establishing munitions working groups focused on identifying ways to increase munition production. The 2026 conflict with Iran has heightened the importance of addressing munitions stockpile and industrial base challenges. Examples of Depa
-- **Science & Tech Spotlight: New World Screwworm Eradication**
-  - when: Wed, 18 Nov 2026 07:33:18 -0500
-  - url: https://www.gao.gov/products/gao-27-109347
-  - pdf: https://www.gao.gov/assets/gao-27-109347.pdf
-  - Why This Matters New World screwworm is a parasitic fly that could cost the U.S. cattle industry billions of dollars per year. The eggs laid by screwworm flies hatch into larvae that infect cattle, sheep, and other animals, causing painful wounds and death if untreated. Over 100 total cases have been identified in the U.S. as of November 2026. Experts are concerned that existing control capabilities, which use sterile flies, may be insufficient to combat new outbreaks. Key Takeaways Ongoing
 
 ## doj-oig
-0 new of 10 since 2026-11-22.
+4 new of 10 since 2026-11-24.
 
+- NEW · **Audit of the Federal Prison Industries, Inc. Annual Financial Statements Fiscal Year 2026**
+  - when: Tue, 24 Nov 2026 17:15:10 +0000
+  - url: https://oig.justice.gov/reports/audit-federal-prison-industries-inc-annual-financial-statements-fiscal-year-2026
+  - Audit of the Federal Prison Industries, Inc. Annual Financial Statements Fiscal Year 2026 */ adomasik Tue, 11/24/2026 - 12:15 Posted Date November 24, 2026 Report Number 27-010 Component Other Component Report Type Audit Number of Recommendations 0
+- NEW · **Audit of the Assets Forfeiture Fund and Seized Asset Deposit Fund Annual Financial Statements Fiscal Year 2026**
+  - when: Tue, 24 Nov 2026 17:11:06 +0000
+  - url: https://oig.justice.gov/reports/audit-assets-forfeiture-fund-and-seized-asset-deposit-fund-annual-financial-statements-12
+  - Audit of the Assets Forfeiture Fund and Seized Asset Deposit Fund Annual Financial Statements Fiscal Year 2026 */ adomasik Tue, 11/24/2026 - 12:11 Posted Date November 24, 2026 Report Number 27-009 Component Other Component Report Type Audit Number of Recommendations 0 Number of Recommendations 4
+- NEW · **Audit of the U.S. Department of Justice Annual Financial Statements Fiscal Year 2026**
+  - when: Tue, 24 Nov 2026 16:46:01 +0000
+  - url: https://oig.justice.gov/reports/audit-us-department-justice-annual-financial-statements-fiscal-year-2026
+  - Audit of the U.S. Department of Justice Annual Financial Statements Fiscal Year 2026 */ adomasik Tue, 11/24/2026 - 11:46 Posted Date November 24, 2026 Report Number 27-008 Component Other Component Report Type Audit Number of Recommendations 0 Number of Recommendations 7
+- NEW · **Audit of the Office on Violence Against Women Grant Awarded to the West Virginia Foundation for Rape Information and Services, Inc., Fairmont, West Virginia**
+  - when: Tue, 24 Nov 2026 15:11:40 +0000
+  - url: https://oig.justice.gov/reports/audit-office-violence-against-women-grant-awarded-west-virginia-foundation-rape-information
+  - Audit of the Office on Violence Against Women Grant Awarded to the West Virginia Foundation for Rape Information and Services, Inc., Fairmont, West Virginia */ adomasik Tue, 11/24/2026 - 10:11 Posted Date November 24, 2026 Report Number 27-007 Component Office on Violence Against Women Report Type Audit Number of Recommendations 0
+- **DOJ OIG Releases Semiannual Report to Congress, April 1, 2026–September 30, 2026**
+  - when: Mon, 23 Nov 2026 21:50:37 +0000
+  - url: https://oig.justice.gov/news/doj-oig-releases-semiannual-report-congress-april-1-2026-september-30-2026
+  - DOJ OIG Releases Semiannual Report to Congress, April 1, 2026–September 30, 2026 adomasik Mon, 11/23/2026 - 16:50 The Department of Justice (DOJ) Office of the Inspector General (OIG) announced today the release of the OIG’s latest Semiannual Report to Congress, which covers the period from April 1, 2026–September 30, 2026. The report, which is required by the Inspector General Act of 1978, includes details about the OIG’s work and accomplishments over these 6 months, information about the OIG,
+- **Semiannual Report to Congress April 1, 2026–September 30, 2026**
+  - when: Mon, 23 Nov 2026 15:00:00 +0000
+  - url: https://oig.justice.gov/semiannual-report-congress-april-1-2026-september-30-2026
+  - Semiannual Report to Congress April 1, 2026–September 30, 2026 Posted Date November 23, 2026 adomasik Mon, 11/23/2026 - 10:00 Report Type Semiannual Report Questioned Costs $6,167,845 Number of Recommendations 256
 - **DOJ OIG Releases Report on the Top Management and Performance Challenges Facing the Department of Justice**
   - when: Tue, 17 Nov 2026 17:10:34 +0000
   - url: https://oig.justice.gov/news/doj-oig-releases-report-top-management-and-performance-challenges-facing-department-justice-0
@@ -190,34 +214,30 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - when: Tue, 10 Nov 2026 15:20:19 +0000
   - url: https://oig.justice.gov/news/doj-oig-releases-compendium-highlighting-oversight-crime-victims-programs
   - DOJ OIG Releases Compendium Highlighting Oversight of Crime Victims Programs mbarnes Tue, 11/10/2026 - 10:20 The Department of Justice (DOJ) Office of the Inspector General (OIG) announced today the release of an interactive compendium highlighting 11 years of OIG oversight activities supported by the Crime Victims Fund (CVF). Through its oversight work, the OIG has helped to improve services and support for victims of crime, strengthen transparency and accountability in government spending, and
-- **Supporting Victims Through Accountability**
-  - when: Mon, 09 Nov 2026 12:13:56 +0000
-  - url: https://oig.justice.gov/reports/supporting-victims-through-accountability
-  - Supporting Victims Through Accountability */ mbarnes Mon, 11/09/2026 - 07:13 */ Posted Date November 10, 2026 Report Number 27-006 Component Office of Justice Programs Office on Violence Against Women Other Component Report Type Other Number of Recommendations 0
-- **Audit of the Department of Justice Components’ Confidential Informant Policies**
-  - when: Wed, 28 Oct 2026 14:00:00 +0000
-  - url: https://oig.justice.gov/reports/audit-department-justice-components-confidential-informant-policies
-  - Audit of the Department of Justice Components’ Confidential Informant Policies */ mbarnes Wed, 10/28/2026 - 10:00 Posted Date October 28, 2026 Report Number 27-003 Component Bureau of Alcohol, Tobacco, Firearms and Explosives Drug Enforcement Administration Federal Bureau of Investigation United States Marshals Service Other Component Report Type Audit Number of Recommendations 0 Number of Recommendations 5
-- **DOJ OIG Releases Report on the Audit of DOJ Components’ Confidential Informant Policies**
-  - when: Wed, 28 Oct 2026 13:42:55 +0000
-  - url: https://oig.justice.gov/news/doj-oig-releases-report-audit-doj-components-confidential-informant-policies
-  - DOJ OIG Releases Report on the Audit of DOJ Components’ Confidential Informant Policies mbarnes Wed, 10/28/2026 - 09:42 The Department of Justice (DOJ) Office of the Inspector General (OIG) announced today the release of a report assessing whether the policies of four DOJ law enforcement components—the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF); the Drug Enforcement Administration (DEA); the Federal Bureau of Investigation (FBI); and the U.S. Marshals Service (USMS)—for the use of
-- **DOJ OIG Releases an Inspection of the BOP’s Federal Correctional Institution Berlin**
-  - when: Thu, 15 Oct 2026 16:06:42 +0000
-  - url: https://oig.justice.gov/news/doj-oig-releases-inspection-bops-federal-correctional-institution-berlin
-  - DOJ OIG Releases an Inspection of the BOP’s Federal Correctional Institution Berlin adomasik Thu, 10/15/2026 - 12:06 The Department of Justice (DOJ) Office of the Inspector General (OIG) announced today the release of an inspection of the Federal Bureau of Prisons’ (BOP) Federal Correctional Institution (FCI) Berlin in Berlin, New Hampshire. FCI Berlin is a medium-security Federal Correctional Institution with an adjacent minimum security satellite camp. It houses both BOP inmates and U.S. Immig
-- **Inspection of the Federal Bureau of Prisons' Federal Correctional Institution Berlin**
-  - when: Thu, 15 Oct 2026 14:19:00 +0000
-  - url: https://oig.justice.gov/reports/inspection-federal-bureau-prisons-federal-correctional-institution-berlin
-  - Inspection of the Federal Bureau of Prisons' Federal Correctional Institution Berlin */ adomasik Thu, 10/15/2026 - 10:19 Between Monday, January 12, and Thursday, January 15, 2026, the U.S. Department of Justice (DOJ) Office of the Inspector General (OIG) conducted an unannounced, on-site inspection of Federal Correctional Institution (FCI) Berlin in Berlin, New Hampshire. The institution houses both Federal Bureau of Prisons (BOP) inmates and detainees who are in U.S. Immigration and Customs En
-- **Investigative Summary: Findings of Misconduct by a Then Senior Official of the United States Marshals Service for Engaging in an Intimate Relationship with a Subordinate and Related Misconduct**
-  - when: Tue, 06 Oct 2026 14:00:00 +0000
-  - url: https://oig.justice.gov/reports/investigative-summary-findings-misconduct-then-senior-official-united-states-marshals
-  - Investigative Summary: Findings of Misconduct by a Then Senior Official of the United States Marshals Service for Engaging in an Intimate Relationship with a Subordinate and Related Misconduct */ mbarnes Tue, 10/06/2026 - 10:00 Posted Date October 6, 2026 Report Number 27-001 Component United States Marshals Service Report Type Investigation Number of Recommendations 0
 
 ## govinfo-crpt
-0 new of 20 since 2026-11-22.
+4 new of 20 since 2026-11-24.
 
+- NEW · **S. Rept. 119-158 — ACCELERATING BROADBAND PERMITS ACT OF 2026**
+  - when: 2026-11-09
+  - url: https://www.govinfo.gov/app/details/CRPT-119srpt158
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119srpt158/pdf/CRPT-119srpt158.pdf
+  - Committee on Commerce, Science, and Transportation
+- NEW · **S. Rept. 119-159 — DISASTER COMMUNICATIONS COORDINATION AND PREPAREDNESS ACT**
+  - when: 2026-11-09
+  - url: https://www.govinfo.gov/app/details/CRPT-119srpt159
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119srpt159/pdf/CRPT-119srpt159.pdf
+  - Committee on Commerce, Science, and Transportation
+- NEW · **H. Rept. 119-874 — DEPARTMENT OF ENERGY NUCLEAR TRANSPARENCY ACT**
+  - when: 2026-11-05
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt874
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt874/pdf/CRPT-119hrpt874.pdf
+  - Committee on Energy and Commerce
+- NEW · **H. Rept. 119-871 — NUCLEAR REFUEL (RECYCLING EFFICIENT FUELS UTILIZING EXPEDITED LICENSING) ACT**
+  - when: 2026-11-05
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt871
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt871/pdf/CRPT-119hrpt871.pdf
+  - Committee on Energy and Commerce
 - **S. Rept. 119-164 — STOP THE SCROLL ACT OF 2026**
   - when: 2026-11-17
   - url: https://www.govinfo.gov/app/details/CRPT-119srpt164
@@ -233,6 +253,11 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - url: https://www.govinfo.gov/app/details/CRPT-119srpt160
   - pdf: https://www.govinfo.gov/content/pkg/CRPT-119srpt160/pdf/CRPT-119srpt160.pdf
   - Committee on Commerce, Science, and Transportation
+- **H. Rept. 119-876 — NRC STAFF PAY ALIGNMENT ACT**
+  - when: 2026-11-05
+  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt876
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt876/pdf/CRPT-119hrpt876.pdf
+  - Committee on Energy and Commerce
 - **H. Rept. 119-870 — LESS BUREAUCRACY, BETTER FOREIGN MEDICAL ACCREDITATION ACT**
   - when: 2026-11-05
   - url: https://www.govinfo.gov/app/details/CRPT-119hrpt870
@@ -253,132 +278,107 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - url: https://www.govinfo.gov/app/details/CRPT-119hrpt849
   - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt849/pdf/CRPT-119hrpt849.pdf
   - Committee on Small Business
-- **H. Rept. 119-850 — 504 PROGRAM LEVEL FLEXIBILITY ACT**
-  - when: 2026-10-09
-  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt850
-  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt850/pdf/CRPT-119hrpt850.pdf
-  - Committee on Small Business
-- **H. Rept. 119-844 — COMBATING FOREIGN THREATS TO MAIN STREET ACT OF 2026**
-  - when: 2026-10-09
-  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt844
-  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt844/pdf/CRPT-119hrpt844.pdf
-  - Committee on Small Business
-- **H. Rept. 119-843 — RESHORING AMERICAN MANUFACTURING ACT OF 2026**
-  - when: 2026-10-09
-  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt843
-  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt843/pdf/CRPT-119hrpt843.pdf
-  - Committee on Small Business
-- **H. Rept. 119-845 — SBIC REPORTING MODERNIZATION ACT OF 2026**
-  - when: 2026-10-09
-  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt845
-  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt845/pdf/CRPT-119hrpt845.pdf
-  - Committee on Small Business
-- **H. Rept. 119-846 — DISASTER LOAN OUTREACH CONSISTENCY ACT**
-  - when: 2026-10-09
-  - url: https://www.govinfo.gov/app/details/CRPT-119hrpt846
-  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119hrpt846/pdf/CRPT-119hrpt846.pdf
-  - Committee on Small Business
 
 ## courtlistener
-2 new of 20 since 2026-11-22.
+20 new of 20 since 2026-11-24.
 
-- NEW · **American Oversight v. U.S. Immigration and Customs Enforcement**
-  - when: 2026-11-22T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11068943/american-oversight-v-us-immigration-and-customs-enforcement/
-  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA AMERICAN OVERSIGHT, Plaintiff, Civil Action No. 25-1846 (RDM) v. U.S. IMMIGRATION AND CUSTOMS ENFORCEMENT, et al., Defendants. MEMORANDUM OPINION AND ORDER The Freedom of Information Act (“FOIA”), 5 U.S.C. § 552, provides that “each agency Original document
-- NEW · **Farmer v. Walker**
-  - when: 2026-11-22T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11068942/farmer-v-walker/
-  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA RAY FARMER, Plaintiff, Civil Case No. 26-1710 (RDM) v. JAN BUCKNER WALKER, Defendant. MEMORANDUM OPINION AND ORDER Plaintiff Ray Farmer, a Maryland resident, brings this action against Jan Buckner Walker,1 an Illinois resident Original document
-- **Center for Biological Diversity v. Burgum**
-  - when: 2026-11-20T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11068099/center-for-biological-diversity-v-burgum/
-  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA CENTER FOR BIOLOGICAL DIVERISTY, : : Plaintiff, : Civil Action No.: 26-940 (RC) : v. : Re Document No.: 24 : DOUGLAS Original document
-- **Alzokari v. Mullin**
-  - when: 2026-11-20T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11067688/alzokari-v-mullin/
-  - 24-3196-cv Alzokari v. Mullin UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT AUGUST TERM 2025 (ARGUED: SEPTEMBER 11, 2025 DECIDED: NOVEMBER 20, 2026) Docket No. 24-3196-cv ETAB SHARAF MOHAMED ALZOKARI, KAID NAGIP ZOKARI, AMAL ALZEWKERI REDHEWAN, FAYIZ NAGIP ZOKARI, Plaintiffs-Appellants, - against Original document
-- **Alsanabani v. Spear Operations Group, LLC**
-  - when: 2026-11-20T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11067951/alsanabani-v-spear-operations-group-llc/
-  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA ZENA ALSANABANI in her individual capacity and/or Executor of The Estate of Abdulmalek Anwar Alsanabani, Plaintiff, v. Civ. A. No. 25-1684 (JDB) SPEAR OPERATIONS GROUP, ABRAHAM GOLAN, REFLEX RESPONSES MANAGEMENT CONSULTANCY LLC d/b/a REFLEX RESPONSE SECURITY CONSULTANTS, ERIK PRINCE, JOHN DOE 1–100, and ABC Original document
-- **Shilling v. County of San Diego**
-  - when: 2026-11-20T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11067793/shilling-v-county-of-san-diego/
-  - FOR PUBLICATION UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT KENNETH CHARLES SHILLING, No. 25-291 D.C. No. Plaintiff - Appellant, 3:24-cv-01047- CAB-DDL v. COUNTY OF SAN DIEGO; KELLY A. MARTINEZ, in her official OPINION capacity as Sheriff of County of San Diego, Defendants Original document
-- **Brown v. Adamson**
-  - when: 2026-11-20T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11067834/brown-v-adamson/
-  - FOR PUBLICATION UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT JASON S. BROWN, No. 25-730 D.C. No. Plaintiff - Appellee, 3:21-cv-00500- MMD-CSD v. Doctor KIM ADAMSON; Doctor DANA MARKS, OPINION Defendants - Appellants, CARROLL, First Name Unknown, Doctor, CLARA Original document
-- **Juana Elizalde Castillo v. Todd W. Blanche**
-  - when: 2026-11-20T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11067988/juana-elizalde-castillo-v-todd-w-blanche/
-  - In the United States Court of Appeals For the Seventh Circuit ____________________ No. 25-3232 JUANA ELIZALDE CASTILLO, et al., Petitioners, v. TODD W. BLANCHE, Attorney General of the United States, Respondent. ____________________ Petition for Review of an Order Original document
-- **Mercuria Energy Group Limited v. Republic of Poland**
-  - when: 2026-11-20T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11067694/mercuria-energy-group-limited-v-republic-of-poland/
-  - United States Court of Appeals FOR THE DISTRICT OF COLUMBIA CIRCUIT Argued September 30, 2026 Decided November 20, 2026 No. 25-7152 MERCURIA ENERGY GROUP LIMITED, APPELLANT v. REPUBLIC OF POLAND, APPELLEE Appeal from the United States District Court for the District of Columbia (No. 1:23-cv-03572) James E. Berger Original document
-- **Promier Products Inc v. Gearoz**
-  - when: 2026-11-20T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11067824/promier-products-inc-v-gearoz/
-  - UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT No. 25-2407 PROMIER PRODUCTS INC., Appellant v. GEAROZ, AIKERTEC-US, ALESDIRECT, ALICEGIRL-US BRAND, ALIFA LED FLASHLIGHTS DIRECT STORE, et al. _____________________________ On Appeal from the U.S. District Court, W.D. Pa. Judge Robert J. Colville, No. 2:25-cv-00497 Before: Original document
-- **Christopher Rodgers v. Ron Neal**
-  - when: 2026-11-20T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11067871/christopher-rodgers-v-ron-neal/
-  - In the United States Court of Appeals For the Seventh Circuit ____________________ No. 24-1231 CHRISTOPHER RODGERS, Petitioner-Appellant, v. RON NEAL, Respondent-Appellee. ____________________ Appeal from the United States District Court for the Southern District Original document
-- **United States v. Mayo**
-  - when: 2026-11-20T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11067991/united-states-v-mayo/
-  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA ____________________________________ ) UNITED STATES OF AMERICA ) ) v. ) Criminal No. 21-230 (PLF) ) DECONDI MAYO, ) ) Defendant. ) Original document
+- NEW · **MedEnvios Healthcare, Inc. v. Secretary, U.S. Department of Health and Human Services**
+  - when: 2026-11-24T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11070341/medenvios-healthcare-inc-v-secretary-us-department-of-health-and/
+  - USCA11 Case: 25-10870 Document: 57-1 Date Filed: 11/24/2026 Page: 1 of 29 FOR PUBLICATION In the United States Court of Appeals For the Eleventh Circuit ____________________ No. 25-10870 ____________________ MEDENVIOS HEALTHCARE, INC., Original document
+- NEW · **Sunday Red, LLC v. Tigeraire, Inc.**
+  - when: 2026-11-24T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11070954/sunday-red-llc-v-tigeraire-inc/
+  - FOR PUBLICATION UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT SUNDAY RED, LLC, No. 25-2105 D.C. No. Plaintiff - Appellee, 8:24-cv-02097- FWS-ADS v. TIGERAIRE, INC., OPINION Defendant - Appellant. Appeal from the United States District Court Original document
+- NEW · **United States v. Floris**
+  - when: 2026-11-24T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11070957/united-states-v-floris/
+  - Original document
+- NEW · **United States v. Approximately 942,462.845 Usdt**
+  - when: 2026-11-24T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11071039/united-states-v-approximately-942462845-usdt/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA UNITED STATES OF AMERICA, : : Plaintiff, : Civil Action No.: 25-173 (RC) : v. : Re Document No.: 23 : APPROXIMATELY Original document
+- NEW · **King v. Villegas**
+  - when: 2026-11-24T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11070898/king-v-villegas/
+  - FOR PUBLICATION UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT JERRY LEE KING, No. 23-1713 D.C. No. Plaintiff - Appellant, 1:17-cv-00676- JLT-EPG v. R. VILLEGAS; P. CRUZ; J. CURRY, OPINION Defendants - Appellees. Appeal from the United Original document
+- NEW · **Stabil LLC v. Russian Federation**
+  - when: 2026-11-24T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11071241/stabil-llc-v-russian-federation/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA STABIL LLC, et al., Petitioners, v. Case No. 1:22-cv-00983 (TNM) RUSSIAN FEDERATION, Respondent. MEMORANDUM OPINION A decade ago, Russia violently invaded and annexed Crimea. It seized and nationalized private assets there. Among those Original document
+- NEW · **Webster v. Phelan**
+  - when: 2026-11-24T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11071238/webster-v-phelan/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA _________________________________________ ) KATRINA L. WEBSTER, ) ) Plaintiff, ) ) v. ) Case No. 26-cv-00754 (APM) Original document
+- NEW · **Ali v. Blanche**
+  - when: 2026-11-24T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11070332/ali-v-blanche/
+  - 23-6093 Ali v. Blanche In the United States Court of Appeals for the Second Circuit August Term, 2026 No. 23-6093 YEHYA MUTHANA ALI, Petitioner, v. TODD BLANCHE, UNITED STATES ATTORNEY GENERAL, Respondent. On Petition for Review from the Board of Immigration Original document
+- NEW · **US ex rel. Berkley v. Ocean State, LLC**
+  - when: 2026-11-24T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11071135/us-ex-rel-berkley-v-ocean-state-llc/
+  - United States Court of Appeals For the First Circuit No. 25-2033 UNITED STATES ex rel. JAMES R. BERKLEY, Plaintiff, Appellant, v. OCEAN STATE, LLC, NEW HARBOR CAPITAL FUND LP, NEW HARBOR CAPITAL FUND II LP, NEW HARBOR CAPITAL MANAGEMENT LP, BLUEPRINT TEST PREPARATION, LLC, FYZICAL ACQUISITION HOLDINGS, LLC, Defendants, Appellees. APPEAL FROM THE UNITED Original document
+- NEW · **Cornell v. United States Postal Service**
+  - when: 2026-11-24T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11071041/cornell-v-united-states-postal-service/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA AMONICA C. CORNELL, Plaintiff, v. Civil Action No. 26-1726 (TJK) UNITED STATES POSTAL SERVICE et al., Defendants. MEMORANDUM Plaintiff, proceeding pro se, filed this suit against Defendants earlier this year. After the Court refused to appoint Original document
+- NEW · **United States v. Hernan Mojica-Renteria**
+  - when: 2026-11-24T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11070904/united-states-v-hernan-mojica-renteria/
+  - USCA11 Case: 25-10896 Document: 55-1 Date Filed: 11/24/2026 Page: 1 of 18 FOR PUBLICATION In the United States Court of Appeals For the Eleventh Circuit ____________________ No. 25-10896 ____________________ UNITED STATES OF AMERICA, Original document
+- NEW · **In Re Edward R. Martin, Jr.**
+  - when: 2026-11-24T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11070345/in-re-edward-r-martin-jr/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA IN RE EDWARD R. MARTIN, JR. ______________________________________ HAMILTON P. FOX, III, Case No. 26-mc-42 (CRC) Petitioner, v. EDWARD R. MARTIN, JR., Respondent. MEMORANDUM OPINION The question in this case is whether a District Original document
 
 ## fda-enforcement
-0 new of 22 since 2026-11-22.
+20 new of 22 since 2026-11-24.
 
-- **[DRUG Class II] Victory Medical Center Pharmacy — D-0145-2027**
-  - when: 2026-11-11
-  - url: https://api.fda.gov/drug/enforcement.json?search=recall_number:"D-0145-2027"
-  - Lack of Processing Controls | Quantity: 201 vials | Distribution: CO, FL, TX
-- **[DRUG Class II] Victory Medical Center Pharmacy — D-0122-2027**
-  - when: 2026-11-11
-  - url: https://api.fda.gov/drug/enforcement.json?search=recall_number:"D-0122-2027"
-  - Lack of Processing Controls | Quantity: 75 vials | Distribution: CO, FL, TX
-- **[DRUG Class II] Victory Medical Center Pharmacy — D-0125-2027**
-  - when: 2026-11-11
-  - url: https://api.fda.gov/drug/enforcement.json?search=recall_number:"D-0125-2027"
-  - Lack of Processing Controls | Quantity: 66 vials | Distribution: CO, FL, TX
-- **[DRUG Class II] Victory Medical Center Pharmacy — D-0152-2027**
-  - when: 2026-11-11
-  - url: https://api.fda.gov/drug/enforcement.json?search=recall_number:"D-0152-2027"
-  - Lack of Processing Controls | Quantity: 63 vials | Distribution: CO, FL, TX
-- **[DRUG Class II] Preferred Pharmaceuticals, Inc. — D-0158-2027**
-  - when: 2026-11-11
-  - url: https://api.fda.gov/drug/enforcement.json?search=recall_number:"D-0158-2027"
-  - Lack of Assurance of Sterility | Quantity: 480 bottles | Distribution: U.S. Nationwide
-- **[DRUG Class II] American Health Packaging — D-0173-2027**
-  - when: 2026-11-11
-  - url: https://api.fda.gov/drug/enforcement.json?search=recall_number:"D-0173-2027"
-  - Presence of particulate matter:American Regent, Inc. notified BluePoint Pharmaceuticals Laboratories regarding potential glass particle contamination (foreign glass fragment) identified in the product batch. | Quantity: 4,097- cartons (25 x 1mL vials) | Distribution: Nationwide in the USA
-- **[DRUG Class II] Victory Medical Center Pharmacy — D-0124-2027**
-  - when: 2026-11-11
-  - url: https://api.fda.gov/drug/enforcement.json?search=recall_number:"D-0124-2027"
-  - Lack of Processing Controls | Quantity: 80 vials | Distribution: CO, FL, TX
-- **[DRUG Class II] Fresenius Medical Care Renal Therapies Group, LLC — D-0171-2027**
-  - when: 2026-11-11
-  - url: https://api.fda.gov/drug/enforcement.json?search=recall_number:"D-0171-2027"
-  - Lack of Assurance of Sterility:complaints have been received related to potential leaks from small perforations in the print area on the primary bag in the affected lots. | Quantity: 116 cases (5 bags per case) | Distribution: Nationwide in the USA.
-- **[DEVICE Class II] Henry Schein Inc. — Z-0346-2027**
-  - when: 2026-11-11
-  - url: https://api.fda.gov/device/enforcement.json?search=recall_number:"Z-0346-2027"
-  - Products lack 510(k) clearance. | Quantity: 23 | Distribution: Worldwide distribution - U.S. Nationwide and the countries of Canada, Uganda, and the Cayman Islands.
-- **[DEVICE Class II] GE Medical Systems, LLC — Z-0327-2027**
-  - when: 2026-11-11
-  - url: https://api.fda.gov/device/enforcement.json?search=recall_number:"Z-0327-2027"
-  - GE HealthCare has become aware of a nonconformance to certain Senographe Pristina VIA systems. Specifically, in cases of 3D+2D manual mode where the acquisition configuration of the anode track/filter combination is different, it can result in the following: the collimator blades might be visible in the image, or the collimator might be open more than expected, and an incorrect collimator filter might be used with respect to the anode track selected This issue could result in a minor additional
-- **[DEVICE Class II] Henry Schein Inc. — Z-0342-2027**
-  - when: 2026-11-11
-  - url: https://api.fda.gov/device/enforcement.json?search=recall_number:"Z-0342-2027"
-  - Products lack 510(k) clearance. | Quantity: 137 | Distribution: Worldwide distribution - U.S. Nationwide and the countries of Canada, Uganda, and the Cayman Islands.
-- **[DEVICE Class II] Baxter Healthcare Corporation — Z-0354-2027**
-  - when: 2026-11-11
-  - url: https://api.fda.gov/device/enforcement.json?search=recall_number:"Z-0354-2027"
-  - There is an issue with the main lift mechanism. The main lift may unexpectedly drop from its set position to its lowest position during use. In these cases, the tabletop could not be raised again after the drop occurred. The issue has been associated with unexpected wear of the main lift assembly, also known as the telescopic spindle. An uncontrolled drop of the surgical table may result in an abrupt patient displacement during surgery. Serious or critical adverse health consequences may occur,
+- NEW · **[DRUG Class II] ORL Labs LLC — D-0176-2027**
+  - when: 2026-11-18
+  - url: https://api.fda.gov/drug/enforcement.json?search=recall_number:"D-0176-2027"
+  - Cross-contamination: The firm was notified by the FDA of sampling results which found the presence of progesterone, estradiol, or dehydroepiandrosterone (DHEA) | Quantity: 7202 units | Distribution: USA nationwide
+- NEW · **[DRUG Class II] ORL Labs LLC — D-0177-2027**
+  - when: 2026-11-18
+  - url: https://api.fda.gov/drug/enforcement.json?search=recall_number:"D-0177-2027"
+  - Cross-contamination: The firm was notified by the FDA of sampling results which found the presence of progesterone, estradiol, or dehydroepiandrosterone (DHEA) | Quantity: 19247 units | Distribution: USA nationwide
+- NEW · **[DRUG Class II] ORL Labs LLC — D-0180-2027**
+  - when: 2026-11-18
+  - url: https://api.fda.gov/drug/enforcement.json?search=recall_number:"D-0180-2027"
+  - Cross-contamination: The firm was notified by the FDA of sampling results which found the presence of progesterone, estradiol, or dehydroepiandrosterone (DHEA) | Quantity: 12081 units | Distribution: USA nationwide
+- NEW · **[DRUG Class II] ORL Labs LLC — D-0178-2027**
+  - when: 2026-11-18
+  - url: https://api.fda.gov/drug/enforcement.json?search=recall_number:"D-0178-2027"
+  - Cross-contamination: The firm was notified by the FDA of sampling results which found the presence of progesterone, estradiol, or dehydroepiandrosterone (DHEA) | Quantity: 3116 units | Distribution: USA nationwide
+- NEW · **[DRUG Class II] SUN PHARMACEUTICAL INDUSTRIES INC — D-0174-2027**
+  - when: 2026-11-18
+  - url: https://api.fda.gov/drug/enforcement.json?search=recall_number:"D-0174-2027"
+  - Failed Dissolution Specifications | Quantity: 17,760 bottles | Distribution: OHIO and Mississippi
+- NEW · **[DRUG Class II] ORL Labs LLC — D-0179-2027**
+  - when: 2026-11-18
+  - url: https://api.fda.gov/drug/enforcement.json?search=recall_number:"D-0179-2027"
+  - Cross-contamination: The firm was notified by the FDA of sampling results which found the presence of progesterone, estradiol, or dehydroepiandrosterone (DHEA) | Quantity: 6140 units | Distribution: USA nationwide
+- NEW · **[DRUG Class II] ORL Labs LLC — D-0175-2027**
+  - when: 2026-11-18
+  - url: https://api.fda.gov/drug/enforcement.json?search=recall_number:"D-0175-2027"
+  - Cross-contamination: The firm was notified by the FDA of sampling results which found the presence of progesterone, estradiol, or dehydroepiandrosterone (DHEA) | Quantity: 3976 units | Distribution: USA nationwide
+- NEW · **[DEVICE Class II] IMRIS Imaging Inc — Z-0443-2027**
+  - when: 2026-11-18
+  - url: https://api.fda.gov/device/enforcement.json?search=recall_number:"Z-0443-2027"
+  - Operating suite contains TruSystem Surgical Tables which are being recalled by Baxter. | Quantity: 3 units | Distribution: Distribution to US and China
+- NEW · **[DEVICE Class II] Physitemp Instruments, LLC — Z-0405-2027**
+  - when: 2026-11-18
+  - url: https://api.fda.gov/device/enforcement.json?search=recall_number:"Z-0405-2027"
+  - Temperature monitors and associated probes have not been reviewed for safety and effectiveness for intended use. | Quantity: 186 units | Distribution: Worldwide - US Nationwide distribution in the states of AR, MA, CA, PA, NY, IN, MD, KS, FL, LA, WA, WI, FL, CT, VA, OH, TX, MN, GA, UT and the countries of Japan, Canada, Australia, China, France, Sweden, England.
+- NEW · **[DEVICE Class II] Siemens Medical Solutions USA, Inc. — Z-0393-2027**
+  - when: 2026-11-18
+  - url: https://api.fda.gov/device/enforcement.json?search=recall_number:"Z-0393-2027"
+  - A software issue identified in the ultrasound system may result in the unintended activation of the Color Doppler setting, which has not received FDA clearance. This unintended activation could cause the system to crash or become unresponsive. | Quantity: 0 systems | Distribution: Worldwide - US Nationwide distribution in the states of CA, CT, KY, NC, TX and the countries of Germany, Italy, India.
+- NEW · **[DEVICE Class II] Physitemp Instruments, LLC — Z-0406-2027**
+  - when: 2026-11-18
+  - url: https://api.fda.gov/device/enforcement.json?search=recall_number:"Z-0406-2027"
+  - Temperature monitors and associated probes have not been reviewed for safety and effectiveness for intended use. | Quantity: 68 units | Distribution: Worldwide - US Nationwide distribution in the states of AR, MA, CA, PA, NY, IN, MD, KS, FL, LA, WA, WI, FL, CT, VA, OH, TX, MN, GA, UT and the countries of Japan, Canada, Australia, China, France, Sweden, England.
+- NEW · **[DEVICE Class II] TransMedics, Inc. — Z-0391-2027**
+  - when: 2026-11-18
+  - url: https://api.fda.gov/device/enforcement.json?search=recall_number:"Z-0391-2027"
+  - Faulty Solution Delivery System (SDS) Cassettes within the device set were assembled with syringes that were manufactured with an atypical lubricant, which results in sub-par performance and has the potential to cause leaks. | Quantity: 55 OCS Solution Delivery Cassettes | Distribution: Worldwide - US Nationwide distribution in the state of NE and the country of Italy.

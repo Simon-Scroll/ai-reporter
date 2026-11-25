@@ -1,0 +1,11 @@
+id: 2026-030-aff-digital-asset-growth
+opened: 2026-11-25
+updated: 2026-11-25
+status: killed
+mode: CONTINUE
+next_action: "Do not reopen without a new hypothesis and a new first document. The 494-versus-394 comparison failed review: Note 7's later gross digital-asset total is 494 percent of the earlier total, so the exhibit sentence reconciles as a ratio. Do not republish that comparison, and do not recap the exhibit's control findings."
+hypothesis: "KPMG's statement that AFF/SADF digital-asset balances increased 494 percent from September 30, 2025 to September 30, 2026 cannot be reproduced as an increase from Note 7. The gross ending values rose 394.1 percent. The printed 494 matches the later total as a percentage of the earlier total, within rounding."
+last_decision: kill
+series: null
+part: null
+consecutive_continue_without_new_primary: 0

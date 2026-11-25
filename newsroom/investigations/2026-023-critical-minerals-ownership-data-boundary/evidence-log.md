@@ -20,3 +20,9 @@ No PDF or data dump is stored in the repository. The report PDFs were retrieved 
 | E9 | https://nlsdbpubgis.blm.gov/arcgishub/rest/services/HUB/BLM_Natl_MLRS_Locatable_Plans_Of_Operations/FeatureServer/0/query?where=Modified%20%3E%20DATE%20%272026-10-24%27&outFields=CSE_NR%2CCSE_NAME%2CCMMDTY%2CCUST_NM_SEC%2CPCT_INT_SEC%2CINT_REL_SEC%2CCSE_DISP%2CCSE_DISP_DT%2CModified&orderByFields=Modified%20DESC&resultRecordCount=20&returnGeometry=false&f=pjson | 2026-11-16 | Recent-row query exposes case, commodity, business-account, interest, and relationship fields; it returned no citizenship or parent-ownership field | Tests whether the new layer revision creates a reproducible ownership/citizenship crosswalk; it does not |
 
 The current layer metadata and recent-record query were retrieved for the watch only. No PDF, zip, data dump, secret, email, or source PII was committed.
+
+## 2026-11-25 watch check
+
+| ID | Source | Retrieved | Locator | Use |
+|---|---|---|---|---|
+| E10 | https://nlsdbpubgis.blm.gov/arcgishub/rest/services/HUB/BLM_Natl_MLRS_Locatable_Plans_Of_Operations/FeatureServer/0?f=pjson | 2026-11-25 | Layer metadata. `currentVersion` 11.5. Twenty-eight fields, including case, commodity, business-account, interest, and relationship. No citizenship, parent, owner, or foreign field. | Schema check only. The November 16 count and recent-row queries were not repeated. |

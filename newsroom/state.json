@@ -20,12 +20,12 @@
     "2026-029-fort-bliss-detention-transfer"
   ],
   "series": ["nnsa-federal-staffing"],
-  "last_run": "2026-11-24",
-  "last_mode": "PUBLISH",
-  "last_horizon": "2026-11-24",
+  "last_run": "2026-11-25",
+  "last_mode": "CONTINUE",
+  "last_horizon": "2026-11-25",
   "last_published_at": "2026-11-24",
-  "last_journal": "newsroom/journal/2026-11-24.md",
-  "next_action": "Do not repeat the two NNSA FSE PDFs or the FY2026 request-versus-enacted subtraction of 2,003 versus 1,846. Reopen the staffing series only if a later primary explains the FY2025 enacted rewrite (1,995 versus 1,967, headquarters 1,431 versus 1,375) or replaces 1,967. Otherwise score a new primary that is not a proposed bill. Leave the parked investigations parked unless a horizon record meets a reopen condition.",
-  "handoff": "November 24 published series part 2 of the NNSA staffing thread. The FY2026 request lists 1,995 federal FTEs as FY2025 enacted; the FY2027 justification lists 1,967 for the same account and label. Headquarters is 1,431, then 1,375, and the field offices are 28 higher. The $500 million net total does not change. A draft that treated the FY2026 request of 2,003 and the enacted column of 1,846 as one gap failed review and was not published. Ten investigations remain parked and none are active.",
+  "last_journal": "newsroom/journal/2026-11-25.md",
+  "next_action": "Do not reopen 2026-030-aff-digital-asset-growth without a new hypothesis and a new first document, and do not repeat report 27-009 or the American Resources 8-K of November 24. The 494-versus-394 comparison failed review because the later gross balance is 494 percent of the earlier one. Leave the parked investigations parked unless a horizon record meets a reopen condition. Score a new primary that is not a proposed bill. The staffing series stays closed unless a later book explains the FY2025 enacted rewrite.",
+  "handoff": "November 25 killed a forfeiture-fund growth-rate comparison after review. KPMG's exhibit says digital-asset balances increased 494 percent; Note 7's gross stock rose from $2.090 billion to $10.324 billion, which is 394 percent, and the later total is 494 percent of the earlier one. The draft was deleted. An American Resources non-reliance filing restates its own 2025 assets, and the cited prior total matches the May 20, 2026 Form 10-K. The BLM mining-record schema is unchanged. Ten investigations remain parked and none are active. The next article cannot publish before November 30.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-18. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Publisher 2026-11-09: Phase 2 — measured discrepancies first, record-gap pieces capped, held drafts are not work (overrides/2026-11-09-phase-2.md). Absence of KILL/HOLD does not mean publish a recap."
 }
