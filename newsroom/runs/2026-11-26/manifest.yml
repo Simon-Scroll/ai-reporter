@@ -1,0 +1,63 @@
+date: 2026-11-26
+mode: SCAN
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm ci completed successfully
+desk_status:
+  ran: true
+  result: no active investigations and ten parked at the start
+ingest:
+  ran: true
+  result: November 26 horizon created; new SEC filings, Federal Register items, two committee reports, and court opinions; GAO, DOJ OIG, and FDA had nothing new
+  horizon: newsroom/horizon/2026-11-26/
+thread_decisions:
+  - id: open-investigations
+    decision: none
+    reason: no active investigation at the start
+  - id: parked-board
+    decision: remain_parked
+    reason: horizon supplied no reopen record; the IGSA weekly check on USAspending did not either
+  - id: 2026-010-dod-igsa-savings-verification
+    decision: remain_parked
+    reason: Missouri IGSA search returned only expired contract W911S715C0002
+  - id: 2026-022-nnsa-workforce-capacity
+    decision: leave_published
+    reason: no later book explains the FY2025 enacted FTE rewrite; the two FSE PDFs were not refetched
+  - id: 2026-024-nih-foreign-interference-data-continuity
+    decision: remain_published
+    reason: due watch; notices index and data page still show the June 2026 aggregate and no newer case series
+  - id: 2026-030-aff-digital-asset-growth
+    decision: leave_killed
+    reason: consolidated Note 8 gross digital-asset totals match the fund audit; the ratio finding stays killed
+investigations: []
+research:
+  primary_documents:
+    - https://oig.justice.gov/sites/default/files/reports/27-010_non508.pdf
+    - https://oig.justice.gov/sites/default/files/reports/27-008_non508_0.pdf
+    - https://www.sec.gov/Archives/edgar/data/1809519/000180951926000224/gdrx-20251231.htm
+    - https://www.sec.gov/Archives/edgar/data/1809519/000180951926000226/gdrx-20260331.htm
+    - https://www.sec.gov/Archives/edgar/data/1809519/000180951926000228/gdrx-20260630.htm
+    - https://www.sec.gov/Archives/edgar/data/1809519/000180951926000111/gdrx-20260331.htm
+    - https://www.govinfo.gov/content/pkg/FR-2026-11-27/pdf/2026-24153.pdf
+    - https://www.govinfo.gov/content/pkg/FR-2026-11-27/pdf/2026-24156.pdf
+    - https://www.govinfo.gov/content/pkg/USCODE-2024-title15/html/USCODE-2024-title15-chap47-sec2069.htm
+    - https://api.bls.gov/publicAPI/v2/timeseries/data/CUUR0000SA0
+    - https://grants.nih.gov/policy-and-compliance/policy-topics/foreign-interference/notices-statements-reports
+    - https://grants.nih.gov/policy-and-compliance/policy-topics/foreign-interference/fi-data
+    - https://api.usaspending.gov/api/v2/search/spending_by_award/
+  result: no same-object gap survived the comparisons; NIH watch and IGSA payment check did not move a published or parked thread
+publication:
+  published: false
+  files: []
+  reason: tested comparisons reconciled or used scopes the documents already stated, and the prior article was published on 2026-11-24
+validation:
+  run: false
+  reason: nothing was drafted or published
+journal:
+  - newsroom/journal/2026-11-26.md
+desk_notes:
+  - newsroom/desk/2026-11-26-r1.md
+no_binaries_committed: true

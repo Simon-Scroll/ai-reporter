@@ -28,6 +28,10 @@ Reopen only when a signed Fort Leonard Wood approval letter, cost-benefit analys
 
 Parked because the 2026-09-14 horizon supplied no new Army or IGSA execution record and the approval-channel retrieval action remained the same as the prior run. Reopen only when a signed approval letter, cost-benefit analysis, payment/reconciliation record, or statutory certification becomes public.
 
+## 2026-11-26 reopen check
+
+**Remain parked.** A USAspending award search, a channel not used on November 16, looked for Missouri contracts and grants whose descriptions say "intergovernmental support agreement." The only contract hit was W911S715C0002, City of Waynesville, $302,541.67, for a stray-animal facility. Its period of performance was June 1, 2015 through May 31, 2020. No Missouri grant used that description. That award is not one of the nine current Fort Leonard Wood agreements and does not state the June 2026 savings figure. The same-object test still fails.
+
 ## 2026-11-16 reopen check
 
 **Remain parked.** Searches of the official Army and Fort Leonard Wood document channels returned the already-captured public announcements and installation policy, plus an unrelated contracting presentation. No signed Fort Leonard Wood approval letter, cost-benefit analysis, payment or reconciliation record, or statutory certification was exposed. The same-object test still fails; do not repeat the general policy-page or site-search path.
