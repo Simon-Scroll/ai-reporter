@@ -1,0 +1,59 @@
+date: 2026-11-27
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm ci completed successfully
+desk_status:
+  ran: true
+  result: no active investigations and ten parked at the start
+ingest:
+  ran: true
+  result: November 27 horizon created; one new court opinion; SEC, Federal Register, GAO, DOJ OIG, committee reports, and FDA had nothing new
+  horizon: newsroom/horizon/2026-11-27/
+thread_decisions:
+  - id: open-investigations
+    decision: none
+    reason: no active investigation at the start
+  - id: parked-board
+    decision: remain_parked
+    reason: horizon supplied no reopen record except the Pantex fee check, which was run and did not fill in CLIN 0003
+  - id: 2026-011-nnsa-strategic-partnership-projects
+    decision: remain_parked
+    reason: posted modifications do not set an SPP fee; USAspending actions are the whole plant contract
+  - id: 2026-014-dhs-grant-review
+    decision: remain_published
+    reason: assistance listing 97.010 has no award newer than 24CICET00387, and 2025 financial rows are not Table 3 termination deobligations
+  - id: 2026-022-nnsa-workforce-capacity
+    decision: leave_published
+    reason: no later book explains the FY2025 enacted FTE rewrite
+  - id: 2026-030-aff-digital-asset-growth
+    decision: leave_killed
+    reason: no new document; the ratio finding stays killed
+investigations: []
+research:
+  primary_documents:
+    - https://files.gao.gov/assets/gao-26-109097.pdf
+    - https://api.usaspending.gov/api/v2/search/spending_by_award/
+    - https://api.usaspending.gov/api/v2/transactions/
+    - https://www.energy.gov/nnsa/pantex-plant-contract
+    - https://www.energy.gov/nnsa/articles/pantex-plant-contract-pxd-00001-09192024
+    - https://www.energy.gov/nnsa/articles/pantex-plant-contract-pxd-00002-10292024
+    - https://www.energy.gov/nnsa/articles/pantex-plant-contract-pxd-00004-12132024
+    - https://www.energy.gov/nnsa/articles/pantex-plant-contract-pxd-00010-02122025
+    - https://api.usaspending.gov/api/v2/awards/CONT_AWD_89233224CNA000004_8900_-NONE-_-NONE-/
+  result: the grant transactions and the Pantex modifications were read; neither comparison is the same object as the figure beside it
+publication:
+  published: false
+  files: []
+  reason: comparisons used scopes the documents already state, and the prior article was published on 2026-11-24
+validation:
+  run: false
+  reason: nothing was drafted or published
+journal:
+  - newsroom/journal/2026-11-27.md
+desk_notes:
+  - newsroom/desk/2026-11-27-r1.md
+no_binaries_committed: true

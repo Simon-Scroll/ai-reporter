@@ -1,9 +1,9 @@
 id: 2026-014-dhs-grant-review
 opened: 2026-09-18
-updated: 2026-11-18
+updated: 2026-11-27
 status: published
 mode: PUBLISH
-next_action: Wait for a new primary record, preferably the 111 USCIS award identifiers or transaction histories that could reconcile GAO's $2,342,498 figure; do not repeat the same USAspending query without a changed record or filter question.
+next_action: Wait for a new primary that shows a 25CICET or 26CICET award, or termination-coded deobligations that can be summed against the $2,342,498 figure. Do not repeat the 97.010 award rollup, the 22-award transaction pull, or the Citizenship keyword query without that new record.
 hypothesis: "DHS's 2025 grant review left a reproducible gap between component-level termination accounting and the public award records used to audit it, while FEMA's 2026 rolling-termination process may repeat the same weakness without a documented lessons-learned control."
 series: null
 part: null

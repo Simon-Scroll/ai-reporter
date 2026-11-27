@@ -1,9 +1,9 @@
 id: 2026-011-nnsa-strategic-partnership-projects
 opened: 2026-09-13
-updated: 2026-09-15
+updated: 2026-11-27
 status: parked
-mode: REST
-next_action: Retrieve a Pantex SPP annual-fee contract modification or sponsor-level agreement/funding record and compare it with the Pantex statement of work and DOE Order 481.1E's approval and cost-recovery controls; do not repeat the conformed contract or statement-of-work fetch.
+mode: PARK
+next_action: Reopen only if a public modification states a CLIN 0003 fee-base or fixed-fee dollar amount. Do not repeat the four posted PDFs, the contract-page list, or the whole-plant USAspending transaction rollup. The conformed contract and statement of work stay as retrieved on 2026-09-14.
 hypothesis: "NNSA's Strategic Partnership Projects may have expanded faster than the public records needed to show that sponsor-funded work was approved, fully cost-recovered, and separated from DOE's appropriated mission work."
 series: null
 part: null

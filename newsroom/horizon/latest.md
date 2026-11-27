@@ -1,114 +1,114 @@
-# Horizon brief — 2026-11-26
+# Horizon brief — 2026-11-27
 
 Primary-source intake only (US federal, corporate, judicial, IG, and public-safety records). News articles are not listed here. Pick leads from documents, not coverage.
 Items marked NEW were not in the previous brief for that source; the rest were already seen.
 
 ## sec-edgar
-15 new of 23 since 2026-11-25.
+0 new of 23 since 2026-11-26.
 
-- NEW · **8-K - Personalis, Inc. (0001527753) (Filer)**
+- **8-K - Personalis, Inc. (0001527753) (Filer)**
   - when: 2026-11-25T17:26:14-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1527753/000119312526478697/0001193125-26-478697-index.htm
   - Filed: 2026-11-25 AccNo: 0001193125-26-478697 Size: 154 KB Item 8.01: Other Events
-- NEW · **8-K - Scilex Holding Co (0001820190) (Filer)**
+- **8-K - Scilex Holding Co (0001820190) (Filer)**
   - when: 2026-11-25T17:25:35-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1820190/000119312526478695/0001193125-26-478695-index.htm
   - Filed: 2026-11-25 AccNo: 0001193125-26-478695 Size: 311 KB Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits
-- NEW · **8-K - SYNLOGIC, INC. (0001527599) (Filer)**
+- **8-K - SYNLOGIC, INC. (0001527599) (Filer)**
   - when: 2026-11-25T17:19:35-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1527599/000119312526478681/0001193125-26-478681-index.htm
   - Filed: 2026-11-25 AccNo: 0001193125-26-478681 Size: 165 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits
-- NEW · **8-K - Cycurion, Inc. (0001868419) (Filer)**
+- **8-K - Cycurion, Inc. (0001868419) (Filer)**
   - when: 2026-11-25T17:18:51-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1868419/000149315226054300/0001493152-26-054300-index.htm
   - Filed: 2026-11-25 AccNo: 0001493152-26-054300 Size: 4 MB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits
-- NEW · **8-K - ORAGENICS INC (0001174940) (Filer)**
+- **8-K - ORAGENICS INC (0001174940) (Filer)**
   - when: 2026-11-25T17:15:32-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1174940/000149315226054295/0001493152-26-054295-index.htm
   - Filed: 2026-11-25 AccNo: 0001493152-26-054295 Size: 257 KB Item 3.03: Material Modifications to Rights of Security Holders Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits
-- NEW · **8-K - Soluna Holdings, Inc (0000064463) (Filer)**
+- **8-K - Soluna Holdings, Inc (0000064463) (Filer)**
   - when: 2026-11-25T17:15:32-05:00
   - url: https://www.sec.gov/Archives/edgar/data/64463/000149315226054296/0001493152-26-054296-index.htm
   - Filed: 2026-11-25 AccNo: 0001493152-26-054296 Size: 252 KB Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 8.01: Other Events
-- NEW · **8-K/A - American Resources Corp (0001590715) (Filer)**
+- **8-K/A - American Resources Corp (0001590715) (Filer)**
   - when: 2026-11-25T17:15:29-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1590715/000147793226007314/0001477932-26-007314-index.htm
   - Filed: 2026-11-25 AccNo: 0001477932-26-007314 Size: 3 MB Item 4.02: Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review
-- NEW · **8-K - Momentus Inc. (0001781162) (Filer)**
+- **8-K - Momentus Inc. (0001781162) (Filer)**
   - when: 2026-11-25T17:15:20-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1781162/000114036126045751/0001140361-26-045751-index.htm
   - Filed: 2026-11-25 AccNo: 0001140361-26-045751 Size: 773 KB Item 1.01: Entry into a Material Definitive Agreement Item 3.03: Material Modifications to Rights of Security Holders Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits
-- NEW · **8-K - BONK, INC. (0001760903) (Filer)**
+- **8-K - BONK, INC. (0001760903) (Filer)**
   - when: 2026-11-25T17:13:19-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1760903/000149315226054291/0001493152-26-054291-index.htm
   - Filed: 2026-11-25 AccNo: 0001493152-26-054291 Size: 318 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits
-- NEW · **8-K - Valion Bio, Inc. (0001787740) (Filer)**
+- **8-K - Valion Bio, Inc. (0001787740) (Filer)**
   - when: 2026-11-25T17:12:39-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1787740/000168316826009146/0001683168-26-009146-index.htm
   - Filed: 2026-11-25 AccNo: 0001683168-26-009146 Size: 235 KB Item 3.03: Material Modifications to Rights of Security Holders Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits
-- NEW · **8-K - Nuburu, Inc. (0001814215) (Filer)**
+- **8-K - Nuburu, Inc. (0001814215) (Filer)**
   - when: 2026-11-25T17:10:13-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1814215/000119312526478655/0001193125-26-478655-index.htm
   - Filed: 2026-11-25 AccNo: 0001193125-26-478655 Size: 153 KB Item 8.01: Other Events
-- NEW · **8-K - UPEXI, INC. (0001775194) (Filer)**
+- **8-K - UPEXI, INC. (0001775194) (Filer)**
   - when: 2026-11-25T17:06:59-05:00
   - url: https://www.sec.gov/Archives/edgar/data/1775194/000147793226007313/0001477932-26-007313-index.htm
   - Filed: 2026-11-25 AccNo: 0001477932-26-007313 Size: 175 KB Item 5.07: Submission of Matters to a Vote of Security Holders Item 9.01: Financial Statements and Exhibits
 
 ## federal-register
-20 new of 20 since 2026-11-25.
+0 new of 20 since 2026-11-26.
 
-- NEW · **Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes**
+- **Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes**
   - when: 2026-11-27
   - url: https://www.federalregister.gov/documents/2026/11/27/2026-24236/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous
   - Executive Office of the President — Presidential Document
-- NEW · **Sunshine Act Meetings**
+- **Sunshine Act Meetings**
   - when: 2026-11-27
   - url: https://www.federalregister.gov/documents/2026/11/27/2026-24202/sunshine-act-meetings
   - Securities and Exchange Commission — Notice
-- NEW · **Lake Providence Port Commission-Feeder Line Application-Line of Delta Southern Railroad Located in East Carroll and Madison Parishes, LA**
+- **Lake Providence Port Commission-Feeder Line Application-Line of Delta Southern Railroad Located in East Carroll and Madison Parishes, LA**
   - when: 2026-11-27
   - url: https://www.federalregister.gov/documents/2026/11/27/2026-24165/lake-providence-port-commission-feeder-line-application-line-of-delta-southern-railroad-located-in
   - Surface Transportation Board — Notice
-- NEW · **Permits; Foreign Fishing**
+- **Permits; Foreign Fishing**
   - when: 2026-11-27
   - url: https://www.federalregister.gov/documents/2026/11/27/2026-24164/permits-foreign-fishing
   - Commerce Department, National Oceanic and Atmospheric Administration — Notice — NMFS publishes for public review and comment information regarding a permit application for transshipment of farmed salmon from aquaculture operations in Maine waters to processing plants in Canada by Canadian flagged vessels. The application for a transshipment permit is submitted under provisions of the Magnuson-Stevens Fishery Conservation and Management Act (Magnuson-Stevens Act). This action is necessary for NMF
-- NEW · **Notice of Proposed Information Collection Requests: IMLS Grants to States Five-Year State Plan Guidelines for State Library Administrative Agencies for Fiscal Years 2028-2032**
+- **Notice of Proposed Information Collection Requests: IMLS Grants to States Five-Year State Plan Guidelines for State Library Administrative Agencies for Fiscal Years 2028-2032**
   - when: 2026-11-27
   - url: https://www.federalregister.gov/documents/2026/11/27/2026-24163/notice-of-proposed-information-collection-requests-imls-grants-to-states-five-year-state-plan
   - National Foundation on the Arts and the Humanities, Institute of Museum and Library Services — Notice — The Institute of Museum and Library Services (IMLS), as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre- clearance consultation program to provide the general public and Federal agencies with an opportunity to comment on proposed and/or continuing collections of information in accordance with the Paperwork Reduction Act (PRA). The PRA ensures that data r
-- NEW · **Administrative Declaration of an Economic Injury Disaster for the State of Idaho**
+- **Administrative Declaration of an Economic Injury Disaster for the State of Idaho**
   - when: 2026-11-27
   - url: https://www.federalregister.gov/documents/2026/11/27/2026-24161/administrative-declaration-of-an-economic-injury-disaster-for-the-state-of-idaho
   - Small Business Administration — Notice — This is notice of an Economic Injury Disaster Loan (EIDL) declaration for the state of Idaho dated November 23, 2026. Incident: Big Rock Fire, Flooding, and Debris Flow.
-- NEW · **Enhanced-Use Lease (EUL) of Department of Veterans Affairs (VA) Real Property at the Clement J. Zablocki VA Medical Center, Milwaukee, Wisconsin**
+- **Enhanced-Use Lease (EUL) of Department of Veterans Affairs (VA) Real Property at the Clement J. Zablocki VA Medical Center, Milwaukee, Wisconsin**
   - when: 2026-11-27
   - url: https://www.federalregister.gov/documents/2026/11/27/2026-24160/enhanced-use-lease-eul-of-department-of-veterans-affairs-va-real-property-at-the-clement-j-zablocki
   - Veterans Affairs Department — Notice — The purpose of this Federal Register notice is to provide the public with notice that the Secretary of Veterans Affairs intends to enter into an EUL of the Ward Memorial Hall Theater, Governor's Mansion, and Chapel on approximately 4.76 acres of underutilized land on the campus of the Clement J. Zablocki VA Medical Center.
-- NEW · **Agency Information Collection Activities; Proposed Collection; Comment Request; Extension**
+- **Agency Information Collection Activities; Proposed Collection; Comment Request; Extension**
   - when: 2026-11-27
   - url: https://www.federalregister.gov/documents/2026/11/27/2026-24159/agency-information-collection-activities-proposed-collection-comment-request-extension
   - Federal Trade Commission — Notice — In accordance with the Paperwork Reduction Act of 1995 ("PRA"), the Federal Trade Commission ("FTC" or "Commission") is seeking public comment on its proposal to extend for an additional three years the information collection requirements contained in the contained in the agency's Business Opportunity Rule ("Rule"). The current clearance expires on February 28, 2027.
-- NEW · **Information Collection: Suspicious Activity Reporting Using the Protective Web Server**
+- **Information Collection: Suspicious Activity Reporting Using the Protective Web Server**
   - when: 2026-11-27
   - url: https://www.federalregister.gov/documents/2026/11/27/2026-24158/information-collection-suspicious-activity-reporting-using-the-protective-web-server
   - Nuclear Regulatory Commission — Notice — The U.S. Nuclear Regulatory Commission (NRC) has recently submitted a request for renewal of an existing collection of information to the Office of Management and Budget (OMB) for review. The information collection is entitled, "Suspicious Activity Reporting Using the Protective Web Server."
-- NEW · **Notice of Request for Extension of Currently Approved Information Collection**
+- **Notice of Request for Extension of Currently Approved Information Collection**
   - when: 2026-11-27
   - url: https://www.federalregister.gov/documents/2026/11/27/2026-24157/notice-of-request-for-extension-of-currently-approved-information-collection
   - Agriculture Department, Foreign Agricultural Service, Commodity Credit Corporation — Notice — In accordance with the Paperwork Reduction Act of 1995, this notice announces the Foreign Agricultural Service's (FAS) and Commodity Credit Corporation's (CCC) intention to request an extension from the Office of Management and Budget (OMB) for a currently approved information collection process in support of the Foreign Market Development (FMD) Program and the Market Access Program (MAP).
-- NEW · **Fisheries of the Exclusive Economic Zone Off Alaska; Bering Sea and Aleutian Islands Management Area; 2026 Cost Recovery Fee Notice for the Western Alaska Community Development Quota and Trawl Limited Access Privilege Programs**
+- **Fisheries of the Exclusive Economic Zone Off Alaska; Bering Sea and Aleutian Islands Management Area; 2026 Cost Recovery Fee Notice for the Western Alaska Community Development Quota and Trawl Limited Access Privilege Programs**
   - when: 2026-11-27
   - url: https://www.federalregister.gov/documents/2026/11/27/2026-24156/fisheries-of-the-exclusive-economic-zone-off-alaska-bering-sea-and-aleutian-islands-management-area
   - Commerce Department, National Oceanic and Atmospheric Administration — Notice — NMFS publishes the 2026 standard prices and fee percentages for cost recovery for the Amendment 80 Program, the American Fisheries Act (AFA) Program, the Aleutian Islands Pollock (AIP) Program, and the Western Alaska Community Development Quota (CDQ) Program in the Bering Sea Aleutian Islands (BSAI) management area. The fee percentages for 2026 are 0.94 percent for the Amendment 80 Program, 0.46 percent for the AFA i
-- NEW · **Polytetramethylene Ether Glycol (PTMEG) From China, South Korea, Taiwan, and Vietnam; Scheduling of the Final Phase of Antidumping Duty Investigations; Correction**
+- **Polytetramethylene Ether Glycol (PTMEG) From China, South Korea, Taiwan, and Vietnam; Scheduling of the Final Phase of Antidumping Duty Investigations; Correction**
   - when: 2026-11-27
   - url: https://www.federalregister.gov/documents/2026/11/27/2026-24155/polytetramethylene-ether-glycol-ptmeg-from-china-south-korea-taiwan-and-vietnam-scheduling-of-the
   - International Trade Commission — Notice — Corrections are made to the date the prehearing report will be placed on the nonpublic record; the deadline to request to appear at the hearing; the date of the prehearing conference; and the deadline for filing prehearing briefs.
 
 ## gao
-0 new of 20 since 2026-11-25.
+0 new of 20 since 2026-11-26.
 
 - **Medicare: Out-of-Pocket Costs and Other Factors Can Affect Use of Services for Cardiovascular Disease Prevention**
   - when: Mon, 23 Nov 2026 07:13:29 -0500
@@ -172,7 +172,7 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - What GAO Found In 2025, the Department of Defense (DOD) Acting Assistant Secretary of Defense for Sustainment testified that DOD had a shortage of several key munitions. DOD has taken steps to improve its munitions inventory shortages by, among other things, establishing munitions working groups focused on identifying ways to increase munition production. The 2026 conflict with Iran has heightened the importance of addressing munitions stockpile and industrial base challenges. Examples of Depa
 
 ## doj-oig
-0 new of 10 since 2026-11-25.
+0 new of 10 since 2026-11-26.
 
 - **Audit of the Federal Prison Industries, Inc. Annual Financial Statements Fiscal Year 2026**
   - when: Tue, 24 Nov 2026 17:15:10 +0000
@@ -216,17 +216,12 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - DOJ OIG Releases Compendium Highlighting Oversight of Crime Victims Programs mbarnes Tue, 11/10/2026 - 10:20 The Department of Justice (DOJ) Office of the Inspector General (OIG) announced today the release of an interactive compendium highlighting 11 years of OIG oversight activities supported by the Crime Victims Fund (CVF). Through its oversight work, the OIG has helped to improve services and support for victims of crime, strengthen transparency and accountability in government spending, and
 
 ## govinfo-crpt
-2 new of 20 since 2026-11-25.
+0 new of 20 since 2026-11-26.
 
-- NEW · **S. Rept. 119-165 — AGE OF FRAUD: THE GLOBAL RISE IN SCAMS TARGETING AMERICA&apos;S SENIORS**
+- **S. Rept. 119-165 — AGE OF FRAUD: THE GLOBAL RISE IN SCAMS TARGETING AMERICA&apos;S SENIORS**
   - when: 2026-11-18
   - url: https://www.govinfo.gov/app/details/CRPT-119srpt165
   - pdf: https://www.govinfo.gov/content/pkg/CRPT-119srpt165/pdf/CRPT-119srpt165.pdf
-- NEW · **S. Rept. 119-157 — SPENDING AVIATION FEES FOR EQUIPMENT, GUARANTEEING UPGRADED AND ADVANCED RISK DETECTION AND SAFETY ACT OF 2026**
-  - when: 2026-11-09
-  - url: https://www.govinfo.gov/app/details/CRPT-119srpt157
-  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119srpt157/pdf/CRPT-119srpt157.pdf
-  - Committee on Commerce, Science, and Transportation
 - **S. Rept. 119-164 — STOP THE SCROLL ACT OF 2026**
   - when: 2026-11-17
   - url: https://www.govinfo.gov/app/details/CRPT-119srpt164
@@ -241,6 +236,11 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - when: 2026-11-10
   - url: https://www.govinfo.gov/app/details/CRPT-119srpt160
   - pdf: https://www.govinfo.gov/content/pkg/CRPT-119srpt160/pdf/CRPT-119srpt160.pdf
+  - Committee on Commerce, Science, and Transportation
+- **S. Rept. 119-157 — SPENDING AVIATION FEES FOR EQUIPMENT, GUARANTEEING UPGRADED AND ADVANCED RISK DETECTION AND SAFETY ACT OF 2026**
+  - when: 2026-11-09
+  - url: https://www.govinfo.gov/app/details/CRPT-119srpt157
+  - pdf: https://www.govinfo.gov/content/pkg/CRPT-119srpt157/pdf/CRPT-119srpt157.pdf
   - Committee on Commerce, Science, and Transportation
 - **S. Rept. 119-158 — ACCELERATING BROADBAND PERMITS ACT OF 2026**
   - when: 2026-11-09
@@ -279,59 +279,59 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - Committee on Small Business
 
 ## courtlistener
-18 new of 20 since 2026-11-25.
+1 new of 20 since 2026-11-26.
 
-- NEW · **United States v. Woolridge**
+- NEW · **Chantilly Auto Body, Inc. v. Truist Bank**
+  - when: 2026-11-25T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11073312/chantilly-auto-body-inc-v-truist-bank/
+  - USCA4 Appeal: 25-1380 Doc: 47 Filed: 11/25/2026 Pg: 1 of 14 PUBLISHED UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT No. 25-1380 CHANTILLY AUTO BODY, INC. Plaintiff - Appellant v. TRUIST BANK Defendant - Appellee and EVOLVE BANCORP Original document
+- **United States v. Woolridge**
   - when: 2026-11-25T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11072594/united-states-v-woolridge/
   - Case: 25-30641 Document: 67-1 Page: 1 Date Filed: 11/25/2026 United States Court of Appeals for the Fifth Circuit United States Court of Appeals Fifth Circuit ____________ FILED November 25, 2026 No Original document
-- NEW · **Adam Moomaw v. GeoSnapShot PTY LTD**
+- **Adam Moomaw v. GeoSnapShot PTY LTD**
   - when: 2026-11-25T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11072573/adam-moomaw-v-geosnapshot-pty-ltd/
   - In the United States Court of Appeals For the Seventh Circuit ____________________ No. 25-1554 ADAM MOOMAW, et al., Plaintiffs-Appellees, v. GEOSNAPSHOT PTY LTD, an Australian proprietary limited company, Defendant-Appellant. ____________________ Appeal from the United Original document
-- NEW · **Buckeye Inst. v. IRS**
+- **Buckeye Inst. v. IRS**
   - when: 2026-11-25T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11072544/buckeye-inst-v-irs/
   - RECOMMENDED FOR PUBLICATION Pursuant to Sixth Circuit I.O.P. 32.1(b) File Name: 26a0309p.06 UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT ┐ THE BUCKEYE INSTITUTE, │ Plaintiff-Appellee, │ Original document
-- NEW · **Hughes River FM, LLC v. Ximalaya, Inc.**
+- **Hughes River FM, LLC v. Ximalaya, Inc.**
   - when: 2026-11-25T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11072407/hughes-river-fm-llc-v-ximalaya-inc/
   - In the United States Court of Appeals For the Seventh Circuit ____________________ No. 26-1621 HUGHES RIVER FM, LLC, Plaintiff-Appellant, v. XIMALAYA, INC.; YU JIANJUN; and TENCENT MUSIC ENTERTAINMENT GROUP, Defendants-Appellees. ____________________ Original document
-- NEW · **Democratic National Committee v. Trump**
+- **Democratic National Committee v. Trump**
   - when: 2026-11-25T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11072589/democratic-national-committee-v-trump/
   - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA DEMOCRATIC NATIONAL COMMITTEE, Plaintiff, Civil Action No. 26 - 3506 (LLA) v. DONALD J. TRUMP, et al., Defendants. MEMORANDUM OPINION AND ORDER Plaintiff Democratic National Committee (the “DNC”) brings this action against President Donald J. Trump, Original document
-- NEW · **United States v. Timothy Burgman**
+- **United States v. Timothy Burgman**
   - when: 2026-11-25T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11072540/united-states-v-timothy-burgman/
   - RECOMMENDED FOR PUBLICATION Pursuant to Sixth Circuit I.O.P. 32.1(b) File Name: 26a0310p.06 UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT ┐ UNITED STATES OF AMERICA, │ Plaintiff-Appellee Original document
-- NEW · **Southeastern Fisheries Association, Inc. v. Lutnick**
+- **Southeastern Fisheries Association, Inc. v. Lutnick**
   - when: 2026-11-25T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11072137/southeastern-fisheries-association-inc-v-lutnick/
   - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA SOUTHEASTERN FISHERIES : ASSOCIATION, INC., et al., : : Plaintiffs, : Civil Action No.: 26-1533 (RC) : v. : Re Document No.: 43 Original document
-- NEW · **Gonzalez v. Federal Bureau of Prisons**
+- **Gonzalez v. Federal Bureau of Prisons**
   - when: 2026-11-25T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11072596/gonzalez-v-federal-bureau-of-prisons/
   - Case: 26-30355 Document: 30-1 Page: 1 Date Filed: 11/25/2026 United States Court of Appeals for the Fifth Circuit United States Court of Appeals Fifth Circuit ____________ FILED November 25, 2026 Original document
-- NEW · **United States v. Tran**
+- **United States v. Tran**
   - when: 2026-11-25T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11072583/united-states-v-tran/
   - FOR PUBLICATION FILED UNITED STATES COURT OF APPEALS NOV 25 2026 MOLLY C. DWYER, CLERK U.S. COURT OF APPEALS FOR THE NINTH CIRCUIT UNITED STATES OF AMERICA, No. 26-7369 Original document
-- NEW · **Medco Energi v. Cantor**
+- **Medco Energi v. Cantor**
   - when: 2026-11-25T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11072595/medco-energi-v-cantor/
   - Case: 25-30201 Document: 53-1 Page: 1 Date Filed: 11/25/2026 United States Court of Appeals for the Fifth Circuit United States Court of Appeals ____________ Fifth Circuit FILED No. 25-30201 November 25, 2026 Original document
-- NEW · **Eccles v. O'Malley**
+- **Eccles v. O'Malley**
   - when: 2026-11-25T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11072574/eccles-v-omalley/
   - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA TANISHA E., Plaintiff, v. Case No. 24-cv-3228-MJS FRANK BISIGNANO, Commissioner of Social Security, Defendant. ORDER For the reasons stated in the accompanying Memorandum Opinion, the Court ORDERS the Plaintiff’s motion for judgment of Original document
-- NEW · **American Broadcasting Companies, Inc. v. Federal Communications Commission**
-  - when: 2026-11-25T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11072590/american-broadcasting-companies-inc-v-federal-communications-commission/
-  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA AMERICAN BROADCASTING COMPANIES, INC., et al., Plaintiffs, v. Civil Action No. 26 - 2902 (LLA) FEDERAL COMMUNICATIONS COMMISSION, et al., Defendants. MEMORANDUM OPINION Plaintiffs—American Broadcasting Companies, Inc. (“ABC”), its indirect Original document
 
 ## fda-enforcement
-0 new of 22 since 2026-11-25.
+0 new of 22 since 2026-11-26.
 
 - **[DRUG Class II] ORL Labs LLC — D-0176-2027**
   - when: 2026-11-18

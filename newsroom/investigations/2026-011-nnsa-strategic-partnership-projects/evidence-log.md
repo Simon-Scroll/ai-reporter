@@ -47,3 +47,7 @@
 - Locator: Pantex Plant Management and Operation contract, Section J, Appendix A, Chapter II, paragraph 1.8 “Strategic Partnership Projects (SPP) (Non-Department of Energy Funded Work).”
 - Excerpt: The Pantex statement of work requires SPP work for non-DOE entities and agencies to be approved by the Contracting Officer, consistent and complementary to the NNSA mission, and managed with full cost recovery and cost transparency. It requires a task-level financial reporting system with labor, fringe, subcontract, direct and indirect cost, capital, labor-category, and FTE detail, and says NNSA must have full transparency into the reporting systems.
 - Boundary: The statement of work specifies controls for a site contract; it does not identify an individual sponsor, agreement amount, advance-funding record, actual cost report, or closeout.
+
+## E7 — Posted modifications and the USAspending plant award
+
+- `evidence/2026-11-27-pantex-posted-mods-and-usaspending.md` — NNSA posts four modifications, through P00010. None states a CLIN 0003 dollar fee. USAspending's 60 transactions sum to the plant obligation of $3,875,509,200.38 and do not describe an SPP fee.

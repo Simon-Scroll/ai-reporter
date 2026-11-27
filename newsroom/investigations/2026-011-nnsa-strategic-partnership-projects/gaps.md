@@ -18,3 +18,7 @@ Continue while a public NNSA contract modification, agreement, funding, cost-rep
 ## 2026-09-15 decision
 
 Parked because the 2026-09-14 and 2026-09-15 next actions were the same: retrieve a Pantex SPP fee modification or sponsor-level record. Repeating the same retrieval would violate the thread rule. Reopen only when a new public fee-setting modification, sponsor agreement, funding record, cost report, or closeout record appears.
+
+## 2026-11-27 decision
+
+Remain parked. The four modifications NNSA posts were read. P00002 sets the CLIN 0003A dates and does not set a fee. P00010 removes the diversity-plan clause. USAspending shows 60 actions on the same contract through P00062 on November 24, 2026, and the obligations sum to the plant-wide total of $3,875,509,200.38. The descriptions do not name a CLIN 0003 fee. The contract page already says funding modifications are available on request and that the posted list should be checked with the contracting officer. The whole-plant obligation is not the SPP fee line. Do not repeat these documents unless a later primary states the fee in dollars.

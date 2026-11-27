@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T08:03:04.413Z",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T07:01:19.690Z",
   "sources": [
     {
       "name": "sec-edgar",
-      "count": 25,
-      "new": 25,
+      "count": 23,
+      "new": 0,
       "error": null
     },
     {
@@ -17,7 +17,13 @@
     {
       "name": "gao",
       "count": 20,
-      "new": 5,
+      "new": 0,
+      "error": null
+    },
+    {
+      "name": "doj-oig",
+      "count": 10,
+      "new": 0,
       "error": null
     },
     {
@@ -29,13 +35,13 @@
     {
       "name": "courtlistener",
       "count": 20,
-      "new": 20,
+      "new": 1,
       "error": null
     },
     {
-      "name": "uk-legislation",
-      "count": 20,
-      "new": 10,
+      "name": "fda-enforcement",
+      "count": 22,
+      "new": 0,
       "error": null
     }
   ]

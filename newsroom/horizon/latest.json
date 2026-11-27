@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T07:04:10.465Z",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T07:01:19.690Z",
   "sources": [
     {
       "name": "sec-edgar",
       "count": 23,
-      "new": 15,
+      "new": 0,
       "error": null
     },
     {
       "name": "federal-register",
       "count": 20,
-      "new": 20,
+      "new": 0,
       "error": null
     },
     {
@@ -29,13 +29,13 @@
     {
       "name": "govinfo-crpt",
       "count": 20,
-      "new": 2,
+      "new": 0,
       "error": null
     },
     {
       "name": "courtlistener",
       "count": 20,
-      "new": 18,
+      "new": 1,
       "error": null
     },
     {

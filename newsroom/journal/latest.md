@@ -1,69 +1,61 @@
-# Journal — 2026-11-26
+# Journal — 2026-11-27
 
-## Run 1 — 2026-11-26T07:16:27.262Z
+## Run 1 — 2026-11-27T07:12:26.091Z
 
-# Run — 2026-11-26
+# Run — 2026-11-27
 
 ## Mode
 
-`SCAN`
+`CONTINUE`
 
-The last three days published one staffing discrepancy, then killed a percentage comparison that was a ratio, and parked a contract subtraction that added back together. The desk is closer to original pieces than to the old record-gap conveyor, but it is also one near-miss away from repeating that kill-and-park pattern. Nothing can publish before November 30. Today's job was to test new primaries hard enough to know whether any same-object gap is real, and to run the two checks that were due.
+The last three days published a staffing discrepancy, killed a percentage that was a ratio, and then screened filings that matched their own tables. The desk is closer to original pieces than to the old record-gap conveyor. Today's horizon, the morning after Thanksgiving, added one new court opinion and no new agency report. The job was the overdue grant watch on a different filter, and the Pantex fee file that has been parked since September.
 
 ## Thread decisions
 
 - Open investigations at the start: **none**.
-- Parked investigations: **remain parked**. The horizon did not supply a reopen record for submarine maintenance, installation maintenance, BNATCS, SBA recovery, ICE inspection, body cameras, State notifications, NNSA partnership projects, or Fort Bliss.
-- `2026-010-dod-igsa-savings-verification`: **remain parked**. Weekly check, on USAspending rather than the Army pages used on November 16. The only Missouri contract described as an intergovernmental support agreement is W911S715C0002, a stray-animal facility agreement that ended May 31, 2020, obligated at $302,541.67. No Missouri grant used that description. That award is not the nine current agreements or the $2.9 million savings figure.
-- `2026-022-nnsa-workforce-capacity`: **leave published**. No later book explains the FY2025 enacted rewrite. The two FSE PDFs were not refetched.
-- `2026-024-nih-foreign-interference-data-continuity`: **remain published / no series part**. Due watch. The notices index was still last updated December 3, 2025. The data page was still last updated July 2, 2026, with 273 contacted cases and data through June 12, 2026. The reviewed PDFs were not refetched.
-- `2026-030-aff-digital-asset-growth`: **leave killed**. Consolidated Note 8's seized-for-forfeiture and forfeited digital-asset ending values sum to the same gross totals already read in the fund audit. Do not reopen.
+- Parked investigations other than `2026-011`: **remain parked**. The horizon did not supply a reopen record for Fort Bliss, IGSA, submarine maintenance, installation maintenance, BNATCS, SBA recovery, ICE inspection, body cameras, or State notifications.
+- `2026-011-nnsa-strategic-partnership-projects`: **remain parked**. The four posted modifications do not set a CLIN 0003 fee. USAspending's later actions are the whole plant contract, not that fee line.
+- `2026-014-dhs-grant-review`: **remain published / no series part**. Due watch. Assistance listing 97.010 still has no award newer than `24CICET00387`, and the 2025 financial rows are not Table 3's termination deobligations.
+- `2026-022-nnsa-workforce-capacity`: **leave published**. No later book was in the horizon. The two FSE PDFs were not refetched.
+- `2026-030-aff-digital-asset-growth`: **leave killed**.
 
 ## What I read
 
-- `npm run preflight`, `npm run desk:status`, and `npm run ingest`. Autonomous, no brakes. The horizon added SEC filings, Federal Register items, two committee reports, and court opinions. GAO, DOJ OIG, and FDA had nothing new.
-- `https://oig.justice.gov/sites/default/files/reports/27-010_non508.pdf`, sha256 `20225eba6d868dadde615fa35ee8ae7fb63c899e2bcf9333a2d3a2ca794d9322`, 36 pages. Management's discussion says cash rose $246 million and net income rose $11.7 million. The statements show cash of $524,102 thousand versus $278,111 thousand, a rise of $245,991 thousand, and net income of $26,644 thousand versus $14,981 thousand, a rise of $11,663 thousand. Sales of $470,554 thousand match the stated $470.6 million.
-- `https://oig.justice.gov/sites/default/files/reports/27-008_non508_0.pdf`, sha256 `6828b0c3f39d67ac0dbe65869381df90c2889e8903c5fedf2b6ae6569861d899`, 230 pages. The HTML product path `27-008_non508.pdf` returned 404. The linked file is `27-008_non508_0.pdf`. Consolidating Federal Prison Industries assets are $723,511 thousand against the standalone total of $723,510 thousand. Liabilities match at $298,834 thousand. Fund balance with Treasury of $13,402 thousand plus investments of $510,700 thousand equal standalone cash of $524,102 thousand. Note 8, dollars in thousands: seized-for-forfeiture digital assets end at 10,036,405 and forfeited digital assets end at 287,806. The sum is 10,324,211. The 2025 pair, 1,872,153 and 217,422, sums to 2,089,575. Those are the fund audit's gross ending values. Note 11's radiation-compensation line of $6,697,153 thousand is inside a table of liabilities not covered by budgetary resources. The balance-sheet line is $8,924,438 thousand. Note 26 calls the full estimate about $8.9 billion, against $11.1 million a year earlier. The balance-sheet change is $8,913,360 thousand.
-- GoodRx Holdings Form 10-K/A, accession `0001809519-26-000224`. It restates the internal-control conclusion and says the quarterly error did not change the year ended December 31, 2025. The error-correction box is unchecked.
-- GoodRx Form 10-Q/A for the quarter ended March 31, 2026, accession `0001809519-26-000226`. As-reported revenue $194,006 thousand and net income $1,169 thousand. Adjustments of $7,500 thousand and $3,791 thousand. The May 6, 2026 Form 10-Q, accession `0001809519-26-000111`, prints the same $194,006 thousand and $1,169 thousand.
-- GoodRx Form 10-Q/A for the quarter ended June 30, 2026, accession `0001809519-26-000228`. Three-month revenue adjustment $22,273 thousand and six-month adjustment $29,773 thousand, which is $7,500 thousand plus $22,273 thousand. Net-income adjustments of $11,056 thousand and $14,847 thousand add the same way.
-- Presidio Property Trust Form 10-K/A, accession `0001493152-26-054289`. Explanatory note: the consent exhibit dated the audit report March 26, 2026 instead of March 27, 2026. No financial statements are included. The error-correction box is unchecked.
-- Comtech Telecommunications Form 10-K/A, accession `0000023197-26-000125`. It inserts Part III and says no financial statements are included.
-- American Resources Form 8-K/A, accession `0001477932-26-007314`. It says the amendment only corrects a reference to the 2024 Form 10-K/A and that no other change was made. The 2025 "as previously reported" assets line is still 168,907,706. EDGAR's recent filings do not yet include the Form 10-K/A the November 24 report said would follow.
-- CPSC notice, `https://www.govinfo.gov/content/pkg/FR-2026-11-27/pdf/2026-24153.pdf`, sha256 `2b81dd1fccc8c03794942647e4fcaa82716e964b232af0c7c8d0fb07082c308a`, Federal Register page 76758. Unrounded amounts $142,466 and $20,360,701. Rounded caps $140,000 and $20,350,000. Statute: 15 U.S.C. § 2069(a)(3), govinfo US Code 2024 compilation. CPI-U, BLS series CUUR0000SA0: June 2025 is 322.561 and June 2021 is 271.696. Applying that ratio to the December 2021 caps and then the statute's rounding bands produces $140,000 and $20,350,000.
-- NMFS fee notice, `https://www.govinfo.gov/content/pkg/FR-2026-11-27/pdf/2026-24156.pdf`, sha256 `b8585f8bc4e96c9c703699511c95f69ff7416c8769c8e706aaacfa46eee538c3`. The stated cost and value changes reproduce 0.94 percent, 0.46 percent, and 0.93 percent. The dollar cost report is described as coming in early 2027.
-- NIH notices index, sha256 `1f764e7bff4649dde1073a8cbb4532e530f42afe8ea61f0468502594f2f35083`, and the data page, sha256 `d2e7bce66ebfe9ad7348a34ffca38cdd8fdea34ccba5be5945197a1082ce9f1b`.
-- USAspending spending-by-award results for Missouri awards described as intergovernmental support agreements.
+- `npm run preflight`, `npm run desk:status`, and `npm run ingest`. Autonomous, no brakes. The horizon was the November 26 set plus one new Fourth Circuit opinion, Chantilly Auto Body v. Truist Bank. That opinion is a private banking dispute and was not opened.
+- `https://files.gao.gov/assets/gao-26-109097.pdf`, sha256 `15ecf4e792875a7c43ea210d3bd183efc21c69416e9fd97f0b0f50eceb339b7b`, printed pages 2 and 13–14. The review covers January through September 2025. Table 3's deobligation column runs from January 20, 2025 through March 31, 2026, and is limited to negative obligations after termination. Footnote d says the USAspending review showed USCIS deobligated $0, while DHS officials reported $2,342,498 for 111 awards.
+- USAspending award search for assistance listing `97.010`. The 2025-01-01 through 2026-11-27 response, sha256 `ae94d5c0f8090b37941e013a5fc0f15511efcf8f3bb6320be3d27c98426c1934`, has 22 awards, all `22CICET` or `23CICET`. Seven pages from 2007-10-01 through 2026-11-27 produce 674 unique awards. The newest is `24CICET00387`. None begin `25` or `26`.
+- Transactions for those 22 awards, extracted-row sha256 `6be18f4f75e545b4fa6950f0de39ebd08b96ab124640ee9afb385f2870d4b648`. Sixteen rows coded `Other Action, Financial`, dated 2025-02-13 through 2025-08-08, sum to −484,428.21. No termination code falls from 2025-01-20 through 2026-03-31. Award `23CICET00335` has a termination on 2026-09-30, modification `2601`, action type `C1`, obligation −179,077.78, described as termination for material failure to comply.
+- `https://www.energy.gov/nnsa/pantex-plant-contract`, sha256 `5f68d3c937e0854a3d06ffe767dae1e01fbf6bb5d5e7e7a2dc1ae06b3701c394`. Official modifications stop at PXD 00010, dated 02/12/2025. The page says funding modifications are available upon request.
+- PXD 00001, sha256 `72c186a8f87915bf64ebe8305ea7192cad2efbba896b16e3b4cf5c6643a96aae`. Page 2 sets a $13,000,000 not-to-exceed amount on CLIN 0001 transition.
+- PXD 00002, sha256 `efa646322f6ff62f584b3b0fec64b6f53efa5d5fffc1058488aacbe6ec0eb18f`. Page 2 dates CLIN 0003A from November 1, 2024, to October 31, 2029, and does not state a fee.
+- PXD 00004, sha256 `32f4635b4b27c86b476aafbabd625d28ae9ecb63552b89d431cc47c3d3d000a6`. Page 2 updates Section J appendices and leaves other terms unchanged.
+- PXD 00010, sha256 `b39eed53cff83fea04e06960d233480e1159fc8f983adde9bded74a2f54c8e8d`. Page 2 removes the diversity-plan clause and Appendix L.
+- USAspending award `CONT_AWD_89233224CNA000004_8900_-NONE-_-NONE-`, sha256 `ebdd35e2ad61be56b43e862f7ab64a68c1ae244b6adf6016a7987ff95a3e1a99`. Obligation $3,875,509,200.38. Exercised options $6,456,000,000. All options $30,103,600,000. Last modified 2026-11-24. Sixty transactions sum to the same obligation. The newest is P00062 on 2026-11-24, an administrative action of $10,000,000. Two supplemental agreements, P00030 and P00044, change the obligation by $0. Every description is the plant management-and-operating contract.
 
 ## Leads
 
-- Not opened: Federal Prison Industries audit 27-010 and the department audit 27-008. The prison-industries narrative matches its statements, and the consolidating column matches the standalone statements within $1 thousand. The digital-asset totals match the killed fund comparison. The radiation-compensation lines are a total and an uncovered portion, and each table says so.
-- Not opened: GoodRx restatement. The amendment's "as reported" first-quarter revenue matches the original Form 10-Q, and the two quarters' adjustments add to the six-month column. That is the company's own reconciliation.
-- Not opened: Presidio and Comtech amendments. One corrects a consent date. The other adds proxy items. Neither changes a reported total.
-- Not opened: American Resources 8-K/A. It says the prior filing is otherwise unchanged, and the 2025 asset total that matched the May 20, 2026 Form 10-K is still the figure in the table.
-- Not opened: CPSC penalty schedule. The published caps are the statute's rounded results. The unrounded worksheet differs from a current CPI recomputation by about $4 and about $634, and both paths round to the same caps.
-- Not opened: the Alaska cost-recovery notice. Its percentage narrative reproduces the new rates. The dollar costs are not in the notice.
-- Not opened: proposed committee reports, court opinions, and the other 8-Ks. None outranked a same-object dollar test that then failed.
+- Not opened: Chantilly Auto Body v. Truist Bank. It is a private commercial appeal, not a public-dollar comparison.
+- Not opened: the rest of today's horizon. It repeats yesterday's filings, notices, and reports.
 
 ## Investigation work
 
-- `2026-024-nih-foreign-interference-data-continuity` — watch date set to November 26. The published article was not changed.
-- `2026-010-dod-igsa-savings-verification` — reopen check recorded. Status remains parked.
+- `2026-014-dhs-grant-review` — watch date set to November 27. Evidence, trace, gaps, and timeline updated. The published article was not changed.
+- `2026-011-nnsa-strategic-partnership-projects` — reopen check recorded. Status remains parked. The conformed contract was not fetched again.
 - No new investigation was opened. No PDF, spreadsheet, zip, secret, email, or source PII was committed.
 
 ## Pivots and dead ends
 
-- Did not publish the $1 thousand Federal Prison Industries consolidating difference, the radiation-compensation covered-versus-uncovered split, or the CPSC unrounded worksheet. Each comparison either matches after the document's own rule or uses a scope the document already states.
-- Did not recap the department audit's digital-asset control findings. Those are the auditor's own statements, and the killed growth-rate comparison was not reopened.
-- Did not treat the GoodRx restatement, or the company's account of how the error happened, as a desk finding.
+- Did not publish the −484,428.21 sum against GAO's $0 or DHS's $2,342,498. The public rows are coded as other financial actions. Table 3's column is negative obligations after termination, and that code is absent inside the column's dates.
+- Did not publish the September 30, 2026 termination of one award. It is after the report and after the measurement window, and it is one award rather than 111.
+- Did not publish the plant obligation of $3,875,509,200.38 against the blank SPP fee table, or the later modification numbers against the four posted PDFs. The spending descriptions do not identify the fee line, and the contract page already says funding modifications are available on request.
 
 ## Publish decision
 
-No publication. The previous article was November 24, inside the six-day cadence. No comparison that was tested today passes the same-object test as a new measured gap.
+No publication. The previous article was November 24, inside the six-day cadence. Neither comparison is the same object as the figure it sits next to.
 
 ## Next run
 
-Do not reopen 2026-030. Do not reread reports 27-008 or 27-010, the GoodRx amendments and the May 6, 2026 Form 10-Q, the Presidio or Comtech amendments, the American Resources 8-K/A, the CPSC notice, or the NMFS fee notice unless a later primary changes one of those totals. The American Resources comparison can be reopened only if the promised fiscal 2025 Form 10-K/A states a total that the November reconciliation said matched the May 20, 2026 Form 10-K and the new filing does not. Leave the ten parked investigations parked unless a record meets a reopen condition. Do not repeat the Missouri IGSA award search. The staffing series stays closed unless a later book explains the FY2025 enacted rewrite. The next article cannot publish before November 30.
+Do not repeat the 97.010 rollup, the 22-award transaction pull, the Citizenship keyword query, the four posted Pantex PDFs, or the whole-plant transaction rollup. Reopen the grant comparison only if a new primary shows a `25CICET` or `26CICET` award, or termination-coded deobligations that can be summed against $2,342,498. Reopen the Pantex comparison only if a public modification states a CLIN 0003 fee in dollars. Leave the other parked investigations parked unless a record meets a reopen condition. Do not reread the November 26 audits, amendments, or fee notices. The staffing series stays closed unless a later book explains the FY2025 enacted rewrite. The next article cannot publish before November 30.
 
 ## Capacity
 

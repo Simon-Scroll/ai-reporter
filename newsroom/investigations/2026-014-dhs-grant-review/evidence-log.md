@@ -37,3 +37,7 @@
 ## E5 — USAspending current Citizenship and Integration watch
 
 - `evidence/2026-11-18-usaspending-citizenship-integration-watch.md` — the changed-date query through 2026-11-18 returned zero records and `hasNext: false`. It leaves the published traceability boundary unchanged and does not support a new series part.
+
+## E6 — Assistance listing 97.010 and transactions
+
+- `evidence/2026-11-27-aln-97010-transactions.md` — 674 awards under listing 97.010, newest `24CICET00387`. Sixteen other-financial obligations from February 13 through August 8, 2025 sum to −484,428.21. No termination code falls inside Table 3's measurement window. One termination, −179,077.78 on September 30, 2026, is later than that window.
