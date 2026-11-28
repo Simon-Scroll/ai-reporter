@@ -79,3 +79,12 @@
 - Locator: §§ 4.203-1(a)–(f), 4.203-2(a), and 4.208.
 - Captured excerpt: The current model text keeps SAM as the primary method for entity-level representations and certifications, excepts micro-purchases using a governmentwide commercial purchase card from active SAM registration, and directs contracting officers to collect identifying information and representations when SAM registration is not required. It directs the record location for registered actions to SAM and for nonregistered actions to the offer.
 - Boundary: The current page still does not identify a public searchable offer-level repository for those purchase-card transactions. This is a watch confirmation, not a new series-moving record.
+
+## E11 — Current RFO FAR Part 4 watch check
+
+- URL: https://www.acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-4
+- Retrieved: 2026-11-28
+- sha256: 44abd41e7847ea5d06fcac1d045442ccb708c0cbfb505f666e40e7084308bd7d
+- Locator: §§ 4.203-1(a), (b)(1), and (e); 4.203-2(a); 4.208.
+- Excerpt: SAM remains the primary method for entity-level representations and certifications. Purchases under the micro-purchase threshold that use a governmentwide commercial purchase card are excepted from active SAM registration. When registration is not required, the contracting officer collects offeror identifying information and entity-level representations at the offer. Registered actions point to SAM. Nonregistered actions point to the offer.
+- Boundary: The page still does not identify a public searchable offer-level repository for purchase-card transactions. No series part.

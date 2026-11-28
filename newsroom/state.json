@@ -6,7 +6,9 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [],
+  "open_investigations": [
+    "2026-031-american-resources-cash-bridge"
+  ],
   "parked_investigations": [
     "2026-011-nnsa-strategic-partnership-projects",
     "2026-010-dod-igsa-savings-verification",
@@ -20,12 +22,12 @@
     "2026-029-fort-bliss-detention-transfer"
   ],
   "series": ["nnsa-federal-staffing"],
-  "last_run": "2026-11-27",
-  "last_mode": "CONTINUE",
-  "last_horizon": "2026-11-27",
+  "last_run": "2026-11-28",
+  "last_mode": "WRITE",
+  "last_horizon": "2026-11-28",
   "last_published_at": "2026-11-24",
-  "last_journal": "newsroom/journal/2026-11-27.md",
-  "next_action": "Do not repeat the assistance-listing 97.010 rollup, the 22-award transaction pull, the Citizenship keyword query, the four posted Pantex PDFs, or the whole-plant USAspending rollup. Reopen the grant comparison only if a new primary shows a 25CICET or 26CICET award, or termination-coded deobligations that can be summed against $2,342,498. Reopen the Pantex comparison only if a public modification states a CLIN 0003 fee in dollars. Leave the other parked investigations parked unless a record meets a reopen condition. Do not reread the November 26 audits, amendments, or fee notices. The staffing series stays closed unless a later book explains the FY2025 enacted rewrite. The next article cannot publish before November 30.",
-  "handoff": "November 27 published nothing. The Citizenship and Integration listing has 674 awards and none newer than 24CICET00387. Sixteen other-financial rows in 2025 sum to −484,428.21 and are not the termination deobligations in GAO's table. The four posted Pantex modifications still do not set an SPP fee, and the spending file's later actions are the whole plant contract. Ten investigations remain parked and none are active. The next article cannot publish before November 30.",
+  "last_journal": "newsroom/journal/2026-11-28.md",
+  "next_action": "On or after 2026-11-30, re-fetch the November 24 Form 8-K (0001477932-26-007287) and the November 25 Form 8-K/A (0001477932-26-007314). If Section B still shows accrued expenses (253,547) versus (173,851), move newsroom/drafts/american-resources-cash-bridge.md to published/ and remove the draft. Do not publish before November 30. Do not republish the company's own $50,289,293 asset restatement. Leave the ten parked investigations parked unless a record meets a reopen condition. The Section 889 watch was run on November 28.",
+  "handoff": "November 28 published nothing. American Resources' November 25 Form 8-K/A says no other changes were made to the November 24 non-reliance report, but Note 15 Section B's 2024 cash-flow adjustments differ by $79,696. Section A matches. A skeptic pass kept the comparison and the draft was rewritten to include the other Section B rows. The draft is held until November 30. The Section 889 page still has no public purchase-card repository. Ten investigations remain parked. One is ready to write.",
   "notes": "Explore daily. Use the session. Publish at most weekly. The first original piece was published on 2026-09-18. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Publisher 2026-09-18: orient, do not over-prescribe; a labeled two-primary gap can be the finding. Publisher 2026-11-09: Phase 2 — measured discrepancies first, record-gap pieces capped, held drafts are not work (overrides/2026-11-09-phase-2.md). Absence of KILL/HOLD does not mean publish a recap."
 }

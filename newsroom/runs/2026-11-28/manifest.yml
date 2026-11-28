@@ -1,0 +1,49 @@
+date: 2026-11-28
+mode: WRITE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm ci completed successfully
+desk_status:
+  ran: true
+  result: no active investigations and ten parked at the start
+ingest:
+  ran: true
+  result: November 28 horizon created; 14 new SEC filings, including the American Resources Form 10-K/A; other sources had nothing new
+  horizon: newsroom/horizon/2026-11-28/
+thread_decisions:
+  - id: open-investigations
+    decision: none
+    reason: no active investigation at the start
+  - id: parked-board
+    decision: remain_parked
+    reason: horizon supplied no reopen record for the ten parked investigations
+  - id: 2026-016-section-889-information-gap
+    decision: remain_published
+    reason: weekly watch; RFO FAR Part 4 still has no public purchase-card offer repository
+  - id: 2026-031-american-resources-cash-bridge
+    decision: continue
+    reason: same-object test passed on the Section B cash-flow column; draft held for the six-day cadence
+investigations:
+  - 2026-031-american-resources-cash-bridge
+research:
+  primary_documents:
+    - https://www.sec.gov/Archives/edgar/data/1590715/000147793226007323/arec_10ka.htm
+    - https://www.sec.gov/Archives/edgar/data/1590715/000147793226007287/arec_8k.htm
+    - https://www.sec.gov/Archives/edgar/data/1590715/000147793226007314/arec_8ka.htm
+    - https://www.acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-4
+  result: the 8-K and 8-K/A Section B cash figures differ; Section A matches; the draft is held until November 30
+publication:
+  published: false
+  files: []
+  reason: draft held because the previous article was published on 2026-11-24
+validation:
+  run: true
+  result: draft and validate:all passed
+journal:
+  - newsroom/journal/2026-11-28.md
+desk_notes:
+  - newsroom/desk/2026-11-28-r1.md
+no_binaries_committed: true

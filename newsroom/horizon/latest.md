@@ -1,62 +1,62 @@
-# Horizon brief — 2026-11-27
+# Horizon brief — 2026-11-28
 
 Primary-source intake only (US federal, corporate, judicial, IG, and public-safety records). News articles are not listed here. Pick leads from documents, not coverage.
 Items marked NEW were not in the previous brief for that source; the rest were already seen.
 
 ## sec-edgar
-0 new of 23 since 2026-11-26.
+14 new of 23 since 2026-11-27.
 
-- **8-K - Personalis, Inc. (0001527753) (Filer)**
-  - when: 2026-11-25T17:26:14-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1527753/000119312526478697/0001193125-26-478697-index.htm
-  - Filed: 2026-11-25 AccNo: 0001193125-26-478697 Size: 154 KB Item 8.01: Other Events
-- **8-K - Scilex Holding Co (0001820190) (Filer)**
-  - when: 2026-11-25T17:25:35-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1820190/000119312526478695/0001193125-26-478695-index.htm
-  - Filed: 2026-11-25 AccNo: 0001193125-26-478695 Size: 311 KB Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits
-- **8-K - SYNLOGIC, INC. (0001527599) (Filer)**
-  - when: 2026-11-25T17:19:35-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1527599/000119312526478681/0001193125-26-478681-index.htm
-  - Filed: 2026-11-25 AccNo: 0001193125-26-478681 Size: 165 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits
-- **8-K - Cycurion, Inc. (0001868419) (Filer)**
-  - when: 2026-11-25T17:18:51-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1868419/000149315226054300/0001493152-26-054300-index.htm
-  - Filed: 2026-11-25 AccNo: 0001493152-26-054300 Size: 4 MB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits
-- **8-K - ORAGENICS INC (0001174940) (Filer)**
-  - when: 2026-11-25T17:15:32-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1174940/000149315226054295/0001493152-26-054295-index.htm
-  - Filed: 2026-11-25 AccNo: 0001493152-26-054295 Size: 257 KB Item 3.03: Material Modifications to Rights of Security Holders Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits
-- **8-K - Soluna Holdings, Inc (0000064463) (Filer)**
-  - when: 2026-11-25T17:15:32-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/64463/000149315226054296/0001493152-26-054296-index.htm
-  - Filed: 2026-11-25 AccNo: 0001493152-26-054296 Size: 252 KB Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 8.01: Other Events
-- **8-K/A - American Resources Corp (0001590715) (Filer)**
-  - when: 2026-11-25T17:15:29-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1590715/000147793226007314/0001477932-26-007314-index.htm
-  - Filed: 2026-11-25 AccNo: 0001477932-26-007314 Size: 3 MB Item 4.02: Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review
-- **8-K - Momentus Inc. (0001781162) (Filer)**
-  - when: 2026-11-25T17:15:20-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1781162/000114036126045751/0001140361-26-045751-index.htm
-  - Filed: 2026-11-25 AccNo: 0001140361-26-045751 Size: 773 KB Item 1.01: Entry into a Material Definitive Agreement Item 3.03: Material Modifications to Rights of Security Holders Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits
-- **8-K - BONK, INC. (0001760903) (Filer)**
-  - when: 2026-11-25T17:13:19-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1760903/000149315226054291/0001493152-26-054291-index.htm
-  - Filed: 2026-11-25 AccNo: 0001493152-26-054291 Size: 318 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits
-- **8-K - Valion Bio, Inc. (0001787740) (Filer)**
-  - when: 2026-11-25T17:12:39-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1787740/000168316826009146/0001683168-26-009146-index.htm
-  - Filed: 2026-11-25 AccNo: 0001683168-26-009146 Size: 235 KB Item 3.03: Material Modifications to Rights of Security Holders Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits
-- **8-K - Nuburu, Inc. (0001814215) (Filer)**
-  - when: 2026-11-25T17:10:13-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1814215/000119312526478655/0001193125-26-478655-index.htm
-  - Filed: 2026-11-25 AccNo: 0001193125-26-478655 Size: 153 KB Item 8.01: Other Events
-- **8-K - UPEXI, INC. (0001775194) (Filer)**
-  - when: 2026-11-25T17:06:59-05:00
-  - url: https://www.sec.gov/Archives/edgar/data/1775194/000147793226007313/0001477932-26-007313-index.htm
-  - Filed: 2026-11-25 AccNo: 0001477932-26-007313 Size: 175 KB Item 5.07: Submission of Matters to a Vote of Security Holders Item 9.01: Financial Statements and Exhibits
+- NEW · **8-K - HeartSciences Inc. (0001468492) (Filer)**
+  - when: 2026-11-27T17:27:09-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1468492/000121390026124612/0001213900-26-124612-index.htm
+  - Filed: 2026-11-27 AccNo: 0001213900-26-124612 Size: 243 KB Item 1.01: Entry into a Material Definitive Agreement Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits
+- NEW · **8-K - OLENOX INDUSTRIES INC. (0001023994) (Filer)**
+  - when: 2026-11-27T17:26:47-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1023994/000121390026124611/0001213900-26-124611-index.htm
+  - Filed: 2026-11-27 AccNo: 0001213900-26-124611 Size: 198 KB Item 3.02: Unregistered Sales of Equity Securities
+- NEW · **8-K - Flyte Aviation, Inc. (0001716621) (Filer)**
+  - when: 2026-11-27T17:15:48-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1716621/000143774926038392/0001437749-26-038392-index.htm
+  - Filed: 2026-11-27 AccNo: 0001437749-26-038392 Size: 407 KB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 9.01: Financial Statements and Exhibits
+- NEW · **8-K - ICAHN ENTERPRISES L.P. (0000813762) (Filer)**
+  - when: 2026-11-27T17:15:20-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/813762/000110465926132525/0001104659-26-132525-index.htm
+  - Filed: 2026-11-27 AccNo: 0001104659-26-132525 Size: 197 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+- NEW · **8-K - Sentinel Holdings Ltd. (0000889353) (Filer)**
+  - when: 2026-11-27T17:10:27-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/889353/000109690626001913/0001096906-26-001913-index.htm
+  - Filed: 2026-11-27 AccNo: 0001096906-26-001913 Size: 132 KB Item 1.02: Termination of a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits
+- NEW · **8-K - Q/C TECHNOLOGIES, INC. (0001321834) (Filer)**
+  - when: 2026-11-27T17:08:17-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1321834/000149315226054517/0001493152-26-054517-index.htm
+  - Filed: 2026-11-27 AccNo: 0001493152-26-054517 Size: 204 KB Item 5.08: Shareholder Nominations Pursuant to Exchange Act Rule 14a-11
+- NEW · **8-K - Moleculin Biotech, Inc. (0001659617) (Filer)**
+  - when: 2026-11-27T17:00:31-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1659617/000143774926038383/0001437749-26-038383-index.htm
+  - Filed: 2026-11-27 AccNo: 0001437749-26-038383 Size: 5 MB Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits
+- NEW · **8-K - Summit Healthcare REIT, Inc (0001310383) (Filer)**
+  - when: 2026-11-27T16:59:56-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1310383/000110465926132515/0001104659-26-132515-index.htm
+  - Filed: 2026-11-27 AccNo: 0001104659-26-132515 Size: 232 KB Item 1.01: Entry into a Material Definitive Agreement Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits
+- NEW · **8-K - T. Rowe Price OHA Select Private Credit Fund (0001901164) (Filer)**
+  - when: 2026-11-27T16:59:50-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1901164/000114036126045898/0001140361-26-045898-index.htm
+  - Filed: 2026-11-27 AccNo: 0001140361-26-045898 Size: 169 KB Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits
+- NEW · **8-K12B - Everli Global Holdings Inc. (0002016221) (Filer)**
+  - when: 2026-11-27T16:50:31-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/2016221/000121390026124598/0001213900-26-124598-index.htm
+  - Filed: 2026-11-27 AccNo: 0001213900-26-124598 Size: 2 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 3.02: Unregistered Sales of Equity Securities Item 3.03: Material Modifications to Rights of Security Holders Item 5.01: Changes in Control of Registrant Item 5.02: Departure of Directors or Certai
+- NEW · **8-K - GULF RESOURCES, INC. (0000885462) (Filer)**
+  - when: 2026-11-27T16:45:12-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/885462/000149315226054508/0001493152-26-054508-index.htm
+  - Filed: 2026-11-27 AccNo: 0001493152-26-054508 Size: 339 KB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits
+- NEW · **8-K - 60 DEGREES PHARMACEUTICALS, INC. (0001946563) (Filer)**
+  - when: 2026-11-27T16:39:18-05:00
+  - url: https://www.sec.gov/Archives/edgar/data/1946563/000121390026124592/0001213900-26-124592-index.htm
+  - Filed: 2026-11-27 AccNo: 0001213900-26-124592 Size: 243 KB Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 7.01: Regulation FD Disclosure
 
 ## federal-register
-0 new of 20 since 2026-11-26.
+0 new of 20 since 2026-11-27.
 
 - **Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes**
   - when: 2026-11-27
@@ -108,7 +108,7 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - International Trade Commission — Notice — Corrections are made to the date the prehearing report will be placed on the nonpublic record; the deadline to request to appear at the hearing; the date of the prehearing conference; and the deadline for filing prehearing briefs.
 
 ## gao
-0 new of 20 since 2026-11-26.
+0 new of 20 since 2026-11-27.
 
 - **Medicare: Out-of-Pocket Costs and Other Factors Can Affect Use of Services for Cardiovascular Disease Prevention**
   - when: Mon, 23 Nov 2026 07:13:29 -0500
@@ -172,7 +172,7 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - What GAO Found In 2025, the Department of Defense (DOD) Acting Assistant Secretary of Defense for Sustainment testified that DOD had a shortage of several key munitions. DOD has taken steps to improve its munitions inventory shortages by, among other things, establishing munitions working groups focused on identifying ways to increase munition production. The 2026 conflict with Iran has heightened the importance of addressing munitions stockpile and industrial base challenges. Examples of Depa
 
 ## doj-oig
-0 new of 10 since 2026-11-26.
+0 new of 10 since 2026-11-27.
 
 - **Audit of the Federal Prison Industries, Inc. Annual Financial Statements Fiscal Year 2026**
   - when: Tue, 24 Nov 2026 17:15:10 +0000
@@ -216,7 +216,7 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - DOJ OIG Releases Compendium Highlighting Oversight of Crime Victims Programs mbarnes Tue, 11/10/2026 - 10:20 The Department of Justice (DOJ) Office of the Inspector General (OIG) announced today the release of an interactive compendium highlighting 11 years of OIG oversight activities supported by the Crime Victims Fund (CVF). Through its oversight work, the OIG has helped to improve services and support for victims of crime, strengthen transparency and accountability in government spending, and
 
 ## govinfo-crpt
-0 new of 20 since 2026-11-26.
+0 new of 20 since 2026-11-27.
 
 - **S. Rept. 119-165 — AGE OF FRAUD: THE GLOBAL RISE IN SCAMS TARGETING AMERICA&apos;S SENIORS**
   - when: 2026-11-18
@@ -279,12 +279,8 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - Committee on Small Business
 
 ## courtlistener
-1 new of 20 since 2026-11-26.
+0 new of 20 since 2026-11-27.
 
-- NEW · **Chantilly Auto Body, Inc. v. Truist Bank**
-  - when: 2026-11-25T00:00:00-08:00
-  - url: https://www.courtlistener.com/opinion/11073312/chantilly-auto-body-inc-v-truist-bank/
-  - USCA4 Appeal: 25-1380 Doc: 47 Filed: 11/25/2026 Pg: 1 of 14 PUBLISHED UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT No. 25-1380 CHANTILLY AUTO BODY, INC. Plaintiff - Appellant v. TRUIST BANK Defendant - Appellee and EVOLVE BANCORP Original document
 - **United States v. Woolridge**
   - when: 2026-11-25T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11072594/united-states-v-woolridge/
@@ -329,9 +325,13 @@ Items marked NEW were not in the previous brief for that source; the rest were a
   - when: 2026-11-25T00:00:00-08:00
   - url: https://www.courtlistener.com/opinion/11072574/eccles-v-omalley/
   - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA TANISHA E., Plaintiff, v. Case No. 24-cv-3228-MJS FRANK BISIGNANO, Commissioner of Social Security, Defendant. ORDER For the reasons stated in the accompanying Memorandum Opinion, the Court ORDERS the Plaintiff’s motion for judgment of Original document
+- **American Broadcasting Companies, Inc. v. Federal Communications Commission**
+  - when: 2026-11-25T00:00:00-08:00
+  - url: https://www.courtlistener.com/opinion/11072590/american-broadcasting-companies-inc-v-federal-communications-commission/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA AMERICAN BROADCASTING COMPANIES, INC., et al., Plaintiffs, v. Civil Action No. 26 - 2902 (LLA) FEDERAL COMMUNICATIONS COMMISSION, et al., Defendants. MEMORANDUM OPINION Plaintiffs—American Broadcasting Companies, Inc. (“ABC”), its indirect Original document
 
 ## fda-enforcement
-0 new of 22 since 2026-11-26.
+0 new of 22 since 2026-11-27.
 
 - **[DRUG Class II] ORL Labs LLC — D-0176-2027**
   - when: 2026-11-18

@@ -1,0 +1,41 @@
+claims:
+  - id: C1
+    type: fact
+    text: "The November 24, 2026 Form 8-K, Note 15 Section B, prints a December 31, 2024 cash-flow adjustments column with accrued expenses of (253,547), cash used in operating activities of (558,888), a net change of (460,466), cash of (380,770), and continuing operations of (249,904)."
+    status: supported
+    evidence: [E1]
+  - id: C2
+    type: fact
+    text: "The November 25, 2026 Form 8-K/A says it is filed solely to correct an erroneous reference in Item 4.02 and that no other changes have been made to the original filing."
+    status: supported
+    evidence: [E2]
+  - id: C3
+    type: fact
+    text: "The amendment's Section B cash-flow column prints accrued expenses of (173,851), cash used in operating activities of (479,192), a net change of (380,770), cash of (380,770), a discontinued-operations row of 134,835, and continuing operations of (384,739)."
+    status: supported
+    evidence: [E2]
+  - id: C4
+    type: inference
+    text: "The accrued-expenses, operating-cash, and net-change lines each differ by 79,696. Those are desk calculations from the printed figures."
+    status: supported
+    evidence: [E1, E2]
+  - id: C5
+    type: fact
+    text: "Section A of both current reports prints the 2024 cash-flow accrued-expenses adjustment as (173,852). The November 27 Form 10-K/A uses the amended Section B figures and does not print 253,547, 558,888, or 460,466."
+    status: supported
+    evidence: [E1, E2, E3]
+  - id: C6
+    type: fact
+    text: "Section A prints 2025 total assets of 168,907,706 as previously reported, an adjustment of (50,289,293), and 118,618,413 as restated, in the original report and in the amendment."
+    status: supported
+    evidence: [E1, E2]
+  - id: C7
+    type: fact
+    text: "Section B interest expense and total other income (expense) print as (65,627) on November 24 and as 65,627 in the amendment."
+    status: supported
+    evidence: [E1, E2]
+  - id: C8
+    type: fact
+    text: "The original Item 4.02 includes the 2024 Form 10-K/A in the non-reliance sentence. The amendment omits it. Note 15's introduction changes October 25, 2024 to October 24, 2025."
+    status: supported
+    evidence: [E1, E2]

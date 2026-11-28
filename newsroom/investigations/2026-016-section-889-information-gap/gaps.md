@@ -18,6 +18,10 @@
 
 **No new series part.** The current RFO Part 4 page still describes the purchase-card micro-purchase exception and collection of offeror representations when SAM registration is not required. A new GSA Federal Register information-collection notice reports 3,100 estimated FAR 52.204-24 responses for GSA lease acquisitions and says the collection continues without changes pending RGO rulemaking, but it does not identify a governmentwide purchase-card workflow or public searchable offer-level repository. The watch remains published; wait for a distinct purchase-card workflow, searchable record, or other primary that changes the finding.
 
+## 2026-11-28 published-watch check
+
+**No new series part.** A fresh retrieval of the current RFO FAR Part 4 page, sha256 `44abd41e7847ea5d06fcac1d045442ccb708c0cbfb505f666e40e7084308bd7d`, still excepts governmentwide commercial purchase-card micro-purchases from active SAM registration and still places nonregistered representations on the offer. The page names no public searchable offer-level repository. The published finding is unchanged.
+
 ## 2026-11-20 published-watch check
 
 **No new series part.** A fresh retrieval of the current RFO Part 4 page shows the same exception for governmentwide purchase-card micro-purchases and the same split between SAM records and offer-held representations when registration is not required. The page still names no public searchable offer-level repository, so the published finding remains unchanged.

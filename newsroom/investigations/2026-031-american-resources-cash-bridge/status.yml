@@ -1,0 +1,11 @@
+id: 2026-031-american-resources-cash-bridge
+opened: 2026-11-28
+updated: 2026-11-28
+status: ready-to-write
+mode: WRITE
+next_action: "On or after 2026-11-30, move the held draft to published/ after a fresh check that the November 24 Form 8-K and the November 25 Form 8-K/A still show the Section B cash figures below. Do not publish before November 30. Do not republish the company's own $50,289,293 asset restatement."
+hypothesis: "The Form 8-K/A says no other changes were made to the November 24 non-reliance filing, but Note 15 Section B's 2024 cash-flow adjustment column changed by $79,696."
+last_decision: continue
+series: null
+part: null
+consecutive_continue_without_new_primary: 0

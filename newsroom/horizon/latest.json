@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27T07:01:19.690Z",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T07:03:48.939Z",
   "sources": [
     {
       "name": "sec-edgar",
       "count": 23,
-      "new": 0,
+      "new": 14,
       "error": null
     },
     {
@@ -35,7 +35,7 @@
     {
       "name": "courtlistener",
       "count": 20,
-      "new": 1,
+      "new": 0,
       "error": null
     },
     {
